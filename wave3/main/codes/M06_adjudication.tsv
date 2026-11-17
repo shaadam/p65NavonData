@@ -1,0 +1,12 @@
+row	item	final	rule
+1	M2227	TP	tinggal di Eropa asserts a place value (residence, read as a locative predicate like berada di; extension of the listed predicates, not stated); sampai akhir hidupnya narrows when it holds (step 3)
+2	M2156	PAR	time (diterbitkan mulai tahun 1970-an) describes the manga, place (dalam rak sepanjang 140 meter) locates the filling; neither restricts the other (step 2)
+3	M2301	NA	di lingkungan khusus can be a physical setting or a social circle; context does not settle it (PR12); only time (selama abad ke-15) present
+4	M2033	NA	apabila is conditional (PR12); no place literally present
+5	M2356	PT	menjelang matahari terbenam is a local time-of-day value; Selandia baru picks the instance for which it holds (R3)
+6	M2374	PT	the dates are asserted per city; each city picks which audition instance the dates hold for (R3)
+7	M2087	PAR	bare day numbers 17:/18: in a chronology say when events happen (time); ke Nugini, di Buna, di Berlin locate actions; settings (step 2)
+8	M2147	NA	mendaftar di Universitas Yale is enrolment in an institution (membership/filing), not a location (table; institution note); di bidang geologi is a field; only time present
+9	M2032	NA	dalam sidang parlemen has no temporal word or date (PR5); setelah Singapura is rank; di kalangan Asean is membership, not place
+10	M2170	NA	bumi is the object of mendiami (PR3); Dalam Tafsir Jalalain is a text, not place; only time present
+11	M2259	PAR	di istana putra mahkota literally locates the office inside a definite NP (PR3, R2); pada tahun 755 frames the action; neither restricts the other

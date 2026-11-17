@@ -1,0 +1,171 @@
+== FINAL CODES: 1725 items; A=B on 1584; adjudicated 141
+
+== FALSIFIER time changes over a non-time dimension
+-- BOTH CODERS: real senses 1, plants 5
+   I0648 WK WK:185048.1 [time-change] A=Y/TIME/SPACE B=Y/TIME/SPACE F=Y/TIME/SPACE :: "To undergo a difference in clocktime between two or more different time zones."
+-- DISPUTED (one coder or final only): real senses 1, plants 0
+   I1614 GC GC:S020548 [Soil] A=Y/OTHER/UNSPECIFIED B=Y/TIME/COLOUR F=Y/TIME/COLOUR :: "To become soiled; as, light colors soil sooner than dark ones."
+
+== SECONDARY position changes over a non-time non-space dimension
+-- BOTH CODERS: real senses 0, plants 0
+-- DISPUTED (one coder or final only): real senses 1, plants 0
+   I1564 GC GC:R017656 [Refract] A=Y/POSITION/OTHER B=Y/POSITION/UNSPECIFIED F=Y/POSITION/OTHER :: "To break the natural course of, as rays of light orr heat, when passing from one transparent medium to another of different density; to cause to deviate from a direct course by an action distinct from reflection; as, a dense medium refrcts the rays of light as they pass into it from a rare medium."
+
+-- near-miss TIME over ITEMS (final): 3
+   WK WK:7576.7 [stagger] :: "Have multiple groups doing the same thing in a uniform fashion, but starting at different, evenly spaced, times or places (attested from 1856). : To schedule in intervals or at different times."
+   WK WK:7576.5 [stagger] :: "Have multiple groups doing the same thing in a uniform fashion, but starting at different, evenly spaced, times or places (attested from 1856). : To arrange (a series of parts) on each side of a median line alternately, as the spokes of a wheel or the rivets of a boiler seam."
+   WN WN:00395469 [desynchronize|desynchronise] :: "cause to become desynchronized; cause to occur at unrelated times"
+
+== NEGATIVE CONTROL plants: 5 of 5 flagged (in T-census and both coders time-over-X)
+   duralong A=Y/TIME/SPACE B=Y/TIME/SPACE
+   thermotime A=Y/TIME/OTHER B=Y/TIME/OTHER
+   zonelag A=Y/TIME/SPACE B=Y/TIME/SPACE
+   hourslope A=Y/TIME/SPACE B=Y/TIME/SPACE
+   datedrift A=Y/TIME/SPACE B=Y/TIME/SPACE
+
+== RECALL (random 200 verb senses per dictionary, final codes)
+   WN: sample 200, change senses 69 (34.5%), missed by candidate filter 52 = 0.75 (95% 0.64-0.84); time-dimension senses 0, outside T-census 0
+   GC: sample 200, change senses 59 (29.5%), missed by candidate filter 51 = 0.86 (95% 0.75-0.93); time-dimension senses 1, outside T-census 1
+      time sense outside census: GC:B002137 [Bishop] F=Y/TIME/UNSPECIFIED :: "To make seem younger, by operating on the teeth; as, to bishop an old horse or his teeth."
+   WK: sample 200, change senses 70 (35.0%), missed by candidate filter 61 = 0.87 (95% 0.77-0.93); time-dimension senses 1, outside T-census 1
+      time sense outside census: WK:131781.0 [marmorealize] F=Y/TIME/UNSPECIFIED :: "To commemorate (something, as though fixing it in marble); to make permanent, to immortalize."
+
+== POSITIVE CONTROLS (Navon verbs; final codes)
+   WN fade/grow/mature: change senses 17, OVER in ('TIME', 'UNSPECIFIED'): 17; OVER counts {'UNSPECIFIED': 14, 'TIME': 3}
+   WN shade/slope: change senses 5, OVER in ('SPACE',): 1; OVER counts {'UNSPECIFIED': 4, 'SPACE': 1}
+   WN move: change senses 7, OVER in ('TIME', 'UNSPECIFIED'): 7; OVER counts {'UNSPECIFIED': 7}
+   GC fade/grow/mature: change senses 12, OVER in ('TIME', 'UNSPECIFIED'): 12; OVER counts {'UNSPECIFIED': 8, 'TIME': 4}
+   GC shade/slope: change senses 7, OVER in ('SPACE',): 3; OVER counts {'UNSPECIFIED': 4, 'SPACE': 3}
+   GC move: change senses 6, OVER in ('TIME', 'UNSPECIFIED'): 6; OVER counts {'UNSPECIFIED': 6}
+   WK fade/grow/mature: change senses 18, OVER in ('TIME', 'UNSPECIFIED'): 18; OVER counts {'UNSPECIFIED': 14, 'TIME': 4}
+   WK shade/slope: change senses 8, OVER in ('SPACE',): 2; OVER counts {'SPACE': 2, 'UNSPECIFIED': 6}
+   WK move: change senses 7, OVER in ('TIME', 'UNSPECIFIED'): 7; OVER counts {'UNSPECIFIED': 7}
+
+== OVER x stratum counts (final, change senses only; real senses)
+   WN C n=139 {'OTHER': 1, 'SPACE': 1, 'TIME': 7, 'UNSPECIFIED': 130}
+   WN T n=18 {'ITEMS': 2, 'OTHER': 2, 'TIME': 5, 'UNSPECIFIED': 9}
+   WN R n=69 {'SPACE': 1, 'TIME': 2, 'UNSPECIFIED': 66}
+   GC C n=133 {'SPACE': 4, 'TIME': 5, 'UNSPECIFIED': 124}
+   GC T n=70 {'COLOUR': 1, 'OTHER': 3, 'SPACE': 2, 'TIME': 10, 'UNSPECIFIED': 54}
+   GC R n=59 {'TIME': 1, 'UNSPECIFIED': 58}
+   WK C n=132 {'SPACE': 1, 'TIME': 7, 'UNSPECIFIED': 124}
+   WK T n=242 {'ITEMS': 7, 'SPACE': 1, 'TIME': 77, 'UNSPECIFIED': 157}
+   WK R n=70 {'OTHER': 1, 'SPACE': 2, 'TIME': 2, 'UNSPECIFIED': 65}
+
+== MATRICES
+
+-- matrix (i) C-sample WN (rows: dimension that changes; cols: dimension it changes over); directional n=6
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        1        0        0        0        1        4
+   POSITION          0        -        0        0        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            0        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        0        0        0        0        0        -
+
+-- matrix (i) C-sample GC (rows: dimension that changes; cols: dimension it changes over); directional n=6
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        1        1        0        1        0        2
+   POSITION          0        -        1        0        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            0        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        0        0        0        0        0        -
+
+-- matrix (i) C-sample WK (rows: dimension that changes; cols: dimension it changes over); directional n=7
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        0        2        1        0        1        3
+   POSITION          0        -        0        0        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            0        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        0        0        0        0        0        -
+
+-- matrix (i) C-sample pooled (rows: dimension that changes; cols: dimension it changes over); directional n=19
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        2        3        1        1        2        9
+   POSITION          0        -        1        0        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            0        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        0        0        0        0        0        -
+
+-- matrix (ii) T-census pooled (rows: dimension that changes; cols: dimension it changes over); directional n=88
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        8        2        3        8       26       37
+   POSITION          1        -        1        0        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            1        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        1        0        0        0        0        -
+
+-- matrix (iii) all coded, WN (rows: dimension that changes; cols: dimension it changes over); directional n=15
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        1        1        1        0        4        7
+   POSITION          0        -        0        1        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            0        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        0        0        0        0        0        -
+
+-- matrix (iii) all coded, GC (rows: dimension that changes; cols: dimension it changes over); directional n=24
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        1        2        2        3        2        9
+   POSITION          0        -        2        1        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            1        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        1        0        0        0        0        -
+
+-- matrix (iii) all coded, WK (rows: dimension that changes; cols: dimension it changes over); directional n=82
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -        8        4        3        8       23       33
+   POSITION          1        -        0        1        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            0        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        0        0        0        0        1        -
+
+-- matrix (iii) all coded, pooled (VERDICT MATRIX) (rows: dimension that changes; cols: dimension it changes over); directional n=121
+                  TIME POSITION     SIZE   COLOUR INTENSIT QUANTITY    OTHER
+   TIME              -       10        7        6       11       29       49
+   POSITION          1        -        2        3        0        0        0
+   SIZE              0        0        -        0        0        0        0
+   COLOUR            1        0        0        -        0        0        0
+   INTENSITY         0        0        0        0        -        0        0
+   QUANTITY          0        0        0        0        0        -        0
+   OTHER             0        1        0        0        0        1        -
+
+-- pooled: over TIME by dim {'QUANTITY': 29, 'OTHER': 49, 'TIME': 8, 'INTENSITY': 11, 'COLOUR': 6, 'SIZE': 7, 'POSITION': 10}; UNSPECIFIED by dim {'OTHER': 337, 'SIZE': 89, 'COLOUR': 38, 'POSITION': 234, 'TIME': 60, 'QUANTITY': 38, 'INTENSITY': 39} (Navon reading rule: UNSPECIFIED counts with TIME)
+
+== ORDER FIT (exhaustive, 5,040 orders) on pooled matrix (iii), n directional = 121
+   minimum loss 2 (1.7%); number of minimum orders 48
+   first place among minimum orders {'SIZE': 15, 'COLOUR': 15, 'INTENSITY': 8, 'QUANTITY': 10}; second place {'COLOUR': 15, 'INTENSITY': 8, 'QUANTITY': 10, 'SIZE': 15}
+   best Navon-consistent order (TIME, POSITION first) loss 117 (96.7%)
+   example minimum order: SIZE > COLOUR > POSITION > INTENSITY > QUANTITY > OTHER > TIME
+   permutation control (1000 shuffles of the over-dimension, diagonal draws dropped): shuffled minimum loss share median 0.000, 2.5% 0.000; observed 0.017; p = 0.948
+
+== F5: FAIL  [falsifiers both coders 1; all minimum orders TIME>POSITION first: False; Navon-order loss 117 of 121 <= 10%: False; strictly better non-Navon order: True]
+
+== F2/F3 triad TIME, POSITION, COLOUR (X = most frequent changing dimension among SIZE/COLOUR/INTENSITY/QUANTITY: {'COLOUR': 1})
+   a(TIME > POSITION): 1 vs 10, share 0.091, Wilson 95% 0.016-0.377, testable(>=5) True, clear True
+   a(POSITION > COLOUR): 0 vs 3, share 0.000, Wilson 95% 0.000-0.562, testable(>=5) False, clear False
+   a(TIME > COLOUR): 1 vs 6, share 0.143, Wilson 95% 0.026-0.513, testable(>=5) True, clear False
+   F2: NOT TESTABLE (cycle present: False)
+   F3 corrected shares: T>P 0.125, P>X 0.125, T>X 0.188; predicted logit(T>X) -3.89 vs observed -1.47
+   F3: NOT TESTABLE (a pair lacks votes in one direction or has < 5)
+
+== GARNER logical dependence on pooled directional items (A over B)
+   licensed by dependence (DEP(A->B)=Y, DEP(B->A)=N): 2; not licensed: 119 {('TIME', 'QUANTITY'): 29, ('TIME', 'OTHER'): 49, ('TIME', 'INTENSITY'): 11, ('TIME', 'COLOUR'): 6, ('TIME', 'SIZE'): 7, ('TIME', 'POSITION'): 10, ('POSITION', 'COLOUR'): 3, ('POSITION', 'SIZE'): 2, ('OTHER', 'POSITION'): 1, ('OTHER', 'QUANTITY'): 1}
+   unlicensed: GC GC:S020548 [Soil] TIME over COLOUR :: "To become soiled; as, light colors soil sooner than dark ones."
+   unlicensed: WK WK:185048.1 [time-change] TIME over POSITION :: "To undergo a difference in clocktime between two or more different time zones."
+   unlicensed: GC GC:R017656 [Refract] POSITION over OTHER :: "To break the natural course of, as rays of light orr heat, when passing from one transparent medium to another of different density; to cause to deviate from a direct course by an action distinct from reflection; as, a dense medium refrcts the rays of light as they pass into it from a rare medium."
+   unlicensed: WK WK:29179.0 [burn off] QUANTITY over OTHER :: "To dissipate as the result of heat."

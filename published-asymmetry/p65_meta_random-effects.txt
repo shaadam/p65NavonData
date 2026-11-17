@@ -1,0 +1,24 @@
+experiment              asym     SE
+Cai2018_E1             +0.0570 0.0179
+Cai2018_E2             -0.0070 0.0188
+Cai2018_E3             +0.0170 0.0139
+Cai2018_E4             +0.0330 0.0165
+StarrBrannon2016       +0.0350 0.0112
+BratzkeUlrich2025_E1   +0.0260 0.0147
+BratzkeUlrich2025_E2   -0.0040 0.0140
+BratzkeUlrich2025_E3   -0.0240 0.0120
+Riemer2024             +0.2260 0.1112
+
+k = 9; DL random-effects mean asymmetry = +0.0177 (95% CI -0.0019 to +0.0373), z = 1.77, p = 0.0767
+tau^2 = 0.000583; Q = 27.82 on 8 df; fixed-effect mean = +0.0151
+  without Cai2018_E1            : +0.0126 (95% CI -0.0068 to +0.0320)
+  without Cai2018_E2            : +0.0208 (95% CI -0.0005 to +0.0420)
+  without Cai2018_E3            : +0.0182 (95% CI -0.0045 to +0.0409)
+  without Cai2018_E4            : +0.0158 (95% CI -0.0058 to +0.0375)
+  without StarrBrannon2016      : +0.0150 (95% CI -0.0067 to +0.0368)
+  without BratzkeUlrich2025_E1  : +0.0168 (95% CI -0.0055 to +0.0391)
+  without BratzkeUlrich2025_E2  : +0.0210 (95% CI -0.0007 to +0.0428)
+  without BratzkeUlrich2025_E3  : +0.0237 (95% CI +0.0069 to +0.0406)
+  without Riemer2024            : +0.0160 (95% CI -0.0027 to +0.0347)
+
+Negative control (labels swapped at random within experiment, 10,000 perms): mean of permuted pooled asymmetry = +0.00004; permutation p(|perm| >= |observed|) = 0.0989

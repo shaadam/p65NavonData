@@ -1,0 +1,1501 @@
+item	class	time_phrase	place_phrase	confidence	note
+N0001	NA			3	no literal time+place
+N0002	NA			3	no literal time+place
+N0003	PAR	from 1928 onwards	throughout China	2	fieldwork event
+N0004	NA			3	no literal time+place
+N0005	NA			3	no literal time+place
+N0006	NA			3	no literal time+place
+N0007	NA			3	no literal time+place
+N0008	PAR	in August	there	2	event at place
+N0009	NA			3	no literal time+place
+N0010	AMB	in 2004	Iraq	1	stat about presence
+N0011	NA			2	no literal time+place
+N0012	NA			2	no literal time+place
+N0013	NA			3	no literal time+place
+N0014	NA			3	no literal time+place
+N0015	NA			3	no literal time+place
+N0016	NA			3	no literal time+place
+N0017	PT	October	in the US	2	time value restricted by place
+N0018	PAR	Meiji period (1868 - 1912)	Japan	1	era and country
+N0019	PAR	On August 9, 2004; in the Spring of 2001	New York City helicopters	2	event
+N0020	NA			2	no literal time+place
+N0021	NA			3	no literal time+place
+N0022	NA			3	no literal time+place
+N0023	NA			3	no literal time+place
+N0024	NA			3	no literal time+place
+N0025	PAR	tonight	home	2	send home event
+N0026	PAR	yesterday	here	2	visits/work event
+N0027	NA			2	no literal time+place
+N0028	NA			3	no literal time+place
+N0029	NA			3	no literal time+place
+N0030	NA			3	no literal time+place
+N0031	NA			3	no literal time+place
+N0032	NA			3	no literal time+place
+N0033	PAR	in the mid-1980s	Cleveland	1	city as subject
+N0034	NA			2	no literal time+place
+N0035	NA			2	no literal time+place
+N0036	NA			3	no literal time+place
+N0037	NA			3	no literal time+place
+N0038	NA			3	no literal time+place
+N0039	PT	last day	here and at Glacier National Park	2	time value at place
+N0040	PAR	five minutes ago	my house	2	left event
+N0041	NA			3	no literal time+place
+N0042	NA			3	no literal time+place
+N0043	TP	for twenty-five years	there	2	state with duration
+N0044	NA			3	no literal time+place
+N0045	NA			3	no literal time+place
+N0046	NA			2	no literal time+place
+N0047	NA			3	no literal time+place
+N0048	NA			3	no literal time+place
+N0049	NA			3	no literal time+place
+N0050	NA			2	no literal time+place
+N0051	NA			3	no literal time+place
+N0052	NA			3	no literal time+place
+N0053	NA			3	no literal time+place
+N0054	NA			3	no literal time+place
+N0055	PAR	On September 24, 1944	Coron waters	3	event
+N0056	NA			3	no literal time+place
+N0057	NA			3	no literal time+place
+N0058	PAR	early today	northwest China's Gansu Province	3	launch event
+N0059	NA			3	no literal time+place
+N0060	PAR	2018	in Texas	1	election support
+N0061	NA			3	no literal time+place
+N0062	TP	by Sunday afternoon	back in Houston	3	location state
+N0063	NA			3	no literal time+place
+N0064	NA			2	no literal time+place
+N0065	NA			3	no literal time+place
+N0066	PAR	mid-afternoon	the hotel	2	fire drill event
+N0067	NA			3	no literal time+place
+N0068	NA			3	no literal time+place
+N0069	NA			3	no literal time+place
+N0070	NA			3	no literal time+place
+N0071	PAR	In 2017	the U.S.	1	consumed/exported
+N0072	NA			3	no literal time+place
+N0073	NA			3	no literal time+place
+N0074	NA			3	no literal time+place
+N0075	PAR	2004 Olympics	city's historic center	1	renovation
+N0076	TP	tonight	in the city of Philadelphia	2	registration state
+N0077	NA			3	no literal time+place
+N0078	PAR	Two years ago	India	2	visit event
+N0079	PAR	early 2002 and early 2003	in New Zealand	3	event
+N0080	NA			3	no literal time+place
+N0081	NA			3	no literal time+place
+N0082	NA			3	no literal time+place
+N0083	NA			3	no literal time+place
+N0084	PAR	more than a thousand days	Iraq	1	occupation
+N0085	NA			2	no literal time+place
+N0086	PAR	during the work week	Tacoma	2	drive event
+N0087	NA			3	no literal time+place
+N0088	NA			3	no literal time+place
+N0089	NA			3	no literal time+place
+N0090	NA			3	no literal time+place
+N0091	NA			3	no literal time+place
+N0092	NA			3	no literal time+place
+N0093	NA			3	no literal time+place
+N0094	NA			3	no literal time+place
+N0095	NA			3	no literal time+place
+N0096	PAR	in one week	El Hamma in Syria	2	negated event
+N0097	NA			3	no literal time+place
+N0098	NA			3	no literal time+place
+N0099	NA			3	no literal time+place
+N0100	NA			3	no literal time+place
+N0101	NA			3	no literal time+place
+N0102	NA			2	no literal time+place
+N0103	PAR	within 48 hours	Darfur	1	demand event
+N0104	PAR	7am	Hyatt Regency Downtown	2	meeting proposal
+N0105	NA			3	no literal time+place
+N0106	PAR	several days before the elections	Chaman in Baluchistan	3	closing event
+N0107	NA			2	no literal time+place
+N0108	NA			3	no literal time+place
+N0109	NA			2	no literal time+place
+N0110	PAR	on 21 February 2003	worldwide	2	protest event
+N0111	PAR	eventually; until 1867	Mexico	1	conquest
+N0112	NA			3	no literal time+place
+N0113	NA			3	no literal time+place
+N0114	NA			3	no literal time+place
+N0115	NA			3	no literal time+place
+N0116	PAR	a matter of hours	Kethlan system	2	event
+N0117	NA			3	no literal time+place
+N0118	TP	the rest of the year	Paris, London, New York	2	residing state
+N0119	NA			3	no literal time+place
+N0120	NA			2	no literal time+place
+N0121	NA			2	no literal time+place
+N0122	NA			3	no literal time+place
+N0123	NA			2	no literal time+place
+N0124	NA			3	no literal time+place
+N0125	NA			3	no literal time+place
+N0126	PAR	April 6, 1580	Kent	3	earthquake event
+N0127	NA			3	no literal time+place
+N0128	PAR	on a daily basis	Australia	1	habitual
+N0129	PAR	in 1971	University of California, Berkeley	1	move event
+N0130	NA			3	no literal time+place
+N0131	NA			3	no literal time+place
+N0132	NA			2	no literal time+place
+N0133	NA			3	no literal time+place
+N0134	NA			3	no literal time+place
+N0135	PAR	during WWII	The city	1	damage event
+N0136	NA			2	no literal time+place
+N0137	NA			3	no literal time+place
+N0138	PAR	in the 1540s	on top of a Maya city	2	founding event
+N0139	PAR	in the spectral summer	the old garden	2	event
+N0140	PAR	today	here	1	deictic here
+N0141	NA			3	no literal time+place
+N0142	AMB	shortly after opening Friday	convention floor	1	caption
+N0143	NA			3	no literal time+place
+N0144	NA			3	no literal time+place
+N0145	NA			3	no literal time+place
+N0146	NA			3	no literal time+place
+N0147	PAR	weekly	into the water; in port	1	drill event
+N0148	NA			3	no literal time+place
+N0149	NA			3	no literal time+place
+N0150	NA			3	no literal time+place
+N0151	NA			3	no literal time+place
+N0152	NA			3	no literal time+place
+N0153	NA			3	no literal time+place
+N0154	NA			3	no literal time+place
+N0155	NA			3	no literal time+place
+N0156	NA			3	no literal time+place
+N0157	NA			3	no literal time+place
+N0158	NA			3	no literal time+place
+N0159	NA			3	no literal time+place
+N0160	NA			2	no literal time+place
+N0161	PAR	in 1991	Kuwait	2	event
+N0162	NA			2	no literal time+place
+N0163	NA			3	no literal time+place
+N0164	PAR	every two weeks	my house	1	cleaning
+N0165	PAR	around noon	London to Houston	3	travel event
+N0166	NA			3	no literal time+place
+N0167	NA			3	no literal time+place
+N0168	NA			3	no literal time+place
+N0169	NA			3	no literal time+place
+N0170	NA			3	no literal time+place
+N0171	NA			3	no literal time+place
+N0172	PAR	in the early 1980s	in jail	2	event
+N0173	PAR	The next day	2 auto shops	3	event
+N0174	NA			3	no literal time+place
+N0175	NA			3	no literal time+place
+N0176	NA			3	no literal time+place
+N0177	NA			3	no literal time+place
+N0178	NA			3	no literal time+place
+N0179	NA			3	no literal time+place
+N0180	NA			3	no literal time+place
+N0181	PAR	Tonight	Kethlan	2	battle event
+N0182	TP	ca 1907	Tulsa	2	extent at a time
+N0183	NA			3	no literal time+place
+N0184	NA			3	no literal time+place
+N0185	NA			3	no literal time+place
+N0186	NA			3	no literal time+place
+N0187	NA			3	no literal time+place
+N0188	NA			3	no literal time+place
+N0189	NA			3	no literal time+place
+N0190	NA			3	no literal time+place
+N0191	NA			3	no literal time+place
+N0192	PAR	every week	in this town	2	habitual event
+N0193	NA			2	no literal time+place
+N0194	PT	earlier	In England	2	time value by place
+N0195	NA			3	no literal time+place
+N0196	NA			3	no literal time+place
+N0197	NA			3	no literal time+place
+N0198	NA			3	no literal time+place
+N0199	NA			3	no literal time+place
+N0200	NA			3	no literal time+place
+N0201	NA			3	no literal time+place
+N0202	PAR	on Tuesday	Washington area	2	nomination event
+N0203	NA			3	no literal time+place
+N0204	NA			3	no literal time+place
+N0205	NA			3	no literal time+place
+N0206	NA			3	no literal time+place
+N0207	NA			3	no literal time+place
+N0208	NA			3	no literal time+place
+N0209	NA			3	no literal time+place
+N0210	NA			3	no literal time+place
+N0211	NA			2	no literal time+place
+N0212	PAR	in the mornings	balcony	1	habitual
+N0213	NA			3	no literal time+place
+N0214	NA			3	no literal time+place
+N0215	NA			3	no literal time+place
+N0216	NA			3	no literal time+place
+N0217	NA			3	no literal time+place
+N0218	NA			3	no literal time+place
+N0219	NA			3	no literal time+place
+N0220	PAR	last week	the country	2	entry event
+N0221	NA			3	no literal time+place
+N0222	NA			3	no literal time+place
+N0223	NA			3	no literal time+place
+N0224	NA			3	no literal time+place
+N0225	NA			3	no literal time+place
+N0226	NA			3	no literal time+place
+N0227	NA			2	no literal time+place
+N0228	NA			3	no literal time+place
+N0229	NA			3	no literal time+place
+N0230	NA			3	no literal time+place
+N0231	NA			3	no literal time+place
+N0232	NA			3	no literal time+place
+N0233	NA			3	no literal time+place
+N0234	PAR	February 1860	Platt's Music Hall in San Francisco	3	assembly
+N0235	PAR	in the last 50 years	Arctic	2	change event
+N0236	NA			3	no literal time+place
+N0237	NA			3	no literal time+place
+N0238	NA			3	no literal time+place
+N0239	NA			3	no literal time+place
+N0240	NA			3	no literal time+place
+N0241	NA			3	no literal time+place
+N0242	NA			3	no literal time+place
+N0243	TP	six years to seven years	your cellar	2	storage state
+N0244	PAR	for a week	his apartment	1	waiting
+N0245	PAR	Last week	Al-Ghaza Hotel near the Masjid Al-Haram	3	event
+N0246	NA			3	no literal time+place
+N0247	NA			3	no literal time+place
+N0248	NA			3	no literal time+place
+N0249	NA			3	no literal time+place
+N0250	NA			3	no literal time+place
+N0251	NA			3	no literal time+place
+N0252	NA			3	no literal time+place
+N0253	PAR	many years later (1821)	Italy	3	meeting event
+N0254	NA			2	no literal time+place
+N0255	NA			3	no literal time+place
+N0256	NA			3	no literal time+place
+N0257	NA			3	no literal time+place
+N0258	NA			3	no literal time+place
+N0259	NA			3	no literal time+place
+N0260	NA			3	no literal time+place
+N0261	NA			3	no literal time+place
+N0262	PAR	In 1887 - 1888	England, Germany and France	3	travel
+N0263	NA			3	no literal time+place
+N0264	NA			3	no literal time+place
+N0265	NA			2	no literal time+place
+N0266	NA			3	no literal time+place
+N0267	NA			3	no literal time+place
+N0268	PAR	the very next year	in the US	2	plant event
+N0269	NA			3	no literal time+place
+N0270	NA			3	no literal time+place
+N0271	NA			3	no literal time+place
+N0272	NA			3	no literal time+place
+N0273	NA			3	no literal time+place
+N0274	NA			3	no literal time+place
+N0275	NA			3	no literal time+place
+N0276	NA			3	no literal time+place
+N0277	NA			3	no literal time+place
+N0278	NA			3	no literal time+place
+N0279	NA			3	no literal time+place
+N0280	NA			3	no literal time+place
+N0281	NA			3	no literal time+place
+N0282	NA			3	no literal time+place
+N0283	NA			3	no literal time+place
+N0284	NA			3	no literal time+place
+N0285	NA			3	no literal time+place
+N0286	NA			3	no literal time+place
+N0287	NA			3	no literal time+place
+N0288	NA			3	no literal time+place
+N0289	NA			3	no literal time+place
+N0290	NA			3	no literal time+place
+N0291	NA			3	no literal time+place
+N0292	NA			3	no literal time+place
+N0293	NA			3	no literal time+place
+N0294	NA			3	no literal time+place
+N0295	NA			3	no literal time+place
+N0296	TP	for about a week	Okinawa	3	location state
+N0297	NA			3	no literal time+place
+N0298	TP	today	here with us	3	presence state
+N0299	NA			3	no literal time+place
+N0300	PAR	On Wednesday	the United Nations	2	travel event
+N0301	NA			3	no literal time+place
+N0302	PAR	April of fifteen eighteen	Heidelberg	3	debate event
+N0303	NA			3	no literal time+place
+N0304	NA			3	no literal time+place
+N0305	NA			3	no literal time+place
+N0306	NA			2	no literal time+place
+N0307	NA			3	no literal time+place
+N0308	NA			3	no literal time+place
+N0309	NA			3	no literal time+place
+N0310	NA			3	no literal time+place
+N0311	NA			3	no literal time+place
+N0312	NA			3	no literal time+place
+N0313	NA			3	no literal time+place
+N0314	NA			3	no literal time+place
+N0315	PAR	weekend	Salt Lake City and Phoenix	3	press conferences
+N0316	NA			3	no literal time+place
+N0317	NA			3	no literal time+place
+N0318	NA			3	no literal time+place
+N0319	PT	October	in the United States	2	time value by place
+N0320	NA			3	no literal time+place
+N0321	NA			3	no literal time+place
+N0322	NA			3	no literal time+place
+N0323	NA			3	no literal time+place
+N0324	NA			3	no literal time+place
+N0325	NA			3	no literal time+place
+N0326	NA			3	no literal time+place
+N0327	NA			3	no literal time+place
+N0328	NA			3	no literal time+place
+N0329	TP	Until 1995	Twante	3	base state
+N0330	NA			3	no literal time+place
+N0331	NA			3	no literal time+place
+N0332	NA			3	no literal time+place
+N0333	PAR	today	Payne Creek site	3	picket event
+N0334	NA			3	no literal time+place
+N0335	NA			3	no literal time+place
+N0336	NA			3	no literal time+place
+N0337	NA			3	no literal time+place
+N0338	NA			3	no literal time+place
+N0339	PAR	April 6, 610 AD	Earth	2	event
+N0340	NA			3	no literal time+place
+N0341	NA			3	no literal time+place
+N0342	NA			3	no literal time+place
+N0343	NA			3	no literal time+place
+N0344	NA			3	no literal time+place
+N0345	PAR	on Tuesday	Constitution Hall in Washington D.C.	3	award event
+N0346	PAR	after graduating from high school in 2000	Los Angeles, California	2	move event
+N0347	NA			3	no literal time+place
+N0348	NA			3	no literal time+place
+N0349	NA			3	no literal time+place
+N0350	NA			3	no literal time+place
+N0351	NA			3	no literal time+place
+N0352	PAR	December 2009	here	3	stay event
+N0353	NA			3	no literal time+place
+N0354	NA			3	no literal time+place
+N0355	PAR	in the 19th and 20th century	San Francisco	2	settled
+N0356	PAR	in 1872 and 1873	Prague	3	performances
+N0357	NA			3	no literal time+place
+N0358	NA			3	no literal time+place
+N0359	NA			3	no literal time+place
+N0360	NA			3	no literal time+place
+N0361	NA			3	no literal time+place
+N0362	NA			2	no literal time+place
+N0363	NA			3	no literal time+place
+N0364	NA			3	no literal time+place
+N0365	TP	on that day	Houston	3	location state
+N0366	NA			3	no literal time+place
+N0367	PAR	on Saturday	Kobeys	2	went event
+N0368	NA			3	no literal time+place
+N0369	NA			3	no literal time+place
+N0370	NA			3	no literal time+place
+N0371	NA			3	no literal time+place
+N0372	NA			3	no literal time+place
+N0373	NA			3	no literal time+place
+N0374	NA			3	no literal time+place
+N0375	NA			3	no literal time+place
+N0376	NA			3	no literal time+place
+N0377	NA			3	no literal time+place
+N0378	NA			3	no literal time+place
+N0379	NA			3	no literal time+place
+N0380	NA			3	no literal time+place
+N0381	NA			3	no literal time+place
+N0382	NA			3	no literal time+place
+N0383	NA			3	no literal time+place
+N0384	NA			3	no literal time+place
+N0385	PAR	ten minutes	outer space	2	flight event
+N0386	NA			3	no literal time+place
+N0387	NA			3	no literal time+place
+N0388	NA			3	no literal time+place
+N0389	NA			2	no literal time+place
+N0390	NA			3	no literal time+place
+N0391	PAR	early 2001	NYC area	3	surveillance event
+N0392	NA			3	no literal time+place
+N0393	NA			3	no literal time+place
+N0394	NA			3	no literal time+place
+N0395	NA			3	no literal time+place
+N0396	NA			3	no literal time+place
+N0397	NA			3	no literal time+place
+N0398	PAR	2016	Toronto	2	expo event
+N0399	NA			3	no literal time+place
+N0400	NA			3	no literal time+place
+N0401	NA			3	no literal time+place
+N0402	NA			3	no literal time+place
+N0403	NA			3	no literal time+place
+N0404	NA			3	no literal time+place
+N0405	NA			3	no literal time+place
+N0406	NA			3	no literal time+place
+N0407	NA			3	no literal time+place
+N0408	NA			3	no literal time+place
+N0409	NA			3	no literal time+place
+N0410	NA			3	no literal time+place
+N0411	NA			3	no literal time+place
+N0412	NA			3	no literal time+place
+N0413	NA			3	no literal time+place
+N0414	NA			3	no literal time+place
+N0415	NA			2	no literal time+place
+N0416	NA			3	no literal time+place
+N0417	NA			3	no literal time+place
+N0418	PAR	in 1984	Carnegie Hall	3	performance
+N0419	NA			3	no literal time+place
+N0420	NA			3	no literal time+place
+N0421	NA			3	no literal time+place
+N0422	NA			3	no literal time+place
+N0423	NA			3	no literal time+place
+N0424	NA			3	no literal time+place
+N0425	NA			3	no literal time+place
+N0426	PAR	5 days per week	Christchurch, Auckland or Wellington	2	flights
+N0427	NA			3	no literal time+place
+N0428	NA			3	no literal time+place
+N0429	PAR	last week	Texas	2	event
+N0430	NA			3	no literal time+place
+N0431	NA			3	no literal time+place
+N0432	NA			3	no literal time+place
+N0433	NA			3	no literal time+place
+N0434	NA			3	no literal time+place
+N0435	PAR	in the middle of the night	in the United States	2	broadcast event
+N0436	NA			3	no literal time+place
+N0437	NA			3	no literal time+place
+N0438	PT	summer	in New York	2	quiet summer
+N0439	NA			3	no literal time+place
+N0440	NA			3	no literal time+place
+N0441	NA			3	no literal time+place
+N0442	NA			3	no literal time+place
+N0443	NA			3	no literal time+place
+N0444	PAR	4th of July	over the river	1	fireworks
+N0445	NA			3	no literal time+place
+N0446	PAR	few minutes	your office	2	visit
+N0447	PAR	early in the morning	Texas	2	woke up event
+N0448	NA			3	no literal time+place
+N0449	PAR	in 1678; 1679; 1683	Kiev	2	appointment
+N0450	NA			3	no literal time+place
+N0451	NA			3	no literal time+place
+N0452	NA			3	no literal time+place
+N0453	NA			3	no literal time+place
+N0454	PAR	tomorrow	Universal	2	visit
+N0455	NA			3	no literal time+place
+N0456	NA			3	no literal time+place
+N0457	NA			3	no literal time+place
+N0458	NA			3	no literal time+place
+N0459	NA			3	no literal time+place
+N0460	NA			3	no literal time+place
+N0461	NA			3	no literal time+place
+N0462	NA			3	no literal time+place
+N0463	PAR	at age 13	Champagne, France	3	stay event
+N0464	NA			3	no literal time+place
+N0465	PAR	on Thursday	Georgia Tech	2	visit
+N0466	NA			3	no literal time+place
+N0467	NA			3	no literal time+place
+N0468	NA			3	no literal time+place
+N0469	NA			3	no literal time+place
+N0470	NA			3	no literal time+place
+N0471	NA			3	no literal time+place
+N0472	NA			3	no literal time+place
+N0473	NA			3	no literal time+place
+N0474	NA			3	no literal time+place
+N0475	NA			3	no literal time+place
+N0476	NA			3	no literal time+place
+N0477	PAR	January 1997	New York City and Washington, D.C.	3	event
+N0478	NA			3	no literal time+place
+N0479	NA			3	no literal time+place
+N0480	NA			3	no literal time+place
+N0481	NA			3	no literal time+place
+N0482	NA			2	no literal time+place
+N0483	PAR	866; major urban revival	northern England	1	city event
+N0484	NA			3	no literal time+place
+N0485	NA			3	no literal time+place
+N0486	NA			3	no literal time+place
+N0487	NA			3	no literal time+place
+N0488	NA			3	no literal time+place
+N0489	NA			3	no literal time+place
+N0490	NA			3	no literal time+place
+N0491	NA			3	no literal time+place
+N0492	NA			3	no literal time+place
+N0493	NA			3	no literal time+place
+N0494	NA			3	no literal time+place
+N0495	NA			3	no literal time+place
+N0496	NA			3	no literal time+place
+N0497	NA			3	no literal time+place
+N0498	NA			3	no literal time+place
+N0499	NA			3	no literal time+place
+N0500	NA			3	no literal time+place
+N0501	NA			3	no literal time and place
+N0502	PAR	on Friday	the Luxembourg	2	walked back event
+N0503	NA			3	no literal time and place
+N0504	NA			3	no literal time and place
+N0505	NA			3	no literal time and place
+N0506	NA			2	on 32 unclear
+N0507	NA			3	no literal time and place
+N0508	NA			3	no literal time and place
+N0509	NA			3	no literal time and place
+N0510	PAR	by 6:30	church	2	hurried to church
+N0511	NA			3	no literal time and place
+N0512	NA			3	no literal time and place
+N0513	NA			3	no literal time and place
+N0514	NA			3	no literal time and place
+N0515	NA			3	no literal time and place
+N0516	PAR	Sept. 21 early a.m.	London	2	arrival event
+N0517	NA			3	no literal time and place
+N0518	NA			3	no literal time and place
+N0519	PAR	this spring	Austin	2	planned visit
+N0520	NA			3	no literal time and place
+N0521	NA			3	no literal time and place
+N0522	NA			3	no literal time and place
+N0523	NA			3	no literal time and place
+N0524	NA			3	no literal time and place
+N0525	NA			3	no literal time and place
+N0526	TP	in the morning	on the deck	2	bears present at place
+N0527	NA			3	no literal time and place
+N0528	NA			3	no literal time and place
+N0529	NA			3	no literal time and place
+N0530	NA			3	no literal time and place
+N0531	NA			3	no literal time and place
+N0532	NA			3	no literal time and place
+N0533	NA			3	no literal time and place
+N0534	NA			3	no literal time and place
+N0535	NA			3	no literal time and place
+N0536	NA			3	no literal time and place
+N0537	PAR	In 1960	this city	2	margin event
+N0538	PAR	over the 1968 Christmas holidays	the moon	2	orbit event
+N0539	NA			3	no literal time and place
+N0540	NA			3	no literal time and place
+N0541	NA			3	no literal time and place
+N0542	NA			3	no literal time and place
+N0543	NA			3	no literal time and place
+N0544	TP	on Monday, September 20, 1999	in Sao Paulo	3	location state at time
+N0545	NA			3	no literal time and place
+N0546	NA			3	no literal time and place
+N0547	NA			3	no literal time and place
+N0548	NA			3	no literal time and place
+N0549	NA			3	no literal time and place
+N0550	NA			3	no literal time and place
+N0551	NA			3	no literal time and place
+N0552	NA			3	no literal time and place
+N0553	NA			3	no literal time and place
+N0554	PAR	mid day Friday ... mid day monday	home	2	trip arrival
+N0555	NA			3	no literal time and place
+N0556	NA			3	no literal time and place
+N0557	NA			3	no literal time and place
+N0558	NA			3	no literal time and place
+N0559	NA			3	no literal time and place
+N0560	NA			3	no literal time and place
+N0561	NA			3	no literal time and place
+N0562	NA			3	no literal time and place
+N0563	NA			3	no literal time and place
+N0564	NA			3	no literal time and place
+N0565	NA			2	country institutional
+N0566	NA			3	no literal time and place
+N0567	NA			3	no literal time and place
+N0568	NA			3	no literal time and place
+N0569	NA			3	no literal time and place
+N0570	PAR	Fall 2001	in the US	2	mailings event
+N0571	NA			3	no literal time and place
+N0572	NA			3	no literal time and place
+N0573	NA			3	no literal time and place
+N0574	NA			3	no literal time and place
+N0575	NA			3	no literal time and place
+N0576	NA			3	no literal time and place
+N0577	NA			3	no literal time and place
+N0578	NA			3	no literal time and place
+N0579	NA			3	no literal time and place
+N0580	NA			3	no literal time and place
+N0581	NA			3	no literal time and place
+N0582	NA			3	no literal time and place
+N0583	NA			3	no literal time and place
+N0584	NA			3	no literal time and place
+N0585	NA			3	no literal time and place
+N0586	NA			3	no literal time and place
+N0587	NA			3	no literal time and place
+N0588	NA			3	no literal time and place
+N0589	NA			3	no literal time and place
+N0590	NA			3	no literal time and place
+N0591	NA			3	no literal time and place
+N0592	NA			3	no literal time and place
+N0593	NA			3	no literal time and place
+N0594	PAR	in 1895	Bohemia	2	return event
+N0595	NA			3	no literal time and place
+N0596	NA			3	no literal time and place
+N0597	PAR	On Dec. 6th 1954	Racine, Wis.	2	document executed
+N0598	NA			3	no literal time and place
+N0599	NA			3	no literal time and place
+N0600	NA			3	no literal time and place
+N0601	NA			3	no literal time and place
+N0602	NA			3	no literal time and place
+N0603	NA			3	no literal time and place
+N0604	NA			3	no literal time and place
+N0605	NA			3	no literal time and place
+N0606	NA			3	no literal time and place
+N0607	NA			3	no literal time and place
+N0608	NA			3	no literal time and place
+N0609	NA			3	no literal time and place
+N0610	NA			3	no literal time and place
+N0611	NA			3	no literal time and place
+N0612	PAR	one day ... for months	the country	2	left country event
+N0613	NA			3	no literal time and place
+N0614	PAR	On May 31, 2014	Fenway Park	3	home run event
+N0615	NA			3	no literal time and place
+N0616	NA			3	no literal time and place
+N0617	PAR	in 45 minutes ... early Sunday morning	here	2	arrival event
+N0618	NA			3	no literal time and place
+N0619	NA			3	no literal time and place
+N0620	NA			3	no literal time and place
+N0621	PAR	in 1937	across the street	2	exhibition event
+N0622	NA			3	no literal time and place
+N0623	NA			3	no literal time and place
+N0624	PAR	Wednesday	Fallujah	3	capture event
+N0625	NA			3	no literal time and place
+N0626	NA			3	no literal time and place
+N0627	NA			3	no literal time and place
+N0628	NA			3	no literal time and place
+N0629	NA			3	no literal time and place
+N0630	PAR	in about a month	Calgary	2	move event
+N0631	NA			3	no literal time and place
+N0632	PAR	on Wednesday	Mosul, Baiji, Tuz	3	clashes event
+N0633	NA			3	no literal time and place
+N0634	NA			3	no literal time and place
+N0635	NA			3	no literal time and place
+N0636	NA			3	no literal time and place
+N0637	NA			3	no literal time and place
+N0638	PAR	Sat. Sept. 23 ... mid afternoon	St. Tropez	2	itinerary event
+N0639	PAR	in August 1799	Dulwich	2	entered school event
+N0640	NA			3	no literal time and place
+N0641	NA			3	no literal time and place
+N0642	NA			3	no literal time and place
+N0643	NA			2	target of capture
+N0644	NA			3	no literal time and place
+N0645	NA			3	no literal time and place
+N0646	PAR	1570	Italy	2	birth event
+N0647	NA			3	no literal time and place
+N0648	NA			3	no literal time and place
+N0649	NA			3	no literal time and place
+N0650	NA			3	no literal time and place
+N0651	NA			3	no literal time and place
+N0652	NA			2	office institutional
+N0653	NA			3	no literal time and place
+N0654	NA			3	no literal time and place
+N0655	NA			3	no literal time and place
+N0656	NA			3	no literal time and place
+N0657	NA			2	college institutional
+N0658	NA			3	no literal time and place
+N0659	NA			3	no literal time and place
+N0660	NA			3	no literal time and place
+N0661	NA			2	hub figurative
+N0662	NA			3	no literal time and place
+N0663	NA			3	no literal time and place
+N0664	NA			3	no literal time and place
+N0665	NA			3	no literal time and place
+N0666	NA			2	forum institutional
+N0667	NA			3	no literal time and place
+N0668	NA			3	no literal time and place
+N0669	NA			3	no literal time and place
+N0670	NA			3	no literal time and place
+N0671	TP	today ... tomorrow	the office	3	out of office state
+N0672	PAR	In April 1864	Fort Pillow in Tennessee	3	attack event
+N0673	NA			3	no literal time and place
+N0674	PT	not quite summer but feels like summer	here	2	season value at here
+N0675	NA			3	no literal time and place
+N0676	NA			3	no literal time and place
+N0677	NA			3	no literal time and place
+N0678	NA			3	no literal time and place
+N0679	PAR	on April 29	Los Angeles	2	launch/transfer event
+N0680	NA			3	no literal time and place
+N0681	NA			3	no literal time and place
+N0682	NA			3	no literal time and place
+N0683	NA			3	no literal time and place
+N0684	NA			3	no literal time and place
+N0685	NA			3	no literal time and place
+N0686	NA			3	no literal time and place
+N0687	PAR	Less than an hour ago	on the porch	3	bird landing event
+N0688	NA			3	no literal time and place
+N0689	PAR	today	on the loop	2	hiking event
+N0690	PAR	In 1687 and 1689	the Crimea	2	expedition event
+N0691	NA			3	no literal time and place
+N0692	NA			3	no literal time and place
+N0693	PAR	a year ago	San Antonio	3	move event
+N0694	PAR	in November of 1776	through New Jersey	2	evacuation event
+N0695	NA			3	no literal time and place
+N0696	NA			3	no literal time and place
+N0697	PAR	Later in 1689	Moscow	3	revolution event
+N0698	NA			3	no literal time and place
+N0699	NA			3	no literal time and place
+N0700	NA			2	country as subject
+N0701	NA			3	no literal time and place
+N0702	NA			3	no literal time and place
+N0703	NA			3	no literal time and place
+N0704	PAR	on the Saturday before Easter in 1980	sacristy ... downtown Toledo	3	crime event
+N0705	NA			3	no literal time and place
+N0706	NA			3	no literal time and place
+N0707	NA			3	no literal time and place
+N0708	PAR	just	DSW	1	event; weak time
+N0709	NA			3	no literal time and place
+N0710	NA			3	no literal time and place
+N0711	NA			3	no literal time and place
+N0712	NA			3	no literal time and place
+N0713	NA			3	no literal time and place
+N0714	NA			3	no literal time and place
+N0715	NA			3	no literal time and place
+N0716	TP	at 7:30	there	3	location state at time
+N0717	NA			3	no literal time and place
+N0718	NA			3	no literal time and place
+N0719	NA			3	no literal time and place
+N0720	NA			3	no literal time and place
+N0721	NA			3	no literal time and place
+N0722	NA			3	no literal time and place
+N0723	NA			3	no literal time and place
+N0724	NA			3	no literal time and place
+N0725	NA			3	no literal time and place
+N0726	PAR	31 March 1635 ... 29 November 1699	Auchleuchries; Moscow	2	birth/death
+N0727	NA			3	no literal time and place
+N0728	NA			3	no literal time and place
+N0729	NA			3	no literal time and place
+N0730	NA			3	no literal time and place
+N0731	TP	close to 3000 years ago	on these islands	3	location state in past
+N0732	PAR	in the 14th century; in 1423	area of present-day Lodz	2	settlement event
+N0733	NA			3	no literal time and place
+N0734	NA			3	no literal time and place
+N0735	NA			3	no literal time and place
+N0736	NA			3	no literal time and place
+N0737	NA			3	no literal time and place
+N0738	TP	for 10 years	there	3	wolves present duration
+N0739	PAR	Fri. Sept. 22	same hotel; Monaco, Nice	2	itinerary
+N0740	NA			3	no literal time and place
+N0741	NA			3	no literal time and place
+N0742	NA			3	no literal time and place
+N0743	NA			3	no literal time and place
+N0744	NA			3	no literal time and place
+N0745	NA			3	no literal time and place
+N0746	NA			3	no literal time and place
+N0747	NA			2	daily flights
+N0748	NA			3	no literal time and place
+N0749	PAR	In 2017	the U.S.	1	consumption event
+N0750	NA			3	no literal time and place
+N0751	NA			3	no literal time and place
+N0752	NA			3	no literal time and place
+N0753	NA			3	no literal time and place
+N0754	NA			3	no literal time and place
+N0755	NA			3	no literal time and place
+N0756	NA			3	no literal time and place
+N0757	NA			3	no literal time and place
+N0758	TP	Mon. Sept. 25	St. Tropez	2	itinerary location state
+N0759	PAR	in 1877	Azov	3	reinterment event
+N0760	NA			3	no literal time and place
+N0761	PAR	today	our house	2	service event
+N0762	PAR	in June	Anahuac	3	march event
+N0763	NA			3	no literal time and place
+N0764	NA			3	no literal time and place
+N0765	NA			3	no literal time and place
+N0766	PAR	at 7am	in the lobby	3	meeting event
+N0767	NA			3	no literal time and place
+N0768	NA			3	no literal time and place
+N0769	NA			3	no literal time and place
+N0770	NA			3	no literal time and place
+N0771	NA			3	no literal time and place
+N0772	NA			3	no literal time and place
+N0773	NA			3	no literal time and place
+N0774	NA			3	no literal time and place
+N0775	NA			3	no literal time and place
+N0776	NA			3	no literal time and place
+N0777	NA			3	no literal time and place
+N0778	NA			3	no literal time and place
+N0779	NA			3	no literal time and place
+N0780	PAR	within minutes	Murfreesboro	2	tracking event
+N0781	NA			3	no literal time and place
+N0782	NA			3	no literal time and place
+N0783	NA			3	no literal time and place
+N0784	NA			3	no literal time and place
+N0785	NA			3	no literal time and place
+N0786	NA			3	no literal time and place
+N0787	NA			3	no literal time and place
+N0788	NA			3	no literal time and place
+N0789	NA			3	no literal time and place
+N0790	NA			3	no literal time and place
+N0791	NA			3	no literal time and place
+N0792	NA			3	no literal time and place
+N0793	NA			3	no literal time and place
+N0794	PAR	this weekend	Metro Toronto Convention Centre	3	event held
+N0795	NA			3	no literal time and place
+N0796	PAR	this year	San Antonio	2	meeting event
+N0797	NA			3	no literal time and place
+N0798	NA			3	no literal time and place
+N0799	NA			3	no literal time and place
+N0800	PAR	last night	The Grill	3	ate event
+N0801	NA			3	no literal time and place
+N0802	NA			3	no literal time and place
+N0803	NA			3	no literal time and place
+N0804	NA			3	no literal time and place
+N0805	NA			3	no literal time and place
+N0806	PAR	for three days now	my neighbourhood	1	surrounded; state-ish
+N0807	NA			3	no literal time and place
+N0808	NA			3	no literal time and place
+N0809	NA			3	no literal time and place
+N0810	NA			3	no literal time and place
+N0811	NA			3	no literal time and place
+N0812	NA			3	no literal time and place
+N0813	PAR	tomorrow	woodrows	3	watch game event
+N0814	NA			3	no literal time and place
+N0815	NA			3	no literal time and place
+N0816	NA			3	no literal time and place
+N0817	NA			3	no literal time and place
+N0818	NA			3	no literal time and place
+N0819	NA			3	no literal time and place
+N0820	NA			3	no literal time and place
+N0821	PAR	between July 2004 and July 2005	Baghdad	1	flights event
+N0822	NA			3	no literal time and place
+N0823	NA			3	no literal time and place
+N0824	PAR	last September	Tehran	2	contest opened
+N0825	PAR	between March 1962 and December 1969	the Vietnam theater	2	service
+N0826	NA			3	no literal time and place
+N0827	NA			3	no literal time and place
+N0828	NA			3	no literal time and place
+N0829	NA			3	no literal time and place
+N0830	NA			3	no literal time and place
+N0831	NA			3	no literal time and place
+N0832	PAR	in the 1970s	Yellowstone	2	release event
+N0833	AMB	winter (December to February)	west and northwest	1	weather brutal region/season
+N0834	NA			3	no literal time and place
+N0835	NA			3	no literal time and place
+N0836	NA			2	run for office
+N0837	NA			3	no literal time and place
+N0838	NA			3	no literal time and place
+N0839	NA			3	no literal time and place
+N0840	NA			3	no literal time and place
+N0841	NA			3	no literal time and place
+N0842	TP	on a given week	at the store	2	availability at store
+N0843	NA			3	no literal time and place
+N0844	NA			3	no literal time and place
+N0845	NA			3	no literal time and place
+N0846	TP	in the 1590's	England	3	no Jews present
+N0847	NA			3	no literal time and place
+N0848	NA			3	no literal time and place
+N0849	NA			3	no literal time and place
+N0850	NA			3	no literal time and place
+N0851	NA			3	no literal time and place
+N0852	NA			3	no literal time and place
+N0853	PAR	in 1989	Cypress Street Overpass	2	destruction event
+N0854	NA			3	no literal time and place
+N0855	PAR	tonight	on the balcony	3	planned activity
+N0856	NA			3	no literal time and place
+N0857	NA			3	no literal time and place
+N0858	NA			3	no literal time and place
+N0859	NA			3	no literal time and place
+N0860	NA			3	no literal time and place
+N0861	NA			3	no literal time and place
+N0862	PAR	In 1892	the United States; New York City	3	move event
+N0863	NA			3	no literal time and place
+N0864	NA			3	no literal time and place
+N0865	NA			3	no literal time and place
+N0866	NA			3	no literal time and place
+N0867	NA			3	no literal time and place
+N0868	NA			3	no literal time and place
+N0869	PAR	three years ago	Tampa residence	3	replacement event
+N0870	NA			2	trading hub
+N0871	NA			3	no literal time and place
+N0872	PAR	In early February	Landfall Islands	2	hiding/charge event
+N0873	NA			3	no literal time and place
+N0874	NA			3	no literal time and place
+N0875	NA			3	no literal time and place
+N0876	NA			3	no literal time and place
+N0877	NA			3	no literal time and place
+N0878	NA			3	no literal time and place
+N0879	NA			3	no literal time and place
+N0880	NA			3	no literal time and place
+N0881	NA			3	no literal time and place
+N0882	PAR	in August 2008	Creekside Apartments	3	move event
+N0883	NA			3	no literal time and place
+N0884	NA			3	no literal time and place
+N0885	NA			3	no literal time and place
+N0886	NA			3	no literal time and place
+N0887	NA			3	no literal time and place
+N0888	NA			2	elections institutional
+N0889	NA			3	no literal time and place
+N0890	NA			3	no literal time and place
+N0891	NA			3	no literal time and place
+N0892	NA			3	no literal time and place
+N0893	NA			3	no literal time and place
+N0894	NA			3	no literal time and place
+N0895	NA			3	no literal time and place
+N0896	NA			3	no literal time and place
+N0897	NA			3	no literal time and place
+N0898	NA			3	no literal time and place
+N0899	NA			3	no literal time and place
+N0900	NA			3	no literal time and place
+N0901	PAR	Three months after	the US	2	return event
+N0902	PAR	this week	Washington D.C.	3	competition held
+N0903	NA			3	no literal time and place
+N0904	NA			3	no literal time and place
+N0905	PAR	on Monday	at your desk	3	change event
+N0906	NA			3	no literal time and place
+N0907	NA			3	no literal time and place
+N0908	NA			3	no literal time and place
+N0909	NA			3	no literal time and place
+N0910	NA			3	no literal time and place
+N0911	NA			3	no literal time and place
+N0912	NA			3	no literal time and place
+N0913	NA			3	no literal time and place
+N0914	NA			3	no literal time and place
+N0915	NA			3	no literal time and place
+N0916	NA			2	shop institutional
+N0917	NA			3	no literal time and place
+N0918	NA			2	object of proposal
+N0919	NA			3	no literal time and place
+N0920	NA			3	no literal time and place
+N0921	NA			3	no literal time and place
+N0922	NA			3	no literal time and place
+N0923	NA			3	no literal time and place
+N0924	NA			3	no literal time and place
+N0925	NA			3	no literal time and place
+N0926	NA			3	no literal time and place
+N0927	NA			3	no literal time and place
+N0928	NA			3	no literal time and place
+N0929	NA			3	no literal time and place
+N0930	NA			3	no literal time and place
+N0931	NA			3	no literal time and place
+N0932	NA			3	no literal time and place
+N0933	PAR	last day	Going to the Sun Road	2	driving event
+N0934	NA			3	no literal time and place
+N0935	NA			3	no literal time and place
+N0936	NA			3	no literal time and place
+N0937	NA			3	no literal time and place
+N0938	NA			3	no literal time and place
+N0939	NA			3	no literal time and place
+N0940	NA			3	no literal time and place
+N0941	NA			3	no literal time and place
+N0942	NA			3	no literal time and place
+N0943	NA			3	no literal time and place
+N0944	NA			3	no literal time and place
+N0945	NA			3	no literal time and place
+N0946	NA			3	no literal time and place
+N0947	NA			3	no literal time and place
+N0948	NA			3	no literal time and place
+N0949	NA			3	no literal time and place
+N0950	NA			3	no literal time and place
+N0951	NA			3	no literal time and place
+N0952	TP	As of March 28, 2003	in a hospital	3	location state at time
+N0953	PAR	a decade	Russia and the Middle East	1	recruiting attempts
+N0954	NA			3	no literal time and place
+N0955	NA			3	no literal time and place
+N0956	NA			3	no literal time and place
+N0957	NA			3	no literal time and place
+N0958	NA			3	no literal time and place
+N0959	NA			3	no literal time and place
+N0960	NA			3	no literal time and place
+N0961	NA			3	no literal time and place
+N0962	NA			3	no literal time and place
+N0963	TP	until she was eighteen	Flag Land Base, Clearwater, Florida	3	kept at place
+N0964	NA			3	no literal time and place
+N0965	NA			3	no literal time and place
+N0966	NA			3	no literal time and place
+N0967	NA			3	no literal time and place
+N0968	NA			3	no literal time and place
+N0969	NA			3	no literal time and place
+N0970	NA			3	no literal time and place
+N0971	NA			3	no literal time and place
+N0972	NA			3	no literal time and place
+N0973	NA			3	no literal time and place
+N0974	NA			3	no literal time and place
+N0975	NA			3	no literal time and place
+N0976	PAR	for a week	in to town	2	came event
+N0977	NA			3	no literal time and place
+N0978	NA			3	no literal time and place
+N0979	NA			3	no literal time and place
+N0980	NA			3	no literal time and place
+N0981	NA			3	no literal time and place
+N0982	NA			3	no literal time and place
+N0983	NA			3	no literal time and place
+N0984	NA			3	no literal time and place
+N0985	NA			3	no literal time and place
+N0986	PAR	in the April general elections	Sri Lanka	2	elections held
+N0987	NA			3	no literal time and place
+N0988	NA			3	no literal time and place
+N0989	NA			3	no literal time and place
+N0990	NA			3	no literal time and place
+N0991	NA			3	no literal time and place
+N0992	NA			3	no literal time and place
+N0993	NA			3	no literal time and place
+N0994	NA			3	no literal time and place
+N0995	PAR	two days earlier; some weeks	the country; Iran	2	entry event
+N0996	NA			3	no literal time and place
+N0997	NA			3	no literal time and place
+N0998	NA			3	no literal time and place
+N0999	PAR	in 1721	Basel, Heidelberg, Strasbourg	2	study event
+N1000	NA			3	no literal time and place
+N1001	NA			2	no literal time and place pair
+N1002	NA			2	no literal time and place pair
+N1003	NA			2	no literal time and place pair
+N1004	NA			2	no literal time and place pair
+N1005	NA			2	no literal time and place pair
+N1006	NA			2	no literal time and place pair
+N1007	NA			2	no literal time and place pair
+N1008	NA			2	no literal time and place pair
+N1009	NA			2	no literal time and place pair
+N1010	NA			2	no literal time and place pair
+N1011	NA			2	no literal time and place pair
+N1012	PT	Sunday	snowy Manhattan	1	setting clause
+N1013	PAR	on Monday	Ft. Worth	2	travel event
+N1014	NA			2	no literal time and place pair
+N1015	NA			2	no literal time and place pair
+N1016	NA			2	no literal time and place pair
+N1017	NA			2	no literal time and place pair
+N1018	NA			2	no literal time and place pair
+N1019	NA			2	no literal time and place pair
+N1020	NA			2	no literal time and place pair
+N1021	NA			2	no literal time and place pair
+N1022	NA			2	no literal time and place pair
+N1023	PAR	two years running	on the coast	2	stay event
+N1024	NA			2	no literal time and place pair
+N1025	TP	08:00 - 20:00	Ave Paseo de Montejo 56A	1	opening hours from prev
+N1026	NA			2	no literal time and place pair
+N1027	NA			2	no literal time and place pair
+N1028	NA			2	no literal time and place pair
+N1029	NA			2	no literal time and place pair
+N1030	PAR	in the 1860s	the area	2	settlement event
+N1031	NA			2	no literal time and place pair
+N1032	NA			2	no literal time and place pair
+N1033	NA			2	no literal time and place pair
+N1034	NA			2	no literal time and place pair
+N1035	PAR	Sunday three four weeks ago	there	3	past visit
+N1036	NA			2	no literal time and place pair
+N1037	NA			2	no literal time and place pair
+N1038	TP	now	south side	2	windows back in
+N1039	NA			2	no literal time and place pair
+N1040	PAR	November 1849	San Francisco	3	arrival event
+N1041	NA			2	no literal time and place pair
+N1042	PAR	in 1904	St. Louis	3	lecture event
+N1043	NA			2	no literal time and place pair
+N1044	PAR	31 October 1950	Baghdad, Iraq	3	birth event
+N1045	PAR	beginning of February next year	India	2	planned visit
+N1046	PAR	in 1846	eastern portion of the state	1	war event; weak
+N1047	NA			2	no literal time and place pair
+N1048	NA			2	no literal time and place pair
+N1049	PAR	In the last match of the day	Volgograd Arena	2	match event
+N1050	NA			2	no literal time and place pair
+N1051	NA			2	no literal time and place pair
+N1052	NA			2	no literal time and place pair
+N1053	NA			2	no literal time and place pair
+N1054	TP	Daily 08:00 - 20:00	Calle 62	1	opening hours from prev
+N1055	TP	last 9 years and 10 months	S. F., Cal.	2	residence state
+N1056	NA			2	no literal time and place pair
+N1057	NA			2	no literal time and place pair
+N1058	PAR	July 13	Tyre	2	wedding event
+N1059	NA			2	no literal time and place pair
+N1060	PAR	January 23 through March 9	Evansville, Indiana	2	exhibit event
+N1061	NA			2	no literal time and place pair
+N1062	PAR	Started in 1990	Taipei	2	festival start
+N1063	PAR	In the past decade	Coron	2	influx event
+N1064	NA			2	no literal time and place pair
+N1065	NA			2	no literal time and place pair
+N1066	PAR	recently	here	2	visit event
+N1067	NA			2	no literal time and place pair
+N1068	NA			2	no literal time and place pair
+N1069	NA			2	no literal time and place pair
+N1070	NA			2	no literal time and place pair
+N1071	NA			2	no literal time and place pair
+N1072	NA			2	no literal time and place pair
+N1073	PAR	in 2002	British Museum	3	exhibit event
+N1074	PAR	on Friday	toward Malaysia	1	boat turned around
+N1075	NA			2	no literal time and place pair
+N1076	NA			2	no literal time and place pair
+N1077	PAR	on Wednesday	Sunni Arab regions	3	violence event
+N1078	NA			2	no literal time and place pair
+N1079	NA			2	no literal time and place pair
+N1080	NA			2	no literal time and place pair
+N1081	TP	by noon on the 20th	there	3	arrival by time
+N1082	NA			2	no literal time and place pair
+N1083	NA			2	no literal time and place pair
+N1084	NA			2	no literal time and place pair
+N1085	NA			2	no literal time and place pair
+N1086	NA			2	no literal time and place pair
+N1087	NA			2	no literal time and place pair
+N1088	NA			2	no literal time and place pair
+N1089	NA			2	no literal time and place pair
+N1090	NA			2	no literal time and place pair
+N1091	NA			2	no literal time and place pair
+N1092	NA			2	no literal time and place pair
+N1093	PAR	After some twenty minutes	the ground	1	relative time
+N1094	NA			2	no literal time and place pair
+N1095	NA			2	no literal time and place pair
+N1096	NA			2	no literal time and place pair
+N1097	NA			2	no literal time and place pair
+N1098	NA			2	no literal time and place pair
+N1099	PAR	next month	Las Vegas and Los Angeles	3	travel plans
+N1100	NA			2	no literal time and place pair
+N1101	NA			2	no literal time and place pair
+N1102	NA			2	no literal time and place pair
+N1103	TP	Wed. Sept. 27	Paris	2	itinerary state
+N1104	NA			2	no literal time and place pair
+N1105	NA			2	no literal time and place pair
+N1106	NA			2	no literal time and place pair
+N1107	NA			2	no literal time and place pair
+N1108	NA			2	no literal time and place pair
+N1109	NA			2	no literal time and place pair
+N1110	NA			2	no literal time and place pair
+N1111	NA			2	no literal time and place pair
+N1112	PAR	in 1971	Bangladesh	2	defeat event
+N1113	NA			2	no literal time and place pair
+N1114	NA			2	no literal time and place pair
+N1115	NA			2	no literal time and place pair
+N1116	NA			2	no literal time and place pair
+N1117	NA			2	no literal time and place pair
+N1118	NA			2	no literal time and place pair
+N1119	PAR	sixteenth century	Europe	1	expansion event
+N1120	NA			2	no literal time and place pair
+N1121	NA			2	no literal time and place pair
+N1122	NA			2	no literal time and place pair
+N1123	NA			2	no literal time and place pair
+N1124	PAR	Dec. 12	Houston	3	concert event
+N1125	NA			2	no literal time and place pair
+N1126	NA			2	no literal time and place pair
+N1127	NA			2	no literal time and place pair
+N1128	TP	today	in the office	3	location state
+N1129	NA			2	no literal time and place pair
+N1130	NA			2	no literal time and place pair
+N1131	TP	Daily 08:00 - 20:00	Ave Paseo de Montejo 56A	1	hours in prev
+N1132	NA			2	no literal time and place pair
+N1133	NA			2	no literal time and place pair
+N1134	NA			2	no literal time and place pair
+N1135	NA			2	no literal time and place pair
+N1136	PAR	March 25-26, 2002	Atlanta, Georgia	3	conference event
+N1137	NA			2	no literal time and place pair
+N1138	PAR	Thursday	USI art gallery	1	opening event
+N1139	NA			2	no literal time and place pair
+N1140	NA			2	no literal time and place pair
+N1141	NA			2	no literal time and place pair
+N1142	NA			2	no literal time and place pair
+N1143	PAR	Back in 1972	the Deep South	2	both restrict state
+N1144	NA			2	no literal time and place pair
+N1145	PAR	Tuesday	Fallujah	2	closure event
+N1146	PT	annually	Tulsa	1	annual sunshine value
+N1147	NA			2	no literal time and place pair
+N1148	NA			2	no literal time and place pair
+N1149	NA			2	no literal time and place pair
+N1150	NA			2	no literal time and place pair
+N1151	NA			2	no literal time and place pair
+N1152	NA			2	no literal time and place pair
+N1153	NA			2	no literal time and place pair
+N1154	NA			2	no literal time and place pair
+N1155	NA			2	no literal time and place pair
+N1156	NA			2	no literal time and place pair
+N1157	NA			2	no literal time and place pair
+N1158	PAR	1560	Rome	3	visit event
+N1159	NA			2	no literal time and place pair
+N1160	NA			2	no literal time and place pair
+N1161	NA			2	no literal time and place pair
+N1162	NA			2	no literal time and place pair
+N1163	NA			2	no literal time and place pair
+N1164	PAR	back to 1979	New Hampshire	2	campaign event
+N1165	NA			2	no literal time and place pair
+N1166	TP	in a couple of weeks	in Calgary	3	future location
+N1167	NA			2	no literal time and place pair
+N1168	NA			2	no literal time and place pair
+N1169	NA			2	no literal time and place pair
+N1170	NA			2	no literal time and place pair
+N1171	NA			2	no literal time and place pair
+N1172	NA			2	no literal time and place pair
+N1173	AMB	today	Lodz	1	heading
+N1174	NA			2	no literal time and place pair
+N1175	PAR	Summer of 2001	Pakistan	3	meeting event
+N1176	NA			2	no literal time and place pair
+N1177	NA			2	no literal time and place pair
+N1178	PAR	November 11, 1914	Oklahoma City	3	birth event
+N1179	PAR	past decade	Western Europe	2	integration event
+N1180	NA			2	no literal time and place pair
+N1181	NA			2	no literal time and place pair
+N1182	NA			2	no literal time and place pair
+N1183	TP	in the 1830s	Lodz	2	population at time
+N1184	NA			2	no literal time and place pair
+N1185	NA			2	no literal time and place pair
+N1186	NA			2	no literal time and place pair
+N1187	NA			2	no literal time and place pair
+N1188	NA			2	no literal time and place pair
+N1189	NA			2	no literal time and place pair
+N1190	NA			2	no literal time and place pair
+N1191	NA			2	no literal time and place pair
+N1192	NA			2	no literal time and place pair
+N1193	NA			2	no literal time and place pair
+N1194	NA			2	no literal time and place pair
+N1195	NA			2	no literal time and place pair
+N1196	NA			2	no literal time and place pair
+N1197	NA			2	no literal time and place pair
+N1198	NA			2	no literal time and place pair
+N1199	NA			2	no literal time and place pair
+N1200	NA			2	no literal time and place pair
+N1201	NA			2	no literal time and place pair
+N1202	NA			2	no literal time and place pair
+N1203	NA			2	no literal time and place pair
+N1204	PAR	May 2012	the Philippines	3	trip event
+N1205	NA			2	no literal time and place pair
+N1206	NA			2	no literal time and place pair
+N1207	NA			2	no literal time and place pair
+N1208	NA			2	no literal time and place pair
+N1209	NA			2	no literal time and place pair
+N1210	PAR	on Sunday	Bahia	2	teaching event
+N1211	AMB	once	West Oakland	1	place property over time
+N1212	NA			2	no literal time and place pair
+N1213	NA			2	no literal time and place pair
+N1214	NA			2	no literal time and place pair
+N1215	NA			2	no literal time and place pair
+N1216	NA			2	no literal time and place pair
+N1217	TP	ever since 1890	southwestern US	2	groups existed
+N1218	NA			2	no literal time and place pair
+N1219	NA			2	no literal time and place pair
+N1220	NA			2	no literal time and place pair
+N1221	NA			2	no literal time and place pair
+N1222	NA			2	no literal time and place pair
+N1223	NA			2	no literal time and place pair
+N1224	NA			2	no literal time and place pair
+N1225	NA			2	no literal time and place pair
+N1226	NA			2	no literal time and place pair
+N1227	NA			2	no literal time and place pair
+N1228	NA			2	no literal time and place pair
+N1229	PAR	last week	Houston	3	meeting event
+N1230	NA			2	no literal time and place pair
+N1231	NA			2	no literal time and place pair
+N1232	NA			2	no literal time and place pair
+N1233	NA			2	no literal time and place pair
+N1234	NA			2	no literal time and place pair
+N1235	NA			2	no literal time and place pair
+N1236	NA			2	no literal time and place pair
+N1237	NA			2	no literal time and place pair
+N1238	NA			2	no literal time and place pair
+N1239	NA			2	no literal time and place pair
+N1240	NA			2	no literal time and place pair
+N1241	NA			2	no literal time and place pair
+N1242	NA			2	no literal time and place pair
+N1243	NA			2	no literal time and place pair
+N1244	NA			2	no literal time and place pair
+N1245	NA			2	no literal time and place pair
+N1246	NA			2	no literal time and place pair
+N1247	NA			2	no literal time and place pair
+N1248	NA			2	no literal time and place pair
+N1249	NA			2	no literal time and place pair
+N1250	NA			2	no literal time and place pair
+N1251	NA			2	no literal time and place pair
+N1252	NA			2	no literal time and place pair
+N1253	NA			2	no literal time and place pair
+N1254	NA			2	no literal time and place pair
+N1255	NA			2	no literal time and place pair
+N1256	NA			2	no literal time and place pair
+N1257	PAR	over a year	A Ward Dance Centre	2	attended event
+N1258	NA			2	no literal time and place pair
+N1259	NA			2	no literal time and place pair
+N1260	PAR	in May	Wenatchee hills	3	hiking event
+N1261	NA			2	no literal time and place pair
+N1262	NA			2	no literal time and place pair
+N1263	TP	May 11th	in Houston	3	future location
+N1264	NA			2	no literal time and place pair
+N1265	NA			2	no literal time and place pair
+N1266	NA			2	no literal time and place pair
+N1267	NA			2	no literal time and place pair
+N1268	PAR	on Monday	Ft. Worth	2	travel event
+N1269	NA			2	no literal time and place pair
+N1270	NA			2	no literal time and place pair
+N1271	NA			2	no literal time and place pair
+N1272	NA			2	no literal time and place pair
+N1273	NA			2	no literal time and place pair
+N1274	NA			2	no literal time and place pair
+N1275	NA			2	no literal time and place pair
+N1276	PAR	Thanksgiving	here	2	holiday event
+N1277	NA			2	no literal time and place pair
+N1278	NA			2	no literal time and place pair
+N1279	NA			2	no literal time and place pair
+N1280	NA			2	no literal time and place pair
+N1281	NA			2	no literal time and place pair
+N1282	NA			2	no literal time and place pair
+N1283	NA			2	no literal time and place pair
+N1284	NA			2	no literal time and place pair
+N1285	NA			2	no literal time and place pair
+N1286	NA			2	no literal time and place pair
+N1287	NA			2	no literal time and place pair
+N1288	TP	almost 200 years	this region	3	residence state
+N1289	TP	these days	living	2	current residence question
+N1290	NA			2	no literal time and place pair
+N1291	NA			2	no literal time and place pair
+N1292	NA			2	no literal time and place pair
+N1293	NA			2	no literal time and place pair
+N1294	NA			2	no literal time and place pair
+N1295	NA			2	no literal time and place pair
+N1296	NA			2	no literal time and place pair
+N1297	NA			2	no literal time and place pair
+N1298	NA			2	no literal time and place pair
+N1299	NA			2	no literal time and place pair
+N1300	NA			2	no literal time and place pair
+N1301	NA			2	no literal time and place pair
+N1302	TP	since 2013	California	1	live together
+N1303	NA			2	no literal time and place pair
+N1304	NA			2	no literal time and place pair
+N1305	NA			2	no literal time and place pair
+N1306	TP	31 years	there	2	owner at shop
+N1307	NA			2	no literal time and place pair
+N1308	NA			2	no literal time and place pair
+N1309	PAR	soon	Vienna	3	office opening
+N1310	PAR	In 2001	Andaman and Nicobar islands	3	operation event
+N1311	NA			2	no literal time and place pair
+N1312	PAR	in 2000	Sufaat's condominium	3	stay event
+N1313	NA			2	no literal time and place pair
+N1314	NA			2	no literal time and place pair
+N1315	NA			2	no literal time and place pair
+N1316	NA			2	no literal time and place pair
+N1317	PAR	the Saturday	the ground	2	disturbance event
+N1318	NA			2	no literal time and place pair
+N1319	PAR	at 4:00	there	2	meeting event
+N1320	NA			2	no literal time and place pair
+N1321	NA			2	no literal time and place pair
+N1322	NA			2	no literal time and place pair
+N1323	PAR	In 1947	Coron	2	fishing introduced
+N1324	NA			2	no literal time and place pair
+N1325	NA			2	no literal time and place pair
+N1326	NA			2	no literal time and place pair
+N1327	NA			2	no literal time and place pair
+N1328	NA			2	no literal time and place pair
+N1329	NA			2	no literal time and place pair
+N1330	NA			2	no literal time and place pair
+N1331	NA			2	no literal time and place pair
+N1332	TP	in 2008	Mecca's Grand Mosque	2	caption state
+N1333	NA			2	no literal time and place pair
+N1334	NA			2	no literal time and place pair
+N1335	NA			2	no literal time and place pair
+N1336	TP	when your parents come	in Korea	3	future location
+N1337	NA			2	no literal time and place pair
+N1338	NA			2	no literal time and place pair
+N1339	NA			2	no literal time and place pair
+N1340	NA			2	no literal time and place pair
+N1341	NA			2	no literal time and place pair
+N1342	NA			2	no literal time and place pair
+N1343	NA			2	no literal time and place pair
+N1344	NA			2	no literal time and place pair
+N1345	NA			2	no literal time and place pair
+N1346	NA			2	no literal time and place pair
+N1347	NA			2	no literal time and place pair
+N1348	NA			2	no literal time and place pair
+N1349	NA			2	no literal time and place pair
+N1350	TP	this summer	outer porch	2	hooks location
+N1351	NA			2	no literal time and place pair
+N1352	PT	9 am (Houston time)	Sao Paulo	3	time zones
+N1353	NA			2	no literal time and place pair
+N1354	NA			2	no literal time and place pair
+N1355	NA			2	no literal time and place pair
+N1356	NA			2	no literal time and place pair
+N1357	PAR	early 1980s	Alpine, Madrid, Brussels	1	retired and lived
+N1358	NA			2	no literal time and place pair
+N1359	NA			2	no literal time and place pair
+N1360	NA			2	no literal time and place pair
+N1361	NA			2	no literal time and place pair
+N1362	NA			2	no literal time and place pair
+N1363	PAR	in 1943	Yellowstone National Park	3	killing event
+N1364	TP	JULY 4TH 2008	THERE	2	was there on date
+N1365	NA			2	no literal time and place pair
+N1366	NA			2	no literal time and place pair
+N1367	NA			2	no literal time and place pair
+N1368	NA			2	no literal time and place pair
+N1369	NA			2	no literal time and place pair
+N1370	NA			2	no literal time and place pair
+N1371	NA			2	no literal time and place pair
+N1372	PAR	23 January 1928	Paris, France	3	birth event
+N1373	NA			2	no literal time and place pair
+N1374	NA			2	no literal time and place pair
+N1375	PAR	Ten minutes later	down the street	1	event
+N1376	NA			2	no literal time and place pair
+N1377	PAR	The following autumn	Trinity College, Cambridge	3	enrolment event
+N1378	NA			2	no literal time and place pair
+N1379	NA			2	no literal time and place pair
+N1380	NA			2	no literal time and place pair
+N1381	NA			2	no literal time and place pair
+N1382	NA			2	no literal time and place pair
+N1383	NA			2	no literal time and place pair
+N1384	NA			2	no literal time and place pair
+N1385	TP	4 days	Ho chi Minh	3	stay duration
+N1386	NA			2	no literal time and place pair
+N1387	NA			2	no literal time and place pair
+N1388	NA			2	no literal time and place pair
+N1389	NA			2	no literal time and place pair
+N1390	NA			2	no literal time and place pair
+N1391	NA			2	no literal time and place pair
+N1392	NA			2	no literal time and place pair
+N1393	NA			2	no literal time and place pair
+N1394	NA			2	no literal time and place pair
+N1395	NA			2	no literal time and place pair
+N1396	NA			2	no literal time and place pair
+N1397	NA			2	no literal time and place pair
+N1398	NA			2	no literal time and place pair
+N1399	PAR	in 1964	South Vietnam	1	deployment
+N1400	NA			2	no literal time and place pair
+N1401	NA			2	no literal time and place pair
+N1402	NA			2	no literal time and place pair
+N1403	NA			2	no literal time and place pair
+N1404	NA			2	no literal time and place pair
+N1405	NA			2	no literal time and place pair
+N1406	NA			2	no literal time and place pair
+N1407	NA			2	no literal time and place pair
+N1408	PAR	over the years	offices, Italian restaurants	2	visit events
+N1409	NA			2	no literal time and place pair
+N1410	NA			2	no literal time and place pair
+N1411	NA			2	no literal time and place pair
+N1412	NA			2	no literal time and place pair
+N1413	NA			2	no literal time and place pair
+N1414	NA			2	no literal time and place pair
+N1415	PAR	On September 29	East Los Angeles sheriff's station	3	visit event
+N1416	NA			2	no literal time and place pair
+N1417	PAR	in 1998	Baghdad	3	travel event
+N1418	NA			2	no literal time and place pair
+N1419	NA			2	no literal time and place pair
+N1420	NA			2	no literal time and place pair
+N1421	PAR	in October 2003	Jiuquan Satellite Launch Center	1	launch event
+N1422	NA			2	no literal time and place pair
+N1423	PAR	in about a month	Calgary	3	move event
+N1424	NA			2	no literal time and place pair
+N1425	NA			2	no literal time and place pair
+N1426	NA			2	no literal time and place pair
+N1427	NA			2	no literal time and place pair
+N1428	NA			2	no literal time and place pair
+N1429	NA			2	no literal time and place pair
+N1430	NA			2	no literal time and place pair
+N1431	NA			2	no literal time and place pair
+N1432	PAR	Feb. 23	Boulder, CO	2	dateline
+N1433	NA			2	no literal time and place pair
+N1434	NA			2	no literal time and place pair
+N1435	NA			2	no literal time and place pair
+N1436	NA			2	no literal time and place pair
+N1437	NA			2	no literal time and place pair
+N1438	NA			2	no literal time and place pair
+N1439	NA			2	no literal time and place pair
+N1440	NA			2	no literal time and place pair
+N1441	NA			2	no literal time and place pair
+N1442	NA			2	no literal time and place pair
+N1443	NA			2	no literal time and place pair
+N1444	NA			2	no literal time and place pair
+N1445	NA			2	no literal time and place pair
+N1446	NA			2	no literal time and place pair
+N1447	NA			2	no literal time and place pair
+N1448	NA			2	no literal time and place pair
+N1449	NA			2	no literal time and place pair
+N1450	NA			2	no literal time and place pair
+N1451	NA			2	no literal time and place pair
+N1452	NA			2	no literal time and place pair
+N1453	NA			2	no literal time and place pair
+N1454	NA			2	no literal time and place pair
+N1455	NA			2	no literal time and place pair
+N1456	NA			2	no literal time and place pair
+N1457	NA			2	no literal time and place pair
+N1458	NA			2	no literal time and place pair
+N1459	NA			2	no literal time and place pair
+N1460	NA			2	no literal time and place pair
+N1461	NA			2	no literal time and place pair
+N1462	NA			2	no literal time and place pair
+N1463	NA			2	no literal time and place pair
+N1464	NA			2	no literal time and place pair
+N1465	NA			2	no literal time and place pair
+N1466	NA			2	no literal time and place pair
+N1467	NA			2	no literal time and place pair
+N1468	PT	3 pm (Houston time)	Sao Paulo	3	time zones
+N1469	NA			2	no literal time and place pair
+N1470	NA			2	no literal time and place pair
+N1471	TP	through Sunday morning	in town	3	presence state
+N1472	NA			2	no literal time and place pair
+N1473	NA			2	no literal time and place pair
+N1474	NA			2	no literal time and place pair
+N1475	PAR	in 1964	South Vietnam	1	deployment
+N1476	NA			2	no literal time and place pair
+N1477	NA			2	no literal time and place pair
+N1478	TP	In fifteen minutes	home	2	reach place by time
+N1479	NA			2	no literal time and place pair
+N1480	PAR	Yesterday evening	Germany	2	broadcast event
+N1481	NA			2	no literal time and place pair
+N1482	NA			2	no literal time and place pair
+N1483	NA			2	no literal time and place pair
+N1484	NA			2	no literal time and place pair
+N1485	NA			2	no literal time and place pair
+N1486	NA			2	no literal time and place pair
+N1487	NA			2	no literal time and place pair
+N1488	NA			2	no literal time and place pair
+N1489	NA			2	no literal time and place pair
+N1490	NA			2	no literal time and place pair
+N1491	NA			2	no literal time and place pair
+N1492	NA			2	no literal time and place pair
+N1493	TP	tomorrow	in the office	3	also PAR leaving Sao Paulo Saturday
+N1494	NA			2	no literal time and place pair
+N1495	PAR	In the past	colleges in the US	2	played event
+N1496	NA			2	no literal time and place pair
+N1497	TP	next year	Limerick, Ireland	2	living there
+N1498	NA			2	no literal time and place pair
+N1499	NA			2	no literal time and place pair
+N1500	NA			2	no literal time and place pair

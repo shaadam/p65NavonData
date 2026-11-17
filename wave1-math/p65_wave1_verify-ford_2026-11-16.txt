@@ -1,0 +1,6 @@
+comparison-connected=False win-strongly-connected=False finite=False: 48
+comparison-connected=False win-strongly-connected=False finite=True : 15
+comparison-connected=True  win-strongly-connected=False finite=False: 181
+comparison-connected=True  win-strongly-connected=True  finite=True : 56
+CONTROL SC table spread {300: np.float64(1.6094379124341005), 3000: np.float64(1.6094379124341005)}
+CONTROL never-loses table spread {300: np.float64(6.620750239107368), 3000: np.float64(8.922674820349755)}

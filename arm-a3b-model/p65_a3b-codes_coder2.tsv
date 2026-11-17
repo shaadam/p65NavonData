@@ -1,0 +1,2001 @@
+item	class	time_phrase	place_phrase	confidence	note
+Z0001	NA			3	no time
+Z0002	NA			3	no time or place
+Z0003	NA	now		3	no place
+Z0004	NA			3	no time
+Z0005	NA			3	no time or place
+Z0006	NA			3	no time
+Z0007	NA			3	no time expression
+Z0008	NA			3	no time or place
+Z0009	NA			3	no time
+Z0010	NA			3	no time
+Z0011	NA			3	no time or place
+Z0012	NA			3	no time
+Z0013	NA			3	no time or place
+Z0014	NA			3	no time
+Z0015	NA			3	no time or place
+Z0016	NA			2	no literal time or place
+Z0017	NA			3	no time or place
+Z0018	NA			3	no time
+Z0019	NA			3	no time or place
+Z0020	NA			3	figurative time
+Z0021	NA			3	no time
+Z0022	NA			3	no time or place
+Z0023	NA			3	no time
+Z0024	NA			3	no place
+Z0025	NA			3	no time or place
+Z0026	NA			3	no time or place
+Z0027	NA			3	no time or place
+Z0028	TP	now	at sea	2	state at sea restricted by now
+Z0029	NA			3	no time or place
+Z0030	NA	Already		3	no place
+Z0031	NA			3	no time
+Z0032	NA			3	no time
+Z0033	NA			3	no time or place
+Z0034	NA			3	no time or place
+Z0035	NA			3	no time or place
+Z0036	NA			3	name
+Z0037	NA			3	no time or place
+Z0038	NA			3	no time
+Z0039	NA			3	no time or place
+Z0040	NA			3	no time
+Z0041	NA			3	no time or place
+Z0042	NA			3	no time or place
+Z0043	NA			3	no time
+Z0044	NA	after that		3	no place
+Z0045	NA			3	no time
+Z0046	NA			3	no time
+Z0047	NA			3	no place
+Z0048	NA			3	no time or place
+Z0049	NA			3	no time
+Z0050	NA			3	no time or place
+Z0051	NA			3	no time
+Z0052	NA			3	no time
+Z0053	NA			3	figurative place
+Z0054	NA			3	no time
+Z0055	NA	now		3	no literal place
+Z0056	NA			3	no time or place
+Z0057	NA			3	no time or place
+Z0058	NA			3	no place
+Z0059	NA			3	no time
+Z0060	NA			3	no time or place
+Z0061	NA			3	no time or place
+Z0062	NA			3	no time
+Z0063	NA			3	no time or place
+Z0064	NA			3	no time or place
+Z0065	NA			3	no time or place
+Z0066	NA			3	no time or place
+Z0067	NA			3	no time or place
+Z0068	NA			3	no time
+Z0069	NA			3	no time or place
+Z0070	NA			3	no time or place
+Z0071	NA			3	no time or place
+Z0072	NA			3	no time or place
+Z0073	NA			3	no place
+Z0074	NA			3	no time or place
+Z0075	NA			3	no time or place
+Z0076	NA			3	no time or place
+Z0077	NA			3	no time or place
+Z0078	NA	recently		3	no place
+Z0079	NA			3	no time or place
+Z0080	NA	now		3	no place
+Z0081	NA			3	no time or place
+Z0082	NA			3	no time
+Z0083	NA			3	no time or place
+Z0084	NA			3	no time or place
+Z0085	NA			3	no time or place
+Z0086	NA			3	no time or place
+Z0087	NA			3	no time or place
+Z0088	NA			3	no time or place
+Z0089	NA			3	no time
+Z0090	NA			3	no time or place
+Z0091	NA			3	no time or place
+Z0092	NA			3	no time or place
+Z0093	NA			3	no time or place
+Z0094	NA			3	no time or place
+Z0095	NA	now		3	institutional office
+Z0096	NA			3	no time or place
+Z0097	NA			3	no time or place
+Z0098	NA			3	no time or place
+Z0099	NA			3	no place
+Z0100	NA			3	no time or place
+Z0101	NA			3	no time or place
+Z0102	NA			3	no time or place
+Z0103	NA			3	no time or place
+Z0104	NA			3	no time or place
+Z0105	NA			3	no time or place
+Z0106	NA			3	no time or place
+Z0107	PAR	Before the phones went	in Biloxi	1	weak pairing inside report
+Z0108	NA			3	no time or place
+Z0109	NA			3	no time
+Z0110	NA			3	no time or place
+Z0111	NA	For now		3	no place
+Z0112	NA			3	no time
+Z0113	NA			3	no time or place
+Z0114	NA			3	no time or place
+Z0115	PAR	5–6 September 2019	A Coruña, Spain	2	event at place and date
+Z0116	NA			3	no time or place
+Z0117	NA			3	no time or place
+Z0118	NA			3	no time or place
+Z0119	NA			3	no place
+Z0120	NA			3	no time or place
+Z0121	NA	early next week		3	no place
+Z0122	NA			3	no time or place
+Z0123	NA			3	no place
+Z0124	NA			3	no time or place
+Z0125	NA			3	no time or place
+Z0126	NA			3	no time or place
+Z0127	PAR	from about 1200 to about 400 BCE	along the hot Gulf Coast of Mexico	2	flourishing and producing in period and region
+Z0128	NA			3	no time or place
+Z0129	NA			3	no time
+Z0130	NA			3	no time or place
+Z0131	NA			3	no time or place
+Z0132	NA			3	no time
+Z0133	NA			3	no time
+Z0134	NA			3	no time or place
+Z0135	NA			3	no time
+Z0136	NA			3	no time or place
+Z0137	NA			3	no time
+Z0138	NA			3	no time or place
+Z0139	NA			3	no time or place
+Z0140	NA			3	no time or place
+Z0141	NA			3	no time or place
+Z0142	NA			3	no time or place
+Z0143	NA			3	no time or place
+Z0144	NA			3	no time or place
+Z0145	NA			3	no time or place
+Z0146	NA			3	no time or place
+Z0147	NA			3	no time or place
+Z0148	NA			3	no time or place
+Z0149	NA			3	no time or place
+Z0150	NA			3	no time or place
+Z0151	NA			3	no time or place
+Z0152	NA			3	no time
+Z0153	NA			3	no time
+Z0154	NA			3	no place
+Z0155	NA			3	no time or place
+Z0156	NA			3	no time or place
+Z0157	NA			3	no time or place
+Z0158	NA			3	no time or place
+Z0159	NA			3	no time or place
+Z0160	NA			3	no time or place
+Z0161	NA			3	no time or place
+Z0162	NA			3	no time
+Z0163	NA			3	no time or place
+Z0164	NA			3	no time
+Z0165	NA			3	no literal time or place
+Z0166	NA			3	no time or place
+Z0167	NA	later		3	no place
+Z0168	NA			3	no time or place
+Z0169	NA			3	no time
+Z0170	NA			3	no time or place
+Z0171	NA			3	no time or place
+Z0172	NA			3	no time or place
+Z0173	NA			3	no time or place
+Z0174	NA			3	no time or place
+Z0175	NA			3	no time or place
+Z0176	NA			3	no time or place
+Z0177	NA			3	no time or place
+Z0178	NA			3	no time or place
+Z0179	NA			3	no time
+Z0180	NA			3	no time or place
+Z0181	NA			3	no time or place
+Z0182	NA			3	no time or place
+Z0183	NA			3	no time or place
+Z0184	NA			3	no time or place
+Z0185	NA			3	no time or place
+Z0186	NA			3	no time
+Z0187	NA			3	no time or place
+Z0188	NA			3	no time or place
+Z0189	NA			3	no time or place
+Z0190	NA			3	no time or place
+Z0191	NA			3	no time or place
+Z0192	NA	until then		3	no place
+Z0193	NA			3	no time or place
+Z0194	NA			3	no time or place
+Z0195	NA			3	no time or place
+Z0196	NA			3	no time or place
+Z0197	NA	mid-September		3	no place
+Z0198	NA			3	no time or place
+Z0199	NA			3	no time or place
+Z0200	NA			3	no time or place
+Z0201	NA			3	no time or place
+Z0202	NA			3	no time or place
+Z0203	NA			3	no time or place
+Z0204	NA			3	no time or place
+Z0205	NA			3	no literal time or place
+Z0206	NA			3	no time or place
+Z0207	NA	at the time		3	no place
+Z0208	NA			3	no time or place
+Z0209	NA			3	no time
+Z0210	NA			3	no time or place
+Z0211	NA			3	no literal time
+Z0212	NA			3	no time or place
+Z0213	NA			3	no time or place
+Z0214	NA			3	no time or place
+Z0215	NA			3	no time or place
+Z0216	NA			3	no time
+Z0217	NA			3	no time or place
+Z0218	NA			3	no time or place
+Z0219	NA			3	no time or place
+Z0220	NA			3	no time or place
+Z0221	NA			3	no time
+Z0222	NA			3	no time or place
+Z0223	NA			3	no time or place
+Z0224	NA	Currently		3	no place
+Z0225	NA			3	no time or place
+Z0226	NA			3	no time
+Z0227	NA			3	no place
+Z0228	NA			3	no time or place
+Z0229	NA			3	no time or place
+Z0230	NA			3	no time or place
+Z0231	NA			3	no time
+Z0232	NA	twice	Delhi	2	frequency not time value
+Z0233	NA			3	no time or place
+Z0234	PAR	after the crash	from the boat club proper	2	event of wandering over
+Z0235	NA			3	no time or place
+Z0236	NA			3	no time or place
+Z0237	NA			3	no time or place
+Z0238	NA			3	no time or place
+Z0239	NA			3	no time or place
+Z0240	NA			3	no time or place
+Z0241	NA			3	no time or place
+Z0242	NA			3	no time or place
+Z0243	NA			3	no time or place
+Z0244	NA			3	no time or place
+Z0245	NA			3	no time or place
+Z0246	NA			3	no time or place
+Z0247	NA			3	no time or place
+Z0248	NA			3	no time or place
+Z0249	NA			3	no time
+Z0250	NA			3	no time or place
+Z0251	NA			3	no time or place
+Z0252	NA			3	no time or place
+Z0253	NA			3	no time or place
+Z0254	NA			3	no time or place
+Z0255	NA			3	no time or place
+Z0256	NA			3	no time
+Z0257	NA			3	no time
+Z0258	NA			3	no time or place
+Z0259	NA			3	no place
+Z0260	NA			3	no time or place
+Z0261	NA			3	no time or place
+Z0262	NA			3	no place
+Z0263	NA			3	no time or place
+Z0264	NA			3	no time or place
+Z0265	NA			3	no time or place
+Z0266	NA			3	no time or place
+Z0267	NA			3	no time or place
+Z0268	NA			3	no time or place
+Z0269	NA			3	no time or place
+Z0270	NA			3	no time
+Z0271	NA			3	no time
+Z0272	NA			3	no time or place
+Z0273	NA			3	no time or place
+Z0274	NA			3	no time or place
+Z0275	NA			3	no time or place
+Z0276	NA			3	no time
+Z0277	NA			3	no time or place
+Z0278	NA			3	no time or place
+Z0279	NA			3	no time or place
+Z0280	NA			3	no time or place
+Z0281	NA			3	no time or place
+Z0282	NA			3	no time or place
+Z0283	NA			3	no time or place
+Z0284	NA			3	no time or place
+Z0285	NA			3	no time or place
+Z0286	NA			3	no time or place
+Z0287	NA			3	no time or place
+Z0288	NA			3	no time or place
+Z0289	NA			3	no time or place
+Z0290	NA			3	no time
+Z0291	NA			3	no time or place
+Z0292	NA			3	no time or place
+Z0293	NA			3	no time or place
+Z0294	NA			3	no time or place
+Z0295	NA			3	no time or place
+Z0296	NA			3	no time or place
+Z0297	NA			3	no time or place
+Z0298	NA			3	no time or place
+Z0299	NA			3	no time or place
+Z0300	NA			3	no time or place
+Z0301	NA			3	no time or place
+Z0302	NA			3	no time
+Z0303	NA			3	no time or place
+Z0304	NA			3	no time
+Z0305	NA			3	no time or place
+Z0306	NA			3	no time or place
+Z0307	NA			3	no time
+Z0308	NA			3	no time or place
+Z0309	NA			3	no time or place
+Z0310	NA			3	no time
+Z0311	NA			3	no time or place
+Z0312	NA			3	no time or place
+Z0313	NA			3	no time or place
+Z0314	NA			3	no time or place
+Z0315	NA	10:55 P.M		3	no place
+Z0316	NA			3	no time or place
+Z0317	NA			3	no time or place
+Z0318	NA			3	no time or place
+Z0319	NA			3	no time or place
+Z0320	NA			3	no time or place
+Z0321	NA			3	no time or place
+Z0322	NA			3	no time or place
+Z0323	NA			3	no time or place
+Z0324	NA			3	no time or place
+Z0325	NA			3	no time or place
+Z0326	NA			3	no time or place
+Z0327	NA			3	no time or place
+Z0328	NA			3	no time
+Z0329	NA			3	no time or place
+Z0330	NA	Long after his death		2	place only in a proper name
+Z0331	NA	today		3	no place
+Z0332	NA			3	no time or place
+Z0333	NA			3	no time
+Z0334	NA			3	no time or place
+Z0335	NA			3	no time or place
+Z0336	NA			3	no time or place
+Z0337	NA			3	no time or place
+Z0338	NA			3	no time
+Z0339	NA			3	no time or place
+Z0340	NA			3	no time or place
+Z0341	NA			3	no time or place
+Z0342	NA			3	no time or place
+Z0343	NA			3	no time or place
+Z0344	NA			3	no time or place
+Z0345	NA			3	no place
+Z0346	NA			3	no time or place
+Z0347	NA			3	no place
+Z0348	NA			3	no time or place
+Z0349	NA			3	no time or place
+Z0350	NA			3	no time
+Z0351	NA			2	no time in sentence
+Z0352	NA			3	no time or place
+Z0353	NA			3	no time or place
+Z0354	NA			3	no time or place
+Z0355	NA			3	no time or place
+Z0356	NA			3	no time or place
+Z0357	NA			3	no time or place
+Z0358	NA			3	no time or place
+Z0359	NA			3	no time or place
+Z0360	NA			3	no time
+Z0361	NA			3	no time or place
+Z0362	NA			3	no time or place
+Z0363	NA			3	no time or place
+Z0364	NA			3	no time
+Z0365	NA			3	no time or place
+Z0366	NA			3	no time or place
+Z0367	NA			3	no time or place
+Z0368	NA			3	no time or place
+Z0369	NA			3	no time or place
+Z0370	NA			3	no time or place
+Z0371	NA			3	no time or place
+Z0372	NA			3	no time or place
+Z0373	NA			3	no time or place
+Z0374	NA			3	no time or place
+Z0375	NA			3	no time or place
+Z0376	NA			3	no time or place
+Z0377	NA			3	no time or place
+Z0378	NA			3	no time or place
+Z0379	NA			3	no time or place
+Z0380	NA			3	no time or place
+Z0381	NA			3	no time or place
+Z0382	NA			3	no time or place
+Z0383	NA			3	no time or place
+Z0384	NA			3	no time or place
+Z0385	NA			3	no time or place
+Z0386	TP	since the earthquakes	Rotarua	1	safety state at place restricted by time
+Z0387	NA			3	no time or place
+Z0388	NA			3	no time or place
+Z0389	NA			3	no time or place
+Z0390	NA			3	no place
+Z0391	NA			3	no time or place
+Z0392	NA			3	no time or place
+Z0393	NA			3	no time or place
+Z0394	NA			3	no time or place
+Z0395	NA			3	no time or place
+Z0396	NA			3	no time or place
+Z0397	NA			3	no time or place
+Z0398	NA			3	no time or place
+Z0399	NA			3	no time
+Z0400	NA			3	no time or place
+Z0401	NA			3	no time or place
+Z0402	NA			3	no time or place
+Z0403	NA			3	no time
+Z0404	NA			3	no time
+Z0405	NA			3	no time or place
+Z0406	NA			3	no time or place
+Z0407	NA			3	no time or place
+Z0408	NA			3	no time or place
+Z0409	NA			3	no time or place
+Z0410	NA			3	no time or place
+Z0411	NA			3	no time or place
+Z0412	NA			3	no time or place
+Z0413	NA			3	no time or place
+Z0414	NA			3	no time or place
+Z0415	NA			3	no time or place
+Z0416	NA			3	no time or place
+Z0417	NA			3	no time or place
+Z0418	NA			3	no time or place
+Z0419	NA			3	no time or place
+Z0420	NA			3	no time or place
+Z0421	NA			3	no time or place
+Z0422	NA			3	no time
+Z0423	NA			3	no time or place
+Z0424	NA			3	no time or place
+Z0425	NA			3	no time or place
+Z0426	NA			3	no time or place
+Z0427	NA			3	no time or place
+Z0428	NA			3	no time or place
+Z0429	NA			3	no time or place
+Z0430	NA			3	no time or place
+Z0431	NA			3	no time or place
+Z0432	NA			3	no time or place
+Z0433	NA			3	no time or place
+Z0434	NA			3	no time
+Z0435	NA			3	no time or place
+Z0436	NA			3	no time or place
+Z0437	NA			3	no time or place
+Z0438	NA			3	no time or place
+Z0439	NA	Last time		3	no place
+Z0440	NA			3	no time or place
+Z0441	NA			3	no time or place
+Z0442	NA			3	no time or place
+Z0443	NA			3	no time or place
+Z0444	NA			3	no time or place
+Z0445	NA			3	no time or place
+Z0446	NA			3	no time or place
+Z0447	NA			3	no time or place
+Z0448	NA			3	no time or place
+Z0449	NA			3	no time or place
+Z0450	NA			3	no time or place
+Z0451	NA			3	no time or place
+Z0452	NA			3	no time or place
+Z0453	NA			3	no time or place
+Z0454	NA			3	no time or place
+Z0455	NA			3	no time or place
+Z0456	NA			3	no time or place
+Z0457	NA			3	no time or place
+Z0458	NA			3	no time or place
+Z0459	NA			3	no time or place
+Z0460	NA			3	no time or place
+Z0461	NA			3	no time or place
+Z0462	NA			3	no time or place
+Z0463	NA			3	no time or place
+Z0464	NA			3	no time or place
+Z0465	NA			3	no time or place
+Z0466	NA			3	no time or place
+Z0467	NA			3	no time or place
+Z0468	NA	30 min before close		3	no place
+Z0469	NA			3	no time or place
+Z0470	TP	currently	at Auckland Hospital	2	condition state at hospital restricted by currently
+Z0471	NA			3	no time
+Z0472	NA			3	no time or place
+Z0473	NA			3	no time or place
+Z0474	NA			3	no time or place
+Z0475	NA			3	no time or place
+Z0476	NA			3	no time or place
+Z0477	NA			3	no time or place
+Z0478	NA			3	no time or place
+Z0479	TP	on that day	in Houston	3	will you be in Houston on that day
+Z0480	NA			3	no time or place
+Z0481	NA			3	no time or place
+Z0482	NA			3	no time or place
+Z0483	NA			3	no time or place
+Z0484	NA			3	no time
+Z0485	NA			3	no time or place
+Z0486	NA			3	no time or place
+Z0487	NA			3	no time or place
+Z0488	NA			3	no time
+Z0489	NA			3	no time or place
+Z0490	NA	until his death	University of Basel	2	institutional chairs
+Z0491	NA			3	no time or place
+Z0492	NA			3	no time or place
+Z0493	NA			3	no time
+Z0494	NA			3	no time or place
+Z0495	NA			3	no time or place
+Z0496	NA			3	no time or place
+Z0497	NA			3	no time or place
+Z0498	NA			3	no time
+Z0499	NA			3	no time or place
+Z0500	NA			3	no time or place
+Z0501	NA			3	none
+Z0502	NA			3	none
+Z0503	NA			3	none
+Z0504	NA			3	none
+Z0505	NA			3	none
+Z0506	NA			3	none
+Z0507	NA			3	none
+Z0508	NA			3	none
+Z0509	NA			3	none
+Z0510	NA			3	none
+Z0511	NA			3	none
+Z0512	NA			3	none
+Z0513	NA			3	none
+Z0514	NA			3	none
+Z0515	NA			3	none
+Z0516	NA			3	none
+Z0517	NA			3	none
+Z0518	NA			3	none
+Z0519	NA			3	none
+Z0520	NA			3	none
+Z0521	NA			3	none
+Z0522	NA			3	none
+Z0523	NA			3	none
+Z0524	NA			3	none
+Z0525	NA			3	none
+Z0526	NA			3	none
+Z0527	NA			3	none
+Z0528	NA			3	none
+Z0529	NA			3	none
+Z0530	NA			3	none
+Z0531	NA			3	none
+Z0532	NA			3	none
+Z0533	NA			3	none
+Z0534	NA			3	none
+Z0535	NA			3	none
+Z0536	NA			3	none
+Z0537	NA			3	none
+Z0538	NA			3	none
+Z0539	NA			3	none
+Z0540	NA			3	none
+Z0541	NA			3	none
+Z0542	NA			3	none
+Z0543	NA			3	none
+Z0544	NA			3	none
+Z0545	NA			3	none
+Z0546	NA			3	none
+Z0547	NA			3	none
+Z0548	NA			3	none
+Z0549	NA			3	none
+Z0550	NA			3	none
+Z0551	NA			3	none
+Z0552	NA			3	none
+Z0553	NA			3	none
+Z0554	NA			3	none
+Z0555	NA			3	none
+Z0556	NA			3	none
+Z0557	NA			3	none
+Z0558	NA			3	none
+Z0559	NA			3	none
+Z0560	NA			3	none
+Z0561	NA			3	none
+Z0562	NA			3	none
+Z0563	NA			3	none
+Z0564	NA			3	none
+Z0565	NA			3	none
+Z0566	NA			3	none
+Z0567	PAR	Then one day	left the country	1	event; country as place weak
+Z0568	NA			3	none
+Z0569	NA			3	none
+Z0570	NA			3	none
+Z0571	NA			3	none
+Z0572	NA			3	none
+Z0573	NA			3	none
+Z0574	NA			3	none
+Z0575	NA			3	none
+Z0576	NA			3	none
+Z0577	NA			3	none
+Z0578	NA			3	none
+Z0579	PAR	before the baby can leave the hospital	When a child is born in Canada	1	generic event; weak
+Z0580	NA			3	none
+Z0581	NA			3	none
+Z0582	NA			3	none
+Z0583	NA			3	none
+Z0584	NA			3	none
+Z0585	NA			3	none
+Z0586	NA			3	none
+Z0587	NA			3	none
+Z0588	NA			3	none
+Z0589	NA			3	none
+Z0590	NA			3	none
+Z0591	NA			3	none
+Z0592	NA			3	none
+Z0593	NA			3	none
+Z0594	NA			3	none
+Z0595	NA			3	none
+Z0596	NA			3	none
+Z0597	NA			3	none
+Z0598	NA			3	no time
+Z0599	NA			3	none
+Z0600	NA			3	none
+Z0601	NA			3	none
+Z0602	NA			3	none
+Z0603	NA			3	none
+Z0604	NA			3	none
+Z0605	NA			3	none
+Z0606	NA			3	none
+Z0607	NA			3	none
+Z0608	NA			3	none
+Z0609	NA			3	none
+Z0610	NA			3	none
+Z0611	NA			3	none
+Z0612	NA			3	none
+Z0613	NA			3	none
+Z0614	NA			3	none
+Z0615	NA			3	none
+Z0616	NA			3	none
+Z0617	NA			3	none
+Z0618	NA			3	none
+Z0619	NA			3	no time
+Z0620	NA			3	none
+Z0621	NA			3	none
+Z0622	NA			3	none
+Z0623	NA			3	none
+Z0624	NA			3	none
+Z0625	NA			3	none
+Z0626	NA			3	none
+Z0627	NA			3	none
+Z0628	NA			3	none
+Z0629	NA			3	none
+Z0630	NA			3	none
+Z0631	NA			3	none
+Z0632	NA			3	none
+Z0633	NA			3	none
+Z0634	NA			3	none
+Z0635	NA			3	none
+Z0636	NA			3	none
+Z0637	NA			3	none
+Z0638	NA			3	none
+Z0639	NA			3	none
+Z0640	NA			3	none
+Z0641	NA			3	none
+Z0642	NA			3	none
+Z0643	NA			3	none
+Z0644	NA			3	no time
+Z0645	NA			3	none
+Z0646	NA			3	none
+Z0647	NA			3	none
+Z0648	NA			3	none
+Z0649	NA			3	none
+Z0650	NA			3	none
+Z0651	NA			3	no place
+Z0652	PAR	until October	in prison	2	event of reaching
+Z0653	NA			3	none
+Z0654	NA			3	none
+Z0655	NA			3	none
+Z0656	NA			3	none
+Z0657	NA			3	none
+Z0658	NA			3	none
+Z0659	NA			3	none
+Z0660	NA			3	no place
+Z0661	NA			3	none
+Z0662	NA			3	none
+Z0663	NA			3	none
+Z0664	NA			3	none
+Z0665	NA			3	none
+Z0666	NA			3	no time
+Z0667	NA			3	none
+Z0668	NA			3	none
+Z0669	NA			3	no time
+Z0670	NA			3	none
+Z0671	NA			3	none
+Z0672	NA			3	none
+Z0673	NA			3	none
+Z0674	NA			3	none
+Z0675	NA			3	none
+Z0676	NA			3	none
+Z0677	NA			3	none
+Z0678	NA			3	none
+Z0679	NA			3	none
+Z0680	NA			3	none
+Z0681	NA			3	none
+Z0682	NA			3	none
+Z0683	NA			3	none
+Z0684	NA			3	none
+Z0685	NA			3	none
+Z0686	NA			3	none
+Z0687	NA			3	none
+Z0688	NA			3	none
+Z0689	NA			3	none
+Z0690	NA			3	none
+Z0691	NA			3	none
+Z0692	NA			3	none
+Z0693	NA			3	none
+Z0694	NA			3	none
+Z0695	NA			3	none
+Z0696	NA			3	none
+Z0697	NA			3	none
+Z0698	NA			3	none
+Z0699	NA			3	none
+Z0700	NA			3	none
+Z0701	NA			3	none
+Z0702	NA			3	no time
+Z0703	NA			3	none
+Z0704	NA			3	no place
+Z0705	NA			3	none
+Z0706	NA			3	none
+Z0707	NA			3	none
+Z0708	NA			3	none
+Z0709	NA			3	none
+Z0710	NA			3	none
+Z0711	NA			3	none
+Z0712	NA			3	no place
+Z0713	NA			3	none
+Z0714	NA			3	none
+Z0715	NA			3	none
+Z0716	NA			3	none
+Z0717	NA			3	none
+Z0718	NA			3	none
+Z0719	NA			3	none
+Z0720	NA			3	none
+Z0721	NA			3	none
+Z0722	NA			3	none
+Z0723	NA			3	none
+Z0724	NA			3	none
+Z0725	NA			3	none
+Z0726	NA			3	none
+Z0727	NA			3	none
+Z0728	NA			3	none
+Z0729	NA			3	none
+Z0730	NA			3	none
+Z0731	NA			3	none
+Z0732	NA			3	none
+Z0733	NA			2	figurative India
+Z0734	NA			3	none
+Z0735	NA			3	none
+Z0736	NA			3	none
+Z0737	NA			3	none
+Z0738	NA			3	none
+Z0739	NA			3	none
+Z0740	NA			3	none
+Z0741	TP	before the scheduled time	here	2	state of being here at time
+Z0742	NA			3	none
+Z0743	NA			3	none
+Z0744	NA			3	none
+Z0745	PAR	about 373	through Thrace and Asia Minor into northern Syria	3	journey event
+Z0746	NA			3	none
+Z0747	NA			3	none
+Z0748	NA			3	none
+Z0749	NA			3	none
+Z0750	NA			3	none
+Z0751	NA			3	none
+Z0752	NA			3	none
+Z0753	NA			3	none
+Z0754	NA			3	none
+Z0755	NA			3	none
+Z0756	NA			3	no place
+Z0757	NA			3	none
+Z0758	NA			3	no place
+Z0759	NA			3	none
+Z0760	NA			3	none
+Z0761	NA			3	none
+Z0762	NA			3	none
+Z0763	NA			3	none
+Z0764	NA			3	none
+Z0765	NA			3	none
+Z0766	NA			3	none
+Z0767	NA			3	none
+Z0768	NA			3	none
+Z0769	NA			3	none
+Z0770	NA			3	no time
+Z0771	PAR	of 1835	at San Felipe de Austin	2	delegates voted; event
+Z0772	NA			3	none
+Z0773	NA			3	none
+Z0774	NA			3	none
+Z0775	NA			3	none
+Z0776	NA			3	none
+Z0777	NA			3	none
+Z0778	NA			3	none
+Z0779	NA			3	none
+Z0780	NA			3	none
+Z0781	NA			3	none
+Z0782	NA			3	none
+Z0783	NA			3	none
+Z0784	NA			3	none
+Z0785	NA			3	none
+Z0786	NA			3	none
+Z0787	NA			3	none
+Z0788	NA			3	none
+Z0789	NA			3	none
+Z0790	NA			3	none
+Z0791	NA			3	none
+Z0792	NA			3	no time
+Z0793	NA			3	none
+Z0794	NA			3	none
+Z0795	NA			3	none
+Z0796	NA			3	none
+Z0797	NA			3	none
+Z0798	NA			3	none
+Z0799	NA			3	none
+Z0800	NA			3	none
+Z0801	NA			3	no place
+Z0802	NA			3	institutional place
+Z0803	NA			3	none
+Z0804	NA			3	none
+Z0805	NA			3	none
+Z0806	NA			3	none
+Z0807	NA			3	none
+Z0808	NA			3	none
+Z0809	NA			3	none
+Z0810	NA			3	none
+Z0811	NA			3	none
+Z0812	NA			3	none
+Z0813	NA			3	none
+Z0814	NA			3	none
+Z0815	NA			3	none
+Z0816	NA			3	none
+Z0817	NA			3	none
+Z0818	NA			3	none
+Z0819	NA			3	none
+Z0820	NA			3	none
+Z0821	NA			3	none
+Z0822	TP	all the time	here	2	being here at times
+Z0823	NA			3	none
+Z0824	NA			3	none
+Z0825	NA			3	none
+Z0826	NA			3	none
+Z0827	NA			3	none
+Z0828	NA			3	none
+Z0829	NA			3	none
+Z0830	NA			3	none
+Z0831	NA			3	abstract
+Z0832	NA			3	none
+Z0833	NA			3	none
+Z0834	NA			3	none
+Z0835	NA			3	none
+Z0836	NA			3	none
+Z0837	NA			3	none
+Z0838	NA			3	none
+Z0839	NA			2	time zone not place
+Z0840	NA			3	none
+Z0841	NA			3	none
+Z0842	NA			3	none
+Z0843	NA			2	no clear place
+Z0844	NA			3	none
+Z0845	NA			3	none
+Z0846	NA			3	none
+Z0847	NA			3	none
+Z0848	NA			3	none
+Z0849	NA			3	none
+Z0850	NA			3	none
+Z0851	NA			3	none
+Z0852	NA			3	none
+Z0853	NA			3	none
+Z0854	NA			3	none
+Z0855	NA			3	none
+Z0856	NA			3	none
+Z0857	NA			3	none
+Z0858	NA			3	none
+Z0859	NA			3	none
+Z0860	NA			3	none
+Z0861	NA			3	none
+Z0862	NA			3	none
+Z0863	NA			3	none
+Z0864	TP	now	at relatives in Amiriya, Baghdad	2	used to live in Fallujah, now in Amiriya
+Z0865	NA			3	none
+Z0866	NA			3	none
+Z0867	NA			3	none
+Z0868	NA			3	none
+Z0869	NA			3	none
+Z0870	NA			3	none
+Z0871	NA			3	none
+Z0872	NA			3	none
+Z0873	NA			3	none
+Z0874	NA			3	none
+Z0875	PAR	only after suicide murders arrive	in Europe	1	figurative-ish; weak
+Z0876	NA			3	none
+Z0877	NA			3	none
+Z0878	PAR	When I tour	around Taiwan	1	clause time
+Z0879	NA			3	none
+Z0880	NA			3	none
+Z0881	NA			3	none
+Z0882	NA			3	none
+Z0883	NA			3	none
+Z0884	NA			3	none
+Z0885	NA			3	none
+Z0886	NA			3	none
+Z0887	NA			3	none
+Z0888	NA			3	none
+Z0889	NA			3	none
+Z0890	NA			3	none
+Z0891	NA			3	none
+Z0892	TP	Now that I live here	here	1	state of living here
+Z0893	NA			3	none
+Z0894	NA			3	none
+Z0895	NA			3	none
+Z0896	NA			3	none
+Z0897	NA			3	none
+Z0898	NA			3	none
+Z0899	NA			3	none
+Z0900	NA			3	no time
+Z0901	NA			3	none
+Z0902	NA			3	none
+Z0903	PAR	Once I actually got back	in my car	1	event
+Z0904	NA			3	none
+Z0905	NA			3	none
+Z0906	NA			3	none
+Z0907	NA			3	none
+Z0908	NA			3	none
+Z0909	NA			3	none
+Z0910	NA			3	none
+Z0911	NA			3	no time
+Z0912	NA			2	none
+Z0913	NA			3	none
+Z0914	NA			3	none
+Z0915	NA			3	none
+Z0916	NA			3	none
+Z0917	NA			3	none
+Z0918	NA			3	none
+Z0919	NA			3	none
+Z0920	NA			3	none
+Z0921	NA			3	none
+Z0922	NA			3	none
+Z0923	NA			3	none
+Z0924	NA			3	none
+Z0925	NA			3	none
+Z0926	NA			3	none
+Z0927	NA			3	none
+Z0928	NA			3	none
+Z0929	NA			3	none
+Z0930	NA			3	none
+Z0931	NA			3	none
+Z0932	NA			3	none
+Z0933	NA			3	none
+Z0934	NA			3	none
+Z0935	NA			3	none
+Z0936	NA			3	none
+Z0937	NA			3	none
+Z0938	NA			3	none
+Z0939	NA			3	none
+Z0940	NA			3	none
+Z0941	NA			3	none
+Z0942	NA			3	none
+Z0943	NA			3	none
+Z0944	NA			3	none
+Z0945	NA			3	none
+Z0946	NA			3	none
+Z0947	NA			3	none
+Z0948	NA			3	none
+Z0949	NA			3	none
+Z0950	NA			3	none
+Z0951	NA			3	none
+Z0952	NA			3	none
+Z0953	NA			3	none
+Z0954	NA			3	none
+Z0955	NA			3	none
+Z0956	NA			3	none
+Z0957	NA			3	none
+Z0958	NA			3	none
+Z0959	NA			3	none
+Z0960	NA			3	institutional
+Z0961	NA			3	none
+Z0962	NA			3	none
+Z0963	NA			3	none
+Z0964	NA			3	none
+Z0965	NA			3	none
+Z0966	NA			3	none
+Z0967	NA			3	none
+Z0968	TP	currently	at sea in the region	3	state of being at sea now
+Z0969	NA			3	none
+Z0970	PAR	still	In Baghdad	1	ongoing event
+Z0971	NA			3	none
+Z0972	NA			3	none
+Z0973	NA			3	none
+Z0974	NA			3	none
+Z0975	NA			3	none
+Z0976	NA			3	none
+Z0977	NA			3	none
+Z0978	NA			3	none
+Z0979	NA			3	no place
+Z0980	NA			3	none
+Z0981	NA			3	none
+Z0982	NA			3	none
+Z0983	NA			3	none
+Z0984	NA			3	none
+Z0985	NA			3	none
+Z0986	NA			3	none
+Z0987	NA			3	none
+Z0988	NA			3	none
+Z0989	NA			3	none
+Z0990	NA			3	none
+Z0991	NA			3	none
+Z0992	NA			3	none
+Z0993	NA			3	none
+Z0994	NA			3	none
+Z0995	NA			3	none
+Z0996	NA			3	none
+Z0997	NA			3	none
+Z0998	NA			3	none
+Z0999	NA			3	none
+Z1000	NA			2	institutional place
+Z1001	NA			3	no time
+Z1002	NA			3	no time/place
+Z1003	NA			3	no time
+Z1004	NA			3	no time/place
+Z1005	NA			2	next trip weak time
+Z1006	NA			3	no time
+Z1007	NA			2	deictic
+Z1008	NA			3	none
+Z1009	NA			3	none
+Z1010	NA			3	none
+Z1011	NA			3	none
+Z1012	NA			3	none
+Z1013	NA			3	none
+Z1014	PAR	stay a night	my friend Ken's hotel	2	event stay
+Z1015	NA			3	none
+Z1016	NA			3	none
+Z1017	NA			3	none
+Z1018	NA			3	none
+Z1019	NA			3	none
+Z1020	NA			3	none
+Z1021	NA			3	none
+Z1022	NA			3	none
+Z1023	NA			3	none
+Z1024	NA			3	none
+Z1025	NA			3	none
+Z1026	NA			3	none
+Z1027	NA			2	place is content
+Z1028	PAR	After having written so far	the cafe at one end of the Albergo	2	fiction event
+Z1029	NA			3	no time
+Z1030	PAR	since I was sixteen	coffeehouses	2	event
+Z1031	NA			3	none
+Z1032	NA			3	no place
+Z1033	NA			3	none
+Z1034	NA			3	none
+Z1035	NA			3	none
+Z1036	NA			3	none
+Z1037	NA			3	none
+Z1038	NA			3	none
+Z1039	NA			3	none
+Z1040	NA			3	none
+Z1041	NA			3	none
+Z1042	NA			3	none
+Z1043	NA			3	none
+Z1044	NA			3	none
+Z1045	NA			3	none
+Z1046	NA			3	none
+Z1047	NA			3	none
+Z1048	NA			3	none
+Z1049	NA			3	none
+Z1050	NA			3	no time
+Z1051	NA			3	none
+Z1052	NA			3	none
+Z1053	NA			3	none
+Z1054	NA			3	none
+Z1055	NA			3	none
+Z1056	NA			3	none
+Z1057	NA			3	none
+Z1058	NA			3	none
+Z1059	NA			3	no time
+Z1060	NA			3	none
+Z1061	NA			3	none
+Z1062	NA			3	none
+Z1063	NA			3	no time
+Z1064	NA			3	none
+Z1065	NA			3	none
+Z1066	NA			3	none
+Z1067	NA			3	none
+Z1068	NA			3	none
+Z1069	NA			3	none
+Z1070	NA			3	none
+Z1071	NA			3	none
+Z1072	NA			2	figurative place
+Z1073	NA			3	none
+Z1074	TP	still	the CBD	1	state closed with still
+Z1075	NA			3	none
+Z1076	NA			3	no place
+Z1077	NA			3	none
+Z1078	NA			3	none
+Z1079	NA			3	none
+Z1080	NA			3	none
+Z1081	NA			3	none
+Z1082	NA			3	none
+Z1083	NA			3	none
+Z1084	NA			3	no time
+Z1085	NA			3	none
+Z1086	NA			3	none
+Z1087	NA			3	none
+Z1088	NA			3	none
+Z1089	NA			3	none
+Z1090	NA			3	none
+Z1091	NA			3	none
+Z1092	NA			3	none
+Z1093	NA			3	none
+Z1094	NA			3	none
+Z1095	NA			3	none
+Z1096	NA			3	none
+Z1097	NA			3	none
+Z1098	NA			3	none
+Z1099	NA			3	none
+Z1100	NA			3	institutional
+Z1101	NA			3	none
+Z1102	NA			3	none
+Z1103	NA			3	none
+Z1104	NA			3	none
+Z1105	NA			3	none
+Z1106	NA			3	none
+Z1107	NA			2	possession not place
+Z1108	NA			3	none
+Z1109	NA			3	none
+Z1110	NA			3	none
+Z1111	NA			3	none
+Z1112	PAR	during their lifetimes	Mecca	2	required event
+Z1113	NA			3	none
+Z1114	NA			3	none
+Z1115	NA			3	none
+Z1116	NA			3	none
+Z1117	PAR	soon	our way	2	coming event
+Z1118	NA			3	none
+Z1119	NA			3	no time
+Z1120	NA			3	none
+Z1121	PAR	Once	on shore	2	event
+Z1122	NA			3	none
+Z1123	NA			3	none
+Z1124	NA			3	none
+Z1125	NA			3	none
+Z1126	NA			3	none
+Z1127	NA			3	none
+Z1128	NA			3	none
+Z1129	NA			3	none
+Z1130	NA			3	none
+Z1131	NA			3	none
+Z1132	NA			3	none
+Z1133	NA			3	none
+Z1134	NA			3	none
+Z1135	NA			3	none
+Z1136	NA			3	none
+Z1137	NA			3	none
+Z1138	NA			3	none
+Z1139	NA			3	none
+Z1140	NA			3	none
+Z1141	NA			3	none
+Z1142	NA			3	institutional
+Z1143	NA			3	none
+Z1144	NA			3	none
+Z1145	NA			3	none
+Z1146	NA			3	none
+Z1147	NA			3	none
+Z1148	NA			3	none
+Z1149	NA			3	none
+Z1150	NA			3	none
+Z1151	NA			3	none
+Z1152	NA			3	none
+Z1153	NA			3	none
+Z1154	NA			3	none
+Z1155	NA			3	none
+Z1156	NA			3	none
+Z1157	NA			3	no time
+Z1158	NA			3	none
+Z1159	NA			3	none
+Z1160	NA			3	none
+Z1161	NA			3	none
+Z1162	NA			3	none
+Z1163	NA			3	none
+Z1164	NA			3	none
+Z1165	NA			3	none
+Z1166	NA			3	none
+Z1167	NA			3	none
+Z1168	NA			3	none
+Z1169	NA			3	none
+Z1170	NA			3	none
+Z1171	NA			3	none
+Z1172	NA			3	place only
+Z1173	NA			3	none
+Z1174	NA			3	none
+Z1175	NA			3	none
+Z1176	NA			3	none
+Z1177	NA			3	none
+Z1178	NA			3	none
+Z1179	NA			3	none
+Z1180	NA			3	none
+Z1181	NA			3	none
+Z1182	NA			2	Russia institutional
+Z1183	NA			3	none
+Z1184	NA			3	none
+Z1185	NA			3	none
+Z1186	NA			3	none
+Z1187	NA			3	none
+Z1188	NA			3	none
+Z1189	NA			3	none
+Z1190	NA			3	no time
+Z1191	NA			3	none
+Z1192	NA			3	none
+Z1193	NA			3	none
+Z1194	NA			3	none
+Z1195	NA			3	none
+Z1196	PAR	Then	a room with a huge gap under the door	2	event
+Z1197	NA			3	none
+Z1198	NA			3	none
+Z1199	NA			3	none
+Z1200	NA			3	none
+Z1201	NA			3	none
+Z1202	NA			3	none
+Z1203	NA			3	none
+Z1204	NA			3	none
+Z1205	NA			3	none
+Z1206	NA			3	none
+Z1207	NA			3	none
+Z1208	NA			3	none
+Z1209	NA			3	none
+Z1210	NA			3	none
+Z1211	NA			3	none
+Z1212	NA			3	none
+Z1213	NA			3	none
+Z1214	NA			3	none
+Z1215	NA			3	none
+Z1216	NA			3	none
+Z1217	NA			3	none
+Z1218	NA			3	none
+Z1219	NA			3	none
+Z1220	NA			3	none
+Z1221	NA			3	none
+Z1222	NA			3	none
+Z1223	NA			3	none
+Z1224	NA			3	none
+Z1225	NA			3	none
+Z1226	NA			3	none
+Z1227	NA			3	none
+Z1228	NA			3	none
+Z1229	PAR	everyday	ncfa	2	teaches event
+Z1230	PAR	The first night	an empty parking lot near a busy road	1	dream event
+Z1231	NA			3	none
+Z1232	NA			3	none
+Z1233	NA			3	none
+Z1234	NA			3	none
+Z1235	NA			3	none
+Z1236	NA			3	none
+Z1237	NA			3	no time
+Z1238	NA			3	none
+Z1239	NA			3	no place
+Z1240	NA			3	none
+Z1241	NA			3	no time
+Z1242	NA			3	none
+Z1243	NA			3	none
+Z1244	NA			3	none
+Z1245	NA			3	none
+Z1246	NA			3	none
+Z1247	NA			3	no time
+Z1248	NA			3	none
+Z1249	NA			3	none
+Z1250	NA			3	none
+Z1251	NA			3	none
+Z1252	NA			3	none
+Z1253	NA			3	none
+Z1254	NA			3	none
+Z1255	NA			3	none
+Z1256	NA			3	no time
+Z1257	NA			3	no time
+Z1258	NA			3	no place
+Z1259	NA			3	none
+Z1260	NA			3	none
+Z1261	NA			3	none
+Z1262	NA			3	none
+Z1263	NA			3	no place
+Z1264	NA			3	none
+Z1265	NA			3	none
+Z1266	NA			3	none
+Z1267	NA			3	none
+Z1268	NA			3	none
+Z1269	NA			3	none
+Z1270	NA			3	none
+Z1271	NA			3	none
+Z1272	NA			3	none
+Z1273	NA			3	none
+Z1274	NA			3	none
+Z1275	NA			3	none
+Z1276	NA			3	no time
+Z1277	NA			3	none
+Z1278	NA			3	none
+Z1279	NA			3	none
+Z1280	NA			3	none
+Z1281	NA			3	no time
+Z1282	NA			3	none
+Z1283	NA			3	none
+Z1284	NA			3	none
+Z1285	NA			3	none
+Z1286	NA			3	none
+Z1287	NA			3	none
+Z1288	NA			2	still weak time
+Z1289	NA			3	no place
+Z1290	NA			3	none
+Z1291	NA			3	none
+Z1292	NA			3	none
+Z1293	PAR	shortly before her death	the emergency department	3	event
+Z1294	NA			3	none
+Z1295	NA			3	none
+Z1296	NA			3	none
+Z1297	NA			3	no time
+Z1298	NA			3	none
+Z1299	NA			3	none
+Z1300	NA			3	none
+Z1301	NA			3	none
+Z1302	NA			3	none
+Z1303	NA			3	none
+Z1304	NA			3	none
+Z1305	NA			3	none
+Z1306	NA			3	none
+Z1307	NA			3	none
+Z1308	NA			3	none
+Z1309	NA			3	none
+Z1310	NA			3	none
+Z1311	NA			3	none
+Z1312	NA			3	none
+Z1313	NA			3	none
+Z1314	NA			3	none
+Z1315	NA			3	none
+Z1316	NA			3	none
+Z1317	NA			3	none
+Z1318	NA			3	no place
+Z1319	NA			3	none
+Z1320	NA			3	none
+Z1321	NA			3	none
+Z1322	NA			3	no place
+Z1323	NA			3	no place
+Z1324	NA			3	no time
+Z1325	NA			3	no place
+Z1326	NA			3	no time
+Z1327	NA			3	no time
+Z1328	NA			3	none
+Z1329	NA			3	none
+Z1330	NA			3	none
+Z1331	NA			3	none
+Z1332	NA			3	none
+Z1333	NA			3	no time
+Z1334	NA			3	none
+Z1335	NA			3	none
+Z1336	NA			3	none
+Z1337	NA			3	none
+Z1338	NA			3	none
+Z1339	NA			3	none
+Z1340	NA			3	none
+Z1341	NA			3	none
+Z1342	TP	used to	Meadowrun	2	past residence state
+Z1343	NA			3	none
+Z1344	NA			3	none
+Z1345	NA			3	none
+Z1346	NA			3	none
+Z1347	NA			3	none
+Z1348	NA			3	none
+Z1349	NA			3	none
+Z1350	NA			3	none
+Z1351	NA			3	none
+Z1352	NA			3	none
+Z1353	NA			3	none
+Z1354	NA			3	none
+Z1355	NA			2	there deictic
+Z1356	NA			3	none
+Z1357	NA			3	none
+Z1358	NA			3	none
+Z1359	NA			3	none
+Z1360	NA			3	none
+Z1361	NA			3	none
+Z1362	NA			3	none
+Z1363	NA			3	none
+Z1364	NA			3	none
+Z1365	NA			3	none
+Z1366	NA			3	none
+Z1367	NA			3	none
+Z1368	NA			3	none
+Z1369	NA			3	none
+Z1370	NA			3	none
+Z1371	NA			3	none
+Z1372	NA			3	none
+Z1373	NA			3	none
+Z1374	NA			3	none
+Z1375	NA			3	none
+Z1376	NA			3	none
+Z1377	NA			3	none
+Z1378	NA			3	none
+Z1379	NA			3	none
+Z1380	NA			3	none
+Z1381	NA			3	none
+Z1382	NA			3	none
+Z1383	NA			2	Hollywood institutional
+Z1384	NA			3	none
+Z1385	NA			3	none
+Z1386	PAR	one day	this little restaurant	3	event
+Z1387	NA			3	none
+Z1388	PAR	I used to	down the street	2	event
+Z1389	NA			3	none
+Z1390	NA			3	none
+Z1391	NA			3	none
+Z1392	NA			3	none
+Z1393	NA			3	none
+Z1394	NA			3	none
+Z1395	NA			3	none
+Z1396	NA			3	none
+Z1397	NA			3	none
+Z1398	NA			3	none
+Z1399	NA			3	none
+Z1400	NA			3	none
+Z1401	NA			3	none
+Z1402	NA			3	none
+Z1403	NA			3	none
+Z1404	NA			3	none
+Z1405	NA			3	none
+Z1406	NA			3	none
+Z1407	NA			3	none
+Z1408	NA			3	none
+Z1409	NA			2	no clear time
+Z1410	NA			3	none
+Z1411	NA			3	none
+Z1412	NA			3	none
+Z1413	NA			3	none
+Z1414	NA			3	none
+Z1415	NA			3	none
+Z1416	NA			3	none
+Z1417	NA			3	none
+Z1418	NA			3	none
+Z1419	NA			3	none
+Z1420	NA			3	none
+Z1421	NA			3	none
+Z1422	NA			3	none
+Z1423	NA			3	none
+Z1424	NA			3	none
+Z1425	NA			3	none
+Z1426	NA			3	none
+Z1427	PAR	in no time	my house	3	event
+Z1428	NA			3	none
+Z1429	NA			3	none
+Z1430	NA			3	none
+Z1431	NA			3	none
+Z1432	NA			3	none
+Z1433	NA			2	ranking figurative
+Z1434	NA			3	none
+Z1435	NA			3	none
+Z1436	NA			3	none
+Z1437	NA			3	none
+Z1438	NA			3	none
+Z1439	NA			3	none
+Z1440	NA			3	none
+Z1441	NA			3	none
+Z1442	NA			3	none
+Z1443	NA			3	none
+Z1444	NA			3	none
+Z1445	NA			3	none
+Z1446	NA			3	none
+Z1447	NA			3	none
+Z1448	NA			3	none
+Z1449	NA			3	none
+Z1450	NA			3	none
+Z1451	NA			3	none
+Z1452	NA			3	none
+Z1453	NA			3	none
+Z1454	NA			3	none
+Z1455	NA			3	no time
+Z1456	NA			3	none
+Z1457	NA			3	none
+Z1458	NA			3	none
+Z1459	NA			3	none
+Z1460	NA			3	none
+Z1461	NA			3	none
+Z1462	NA			3	none
+Z1463	NA			3	none
+Z1464	NA			3	none
+Z1465	NA			3	no time
+Z1466	PAR	Not long before	the flight deck of his deployment carrier	2	event
+Z1467	NA			3	none
+Z1468	NA			3	none
+Z1469	NA			3	none
+Z1470	NA			3	none
+Z1471	NA			3	none
+Z1472	NA			3	none
+Z1473	NA			3	none
+Z1474	NA			3	none
+Z1475	NA			3	none
+Z1476	NA			3	none
+Z1477	NA			3	none
+Z1478	NA			3	none
+Z1479	NA			3	none
+Z1480	NA			3	none
+Z1481	NA			3	none
+Z1482	NA			3	no time
+Z1483	NA			3	none
+Z1484	NA			3	none
+Z1485	NA			3	none
+Z1486	NA			3	none
+Z1487	NA			3	none
+Z1488	NA			3	none
+Z1489	NA			3	none
+Z1490	NA			3	none
+Z1491	NA			3	none
+Z1492	NA			3	none
+Z1493	NA			3	none
+Z1494	NA			3	none
+Z1495	NA			3	no place
+Z1496	NA			3	none
+Z1497	NA			3	none
+Z1498	NA			3	none
+Z1499	NA			3	none
+Z1500	NA			3	none
+Z1501	NA			3	no literal time+place
+Z1502	NA			3	no literal time+place
+Z1503	NA			3	no literal time+place
+Z1504	NA			3	no literal time+place
+Z1505	NA			3	no literal time+place
+Z1506	NA			3	no literal time+place
+Z1507	NA			3	no literal time+place
+Z1508	NA			3	no literal time+place
+Z1509	NA			3	no literal time+place
+Z1510	NA			3	no literal time+place
+Z1511	NA			3	no literal time+place
+Z1512	NA			3	no literal time+place
+Z1513	NA			3	no literal time+place
+Z1514	NA			3	no literal time+place
+Z1515	NA			3	no literal time+place
+Z1516	NA			3	no literal time+place
+Z1517	NA			3	no literal time+place
+Z1518	NA			3	no literal time+place
+Z1519	NA			3	no literal time+place
+Z1520	NA			3	no literal time+place
+Z1521	PAR	12:Sat	Compaq Center	2	event at time and place
+Z1522	NA			3	no literal time+place
+Z1523	NA			3	no literal time+place
+Z1524	NA			3	no literal time+place
+Z1525	NA			3	no literal time+place
+Z1526	NA			3	no literal time+place
+Z1527	NA			3	no literal time+place
+Z1528	NA			3	no literal time+place
+Z1529	NA			3	no literal time+place
+Z1530	NA			3	no literal time+place
+Z1531	NA			3	no literal time+place
+Z1532	NA			3	no literal time+place
+Z1533	NA			3	no literal time+place
+Z1534	NA			3	no literal time+place
+Z1535	NA			3	no literal time+place
+Z1536	NA			3	no literal time+place
+Z1537	NA			3	no literal time+place
+Z1538	NA			3	no literal time+place
+Z1539	NA			3	no literal time+place
+Z1540	NA			3	no literal time+place
+Z1541	NA			3	no literal time+place
+Z1542	NA			3	no literal time+place
+Z1543	NA			3	no literal time+place
+Z1544	NA			3	no literal time+place
+Z1545	NA			3	no literal time+place
+Z1546	NA			3	no literal time+place
+Z1547	NA			3	no literal time+place
+Z1548	NA			3	no literal time+place
+Z1549	NA			3	no literal time+place
+Z1550	NA			3	no literal time+place
+Z1551	NA			3	no literal time+place
+Z1552	NA			3	no literal time+place
+Z1553	NA			3	no literal time+place
+Z1554	NA			3	no literal time+place
+Z1555	NA			3	no literal time+place
+Z1556	NA			3	no literal time+place
+Z1557	NA			3	no literal time+place
+Z1558	NA			3	no literal time+place
+Z1559	NA			3	no literal time+place
+Z1560	NA			3	no literal time+place
+Z1561	NA			3	no literal time+place
+Z1562	NA			3	no literal time+place
+Z1563	NA			3	no literal time+place
+Z1564	NA			3	no literal time+place
+Z1565	NA			3	no literal time+place
+Z1566	NA			3	no literal time+place
+Z1567	NA			3	no literal time+place
+Z1568	NA			3	no literal time+place
+Z1569	NA			3	no literal time+place
+Z1570	NA			3	no literal time+place
+Z1571	NA			3	no literal time+place
+Z1572	NA			3	no literal time+place
+Z1573	NA			3	no literal time+place
+Z1574	NA			3	no literal time+place
+Z1575	NA			3	no literal time+place
+Z1576	NA			3	no literal time+place
+Z1577	NA			3	no literal time+place
+Z1578	NA			3	no literal time+place
+Z1579	NA			3	no literal time+place
+Z1580	NA			3	no literal time+place
+Z1581	NA			3	no literal time+place
+Z1582	NA			3	no literal time+place
+Z1583	NA			3	no literal time+place
+Z1584	NA			3	no literal time+place
+Z1585	NA			3	no literal time+place
+Z1586	NA			3	no literal time+place
+Z1587	NA			3	no literal time+place
+Z1588	NA			3	no literal time+place
+Z1589	NA			3	no literal time+place
+Z1590	NA			3	no literal time+place
+Z1591	NA			3	no literal time+place
+Z1592	NA			3	no literal time+place
+Z1593	NA			3	no literal time+place
+Z1594	NA			3	no literal time+place
+Z1595	NA			3	no literal time+place
+Z1596	NA			3	no literal time+place
+Z1597	NA			3	no literal time+place
+Z1598	NA			3	no literal time+place
+Z1599	NA			3	no literal time+place
+Z1600	NA			3	no literal time+place
+Z1601	NA			3	no literal time+place
+Z1602	TP	At the moment	Levico Terme, Trento, Italy	3	location state now
+Z1603	NA			3	no literal time+place
+Z1604	NA			3	no literal time+place
+Z1605	NA			3	no literal time+place
+Z1606	NA			3	no literal time+place
+Z1607	NA			3	no literal time+place
+Z1608	NA			3	no literal time+place
+Z1609	NA			3	no literal time+place
+Z1610	NA			3	no literal time+place
+Z1611	PAR	during the filming of Let it Be	in the Apple studios	3	event
+Z1612	NA			3	no literal time+place
+Z1613	NA			3	no literal time+place
+Z1614	NA			3	no literal time+place
+Z1615	NA			3	no literal time+place
+Z1616	NA			3	no literal time+place
+Z1617	NA			3	no literal time+place
+Z1618	NA			3	no literal time+place
+Z1619	NA			3	no literal time+place
+Z1620	NA			3	no literal time+place
+Z1621	NA			3	no literal time+place
+Z1622	NA			3	no literal time+place
+Z1623	NA			3	no literal time+place
+Z1624	NA			3	no literal time+place
+Z1625	NA			3	no literal time+place
+Z1626	NA			3	no literal time+place
+Z1627	NA			3	no literal time+place
+Z1628	NA			3	no literal time+place
+Z1629	NA			3	no literal time+place
+Z1630	NA			3	no literal time+place
+Z1631	NA			3	no literal time+place
+Z1632	NA			3	no literal time+place
+Z1633	NA			3	no literal time+place
+Z1634	NA			3	no literal time+place
+Z1635	NA			3	no literal time+place
+Z1636	NA			3	no literal time+place
+Z1637	NA			3	no literal time+place
+Z1638	NA			3	no literal time+place
+Z1639	NA			3	no literal time+place
+Z1640	NA			3	no literal time+place
+Z1641	NA			3	no literal time+place
+Z1642	NA			3	no literal time+place
+Z1643	NA			3	no literal time+place
+Z1644	NA			3	no literal time+place
+Z1645	NA			3	no literal time+place
+Z1646	NA			3	no literal time+place
+Z1647	NA			3	no literal time+place
+Z1648	NA			3	no literal time+place
+Z1649	NA			3	no literal time+place
+Z1650	NA			3	no literal time+place
+Z1651	NA			3	no literal time+place
+Z1652	NA			3	no literal time+place
+Z1653	NA			3	no literal time+place
+Z1654	NA			3	no literal time+place
+Z1655	NA			3	no literal time+place
+Z1656	NA			3	no literal time+place
+Z1657	NA			3	no literal time+place
+Z1658	NA			3	no literal time+place
+Z1659	NA			3	no literal time+place
+Z1660	NA			3	no literal time+place
+Z1661	NA			3	no literal time+place
+Z1662	NA			3	no literal time+place
+Z1663	TP	most of my life	Dallas/Fort Worth Metroplex	2	lived in place over time
+Z1664	NA			3	no literal time+place
+Z1665	NA			3	no literal time+place
+Z1666	NA			3	no literal time+place
+Z1667	NA			3	no literal time+place
+Z1668	NA			3	no literal time+place
+Z1669	NA			3	no literal time+place
+Z1670	NA			3	no literal time+place
+Z1671	NA			3	no literal time+place
+Z1672	PAR	now	Saxby's	2	heading to
+Z1673	NA			3	no literal time+place
+Z1674	NA			3	no literal time+place
+Z1675	NA			3	no literal time+place
+Z1676	NA			3	no literal time+place
+Z1677	NA			3	no literal time+place
+Z1678	NA			3	no literal time+place
+Z1679	NA			3	no literal time+place
+Z1680	NA			3	no literal time+place
+Z1681	NA			3	no literal time+place
+Z1682	NA			3	no literal time+place
+Z1683	NA			3	no literal time+place
+Z1684	NA			3	no literal time+place
+Z1685	NA			3	no literal time+place
+Z1686	NA			3	no literal time+place
+Z1687	NA			3	no literal time+place
+Z1688	NA			3	no literal time+place
+Z1689	NA			3	no literal time+place
+Z1690	NA			3	no literal time+place
+Z1691	NA			3	no literal time+place
+Z1692	NA			3	no literal time+place
+Z1693	NA			3	no literal time+place
+Z1694	NA			3	no literal time+place
+Z1695	NA			3	no literal time+place
+Z1696	NA			3	no literal time+place
+Z1697	NA			3	no literal time+place
+Z1698	NA			3	no literal time+place
+Z1699	NA			3	no literal time+place
+Z1700	NA			3	no literal time+place
+Z1701	NA			3	no literal time+place
+Z1702	NA			3	no literal time+place
+Z1703	NA			3	no literal time+place
+Z1704	NA			3	no literal time+place
+Z1705	NA			3	no literal time+place
+Z1706	NA			3	no literal time+place
+Z1707	NA			3	no literal time+place
+Z1708	NA			3	no literal time+place
+Z1709	NA			3	no literal time+place
+Z1710	NA			3	no literal time+place
+Z1711	NA			3	no literal time+place
+Z1712	NA			3	no literal time+place
+Z1713	NA			3	no literal time+place
+Z1714	NA			3	no literal time+place
+Z1715	NA			3	no literal time+place
+Z1716	NA			3	no literal time+place
+Z1717	NA			3	no literal time+place
+Z1718	NA			3	no literal time+place
+Z1719	NA			3	no literal time+place
+Z1720	NA			3	no literal time+place
+Z1721	NA			3	no literal time+place
+Z1722	NA			3	no literal time+place
+Z1723	NA			3	no literal time+place
+Z1724	NA			3	no literal time+place
+Z1725	PAR	last time	BNA	1	weak
+Z1726	NA			3	no literal time+place
+Z1727	NA			3	no literal time+place
+Z1728	NA			3	no literal time+place
+Z1729	NA			3	no literal time+place
+Z1730	NA			3	no literal time+place
+Z1731	NA			3	no literal time+place
+Z1732	NA			3	no literal time+place
+Z1733	NA			3	no literal time+place
+Z1734	NA			3	no literal time+place
+Z1735	NA			3	no literal time+place
+Z1736	NA			3	no literal time+place
+Z1737	NA			3	no literal time+place
+Z1738	NA			3	no literal time+place
+Z1739	NA			3	no literal time+place
+Z1740	NA			3	no literal time+place
+Z1741	NA			3	no literal time+place
+Z1742	NA			3	no literal time+place
+Z1743	NA			3	no literal time+place
+Z1744	NA			3	no literal time+place
+Z1745	NA			3	no literal time+place
+Z1746	NA			3	no literal time+place
+Z1747	NA			3	no literal time+place
+Z1748	NA			3	no literal time+place
+Z1749	NA			3	no literal time+place
+Z1750	NA			3	no literal time+place
+Z1751	NA			3	no literal time+place
+Z1752	NA			3	no literal time+place
+Z1753	NA			3	no literal time+place
+Z1754	NA			3	no literal time+place
+Z1755	NA			3	no literal time+place
+Z1756	NA			3	no literal time+place
+Z1757	NA			3	no literal time+place
+Z1758	NA			3	no literal time+place
+Z1759	NA			3	no literal time+place
+Z1760	TP	for a long time	the Bay Area	2	state of place over time
+Z1761	NA			3	no literal time+place
+Z1762	NA			3	no literal time+place
+Z1763	NA			3	no literal time+place
+Z1764	NA			3	no literal time+place
+Z1765	NA			3	no literal time+place
+Z1766	NA			3	no literal time+place
+Z1767	PAR	After our meal	in the jazz club	3	event
+Z1768	NA			3	no literal time+place
+Z1769	NA			3	no literal time+place
+Z1770	NA			3	no literal time+place
+Z1771	NA			3	no literal time+place
+Z1772	NA			3	no literal time+place
+Z1773	NA			3	no literal time+place
+Z1774	NA			3	no literal time+place
+Z1775	NA			3	no literal time+place
+Z1776	NA			3	no literal time+place
+Z1777	NA			3	no literal time+place
+Z1778	NA			3	no literal time+place
+Z1779	NA			3	no literal time+place
+Z1780	NA			3	no literal time+place
+Z1781	NA			3	no literal time+place
+Z1782	NA			3	no literal time+place
+Z1783	NA			3	no literal time+place
+Z1784	NA			3	no literal time+place
+Z1785	NA			3	no literal time+place
+Z1786	NA			3	no literal time+place
+Z1787	NA			3	no literal time+place
+Z1788	PAR	when in Dubai	Fujairah	1	time clause
+Z1789	NA			3	no literal time+place
+Z1790	NA			3	no literal time+place
+Z1791	NA			3	no literal time+place
+Z1792	PAR	when we were working	at Aberdeen	1	event
+Z1793	NA			3	no literal time+place
+Z1794	NA			3	no literal time+place
+Z1795	NA			3	no literal time+place
+Z1796	NA			3	no literal time+place
+Z1797	PAR	shortly after the crash	on scene	2	event
+Z1798	NA			3	no literal time+place
+Z1799	NA			3	no literal time+place
+Z1800	NA			3	no literal time+place
+Z1801	NA			3	no literal time+place
+Z1802	PAR	recent visits	in the island	1	weak
+Z1803	NA			3	no literal time+place
+Z1804	NA			3	no literal time+place
+Z1805	NA			3	no literal time+place
+Z1806	NA			3	no literal time+place
+Z1807	NA			3	no literal time+place
+Z1808	NA			3	no literal time+place
+Z1809	NA			3	no literal time+place
+Z1810	NA			3	no literal time+place
+Z1811	NA			3	no literal time+place
+Z1812	NA			3	no literal time+place
+Z1813	NA			3	no literal time+place
+Z1814	NA			3	no literal time+place
+Z1815	NA			3	no literal time+place
+Z1816	NA			3	no literal time+place
+Z1817	NA			3	no literal time+place
+Z1818	NA			3	no literal time+place
+Z1819	NA			3	no literal time+place
+Z1820	NA			3	no literal time+place
+Z1821	NA			3	no literal time+place
+Z1822	NA			3	no literal time+place
+Z1823	NA			3	no literal time+place
+Z1824	NA			3	no literal time+place
+Z1825	NA			3	no literal time+place
+Z1826	NA			3	no literal time+place
+Z1827	NA			3	no literal time+place
+Z1828	NA			3	no literal time+place
+Z1829	NA			3	no literal time+place
+Z1830	NA			3	no literal time+place
+Z1831	NA			3	no literal time+place
+Z1832	NA			3	no literal time+place
+Z1833	NA			3	no literal time+place
+Z1834	NA			3	no literal time+place
+Z1835	NA			3	no literal time+place
+Z1836	NA			3	no literal time+place
+Z1837	PAR	soon	in several Pachomian monasteries	2	event
+Z1838	NA			3	no literal time+place
+Z1839	NA			3	no literal time+place
+Z1840	NA			3	no literal time+place
+Z1841	NA			3	no literal time+place
+Z1842	NA			3	no literal time+place
+Z1843	NA			3	no literal time+place
+Z1844	NA			3	no literal time+place
+Z1845	NA			3	no literal time+place
+Z1846	NA			3	no literal time+place
+Z1847	NA			3	no literal time+place
+Z1848	NA			3	no literal time+place
+Z1849	NA			3	no literal time+place
+Z1850	NA			3	no literal time+place
+Z1851	PAR	at a time when the mosque was relatively uncrowded	the mosque	1	event
+Z1852	NA			3	no literal time+place
+Z1853	NA			3	no literal time+place
+Z1854	NA			3	no literal time+place
+Z1855	NA			3	no literal time+place
+Z1856	NA			3	no literal time+place
+Z1857	NA			3	no literal time+place
+Z1858	NA			3	no literal time+place
+Z1859	NA			3	no literal time+place
+Z1860	NA			3	no literal time+place
+Z1861	PT	9 am	(Houston)	3	clock time restricted by city
+Z1862	NA			3	no literal time+place
+Z1863	NA			3	no literal time+place
+Z1864	NA			3	no literal time+place
+Z1865	NA			3	no literal time+place
+Z1866	NA			3	no literal time+place
+Z1867	NA			3	no literal time+place
+Z1868	NA			3	no literal time+place
+Z1869	NA			3	no literal time+place
+Z1870	NA			3	no literal time+place
+Z1871	NA			3	no literal time+place
+Z1872	NA			3	no literal time+place
+Z1873	NA			3	no literal time+place
+Z1874	NA			3	no literal time+place
+Z1875	NA			3	no literal time+place
+Z1876	NA			3	no literal time+place
+Z1877	NA			3	no literal time+place
+Z1878	NA			3	no literal time+place
+Z1879	NA			3	no literal time+place
+Z1880	NA			3	no literal time+place
+Z1881	NA			3	no literal time+place
+Z1882	NA			3	no literal time+place
+Z1883	NA			3	no literal time+place
+Z1884	NA			3	no literal time+place
+Z1885	NA			3	no literal time+place
+Z1886	NA			3	no literal time+place
+Z1887	NA			3	no literal time+place
+Z1888	NA			3	no literal time+place
+Z1889	NA			3	no literal time+place
+Z1890	NA			3	no literal time+place
+Z1891	NA			3	no literal time+place
+Z1892	NA			3	no literal time+place
+Z1893	NA			3	no literal time+place
+Z1894	NA			3	no literal time+place
+Z1895	NA			3	no literal time+place
+Z1896	NA			3	no literal time+place
+Z1897	NA			3	no literal time+place
+Z1898	NA			3	no literal time+place
+Z1899	NA			3	no literal time+place
+Z1900	NA			3	no literal time+place
+Z1901	NA			3	no literal time+place
+Z1902	NA			3	no literal time+place
+Z1903	PAR	Upon both of them entering and tying	at the University of Paris	2	event
+Z1904	NA			3	no literal time+place
+Z1905	NA			3	no literal time+place
+Z1906	NA			3	no literal time+place
+Z1907	NA			3	no literal time+place
+Z1908	NA			3	no literal time+place
+Z1909	NA			3	no literal time+place
+Z1910	NA			3	no literal time+place
+Z1911	PAR	later	at the Conservatoire de Paris	2	event
+Z1912	NA			3	no literal time+place
+Z1913	NA			3	no literal time+place
+Z1914	NA			3	no literal time+place
+Z1915	NA			3	no literal time+place
+Z1916	NA			3	no literal time+place
+Z1917	NA			3	no literal time+place
+Z1918	NA			3	no literal time+place
+Z1919	NA			3	no literal time+place
+Z1920	NA			3	no literal time+place
+Z1921	NA			3	no literal time+place
+Z1922	NA			3	no literal time+place
+Z1923	NA			3	no literal time+place
+Z1924	NA			3	no literal time+place
+Z1925	NA			3	no literal time+place
+Z1926	NA			3	no literal time+place
+Z1927	NA			3	no literal time+place
+Z1928	NA			3	no literal time+place
+Z1929	NA			3	no literal time+place
+Z1930	NA			3	no literal time+place
+Z1931	NA			3	no literal time+place
+Z1932	NA			3	no literal time+place
+Z1933	NA			3	no literal time+place
+Z1934	NA			3	no literal time+place
+Z1935	NA			3	no literal time+place
+Z1936	NA			3	no literal time+place
+Z1937	NA			3	no literal time+place
+Z1938	NA			3	no literal time+place
+Z1939	NA			3	no literal time+place
+Z1940	NA			3	no literal time+place
+Z1941	NA			3	no literal time+place
+Z1942	NA			3	no literal time+place
+Z1943	NA			3	no literal time+place
+Z1944	NA			3	no literal time+place
+Z1945	NA			3	no literal time+place
+Z1946	NA			3	no literal time+place
+Z1947	NA			3	no literal time+place
+Z1948	NA			3	no literal time+place
+Z1949	NA			3	no literal time+place
+Z1950	NA			3	no literal time+place
+Z1951	NA			3	no literal time+place
+Z1952	NA			3	no literal time+place
+Z1953	NA			3	no literal time+place
+Z1954	NA			3	no literal time+place
+Z1955	PAR	at the same time	at her home	2	event
+Z1956	NA			3	no literal time+place
+Z1957	NA			3	no literal time+place
+Z1958	NA			3	no literal time+place
+Z1959	NA			3	no literal time+place
+Z1960	NA			3	no literal time+place
+Z1961	PAR	12:Sat	Compaq Center	2	event at time and place
+Z1962	NA			3	no literal time+place
+Z1963	NA			3	no literal time+place
+Z1964	NA			3	no literal time+place
+Z1965	NA			3	no literal time+place
+Z1966	NA			3	no literal time+place
+Z1967	NA			3	no literal time+place
+Z1968	NA			3	no literal time+place
+Z1969	NA			3	no literal time+place
+Z1970	NA			3	no literal time+place
+Z1971	NA			3	no literal time+place
+Z1972	NA			3	no literal time+place
+Z1973	PAR	just as the wash hit us	into the sea	1	event
+Z1974	NA			3	no literal time+place
+Z1975	NA			3	no literal time+place
+Z1976	NA			3	no literal time+place
+Z1977	NA			3	no literal time+place
+Z1978	NA			3	no literal time+place
+Z1979	NA			3	no literal time+place
+Z1980	NA			3	no literal time+place
+Z1981	NA			3	no literal time+place
+Z1982	NA			3	no literal time+place
+Z1983	NA			3	no literal time+place
+Z1984	NA			3	no literal time+place
+Z1985	NA			3	no literal time+place
+Z1986	NA			3	no literal time+place
+Z1987	NA			3	no literal time+place
+Z1988	NA			3	no literal time+place
+Z1989	NA			3	no literal time+place
+Z1990	NA			3	no literal time+place
+Z1991	NA			3	no literal time+place
+Z1992	NA			3	no literal time+place
+Z1993	NA			3	no literal time+place
+Z1994	NA			3	no literal time+place
+Z1995	NA			3	no literal time+place
+Z1996	NA			3	no literal time+place
+Z1997	NA			3	no literal time+place
+Z1998	NA			3	no literal time+place
+Z1999	NA			3	no literal time+place
+Z2000	NA			3	no literal time+place

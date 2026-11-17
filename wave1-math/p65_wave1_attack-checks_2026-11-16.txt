@@ -1,0 +1,45 @@
+A1. F3 worked example, exact. Shares 0.8 and 0.8 imply time-over-colour = 16/17 under BT.
+   implied share = 16/17 = 0.9411764705882353
+   Thurstone (probit) version: 0.9538359185654652
+   control (no chaining, Garner-like): non-adjacent share 0.8 -> logit defect -1.3862943611198906
+
+A2. Coder direction-flip error attenuates logits subadditively (proved in D.3; Wolfram W4).
+   err=0.00: observed adjacent 0.800, observed non-adjacent 0.941, predicted-from-observed 0.941, logit defect -0.000
+   err=0.02: observed adjacent 0.788, observed non-adjacent 0.924, predicted-from-observed 0.933, logit defect -0.135
+   err=0.05: observed adjacent 0.770, observed non-adjacent 0.897, predicted-from-observed 0.918, logit defect -0.252
+   err=0.10: observed adjacent 0.740, observed non-adjacent 0.853, predicted-from-observed 0.890, logit defect -0.334
+   control: err=0 row must show defect 0.000 (it can fail if the code mis-specifies q).
+
+A3. Mixtures. (a) common order, criterion-specific sharpness, pair-specific weights -> SST can fail, WST cannot.
+   P_ij=0.9933 P_jk=0.9933 P_ik=0.5498; WST holds: True; SST holds: False
+   (b) Condorcet: three equal-weight sources with cyclic orders, sharp k -> pooled cycle.
+   k= 2.0: P(T>P)=0.593 P(P>C)=0.593 P(C>T)=0.593  cycle=True; triangle P_TP+P_PC-P_TC=0.780 (<=1 required for any mixture of orders)
+   k= 5.0: P(T>P)=0.662 P(P>C)=0.662 P(C>T)=0.662  cycle=True; triangle P_TP+P_PC-P_TC=0.987 (<=1 required for any mixture of orders)
+   k=50.0: P(T>P)=0.667 P(P>C)=0.667 P(C>T)=0.667  cycle=True; triangle P_TP+P_PC-P_TC=1.000 (<=1 required for any mixture of orders)
+   control: a single source (orders[0] alone) must show no cycle: True
+
+   (c) common order, pair-INDEPENDENT weights: is logit of a logistic mixture subadditive on x>=0?
+   20000 random mixtures (seed 20261116): max of f(x+y)-f(x)-f(y) = -7.37e-12; violations 0 (after 51 near-zero cases re-evaluated at 40 digits)
+   worst case re-evaluated at 40 digits: weights [0.0448 0.9552], sharpness [0.1512 0.1771], x=0.0003, y=0.0863: defect -7.36523187834e-12 (positive = superadditive = counterexample)
+   control (superadditive z^1.5 through the same search): violations 2000/2000 (must be > 0)
+
+A4. MLE existence. Navon's strong form ('time never changes over anything') puts a zero in a row.
+   one-way zero (0 beats 2 in all 20): theta=[ 0.   -1.22 -3.06], diverged=False  (Ford: MLE exists iff the win graph is strongly connected; here 2 cannot reach 0 directly but can via 1 -> finite)
+   dim 0 never loses at all: theta=[  0.   -20.5  -22.11], diverged=True (must diverge)
+   control: the first case is strongly connected (2 beat 1 five times, 1 beat 0 ten times) so must NOT diverge: True
+
+A5. Rank-one convergence test: null distribution of the LR statistic, D=6, C=3, df=(C-1)(D-2)=8.
+   true rank one (k=1,0.6,1.5): mean LR 8.16 (chi2 mean 8), rejection at chi2_8 .95 = 0.048
+   true rank ZERO (no hierarchy): mean LR 5.06 (chi2 mean 8), rejection at chi2_8 .95 = 0.000
+   CONTROL: criterion 3 swaps time and place: mean LR 95.09 (chi2 mean 8), rejection at chi2_8 .95 = 1.000
+   reading: rank one exact -> size near .05; rank zero -> conservative; control must reject often.
+
+A6. Rank-one blind spot: criterion 3 reverses EVERY pair (k_3 = -1). Rank one still holds.
+   LR rejection 0.033 (stays near alpha: the rank test cannot see a reversal); fitted k_3 < 0 in 1.000 of runs (the sign check sees it)
+
+A7. Empirical anchors from the arms (inputs to the power table).
+   Arm A3 time-over-place 0.74 -> logit gap theta_T - theta_P = 1.046 (interval 0.24 to 2.09)
+   design effect of the weighted A3 estimate: SE observed 0.0842 vs simple random 0.0352 -> deff 5.7, effective n 27 of 155
+   Arm C time-over-space 14 of 41 = 0.341 (logit -0.657); exact two-sided p 0.0596; one-sided p (share >= .5 as H0) 0.0298
+   second coding 14 of 42: two-sided p 0.0436; one-sided 0.0218
+   control: 20 of 41 must give a large p: 1.0

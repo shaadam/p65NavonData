@@ -1,0 +1,21 @@
+AGREEMENT (A3 items, n 1500)  raw 0.883  Cohen kappa 0.676  (95% bootstrap 0.632 to 0.719; usable >= 0.60)
+  cell F-T: n 943, kappa 0.654, raw 0.846
+  cell R-T: n 557, kappa 0.707, raw 0.944
+DISAGREEMENTS 176, adjudicated 176, unresolved 0
+CELL TABLE (population, coded, weight; final labels unweighted)
+  C-T pop    151 coded   151 weight    1.00 | TP 31, PT 6, PAR 82, AMB 3, NA 29
+  C-N pop     49 coded    49 weight    1.00 | TP 8, PT 1, PAR 20, AMB 1, NA 19
+  F-T pop   2696 coded  1005 weight    2.68 | TP 72, PT 12, PAR 245, AMB 13, NA 663
+  F-N pop   9052 coded   188 weight   48.15 | TP 0, PT 1, PAR 8, AMB 0, NA 179
+  R-T pop   1561 coded   562 weight    2.78 | TP 19, PT 5, PAR 40, AMB 2, NA 496
+  R-N pop  17017 coded    45 weight  378.16 | TP 0, PT 0, PAR 0, AMB 0, NA 45
+EXPANSION (eligible pool; C whole): TP 285, PT 101, PAR 1256, AMB 44, NA 28840
+DIRECTIONAL coded: 155 in all (A3 new 105: TP 88, PT 17)
+  zero TP in F-N: one-sided 95% upper bound on its rate = 3/188 = 0.0160
+  zero TP in R-N: one-sided 95% upper bound on its rate = 3/45 = 0.0667
+  zero PT in R-N: one-sided 95% upper bound on its rate = 3/45 = 0.0667
+DIRECTIONAL share s = 0.738, 95% document bootstrap within cells 0.561 to 0.893 (width 0.332; 10000 resamples)
+T-SCREEN RECALL TP: 0.972 (95% 0.951 to 0.989)
+T-SCREEN RECALL PT: 0.514 (95% 0.210 to 1.000)
+MINIMUM COUNT: 155 coded sentences with a final TP or PT label (rule: >= 30)
+DECISION (protocol v2 sec. 5): SUPPORTS_DIRECTION

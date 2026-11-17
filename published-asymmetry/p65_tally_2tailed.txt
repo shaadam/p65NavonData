@@ -1,0 +1,47 @@
+coding column: code_2tailed
+rows in file 108; counted 64
+
+== PRIMARY (all counted): n = 64 experiments
+  SPACE>TIME   25  (0.39; 95% Wilson 0.28-0.51)
+  TIME>SPACE   10  (0.16; 95% Wilson 0.09-0.26)
+  SYMMETRIC    25  (0.39; 95% Wilson 0.28-0.51)
+  NONE          4  (0.06; 95% Wilson 0.02-0.15)
+  sign test SPACE>TIME 25 vs TIME>SPACE 10: two-sided exact p = 0.0167
+
+== ADULT HUMAN, VISUAL: n = 55 experiments
+  SPACE>TIME   23  (0.42; 95% Wilson 0.30-0.55)
+  TIME>SPACE    9  (0.16; 95% Wilson 0.09-0.28)
+  SYMMETRIC    19  (0.35; 95% Wilson 0.23-0.48)
+  NONE          4  (0.07; 95% Wilson 0.03-0.17)
+  sign test SPACE>TIME 23 vs TIME>SPACE 9: two-sided exact p = 0.0201
+
+== CHILD: n = 5 experiments
+  SPACE>TIME    2  (0.40; 95% Wilson 0.12-0.77)
+  TIME>SPACE    0  (0.00; 95% Wilson 0.00-0.43)
+  SYMMETRIC     3  (0.60; 95% Wilson 0.23-0.88)
+  NONE          0  (0.00; 95% Wilson 0.00-0.43)
+  sign test SPACE>TIME 2 vs TIME>SPACE 0: two-sided exact p = 0.5000
+
+== ANIMAL: n = 2 experiments
+  SPACE>TIME    0  (0.00; 95% Wilson 0.00-0.66)
+  TIME>SPACE    0  (0.00; 95% Wilson 0.00-0.66)
+  SYMMETRIC     2  (1.00; 95% Wilson 0.34-1.00)
+  NONE          0  (0.00; 95% Wilson 0.00-0.66)
+  sign test SPACE>TIME 0 vs TIME>SPACE 0: two-sided exact p = nan
+
+== NONVISUAL (primary modality): n = 2 experiments
+  SPACE>TIME    0  (0.00; 95% Wilson 0.00-0.66)
+  TIME>SPACE    1  (0.50; 95% Wilson 0.09-0.91)
+  SYMMETRIC     1  (0.50; 95% Wilson 0.09-0.91)
+  NONE          0  (0.00; 95% Wilson 0.00-0.66)
+  sign test SPACE>TIME 0 vs TIME>SPACE 1: two-sided exact p = 1.0000
+
+== FULL TEXT only (abstract-only rows dropped): n = 53 experiments
+  SPACE>TIME   19  (0.36; 95% Wilson 0.24-0.49)
+  TIME>SPACE    9  (0.17; 95% Wilson 0.09-0.29)
+  SYMMETRIC    21  (0.40; 95% Wilson 0.28-0.53)
+  NONE          4  (0.08; 95% Wilson 0.03-0.18)
+  sign test SPACE>TIME 19 vs TIME>SPACE 9: two-sided exact p = 0.0872
+
+== PAPER LEVEL: 39 papers: SPACE>TIME 15, TIME>SPACE 6, SYMMETRIC 14, NONE 2, MIXED 2
+  sign test (papers) SPACE>TIME 15 vs TIME>SPACE 6: p = 0.0784

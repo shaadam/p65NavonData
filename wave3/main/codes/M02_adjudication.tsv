@@ -1,0 +1,11 @@
+row	item	final	rule
+1	M0601	PAR	time "pada abad 17, 18, dan 19"; place "di pengadilan Eropa" (where they were active; a court as a location, not an institution acting). "aktif di" is not a listed locative predicate, so both are settings of the activity (1.3 step 2).
+2	M0759	NA	time "pada tahun pelajaran 1982 - 1983" present; "masyarakat Soroako" names a community via a possessor-like modifier, no locating phrase (PR3, PR12): no place.
+3	M0505	NA	target "Makabea dinastio" has no time or place; the previous sentence supplies nothing (PR1).
+4	M0747	NA	"di sini" refers to the series, not a location (PR12); "pada serial sebelumnya" is not a time noun; "selama 52 episode" at most time, so no place.
+5	M0761	TP	place "berada di Sumohai / di Dekai" (locative predicate, asserted value); time "sementara masih" (for now, still) read as a "currently"-type time adverb given the contrast with "secara resminya" (rule not stated: adverbial "sementara" = for the time being counts as time); time narrows when the location holds.
+6	M0638	PAR	time "pada tahun 1841"; "ke Universitas Jena" is an institution as goal of a filing (not place), but "di Berlin" locates the reception (place). The two expressions set different events, neither restricting the other.
+7	M0474	NA	time "dalam beberapa saat" present; "pada tahap ini" is an event stage without temporal word (PR5); "ke tubuh lawan" is the thing a blow affects (PR4): no place.
+8	M0756	PAR	time "kemudian"; place "di Oise" locates the département inside a referring noun phrase (R2), so it identifies rather than restricts; "Tempat ini" is the subject (PR3).
+9	M0807	NA	time "saat kejadian 9 / 11" present; "dari satupun pesawat" is part-of/possession, not literal source of motion, and "dalam posisi target" is not a settled location (PR12): no place.
+10	M0644	PAR	"film Korea Selatan tahun 1985": year (time) and origin (place, PR4 origin) both describe the film in the same noun phrase, neither restricting the other (R2).

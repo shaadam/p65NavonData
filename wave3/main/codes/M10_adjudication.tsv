@@ -1,0 +1,10 @@
+row	item	final	rule
+1	M3662	PAR	"lalu" read as "then" (table; adjudicator rule: lalu treated like kemudian as time); "di situ" place in embedded existential; lalu times the detecting, not the existence: 1.3 step 2
+2	M3689	NA	"sebelum" clause is time; "dari pemancar" is the source of a broadcast, not literal movement of anything located (PR4, PR12; adjudicator rule): no place
+3	M3685	PAR	"kemudian" time (first clause) and "berangkat ke Polandia - Ukraina" place (PR4 goal) frame different events; PR2 pairs across the two-sentence target; 1.3 step 2
+4	M3989	PAR	"kemudian"/"sebelum" clause time; "terpasang pada ... lengan berengsel" place identifies the petals inside the noun phrase (R2); no restriction: 1.3 step 2
+5	M3749	TP	"sampai di puncak" asserts a place-value and "pagi hari sebelum matahari terbit" narrows when it holds, as in the TP anchor (1.3 step 3)
+6	M3864	NA	"Saat dibandingkan" is a comparison frame, not when anything holds (PR12); no literal time
+7	M3754	NA	no time or place expression in the target sentence (PR1)
+8	M3928	NA	"di klub Lille / di klub tersebut" is club affiliation, an institution used as a position (table; Indonesian note on di + institution): no place; only time present
+9	M3705	TP	"beroperasi (di) jalan rel milik OJS" locates an indefinite locomotive (not R2); "dapat dijumpai" treated as existential like "ditemukan di" (adjudicator rule), so a place-value is asserted and "pada tahun 1977 / di akhir masa dinasnya" narrows when it holds (1.3 step 3)

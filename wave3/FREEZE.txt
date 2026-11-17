@@ -1,0 +1,32 @@
+p65 wave 3 freeze (one-language Indonesian census), Mon Nov 16 2026 18:34 EST
+Frozen before any Indonesian sentence is coded and before any direction is seen. Draft registration (unfrozen, with the extension sections) stays in p65_wave3_registration_DRAFT_2026-11-16.md.
+The runner refuses to start unless every hash below matches.
+1c3e0feea75295850dc1491f58f1c77ed6a8d026e1800759a94258423b0aecc3  p65_wave3_registration_FROZEN_2026-11-16.md
+b5612927edc37cb834c98a011390c11ee71e3c29e398ee6102cbcbe41f541642  wave3/main/p65_codebook-v2-TP-x_id.md
+cd5fa69fb10663127e6640950f1004653371f233379692ff8a4be1a04fd04b2c  wave3/main/p65_wave3_coder-brief_id.md
+56310d227b130cdcffdbb0c57e176f3535a446e047bfaa45774e373fffcc6b7b  wave3/main/p65_wave3_adjudicator-brief_id.md
+83a2802593434cc639557752c02d9860f14b3e5e9431f459a13dc03cda8b0d70  wave3/main/queue.tsv
+e121173221430ab765951a5beca494dcd5bd2ec283205113d5a64e746c919040  wave3/main/census_map.tsv
+cb1ea3e91e0ee67652b31c7476217018a7bfd423d926cf08f43f8bb88b0a6c18  wave3/main/batches/gold_key.tsv
+7a02ba28eef682c4359fabdbc35049afbf9d4778c930bf80e70c17f8398b76fa  wave3/main/batches/batches_sha256.tsv
+415fc53843db38ce2df4202a3db27bad2e7a0abcb5d901b9facf0e6ecf04f2cb  wave3/p65_wave3_id_anchors_2026-11-16.md
+9dbf7fc8a16afff3e2f976e3a7eb7a106ee9609404c872ae74f5e8d0616ac47b  scripts/p65_wave3_id_build.py
+0e7684ea15b8510854ca96b3f10e0a87f703878ee618d97ce88279e1a9341758  scripts/p65_wave3_check.py
+5c4f6f5db36a3e4ade9bfd743f288817a1095d6f75d225e407a7c02dd5f61bd2  scripts/p65_wave3_run.py
+55f6cc85ff3dad86ef8bd0417eb8e97c4fc74704f99786ec5fc1fbbe04b23ddd  scripts/p65_wave3_analyze.py
+--- amendment 1, Tue Nov 17 2026 09:14 EST (wave3/p65_wave3_amendment-1_2026-11-17.md), pre-data: two mechanical runner defects, no direction seen. Later lines for a path supersede earlier ones; the original lines above stay. ---
+b2fe6eb9f23977840a8ea3f230b184c6109824e60c826fa3f676b410e3cec8ba  scripts/p65_wave3_check.py
+3f145e10e8fdeceb94692ab4b1fb7a1703d6b2d93d2ee2a6457c3c25f51488f3  scripts/p65_wave3_run.py
+ff59266e713d5b7cb3ac14293a26c46199f77a3166b508b57a7ccb14b2bc6cdc  wave3/p65_wave3_amendment-1_2026-11-17.md
+--- amendment 2, Tue Nov 17 2026 09:28 EST (wave3/p65_wave3_amendment-2_2026-11-17.md): the one S1 notes revision, from disagreement content only; no direction count read. ---
+c675721c9b3c69997ab171971a7c9225f1cc65e11340203e01fe50a956e10c50  wave3/main/p65_codebook-v2-TP-x_id.md
+5e6e43f1245af606da536c376220cd0c1d48581e819fc092a430ecdad809008c  wave3/p65_wave3_amendment-2_2026-11-17.md
+--- amendment 3, Tue Nov 17 2026 09:50 EST (wave3/p65_wave3_amendment-3_2026-11-17.md): S1 second pilot P02 (registration 9 S1), pre-P02-data. ---
+de9b2a6892d392eb30897b7f804816b6f4a3a625959d8d30c3891dea578edeac  scripts/p65_wave3_check.py
+7a5dae3aad0079432fe3f2b1ab03487925e878400c54ebae6f040f59d9a8ba13  scripts/p65_wave3_run.py
+64b278bc468a2e5813279a320afdf9c19620274b88de31a78eaa75cf306c010e  scripts/p65_wave3_analyze.py
+9163b8d95f13722c9cb7f9e436f812c7dea9448866b7dff0c76b564b5a74a831  scripts/p65_wave3_id_build.py
+7cb10255539382f1eda08344033bc5f3968dd64a109f2bd93243275a18626156  wave3/main/queue.tsv
+e38feae47ccb55d57299fc03fc5fa1bf25ffe87f919b5898b3b5613e44a1fec6  wave3/main/batches/gold_key.tsv
+ba477ee571698a78810e1678266030e9bc502493d51fd0d05ff51684d2e5563b  wave3/main/batches/batches_sha256.tsv
+78c680efde662771f7bb5e715e40d13ae7e59f96be60ba39f5772514b881f476  wave3/p65_wave3_amendment-3_2026-11-17.md

@@ -1,0 +1,501 @@
+item	class	time_phrase	place_phrase	confidence	note
+M001	NA			3	no place
+M002	TP	in the next 2 1/2 years	in this office	2	
+M003	PAR	today	here in Glacier	2	
+M004	NA			2	
+M005	NA			1	
+M006	NA			3	
+M007	TP	before the wolves returned	in the park's northern range	2	also now
+M008	NA			3	no place
+M009	TP	on humid days	at home	2	
+M010	NA			3	
+M011	PAR	last year	on a Colorado highway	2	
+M012	PT	Today	in the office here at Azurix	1	last day is time value
+M013	NA			3	
+M014	PAR	yesterday	there	2	
+M015	NA			2	
+M016	NA			3	
+M017	PAR	The night	back home	2	
+M018	PAR	at around 8 pm in the evenings	from the city centre	2	
+M019	NA			3	
+M020	NA			3	
+M021	NA			2	
+M022	PAR	last night	here	3	
+M023	PAR	In September 1944	in the harbor	2	
+M024	NA			3	
+M025	NA			2	
+M026	NA			3	
+M027	PAR	Friday night (5/18)	at Sullivan's Steak House	2	
+M028	NA			3	
+M029	NA			2	institutional place
+M030	NA			3	
+M031	NA			3	
+M032	NA			3	
+M033	NA			3	
+M034	PAR	for now	in the bag	1	
+M035	NA			3	
+M036	NA			2	
+M037	NA			3	
+M038	NA			3	
+M039	PAR	A few hours ago	on the West Front of this citadel of democracy	3	
+M040	NA			3	
+M041	TP	the next Tuesday night	there	2	also went back event PAR
+M042	NA			3	
+M043	NA			3	
+M044	NA			2	
+M045	NA			3	
+M046	NA			3	
+M047	TP	for 8 months	there	2	
+M048	PAR	just	there	2	
+M049	PAR	always	in the dining room	2	also coffee table
+M050	TP	for four nights	in Fiji	2	
+M051	NA			2	
+M052	NA			3	
+M053	NA			3	
+M054	NA			3	
+M055	NA			3	
+M056	NA			3	
+M057	NA			1	
+M058	NA			3	
+M059	NA			1	
+M060	NA			3	
+M061	NA			3	
+M062	NA			3	
+M063	TP	right now	at like a river waterfall area	3	
+M064	TP	by 6:30	to church	2	
+M065	NA			3	
+M066	NA			3	
+M067	NA			3	
+M068	NA			3	
+M069	NA			3	
+M070	PAR	in one day	in Africa	1	
+M071	NA			3	
+M072	PAR	last spring	Fallujah	1	
+M073	PAR	in the past year	here	2	
+M074	NA			3	
+M075	NA			2	office=position
+M076	NA			2	
+M077	PAR	at least once a week	in the area	1	
+M078	TP	for like an hour and a half	in there	2	
+M079	PAR	at night	in his room	2	
+M080	NA			2	
+M081	NA			3	
+M082	PAR	last week	in here	2	
+M083	NA			3	
+M084	NA			2	
+M085	NA			3	
+M086	NA			2	
+M087	PAR	the night	to the emergency room	2	
+M088	NA			3	
+M089	NA			3	
+M090	NA			3	
+M091	NA			3	
+M092	PAR	a year ago	here	2	
+M093	NA			1	
+M094	NA			2	
+M095	PAR	right now	all of the house	1	
+M096	NA			3	
+M097	NA			3	
+M098	TP	during the week	in the little lot across the street	2	
+M099	NA			3	
+M100	NA			3	
+M101	NA			3	
+M102	NA			3	
+M103	NA			3	
+M104	NA			3	
+M105	PAR	Three years ago tomorrow night	in this hall	3	
+M106	NA			3	
+M107	NA			3	
+M108	NA			3	
+M109	NA			3	
+M110	PAR	on Saturday Night	onto the Chiang Kai Shek Memorial near downtown Taipei	3	
+M111	NA			3	
+M112	NA			3	
+M113	PAR	tomorrow	in Philly	1	
+M114	PAR	at 1:00 today	in Sara's office	3	
+M115	PAR	2 weeks ago	in this very room	3	
+M116	NA			3	
+M117	PAR	3 months later	in my house	2	
+M118	AMB	today	here	1	
+M119	NA			3	
+M120	NA			3	
+M121	NA			3	
+M122	NA			3	
+M123	NA			3	
+M124	PAR	for many years	the islands	1	
+M125	NA			3	
+M126	PAR	for years	there	2	
+M127	NA			3	
+M128	NA			3	
+M129	NA			3	
+M130	NA			3	
+M131	PAR	as of 1 April 2004	at his ranch in Crawford, Texas	1	statistic
+M132	PAR	leave at 430	from school	1	
+M133	NA			3	
+M134	NA			3	
+M135	PAR	that day	here	2	
+M136	PAR	the first night	at your new house	1	
+M137	NA			2	
+M138	NA			3	
+M139	PAR	last night	at LWs	3	
+M140	PAR	today	there	3	
+M141	NA			3	
+M142	NA			3	
+M143	PAR	normally	home	1	
+M144	TP	for 2 years	here	2	
+M145	PAR	this evening	home	2	
+M146	PAR	now for 2 years	there	2	
+M147	NA			2	
+M148	NA			3	
+M149	NA			3	
+M150	NA			3	
+M151	NA			3	
+M152	TP	Now	here	2	
+M153	NA			3	
+M154	NA			3	
+M155	NA			3	
+M156	PAR	now	home	2	
+M157	PAR	Over the course of the next 15 years	the city's historical center	1	
+M158	NA			3	
+M159	AMB	today	here	1	
+M160	NA			3	
+M161	NA			3	
+M162	NA			1	
+M163	NA			3	
+M164	PAR	earlier this year	in Salt Lake City	2	
+M165	NA			3	
+M166	NA			3	
+M167	PAR	in recent years	to Vienna	2	
+M168	NA			3	
+M169	NA			3	
+M170	NA			2	
+M171	NA			3	
+M172	NA			3	
+M173	PAR	today	home	2	
+M174	NA			3	
+M175	NA			3	
+M176	PAR	On April 12, 1981	from the Kennedy Space Center	3	
+M177	NA			3	
+M178	PAR	in 2001	in a small and remote Indian village in the state of Kerala	3	
+M179	TP	at night	in the coop	2	
+M180	NA			1	
+M181	NA			3	
+M182	NA			3	
+M183	NA			3	
+M184	PAR	Last week	in Huston, Texas	2	
+M185	NA			3	
+M186	PAR	until late evening	city centre car park	1	
+M187	TP	for three days now	My neighbourhood	2	
+M188	NA			3	
+M189	PAR	Friday morning July 7 at 800 am	at your office	3	
+M190	PAR	In 1997	off the Thai port of Ranong	3	
+M191	PAR	one week	to san francisco california	1	
+M192	PAR	long ago	there	2	
+M193	NA			2	
+M194	TP	now	Some sections of the city	2	
+M195	NA			3	
+M196	NA			3	
+M197	NA			3	
+M198	NA			3	
+M199	NA			3	
+M200	PAR	last night	home	3	
+M201	NA			3	
+M202	NA			3	
+M203	NA			3	
+M204	PAR	every year	in a different country	2	
+M205	TP	today	here	2	
+M206	PAR	two hours later	up there	2	
+M207	NA			3	
+M208	TP	first ... later	York	1	
+M209	NA			3	
+M210	NA			3	
+M211	NA			3	
+M212	PAR	some mornings	across the street	1	
+M213	NA			3	
+M214	TP	for this week only	from our Hong Kong office	2	
+M215	NA			3	
+M216	NA			3	
+M217	PAR	today	here	2	
+M218	NA			3	
+M219	PAR	toda	there	1	
+M220	TP	for two years	here	2	
+M221	TP	on Saturday night	in the square	2	also PAR visited
+M222	TP	in 2 years	there	2	
+M223	NA			3	
+M224	NA			3	
+M225	NA			3	
+M226	NA			3	
+M227	NA			3	
+M228	NA			3	
+M229	PAR	Friday night (5/18)	at Sullivan's Steak House	2	
+M230	NA			3	
+M231	NA			3	
+M232	PAR	until 3M	from the top of the stairs	1	
+M233	NA			3	
+M234	TP	for roughly 2-3days	in their home	2	
+M235	NA			3	
+M236	TP	for twelve years	there	1	also sent to the ship PAR
+M237	PAR	For the past 25 years	Afghanistan	1	
+M238	PAR	a couple of weeks later	over to his house	2	
+M239	NA			3	
+M240	PAR	today	home	2	
+M241	PAR	On Monday	to the Livingston Parish Sheriff's Office	2	
+M242	TP	next morning	in bed	2	
+M243	PAR	last month's	in the city	2	
+M244	PAR	at 2:30 the next day	At a polling station in Taikoo	2	
+M245	PAR	later that night	at that garden in the heights party	2	
+M246	PAR	3 years ago	Philadelphia	1	
+M247	NA			2	
+M248	NA			3	
+M249	NA			3	
+M250	NA			3	
+M251	NA			2	
+M252	PAR	on Sunday night (March 4)	for the station	2	
+M253	TP	in the next 2 1/2 years	in this office	2	
+M254	PAR	in late November	Del Frisco's	2	
+M255	NA			3	
+M256	NA			3	
+M257	NA			2	
+M258	NA			3	
+M259	TP	for four nights	in Fiji	2	
+M260	NA			3	
+M261	TP	three years	in Japan	2	
+M262	NA			3	
+M263	NA			3	
+M264	NA			3	
+M265	NA			2	
+M266	NA			3	
+M267	PAR	When I went to Bosnia	Bosnia	1	
+M268	TP	for a few nights	here	1	
+M269	NA			3	
+M270	NA			3	
+M271	NA			3	
+M272	NA			3	
+M273	PAR	in the 1490s	in Milan	2	also 1527 Rome
+M274	NA			2	
+M275	NA			3	
+M276	NA			3	
+M277	NA			3	
+M278	PAR	last year	there	3	
+M279	NA			3	
+M280	NA			2	
+M281	NA			3	
+M282	NA			3	
+M283	NA			3	
+M284	PAR	daily for a period of five weeks	in the classroom	2	
+M285	PAR	Yesterday	on our street	3	
+M286	PAR	TOMORROW NIGHT	IN HERE	3	
+M287	NA			3	
+M288	TP	for over 250 years	in the Long Room at Auckland Castle	3	
+M289	PAR	all day	at a bar	2	
+M290	NA			3	
+M291	NA			3	
+M292	NA			3	
+M293	NA			3	
+M294	PAR	already	in London	1	
+M295	NA			3	
+M296	TP	to this day	in the city	1	
+M297	NA			3	
+M298	NA			3	
+M299	NA			3	
+M300	PAR	Last night	to l' Opera	3	
+M301	NA			3	
+M302	NA			3	
+M303	NA			3	
+M304	PAR	at night	home	2	
+M305	NA			3	
+M306	PAR	Next year	in Mexico City	3	
+M307	PAR	in the past several months	here	2	
+M308	PAR	within two days after arrival	to a migration office	2	
+M309	PAR	Today	home	2	
+M310	NA			3	
+M311	NA			3	
+M312	NA			3	
+M313	PAR	about 12 years ago	here	3	
+M314	NA			3	
+M315	NA			3	
+M316	NA			3	
+M317	NA			3	
+M318	NA			3	
+M319	NA			3	
+M320	NA			3	
+M321	NA			2	
+M322	PAR	For weeks	Alabama	2	
+M323	NA			2	
+M324	NA			3	
+M325	PAR	a few hours ago	here	2	
+M326	NA			3	
+M327	NA			3	
+M328	NA			3	
+M329	PAR	the first night	home	2	
+M330	PAR	today	in the park	2	
+M331	NA			3	
+M332	PAR	in 1930	in Geneva	3	
+M333	TP	for several days	from the office	2	
+M334	NA			3	
+M335	NA			3	
+M336	NA			3	
+M337	NA			3	
+M338	PAR	for many years to come	every corner of the known galaxy	1	
+M339	NA			3	
+M340	NA			3	
+M341	PAR	through the night	there	1	
+M342	PAR	tonight	home	2	
+M343	NA			2	
+M344	NA			3	
+M345	NA			3	
+M346	NA			3	
+M347	NA			3	
+M348	PAR	for two weeks	in a tray of treated, seasoned water	1	
+M349	NA			3	
+M350	NA			3	
+M351	NA			3	
+M352	NA			3	
+M353	NA			3	
+M354	PAR	for a week	in the room	2	
+M355	PAR	within a week	there	2	
+M356	TP	for a girls night	here	1	
+M357	PAR	for 30 days	at any immigration office in Cuba	1	
+M358	NA			3	
+M359	NA			3	
+M360	NA			2	
+M361	NA			3	
+M362	NA			3	
+M363	NA			3	
+M364	NA			3	
+M365	NA			3	
+M366	PAR	On January 8, 1880	at the corner of California and Dupont (now Grant) streets	3	
+M367	PAR	really late at night	home	2	
+M368	NA			2	
+M369	NA			3	
+M370	NA			3	
+M371	TP	for 2 nights	here	2	
+M372	NA			3	
+M373	TP	all night last night	home	3	
+M374	NA			3	
+M375	NA			3	
+M376	NA			2	
+M377	PAR	recently	to Kuwait	2	
+M378	NA			2	
+M379	NA			3	
+M380	PAR	between July 2003 and December 2004	in New South Wales, Victoria, South Australia, Western Australia and Queensland	3	
+M381	PAR	in 1920	to China	3	
+M382	TP	each day	on the eastern corner of Rekohu	1	
+M383	NA			3	
+M384	NA			3	
+M385	PAR	back in 2013	in Toronto	3	
+M386	NA			3	
+M387	NA			3	
+M388	NA			3	
+M389	NA			3	
+M390	PAR	in September 1803	to Harrow	2	
+M391	NA			3	
+M392	NA			3	
+M393	NA			3	
+M394	PAR	at the weekend	here	3	
+M395	NA			3	
+M396	NA			3	
+M397	TP	the day of Wrestlemania	there	2	
+M398	NA			3	
+M399	PAR	the other day	at the loop trailhead	1	
+M400	NA			3	
+M401	NA			3	
+M402	PAR	today	home	2	
+M403	NA			3	
+M404	NA			2	
+M405	TP	for many years	in the UTC La Jolla area	3	
+M406	PAR	Within 24 hours	in the ancient capital of Hue	2	
+M407	NA			3	
+M408	NA			3	
+M409	NA			3	
+M410	NA			3	
+M411	NA			3	
+M412	NA			3	
+M413	NA			3	
+M414	TP	right now	in there	3	
+M415	PAR	the first night	into the wrong room	2	
+M416	PAR	today	home	2	
+M417	PAR	for over six years now	there	2	
+M418	PAR	this week	in here	1	
+M419	PAR	this week	here at the General Assembly	3	
+M420	PAR	During the summer	outdoor theatre	2	
+M421	NA			3	
+M422	PAR	yesterday	into Mecca's Grand Mosque	3	
+M423	PAR	two months after she first slept with him	home	2	
+M424	PAR	every year	to Antarctica	2	
+M425	NA			3	
+M426	NA			3	
+M427	PAR	AT LEAST 5 DAYS A WEEK	HERE	2	
+M428	NA			3	
+M429	NA			3	
+M430	PAR	at that hour	in this office	3	
+M431	NA			3	
+M432	PAR	Three weeks ago	into the rear of my home	3	
+M433	NA			3	
+M434	NA			2	
+M435	TP	for about 2 hours	in there	2	
+M436	PAR	Next day	into another room	2	
+M437	PAR	In 1930	in India	2	
+M438	NA			3	
+M439	NA			3	
+M440	TP	for 3 years	there	3	
+M441	NA			3	
+M442	NA			3	
+M443	NA			3	
+M444	NA			3	
+M445	NA			3	
+M446	PAR	last night	in their new dining room	3	
+M447	NA			3	
+M448	AMB	just yet	where I am	1	
+M449	NA			3	
+M450	PAR	After seventeen days	at my home	3	
+M451	NA			3	
+M452	PAR	now	home	1	
+M453	NA			2	
+M454	NA			3	
+M455	PAR	On Thursday morning	at the Luxembourg	3	
+M456	NA			3	
+M457	NA			3	
+M458	PAR	on the 1st day of Feb. next	in Musical Hall, of this city	3	
+M459	NA			3	
+M460	NA			3	
+M461	TP	at least one night	there	2	
+M462	NA			2	
+M463	PAR	the first couple days	in Forest Park	2	
+M464	PAR	each year	around the world	1	
+M465	NA			3	
+M466	NA			3	
+M467	PAR	at night	home	2	
+M468	NA			3	
+M469	PAR	this week	here at the General Assembly	3	
+M470	PAR	right now	home	2	
+M471	PAR	tomorrow	home	2	
+M472	NA			3	
+M473	NA			3	
+M474	TP	sometimes	at parking lots along the route	1	
+M475	NA			3	
+M476	NA			2	
+M477	NA			3	
+M478	NA			3	
+M479	NA			3	
+M480	NA			2	
+M481	NA			3	
+M482	NA			3	
+M483	PAR	almost everyday	here	2	
+M484	NA			3	
+M485	NA			3	
+M486	PAR	today	on an Ottawa street	3	
+M487	NA			3	
+M488	NA			3	
+M489	NA			3	
+M490	TP	this week	out in Chicago	2	
+M491	NA			3	
+M492	PAR	for several years	in our home	1	
+M493	AMB	till she gets here	here	1	
+M494	NA			3	
+M495	NA			3	
+M496	PAR	on Sunday night	from work	2	
+M497	NA			3	
+M498	NA			3	
+M499	TP	after two and a half years	here	2	
+M500	PAR	last night	here at the office	3	

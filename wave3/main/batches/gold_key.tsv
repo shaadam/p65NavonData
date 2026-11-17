@@ -1,0 +1,91 @@
+item	batch	key	text
+P0072	P01	PT	Di Kairo sudah Rabu malam.
+P0144	P01	NA	Truk-truk bongkar muatan di gerbang belakang.
+P0179	P01	TP	Pada pukul delapan para kru sudah kembali di studio.
+P0212	P01	NA	Pada hari Senin para siswa menyelesaikan tugas itu.
+P0464	P01	PAR	Kami makan siang di taman pada hari Minggu.
+M0100	M01	NA	Pada hari Selasa para penerjemah menyelesaikan naskah itu.
+M0140	M01	TP	Pada pukul enam para pilot sudah kembali di lapangan terbang.
+M0186	M01	PT	Di Mumbai sudah lewat tengah malam.
+M0203	M01	NA	Kapal-kapal menunggu di dermaga.
+M0292	M01	PAR	Mereka sarapan di teras pada hari Sabtu.
+M0439	M02	PT	Di Tokyo sudah Kamis pagi.
+M0462	M02	NA	Para turis berfoto di alun-alun.
+M0583	M02	TP	Pada senja para pendaki sudah kembali di penginapan.
+M0677	M02	NA	Pada hari Rabu kakak menyelesaikan lukisannya.
+M0693	M02	PAR	Dia membaca buku di perpustakaan pada hari Selasa.
+M0954	M03	PT	Di Lima sudah siang hari.
+M0971	M03	PAR	Anak-anak bermain bola di pantai pada hari Senin.
+M1004	M03	TP	Pada siang hari para petani sudah kembali di pasar.
+M1146	M03	NA	Pada hari Kamis para teknisi menyelesaikan pekerjaan itu.
+M1149	M03	NA	Bus-bus berhenti di terminal utara.
+M1252	M04	PAR	Ayah menunggu bus di pojok jalan pada hari Rabu.
+M1270	M04	TP	Pada pagi hari para perawat sudah kembali di klinik.
+M1337	M04	PT	Di Oslo sudah malam hari.
+M1393	M04	NA	Mobil-mobil parkir di halaman belakang.
+M1449	M04	NA	Pada hari Jumat Ibu menyelesaikan laporan keuangan.
+M1650	M05	PT	Di Perth sudah Senin malam.
+M1804	M05	PAR	Kami menonton pertandingan di kafe pada hari Minggu.
+M1816	M05	NA	Kuda-kuda merumput di padang.
+M1888	M05	NA	Pada hari Sabtu para pelukis menyelesaikan mural itu.
+M1951	M05	TP	Pada pukul tiga para penyelam sudah kembali di dermaga.
+M2026	M06	PT	Di Nairobi sudah sore hari.
+M2048	M06	PAR	Mereka berenang di danau pada hari Jumat.
+M2131	M06	TP	Pada malam hari para gembala sudah kembali di kandang.
+M2217	M06	NA	Tenda-tenda berdiri di lapangan.
+M2407	M06	NA	Pada hari Minggu kami menyelesaikan resep baru.
+M2485	M07	NA	Pada hari Senin para editor menyelesaikan buku itu.
+M2510	M07	PAR	Saya menelepon ibu di stasiun pada hari Minggu.
+M2526	M07	PT	Di Seoul sudah Jumat subuh.
+M2593	M07	TP	Pada pukul sepuluh para mahasiswa sudah kembali di asrama.
+M2727	M07	NA	Para pelari berkumpul di gerbang.
+M2985	M08	NA	Pada hari Selasa para penulis menyelesaikan cerita pendek itu.
+M2987	M08	TP	Pada waktu makan siang para penjaga sudah kembali di gerbang.
+M3013	M08	PAR	Band itu berlatih di garasi pada hari Selasa.
+M3041	M08	NA	Sepeda-sepeda bersandar di pagar.
+M3118	M08	PT	Di Dublin sudah pukul enam lewat tiga puluh.
+M3316	M09	TP	Pada pukul lima para juru masak sudah kembali di dapur.
+M3386	M09	NA	Pada hari Rabu adik menyelesaikan pekerjaan rumahnya.
+M3450	M09	PAR	Kami piknik di bukit pada hari Sabtu.
+M3471	M09	NA	Kursi-kursi ditata di aula.
+M3528	M09	PT	Di Cusco sudah Minggu sore.
+M3711	M10	NA	Perahu-perahu tertambat di teluk.
+M3786	M10	TP	Pada tengah malam para nelayan sudah kembali di pelabuhan.
+M3911	M10	NA	Pada hari Kamis para peneliti menyelesaikan analisis itu.
+M3955	M10	PT	Di Sydney sudah Selasa pagi.
+M4002	M10	PAR	Nenek memetik bunga di kebun pada hari Kamis.
+M4085	M11	PT	Di Madrid sudah pukul dua dini hari.
+M4107	M11	NA	Pada hari Jumat Ayah menyelesaikan anyaman itu.
+M4119	M11	TP	Pada pukul tujuh para guru sudah kembali di sekolah.
+M4245	M11	NA	Toko-toko berjajar di gang sempit.
+M4442	M11	PAR	Para tetangga berkumpul di balai desa pada hari Jumat.
+M4525	M12	NA	Burung-burung bertengger di atap.
+M4575	M12	NA	Pada hari Sabtu para siswa menyelesaikan ujian itu.
+M4642	M12	PAR	Adik menggambar di halaman pada hari Senin.
+M4674	M12	PT	Di Dakar sudah pukul lima pagi.
+M4829	M12	TP	Pada subuh para pedagang sudah kembali di terminal.
+M4982	M13	NA	Pada hari Minggu mereka menyelesaikan teka-teki itu.
+M5085	M13	PT	Di Hanoi sudah Sabtu malam.
+M5150	M13	PAR	Kakek memancing di sungai pada hari Rabu.
+M5240	M13	TP	Pada pukul empat para pekerja sudah kembali di pabrik.
+M5245	M13	NA	Para siswa antre di kantin.
+M5306	M14	NA	Pada hari Senin para dokter menyelesaikan pemeriksaan itu.
+M5381	M14	NA	Kereta-kereta menunggu di peron.
+M5441	M14	PAR	Kami berdiskusi di kantin pada hari Kamis.
+M5468	M14	PT	Di Quito sudah Rabu siang.
+M5513	M14	TP	Pada sore hari para petugas sudah kembali di kantor pos.
+M5733	M15	NA	Pada hari Selasa kami menyelesaikan daftar belanja.
+M5760	M15	TP	Pada pukul sembilan para tamu sudah kembali di hotel.
+M5861	M15	PAR	Dia berlari di lapangan pada hari Sabtu.
+M6014	M15	PT	Di Manila sudah Jumat sore.
+M6020	M15	NA	Pedagang menggelar dagangan di pasar.
+M6087	M16	NA	Pada hari Rabu para pelajar menyelesaikan presentasi itu.
+M6096	M16	TP	Pada menjelang malam para pemain sudah kembali di stadion.
+M6176	M16	PT	Di Warsawa sudah pukul sebelas malam.
+M6183	M16	NA	Para penari berlatih di panggung.
+M6207	M16	PAR	Mereka menjahit di bengkel pada hari Selasa.
+P0563	P02	PT	Di Lisboa sudah Kamis sore.
+P0564	P02	NA	Lampu-lampu menyala di lorong.
+P0713	P02	PAR	Paman memperbaiki sepeda di gudang pada hari Jumat.
+P0770	P02	TP	Pada pukul dua siang para montir sudah kembali di bengkel.
+P0780	P02	NA	Pada hari Kamis para tukang menyelesaikan pagar itu.

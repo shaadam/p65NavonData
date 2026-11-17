@@ -1,0 +1,17 @@
+AGREEMENT  raw 0.888  Cohen kappa 0.789  (95% bootstrap 0.739 to 0.838; usable >= 0.60)
+  stratum C: n 200, kappa 0.713, raw 0.815
+  stratum F: n 250, kappa 0.721, raw 0.932
+  stratum R: n 50, kappa 0.000, raw 0.960
+DISAGREEMENTS 56, adjudicated 56, unresolved 0
+FINAL LABELS by stratum (unweighted):
+  C: TP 39, PT 7, PAR 102, AMB 4, NA 48
+  F: TP 3, PT 1, PAR 31, AMB 0, NA 215
+  R: TP 0, PT 0, PAR 0, AMB 0, NA 50
+EXPANSION (estimated sentences in the eligible EWT+GUM pool): TP 180, PT 54, PAR 1559, AMB 4, NA 28729
+  zero TP in R: one-sided 95% upper bound on its rate there = 3/50 = 0.060
+  zero PT in R: one-sided 95% upper bound on its rate there = 3/50 = 0.060
+DIRECTIONAL share s = N_TP/(N_TP+N_PT) = 0.769, 95% document-cluster interval 0.364 to 0.984 (10000 resamples)
+  candidate-only share (not an estimate unless equal-recall): 0.848 (39 TP, 7 PT)
+RECALL of the word-list screen: TP 0.22, PT 0.13; ratio TP/PT 95% 0.12 to 12.62 -> equal-recall
+MINIMUM COUNT: 50 sentences with a final TP or PT label (rule: >= 30)
+DECISION (protocol v2 sec. 5): INCONCLUSIVE

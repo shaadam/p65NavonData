@@ -1,0 +1,107 @@
+V1 Davidson / Rao-Kupper ties (sympy)
+   Davidson conditional - BT simplifies to: 0
+   Rao-Kupper conditional odds / BT odds = (pi*theta + pj)/(pi + pj*theta)  (=1 only if theta=1 or pi=pj)
+   RK (theta=2) conditional table, unit gaps: logit-additivity defect -0.1020 (nonzero: not BT, so dropping ties misfits)
+   CONTROL RK theta=1: defect +0.00e+00 (must be 0)
+
+V2 identifiability iff comparison graph connected: all 1024 graphs on 5 nodes
+   mismatches between 'rank D-1 (identified up to a constant)' and 'connected': 0 of 1024
+   CONTROL: same loop testing 'rank D-1 iff every node has degree>=1' gives mismatches: 40
+
+V3 Ford: finite MLE vs strongly connected win graph (random 4-node tables, own optimiser)
+   comparison-connected=False win-strongly-connected=False interior finite maximiser=True : 106
+   comparison-connected=True  win-strongly-connected=False interior finite maximiser=False: 6
+   comparison-connected=True  win-strongly-connected=False interior finite maximiser=True : 372
+   comparison-connected=True  win-strongly-connected=True  interior finite maximiser=True : 116
+   reading: iff holds when the comparison graph is connected; a disconnected graph whose components are each
+   strongly connected has finite (non-unique) maximisers while the win graph is not strongly connected.
+
+V4 coder flips (mpmath 40 digits)
+   e=0.05: observed adj 0.7700, far 0.8971, additive prediction 0.9181, shortfall g(2x)-2g(x) = -0.2517 logit
+   e=0.00: observed adj 0.8000, far 0.9412, additive prediction 0.9412, shortfall g(2x)-2g(x) = -0.0000 logit  (CONTROL, must be 0)
+   h'(t) - 8(a^2-1)t/(4a^2t^2-1)^2 simplifies to: 0
+   max second difference of g on [0,8] (must be <=0 for concavity): -6.84e-07
+   CONTROL (mixed signs x=2,y=-1 not covered by the proposition): g(1)-g(2)-g(-1) = +0.0923
+
+V5 rank-one df by Jacobian rank
+   D=6 C=3: rank-one model rank 7, separate 15, df 8; (C-1)(D-1) would be 10
+   (C-1)(D-2) matches the Jacobian count for D=3..7, C=2..4: True
+   CONTROL all-equal theta: rank drops to 5 (k unidentified)
+   reversed third criterion: singular values [7.3635 0.     0.    ] -> rank one
+   CONTROL swap: singular values [6.833  2.7442 0.    ] -> rank two
+
+V6 SST, product rule, Thurstone defect, triangle bound, circular triads
+   BT tables violating additivity or product rule: 0 of 4000 checks
+   16/17 = 0.9412; probit far share 0.9538; Thurstone defect at unit gaps +0.4236
+   max of P_ij+P_jk-P_ik over 5000 mixtures of linear orders: 0.999934 (bound 1)
+   CONTROL table cycling at 0.9 each way: 0.9+0.9-0.1 = 1.70 > 1 (fires)
+   Kendall-Babington Smith formula vs brute force, all 1024 tournaments on 5: mismatches 0
+   A3a example: sigma(5)=0.9933, sigma(0.2)=0.5498
+   Arm C: P(X<=14|41,.5)=0.0298 two-sided 0.0596; 14/42 one-sided 0.0218 two-sided 0.0436
+   language keep-order: Phi(1.046/0.5)=0.982, Phi(1.046/1)=0.852
+   A3 source share 0.738 -> gap 1.036; interval 0.561-0.893 -> logit 0.245 to 2.122
+   design effect: share-scale symmetric 5.75; lower half 6.54; upper half 5.01; logit scale 6.87
+
+W1 direction (Clopper-Pearson interval excludes .5), strict criterion: power >= .80 for every n' in [n, 1500]
+   share 0.60: first n reaching .80 = 199; strict n = 210; normal approx 193.8
+   share 0.65: first n reaching .80 = 90; strict n = 97; normal approx 84.8
+   share 0.66: first n reaching .80 = 79; strict n = 86; normal approx 74.2
+   share 0.70: first n reaching .80 = 49; strict n = 54; normal approx 46.6
+   share 0.74: first n reaching .80 = 35; strict n = 37; normal approx 31.6
+   share 0.80: first n reaching .80 = 20; strict n = 23; normal approx 19.3
+   CONTROL size: max rejection at .5 over n=5..300 = 0.0500
+   CONTROL fires: power at n=37 with share 0.70 = 0.698 (<.80, so '37 suffices' is falsifiable)
+
+W2 transitivity triad resolved
+   adjacent 0.65, far 0.775: first 114, strict 121; cycle caught at strict n: 0.760
+   adjacent 0.74, far 0.890: first 44, strict 47; cycle caught at strict n: 0.777
+   adjacent 0.80, far 0.941: first 28, strict 30; cycle caught at strict n: 0.828
+
+W3 additivity, one triad, 1 df: analytic noncentral chi-square (expected-data LR) and own Monte Carlo
+   null BT 0.74/0.74/0.89     analytic n=100: 0.050; n=110: 0.050; n=200: 0.050; n=500: 0.050; n=1000: 0.050
+   no chaining 0.74x3         analytic n=100: 0.759; n=110: 0.797; n=200: 0.964; n=500: 1.000; n=1000: 1.000
+   half chaining far 0.83     analytic n=100: 0.239; n=110: 0.259; n=200: 0.424; n=500: 0.798; n=1000: 0.977
+   BT + 5% flips, ignored     analytic n=100: 0.057; n=110: 0.058; n=200: 0.065; n=500: 0.087; n=1000: 0.125
+   MC (seed 7001, 1500 reps) null BT n=200: 0.052  [CONTROL]
+   MC no chaining n=100: 0.756; n=110: 0.795
+   MC half chaining n=500: 0.800
+   MC flips ignored n=500: 0.080; n=1000: 0.121
+   MC flips in likelihood n=1000: 0.045  [CONTROL]
+
+W4 additivity omnibus D=6, 10 df (Garner rival: pairs involving time or place at 0.74, rest 0.5)
+   analytic n=100: 0.757
+   analytic n=110: 0.805
+   analytic n=200: 0.983
+   MC 400 reps n=100: Garner 0.770; Navon null 0.052 [CONTROL]
+
+W5 rank one, D=6, C=3, 8 df (rank-one null with free-sign k, k1 = 1)
+   analytic null k=1,.6,1.5  n=20: 0.050 (lambda -0.00); n=40: 0.050 (lambda -0.00)
+   analytic swap             n=20: 0.985 (lambda 28.49); n=40: 1.000 (lambda 56.99)
+   analytic tie              n=20: 0.435 (lambda 7.30); n=40: 0.786 (lambda 14.59)
+   analytic reverse          n=20: 0.050 (lambda -0.00); n=40: 0.050 (lambda -0.00)
+   MC null k=1,.6,1.5  n=40 reps=250: rejection 0.040; fitted k3<0 0.000
+   MC tie              n=40 reps=250: rejection 0.776; fitted k3<0 0.000
+   MC swap             n=20 reps=150: rejection 0.993; fitted k3<0 0.000
+   MC reverse          n=40 reps=250: rejection 0.036; fitted k3<0 1.000
+
+W6 languages, time-place logit 1.046 + v, v ~ N(0, s^2)
+   noncentral t s=0.5 L= 4: n=50 0.655; n=100 0.717; n=300 0.763; n=1000000 0.788
+   noncentral t s=0.5 L= 8: n=50 0.988; n=100 0.995; n=300 0.998; n=1000000 0.999
+   noncentral t s=0.5 L=12: n=50 1.000; n=100 1.000; n=300 1.000; n=1000000 1.000
+   noncentral t s=1.0 L= 4: n=50 0.287; n=100 0.298; n=300 0.306; n=1000000 0.310
+   noncentral t s=1.0 L= 8: n=50 0.677; n=100 0.698; n=300 0.712; n=1000000 0.719
+   noncentral t s=1.0 L=12: n=50 0.880; n=100 0.895; n=300 0.904; n=1000000 0.909
+   MC L= 8 n=50 s=0.5: heterogeneity 0.738; mean direction 0.991
+   MC L= 8 n=100 s=0.5: heterogeneity 0.932; mean direction 0.999
+   MC L= 4 n=200 s=0.5: heterogeneity 0.861; mean direction 0.749
+   MC L= 4 n=300 s=0.5: heterogeneity 0.922; mean direction 0.776
+   MC L=12 n=100 s=1.0: heterogeneity 1.000; mean direction 0.896
+   MC L= 8 n=300 s=1.0: heterogeneity 1.000; mean direction 0.714
+   CONTROL heterogeneity at s=0 L=8 n=100: 0.043; CONTROL mean-direction at true mean 0, L=8 n=100 s=0.5: 0.055; L=4 n=50 s=1: 0.050
+
+NOTE: V3 above is NON-DISCRIMINATING (box optimiser stops on tiny gradients; reports divergent tables as finite). Superseded by p65_wave1_verify-ford_2026-11-16.txt (MM iteration).
+
+Independent Wolfram run (scripts/p65_wave1_verify_wolfram.wls), stdout verbatim:
+V-W1 g(x) concave x>=0 -> True; V-W1c concave for all x (must be False) -> False; V-W1d shortfall -> -0.25165869673107
+V-W2 RK conditional odds/(pi/pj) -> (pj + pi*th)/(pi + pj*th); V-W2c th=1 -> 1
+V-W3 Thurstone defect -> 0.42363569238144; V-W4 limit -> -Infinity

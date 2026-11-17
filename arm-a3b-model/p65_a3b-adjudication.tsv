@@ -1,0 +1,64 @@
+item	class	reason
+Z0016	PAR	action (exclaim) located by time clause (doors close) and place (elevator)
+Z0019	NA	"in front of a friend" is an audience, not a literal place
+Z0032	NA	"seldom" is frequency, no literal time expression
+Z0040	PAR	exam event located at time of entering another country
+Z0043	NA	"never" is frequency, no literal time expression
+Z0082	PAR	cooking event in chambers located while I sit here; neither restricts other
+Z0111	PAR	for now and the room each locate; neither restricts the other
+Z0115	NA	no time or place in sentence
+Z0127	TP	Olmec located along Gulf Coast, dates narrow when (most directional pairing)
+Z0133	NA	no literal place (land grant/government institutional)
+Z0162	PAR	strike event located in US, not long ago
+Z0211	PAR	trip/walking event located in Glasgow, then
+Z0228	PAR	actions in the nest located right away; event
+Z0232	NA	"twice" is frequency, no literal time expression
+Z0276	PAR	retaliation event in the Gulf after an attack
+Z0318	NA	"never" is frequency, no literal time expression
+Z0351	PAR	starting project located there, time from previous sentence (1994)
+Z0361	NA	no literal place; "always" frequency
+Z0386	AMB	safety of place since earthquakes: neither location state nor time value nor clear event
+Z0412	PAR	putting potatoes in water after cutting: action located
+Z0422	NA	"usually" is frequency, no literal time expression
+Z0430	NA	distance not a place; "then" only sequencing
+Z0445	PT	time value (dates) asked, Aberdeen picks which instance
+Z0452	TP	who is here (location state) narrowed by now
+Z0468	PAR	coming-in event located 30 min before close at the shop
+Z0479	NA	no time or place in sentence
+Z0567	NA	no literal time expression
+Z0610	NA	"all the time" is frequency, no literal time expression
+Z0652	NA	no literal place (Academy institutional)
+Z0713	PAR	actions at food court located then/while she eats
+Z0753	PAR	getting them to pet store once buttered up: action located
+Z0820	TP	location state (stay on bus) narrowed by until the stop
+Z0839	PT	clock time asserted, Central Time zone restricts where it holds
+Z0843	PAR	clinging/arriving actions located in time and place
+Z0882	NA	no literal time expression
+Z0892	NA	no literal time expression
+Z0919	NA	"when" means where; no literal time expression
+Z0951	PAR	putting rat in container then waiting: action located
+Z0987	PAR	pranks on elevator located by when-clause: action
+Z1074	NA	"still/yet" aspectual, no literal time expression; closure is not a location state
+Z1107	PAR	making the house his, soon: event located
+Z1117	NA	no time or place
+Z1170	TP	groups located in Iraq, post-Saddam period narrows when
+Z1209	PAR	noise-making action on wheel at night
+Z1271	NA	"all the time" is frequency, no literal time expression
+Z1281	NA	"always" is frequency, no literal time expression
+Z1289	PAR	noting then and walking behind husbands each locate; neither restricts
+Z1333	PAR	release event in Iceland, coinciding in time
+Z1342	TP	location state (live at Meadowrun) narrowed to past (used to)
+Z1355	PAR	starting care there located since; no direction
+Z1409	PAR	meeting event in Brazil, time from previous sentence dates
+Z1413	PAR	occasion and part of world each locate; neither restricts
+Z1427	PAR	coming to house event, in no time
+Z1439	TP	location state (living on the land) narrowed by most of our lives
+Z1466	TP	location state (standing on flight deck) narrowed by not long before
+Z1540	PAR	leaving Iraq event located in when-clause
+Z1760	AMB	place property (Bay Area mixed) over time; not clearly TP/PT/PAR
+Z1798	PAR	going in the cage action located by when-clause
+Z1815	TP	location state (in garbage bags) narrowed by now
+Z1861	NA	no time or place in sentence
+Z1922	PAR	going to each place for a duration: action located
+Z1961	NA	no time or place in sentence
+Z1993	PAR	visit to his apartment located as first time; event

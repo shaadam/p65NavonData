@@ -1,0 +1,501 @@
+item	class	time_phrase	place_phrase	confidence	note
+M001	NA			3	time only
+M002	TP	in the next 2 1/2 years	here in this office	2	being here as a state over a period
+M003	PT	today	here in Glacier	1	last day value restricted by place; also get into the park early (PAR)
+M004	NA			2	origins and this yr. not a time-place pairing
+M005	NA			2	no place phrase restricting
+M006	NA			3	
+M007	TP	before the wolves returned	in the park's northern range	2	existence state narrowed by time; now there are nine
+M008	NA			2	no place
+M009	TP	on humid days	at home	3	
+M010	NA			3	
+M011	PAR	last year	on a Colorado highway	3	
+M012	PT	Today	in the office here at Azurix	1	last day value; new position at El Paso institutional
+M013	TP	for years	in the back room	1	
+M014	PAR	yesterday	there	3	
+M015	NA			2	twice is frequency not a time expression
+M016	NA			3	
+M017	PAR	The night I drove back home	home	2	
+M018	PT	at around 8 pm in the evenings	from the city centre	2	bus timing restricted by place; also leave car in Park and Ride overnight (TP)
+M019	NA			3	office institutional
+M020	NA			3	no place
+M021	NA			2	institutional places
+M022	PAR	last night	here	3	
+M023	PAR	In September 1944	in the harbor	3	
+M024	NA			3	
+M025	PAR	while he was there	there	1	
+M026	NA			2	job at house of pies institutional
+M027	PAR	Friday night (5/18)	at Sullivan's Steak House	2	for 6:30 also
+M028	NA			3	
+M029	NA			2	Home Office institutional
+M030	NA			3	no time
+M031	NA			3	
+M032	NA			3	
+M033	NA			3	
+M034	TP	for now	in the bag, in there	2	
+M035	NA			3	first place figurative
+M036	NA			2	no literal place
+M037	NA			3	
+M038	NA			3	
+M039	PAR	A few hours ago	on the West Front of this citadel of democracy	3	
+M040	NA			3	no place
+M041	TP	the next Tuesday night	there	2	there was almost no one there; went back also PAR
+M042	NA			3	
+M043	NA			3	
+M044	NA			1	Mayor in Baltimore is a position
+M045	NA			3	
+M046	NA			3	
+M047	TP	for 8 months	there	3	
+M048	PAR	just	there	2	
+M049	PAR	when they did play board games	on the coffee table in the living room	1	always ate in the dining room also
+M050	NA			3	
+M051	NA			3	
+M052	NA			3	no place
+M053	NA			3	
+M054	NA			2	Kenya is object not location
+M055	NA			3	
+M056	NA			3	
+M057	TP	Now after humankind has suffered so much harm	here	1	
+M058	NA			3	
+M059	NA			1	sky pressing on rooftops figurative
+M060	NA			3	
+M061	NA			3	
+M062	NA			3	no time
+M063	TP	right now	at like a river waterfall area	3	also our last day in Glacier National Park (PT-like)
+M064	NA			3	
+M065	NA			2	no time
+M066	NA			2	step out from under the shadows figurative
+M067	NA			3	
+M068	NA			3	
+M069	NA			3	
+M070	PAR	in one day	in Africa	2	
+M071	NA			3	figurative go back
+M072	PAR	last spring	in Najaf	1	
+M073	PAR	twice in the past year	here	3	
+M074	NA			3	
+M075	NA			3	office institutional
+M076	TP	NEXT YEAR	FRENCH HOUSE	1	housing aim; could be institutional
+M077	PAR	anytime I'm in the area	in the area	2	
+M078	TP	for like an hour and a half straight	in there	1	
+M079	TP	at night	in his room	2	
+M080	NA			2	no time
+M081	NA			2	now is a discourse marker
+M082	TP	last week	in here	2	
+M083	NA			2	
+M084	NA			2	rotation is institutional
+M085	NA			3	
+M086	PAR	just	out there	1	
+M087	PAR	the night we took him to the emergency room	to the emergency room	3	
+M088	NA			3	
+M089	NA			3	
+M090	NA			3	
+M091	NA			2	no time
+M092	PAR	a year ago	here	3	
+M093	NA			2	get away figurative
+M094	NA			1	pulled to ultrasound institutional
+M095	NA			2	
+M096	NA			3	
+M097	NA			3	
+M098	TP	during the week	in the little lot across the street	1	parking on the weekends also
+M099	NA			3	
+M100	NA			3	
+M101	NA			3	
+M102	NA			3	no place
+M103	NA			3	
+M104	NA			3	
+M105	PAR	Three years ago tomorrow night	in this hall	3	
+M106	NA			3	office institutional
+M107	NA			3	
+M108	NA			3	
+M109	NA			3	
+M110	PAR	on Saturday Night	onto the Chiang Kai Shek Memorial near downtown Taipei	3	
+M111	NA			3	
+M112	NA			3	
+M113	PAR	tomorrow	in Philly	2	
+M114	PAR	at 1:00 today	in Sara's office - EB3801A	3	
+M115	PAR	2 weeks ago	in this very room and on those very steps	2	
+M116	NA			3	
+M117	PAR	3 months later	in the basement	2	also lost a hamster in my house once
+M118	TP	today	here	1	
+M119	NA			3	
+M120	NA			3	
+M121	NA			3	
+M122	NA			3	
+M123	NA			3	no time
+M124	NA			3	
+M125	NA			2	no place in sentence
+M126	PAR	for years	there	2	
+M127	NA			3	
+M128	NA			3	
+M129	NA			3	
+M130	NA			3	
+M131	TP	as of 1 April 2004	at his ranch in Crawford, Texas, his parents' retreat in Kennebunkport, Maine, or Camp David	2	days spent away as location state
+M132	NA			2	no place in sentence
+M133	NA			3	no place
+M134	NA			3	no time
+M135	PAR	that day	here	2	
+M136	AMB	the first night	at your new house	1	noun phrase; time could be defined by place or place-state by time
+M137	AMB	One day	in the house they used to live in	1	used to live in is aspect not a time phrase
+M138	NA			3	
+M139	NA			3	no place
+M140	PAR	today	there	3	
+M141	NA			3	
+M142	NA			3	no time
+M143	NA			1	normally is frequency; go home without time phrase
+M144	TP	for 2 years	here	3	
+M145	PAR	this evening	home	2	
+M146	PAR	now for 2 years	there	2	also hair cut at another salon (PAR)
+M147	TP	now	some fine old farm houses	1	houses now empty like square empty at noon
+M148	NA			3	no place
+M149	NA			3	
+M150	NA			3	office institutional
+M151	NA			3	
+M152	TP	Now that I live here	here	2	
+M153	NA			3	
+M154	NA			1	bring the kitten out; territories figurative
+M155	NA			3	no time
+M156	PAR	now	home	3	
+M157	PAR	Over the course of the next 15 years	the city's historical center	1	places are targets of renovation; money poured figurative
+M158	NA			2	no time
+M159	AMB	today	here	1	our task here today; court setting
+M160	NA			3	
+M161	NA			3	no place
+M162	PAR	when they left to go to work	home	2	
+M163	NA			3	
+M164	PAR	earlier this year	in Salt Lake City	1	place modifies newspaper
+M165	NA			3	
+M166	NA			3	no time
+M167	PAR	in recent years	to Vienna	2	
+M168	NA			2	
+M169	NA			3	no place
+M170	PAR	now	from across the room	1	
+M171	NA			3	
+M172	NA			3	
+M173	PAR	early today	home	3	also go home and work out; this morning
+M174	PAR	then	out there	2	
+M175	NA			3	no time
+M176	PAR	On April 12, 1981	from the Kennedy Space Center	3	
+M177	NA			3	
+M178	PAR	in 2001	in a small and remote Indian village in the state of Kerala	3	
+M179	TP	at night	in the coop	3	and the rabbit in the hutch
+M180	NA			1	habitual come into the office has no time phrase; the night before attaches to drinking
+M181	NA			3	
+M182	NA			3	
+M183	NA			3	no place
+M184	PAR	Last week	in Huston, Texas	2	
+M185	NA			3	
+M186	TP	until late evening	a city centre car park	1	
+M187	TP	now	on the street	3	
+M188	NA			3	no time
+M189	PAR	Friday morning July 7 at 800 am	at your office	3	
+M190	PAR	In 1997	off the Thai port of Ranong	3	
+M191	PAR	one week	to san francisco california	2	
+M192	AMB	long ago	there	1	my college evenings there
+M193	NA			2	school institutional
+M194	TP	now	Some sections of the city	2	dry now
+M195	NA			2	then is logical
+M196	NA			3	
+M197	NA			2	no time
+M198	NA			3	
+M199	NA			3	
+M200	PAR	last night	home	3	
+M201	NA			3	
+M202	NA			3	no time
+M203	NA			3	
+M204	PAR	every year	in a different country	2	
+M205	TP	today	here	2	
+M206	PAR	two hours later	up there	2	
+M207	NA			3	no time
+M208	TP	first	York	2	home to the Ninth Legion and later the Sixth
+M209	NA			3	
+M210	NA			2	WashPost is a paper; this space figurative
+M211	NA			3	
+M212	PAR	some mornings	across the street	2	
+M213	NA			3	
+M214	TP	for this week only	from our Hong Kong office	2	
+M215	NA			2	
+M216	NA			2	on the road idiomatic; no time
+M217	PAR	today	here	2	
+M218	NA			3	
+M219	PAR	toda	there	1	been there once also
+M220	TP	for two years	here	3	
+M221	TP	on Saturday night	in the square	2	sea of people in the square; visited festival also PAR
+M222	TP	in 2 years of living there	there	2	
+M223	NA			3	
+M224	NA			3	
+M225	NA			3	
+M226	NA			3	
+M227	NA			3	
+M228	NA			3	no place
+M229	PAR	Friday night (5/18)	at Sullivan's Steak House	2	for 6:30 also
+M230	NA			3	
+M231	NA			3	
+M232	PAR	Finally	around the corner from the top of the stairs	1	not accommodated until 3M also (TP-like, no place phrase)
+M233	NA			2	in Tyler's mind figurative
+M234	TP	for roughly 2-3days	in their home	2	
+M235	NA			2	no time
+M236	TP	twelve years	there	2	sent to the ship aged eighteen also PAR
+M237	NA			2	Afghanistan as polity
+M238	PAR	a couple of weeks later	over to his house	3	
+M239	PT	when exactly there fall is	there	2	also weather there during our autumn months
+M240	PAR	today	home	2	
+M241	PAR	On Monday	in to the Livingston Parish Sheriff's Office	3	situation at the church two years ago also PAR
+M242	TP	next morning	in bed	2	heard trumpets also PAR
+M243	PAR	last month's	in the city	2	
+M244	PT	at 2:30 the next day	At a polling station in Taikoo of the Hong Kong Island constituency	2	time of last ballot restricted to that station; polls closed at 22:30
+M245	PAR	later that night	at that garden in the heights party	2	there will be some girls there (TP-like, time implicit)
+M246	NA			1	no pairing: being back in Philadelphia has no time; 3 years ago attaches to goals
+M247	NA			1	never again not a time expression
+M248	NA			3	
+M249	NA			3	office institutional
+M250	NA			3	here on my channel figurative
+M251	NA			1	no time phrase paired with out of bed
+M252	PAR	on Sunday night (March 4)	for the station	2	
+M253	NA			3	office institutional
+M254	PAR	in late November	to Del Frisco's	3	
+M255	NA			3	no place
+M256	NA			2	no time
+M257	NA			3	
+M258	NA			3	no place
+M259	TP	for four nights	in Fiji	3	
+M260	NA			2	figurative
+M261	TP	three years	in Japan	2	stationed in Japan; Army institutional
+M262	NA			3	
+M263	NA			3	
+M264	NA			3	no time
+M265	PAR	Sunday	to the wedding	1	wedding is an event used as destination
+M266	NA			3	
+M267	AMB	When I went to Bosnia	Bosnia	1	property of meat restricted by time and place
+M268	TP	for a few nights	here	2	
+M269	NA			2	no time
+M270	NA			3	case is not a place
+M271	NA			3	
+M272	NA			3	
+M273	PAR	in the 1490s	in Milan	1	period boundaries marked by located events; death in Florence, sacking of Rome in 1527
+M274	NA			3	here is the case
+M275	NA			3	
+M276	NA			3	
+M277	NA			3	
+M278	PAR	last year	there	3	
+M279	NA			3	
+M280	NA			1	no pairing: now attaches to reason; return home has no time
+M281	NA			3	
+M282	NA			3	
+M283	NA			3	
+M284	NA			3	
+M285	PAR	Yesterday	on our street	1	existential with action; also come out in the open when Americans leave the area
+M286	PAR	TOMORROW NIGHT	IN HERE	3	
+M287	NA			3	
+M288	TP	for over 250 years	in the Long Room at Auckland Castle	3	
+M289	PAR	all day	at a bar	2	this weekend; go to dinner also
+M290	NA			2	
+M291	NA			3	blog not a place
+M292	NA			3	
+M293	NA			3	
+M294	NA			1	no pairing: already attaches to discounting; revenues there have no time
+M295	NA			2	North as polity; no time
+M296	TP	to this day	in the city	2	remains viewable in the city to this day
+M297	NA			3	no place
+M298	NA			3	no place
+M299	PAR	at least an hour	there	1	
+M300	PAR	Last night	to l' Opera	3	
+M301	NA			2	no time
+M302	NA			2	then is sequential
+M303	NA			3	
+M304	PAR	at night	home	2	
+M305	NA			3	
+M306	PAR	Next year's	in Mexico City	2	
+M307	NA			2	here is a forum
+M308	PAR	within two days after arrival	to a migration office	2	
+M309	PAR	Today	home	3	
+M310	NA			3	
+M311	NA			3	
+M312	NA			3	
+M313	PAR	about 12 years ago	here	3	
+M314	NA			3	
+M315	NA			1	in this way is manner; cages only implied
+M316	NA			2	no time
+M317	NA			3	
+M318	PAR	for two hours	in an office on the 33rd floor	2	deposited in office also
+M319	NA			2	while is contrastive
+M320	NA			3	
+M321	NA			2	per night is a rate
+M322	PAR	For weeks	Alabama	2	serving in the National Guard there institutional
+M323	NA			1	no pairing: for Christmas is purpose; right now has no place
+M324	NA			2	Core institutional
+M325	PAR	a few hours ago	here	2	
+M326	NA			3	
+M327	PAR	now	there	1	
+M328	NA			3	
+M329	PAR	the first night	home	3	
+M330	PAR	today	in the park	2	now ending our time in Glacier also
+M331	NA			2	take home is adjectival; in Math figurative
+M332	PAR	in 1930	in Geneva	3	also Copenhagen in 1936
+M333	TP	for several days	away from the office	2	
+M334	NA			3	
+M335	NA			3	
+M336	NA			3	
+M337	NA			1	no pairing: now attaches to argument; coils on the couch have no time
+M338	NA			3	figurative
+M339	NA			2	no time
+M340	PAR	this afternoon	to 30	2	
+M341	PAR	through the night	there	1	
+M342	PAR	tonight	home	3	
+M343	NA			2	University employment institutional
+M344	NA			3	
+M345	NA			3	
+M346	NA			2	
+M347	NA			3	
+M348	TP	for two weeks	in a tray of treated, seasoned water	1	
+M349	NA			3	no time
+M350	NA			3	
+M351	NA			3	no time
+M352	NA			3	
+M353	NA			3	
+M354	TP	for a week	in the room	2	
+M355	PAR	within a week	there	2	
+M356	TP	for a girls night	here	2	
+M357	PAR	within the extended visa period	out of Cuba	1	extended at any immigration office
+M358	NA			3	office institutional
+M359	NA			2	to Sharon is a person
+M360	NA			1	no pairing: by now attaches to wondering
+M361	NA			3	
+M362	NA			3	
+M363	NA			3	
+M364	NA			2	no place
+M365	NA			3	no place
+M366	PAR	On January 8, 1880	at the corner of California and Dupont (now Grant) streets	3	
+M367	PAR	really late at night	home	2	
+M368	PAR	every year	York	1	regular festivals every year
+M369	NA			3	
+M370	NA			3	
+M371	TP	for 2 nights	here	3	
+M372	NA			2	class not a place
+M373	TP	all night last night	home	3	came home also PAR
+M374	NA			2	no time
+M375	NA			3	
+M376	NA			2	country as polity
+M377	PAR	recently	to Kuwait	3	
+M378	PAR	the 37th time	from this office	2	
+M379	NA			3	
+M380	PAR	between July 2003 and December 2004	in New South Wales, Victoria, South Australia, Western Australia and Queensland	3	
+M381	PAR	in 1920	to China	3	married there that year also
+M382	PT	each day	on the eastern corner of Rekohu	1	first rays of sun reach this spot; location without time also stated
+M383	NA			3	
+M384	NA			3	
+M385	PAR	back in 2013	in Toronto	2	posters over here on the wall also
+M386	NA			2	governorates are objects of control
+M387	NA			3	
+M388	NA			3	
+M389	NA			3	
+M390	PAR	in September 1803	to Harrow	2	met while at school also
+M391	NA			3	figurative front
+M392	NA			3	
+M393	NA			3	no place
+M394	PAR	at the weekend	here	3	
+M395	NA			2	on the phone not a place
+M396	NA			3	
+M397	TP	the day of Wrestlemania	there	2	
+M398	NA			3	
+M399	PAR	the other day	here at the loop trailhead	1	
+M400	NA			2	no time
+M401	NA			2	
+M402	PAR	today	home	2	
+M403	NA			3	
+M404	NA			2	at home means domestic
+M405	TP	for many years	in the UTC La Jolla area	3	
+M406	PAR	Within 24 hours	in the ancient capital of Hue	1	place restricts an exception to the time-bounded outcome
+M407	NA			2	
+M408	NA			3	
+M409	NA			3	
+M410	NA			3	
+M411	NA			3	no time
+M412	NA			3	
+M413	NA			2	no time
+M414	TP	right now	in there	3	
+M415	PAR	the first night	into the wrong room	2	someone at the door at 1:00 am also
+M416	PAR	today	home	1	today attaches mainly to haircut
+M417	PAR	for over six years now	there	3	
+M418	NA			1	no pairing: this week attaches to studying; cleaning in here has no time
+M419	NA			3	
+M420	PAR	During the summer	their outdoor theatre	2	every Friday night also
+M421	NA			3	no time
+M422	PAR	yesterday	into Mecca's Grand Mosque	3	
+M423	PAR	two months after she first slept with him	home	3	
+M424	PAR	every year	to Antarctica	2	
+M425	NA			2	no time
+M426	NA			3	
+M427	PAR	AT LEAST 5 DAYS A WEEK	HERE	3	
+M428	NA			3	
+M429	NA			3	no place
+M430	PAR	at that hour	in this office	2	
+M431	NA			3	Home Office institutional
+M432	PAR	Three weeks ago	into the rear of my home	3	
+M433	NA			2	
+M434	NA			2	landmark status is institutional
+M435	TP	for about 2 hours	in there	3	
+M436	PAR	Next day	into another room, on the same floor	2	
+M437	PAR	In 1930	in India	3	
+M438	NA			3	
+M439	NA			3	
+M440	TP	for 3 years	there	2	
+M441	NA			3	
+M442	NA			3	no place
+M443	PAR	24/7	anywhere	1	
+M444	NA			3	
+M445	NA			3	
+M446	PAR	last night	in their new dining room	2	was just in last night also
+M447	NA			3	
+M448	PT	just yet	where I am	1	seasonal cold not yet reached at this place
+M449	NA			2	
+M450	PAR	After seventeen days	at my home	3	
+M451	NA			3	
+M452	NA			1	no pairing: now attaches to choppy
+M453	NA			2	no time in sentence
+M454	NA			3	no place
+M455	PAR	On Thursday morning	at the Luxembourg	3	9 A.M. meeting
+M456	NA			3	
+M457	NA			2	no time
+M458	PAR	on the 1st day of Feb. next	in Musical Hall, of this city	3	then and there
+M459	NA			3	no time
+M460	NA			3	after is ranking
+M461	TP	at least one night	there	2	
+M462	NA			2	class and exhibit are events not places
+M463	PAR	the first couple days we were in Portland	in Forest Park	2	
+M464	PAR	each year	around the world	2	
+M465	NA			2	on the phone not a place
+M466	NA			3	no time
+M467	PAR	at night	home	3	
+M468	NA			3	no time
+M469	NA			1	took centre stage figurative
+M470	PAR	right now	home	3	
+M471	PAR	tomorrow	home	3	
+M472	NA			3	no place
+M473	NA			3	
+M474	TP	sometimes	at parking lots along the route	1	restocked a couple of times throughout the year also
+M475	NA			3	
+M476	NA			1	for Christmas is purpose
+M477	NA			3	
+M478	PT	anytime	the Republic of Ireland (Dublin)	2	good time to visit restricted by place
+M479	NA			3	
+M480	NA			2	from is origin
+M481	NA			3	no place
+M482	PT	for minimum 6 years	in my country	2	
+M483	PAR	almost everyday	here	3	
+M484	NA			3	
+M485	NA			2	came out figurative
+M486	PAR	today	on an Ottawa street	2	
+M487	NA			3	
+M488	NA			3	no time
+M489	NA			3	
+M490	TP	this week	out in Chicago	3	visited restaurant while out there a couple years ago (PAR)
+M491	NA			3	
+M492	PAR	for several years	in our home	2	
+M493	NA			3	
+M494	NA			2	Peoples is a company
+M495	NA			3	
+M496	PAR	on Sunday night	from work	3	around 9:00 pm
+M497	NA			3	no time
+M498	NA			3	
+M499	TP	after two and a half years	here	2	
+M500	PAR	last night	here at the office	3	

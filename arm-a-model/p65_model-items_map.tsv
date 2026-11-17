@@ -1,0 +1,501 @@
+item	stratum	treebank	doc	sent_id	in_class_sample
+M001	F	en_gum	GUM_vlog_college	GUM_vlog_college-57	S298
+M002	C	en_gum	GUM_speech_nixon	GUM_speech_nixon-22	S161
+M003	C	en_gum	GUM_vlog_hiking	GUM_vlog_hiking-2	
+M004	C	en_gum	GUM_letter_roomers	GUM_letter_roomers-6	
+M005	C	en_gum	GUM_voyage_oakland	GUM_voyage_oakland-23	S002
+M006	F	en_gum	GUM_court_carpet	GUM_court_carpet-29	S123
+M007	C	en_ewt	newsgroup-groups.google.com_alt.animals_02c2d614bfbf6b20_ENG_20050223_232900	newsgroup-groups.google.com_alt.animals_02c2d614bfbf6b20_ENG_20050223_232900-0030	S088
+M008	F	en_gum	GUM_voyage_socotra	GUM_voyage_socotra-26	S280
+M009	C	en_gum	GUM_letter_arendt	GUM_letter_arendt-28	S294
+M010	F	en_gum	GUM_letter_zora	GUM_letter_zora-48	S302
+M011	C	en_ewt	newsgroup-groups.google.com_alt.animals_02c2d614bfbf6b20_ENG_20050223_232900	newsgroup-groups.google.com_alt.animals_02c2d614bfbf6b20_ENG_20050223_232900-0052	S387
+M012	C	en_ewt	email-enronsent20_02	email-enronsent20_02-0004	S127
+M013	C	en_gum	GUM_interview_onion	GUM_interview_onion-32	S113
+M014	C	en_ewt	reviews-083459	reviews-083459-0002	S243
+M015	R	en_gum	GUM_bio_jespersen	GUM_bio_jespersen-27	S227
+M016	R	en_gum	GUM_conversation_family	GUM_conversation_family-17	S445
+M017	C	en_ewt	reviews-349020	reviews-349020-0002	S347
+M018	C	en_gum	GUM_voyage_york	GUM_voyage_york-30	S281
+M019	C	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0201	S329
+M020	F	en_ewt	email-enronsent33_01	email-enronsent33_01-0140	S008
+M021	C	en_gum	GUM_speech_open	GUM_speech_open-25	S436
+M022	C	en_ewt	email-enronsent23_07	email-enronsent23_07-0008	S446
+M023	F	en_gum	GUM_voyage_coron	GUM_voyage_coron-7	S359
+M024	R	en_gum	GUM_whow_quinoa	GUM_whow_quinoa-45	S402
+M025	F	en_ewt	answers-20111108091921AAaLK4e_ans	answers-20111108091921AAaLK4e_ans-0009	S130
+M026	C	en_ewt	email-enronsent23_04	email-enronsent23_04-0003	
+M027	C	en_ewt	email-enronsent19_01	email-enronsent19_01-0046	
+M028	F	en_gum	GUM_whow_joke	GUM_whow_joke-49	S293
+M029	F	en_gum	GUM_news_questionnaire	GUM_news_questionnaire-7	S277
+M030	R	en_ewt	answers-20111108105225AAAJ9ek_ans	answers-20111108105225AAAJ9ek_ans-0010	S242
+M031	C	en_ewt	answers-20111108091921AAaLK4e_ans	answers-20111108091921AAaLK4e_ans-0054	S343
+M032	F	en_gum	GUM_voyage_tulsa	GUM_voyage_tulsa-76	S381
+M033	R	en_ewt	answers-20111108104724AAuBUR7_ans	answers-20111108104724AAuBUR7_ans-0021	S231
+M034	C	en_gum	GUM_conversation_toys	GUM_conversation_toys-28	S101
+M035	F	en_ewt	newsgroup-groups.google.com_eHolistic_2dd76f31ceb6bfe8_ENG_20050513_224200	newsgroup-groups.google.com_eHolistic_2dd76f31ceb6bfe8_ENG_20050513_224200-0037	S390
+M036	F	en_ewt	reviews-180886	reviews-180886-0002	S311
+M037	F	en_gum	GUM_essay_sexlife	GUM_essay_sexlife-36	S356
+M038	F	en_gum	GUM_fiction_pag	GUM_fiction_pag-49	S440
+M039	C	en_gum	GUM_speech_maiden	GUM_speech_maiden-5	S032
+M040	C	en_gum	GUM_news_taxes	GUM_news_taxes-7	
+M041	C	en_gum	GUM_news_lanterns	GUM_news_lanterns-26	S424
+M042	F	en_gum	GUM_speech_data	GUM_speech_data-14	S137
+M043	F	en_ewt	weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002	weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002-0057	S205
+M044	F	en_gum	GUM_speech_floyd	GUM_speech_floyd-29	S196
+M045	F	en_gum	GUM_news_warhol	GUM_news_warhol-39	S019
+M046	F	en_gum	GUM_news_flag	GUM_news_flag-10	S351
+M047	C	en_ewt	answers-20111108084416AAoPgBv_ans	answers-20111108084416AAoPgBv_ans-0022	S392
+M048	C	en_ewt	reviews-311987	reviews-311987-0002	S410
+M049	C	en_gum	GUM_fiction_error	GUM_fiction_error-24	S380
+M050	F	en_ewt	answers-20111107203006AA9ojw8_ans	answers-20111107203006AA9ojw8_ans-0004	S304
+M051	F	en_ewt	reviews-112579	reviews-112579-0011	S103
+M052	R	en_ewt	email-enronsent39_01	email-enronsent39_01-0064	S326
+M053	F	en_gum	GUM_interview_mcguire	GUM_interview_mcguire-31	S358
+M054	C	en_gum	GUM_speech_open	GUM_speech_open-4	
+M055	F	en_ewt	email-enronsent03_01	email-enronsent03_01-0099	S350
+M056	F	en_gum	GUM_speech_telescope	GUM_speech_telescope-12	S162
+M057	C	en_gum	GUM_fiction_wedding	GUM_fiction_wedding-40	S285
+M058	R	en_ewt	answers-20111108110610AA4bcXX_ans	answers-20111108110610AA4bcXX_ans-0017	S360
+M059	F	en_gum	GUM_fiction_garden	GUM_fiction_garden-22	S192
+M060	F	en_gum	GUM_textbook_governments	GUM_textbook_governments-5	S164
+M061	F	en_ewt	answers-20111108092643AAXe4lD_ans	answers-20111108092643AAXe4lD_ans-0014	S055
+M062	F	en_ewt	email-enronsent03_01	email-enronsent03_01-0072	S190
+M063	C	en_gum	GUM_vlog_hiking	GUM_vlog_hiking-18	S109
+M064	F	en_gum	GUM_letter_marcie2	GUM_letter_marcie2-28	S115
+M065	F	en_ewt	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0028	S029
+M066	C	en_gum	GUM_voyage_oakland	GUM_voyage_oakland-3	S443
+M067	F	en_ewt	newsgroup-groups.google.com_Meditation20052_06390a5f75b2e1f2_ENG_20050316_091700	newsgroup-groups.google.com_Meditation20052_06390a5f75b2e1f2_ENG_20050316_091700-0052	S367
+M068	F	en_gum	GUM_interview_onion	GUM_interview_onion-34	S092
+M069	F	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0222	S020
+M070	F	en_ewt	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100-0052	S163
+M071	F	en_gum	GUM_court_mountain	GUM_court_mountain-77	S434
+M072	F	en_ewt	weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653	weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0012	S165
+M073	C	en_ewt	reviews-238839	reviews-238839-0005	
+M074	R	en_ewt	weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500	weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0083	S040
+M075	C	en_ewt	weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300	weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0009	S049
+M076	C	en_gum	GUM_letter_roomers	GUM_letter_roomers-24	S309
+M077	C	en_ewt	reviews-112579	reviews-112579-0003	S389
+M078	C	en_gum	GUM_vlog_studying	GUM_vlog_studying-27	S117
+M079	C	en_ewt	answers-20111108105749AABv7vx_ans	answers-20111108105749AABv7vx_ans-0020	S282
+M080	F	en_gum	GUM_bio_higuchi	GUM_bio_higuchi-35	S346
+M081	F	en_gum	GUM_conversation_retirement	GUM_conversation_retirement-12	S213
+M082	C	en_gum	GUM_conversation_vet	GUM_conversation_vet-30	S339
+M083	F	en_ewt	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100-0238	S401
+M084	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-4	S342
+M085	R	en_ewt	reviews-030126	reviews-030126-0001	S174
+M086	F	en_gum	GUM_vlog_appearance	GUM_vlog_appearance-3	S259
+M087	C	en_gum	GUM_conversation_gossip	GUM_conversation_gossip-2	S375
+M088	F	en_ewt	reviews-262441	reviews-262441-0001	S069
+M089	F	en_gum	GUM_court_carpet	GUM_court_carpet-47	S186
+M090	F	en_ewt	reviews-107692	reviews-107692-0008	S271
+M091	F	en_ewt	newsgroup-groups.google.com_hiddennook_f50294175d32a8ac_ENG_20041120_152800	newsgroup-groups.google.com_hiddennook_f50294175d32a8ac_ENG_20041120_152800-0006	S432
+M092	C	en_ewt	reviews-160073	reviews-160073-0020	S275
+M093	F	en_ewt	reviews-216456	reviews-216456-0002	S332
+M094	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-22	S307
+M095	C	en_ewt	answers-20111108110329AAxl1pb_ans	answers-20111108110329AAxl1pb_ans-0015	
+M096	F	en_gum	GUM_vlog_hair	GUM_vlog_hair-9	S102
+M097	F	en_gum	GUM_interview_onion	GUM_interview_onion-7	S328
+M098	C	en_ewt	answers-20111106215236AAycANO_ans	answers-20111106215236AAycANO_ans-0013	S427
+M099	F	en_ewt	newsgroup-groups.google.com_emails_ec0a1064de05e74b_ENG_20040929_023800	newsgroup-groups.google.com_emails_ec0a1064de05e74b_ENG_20040929_023800-0030	S009
+M100	F	en_gum	GUM_whow_parachute	GUM_whow_parachute-9	S249
+M101	R	en_ewt	answers-20111108101827AALT6Zq_ans	answers-20111108101827AALT6Zq_ans-0021	S112
+M102	F	en_gum	GUM_interview_cyclone	GUM_interview_cyclone-9	S365
+M103	F	en_ewt	email-enronsent02_01	email-enronsent02_01-0053	S382
+M104	F	en_ewt	email-enronsent06_01	email-enronsent06_01-0071	S202
+M105	C	en_gum	GUM_speech_remarks	GUM_speech_remarks-16	
+M106	C	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0180	S015
+M107	R	en_ewt	answers-20111108105029AARU1Lf_ans	answers-20111108105029AARU1Lf_ans-0001	S107
+M108	F	en_gum	GUM_essay_privatization	GUM_essay_privatization-52	S361
+M109	F	en_gum	GUM_news_clock	GUM_news_clock-34	S372
+M110	C	en_gum	GUM_news_lanterns	GUM_news_lanterns-3	
+M111	F	en_gum	GUM_vlog_pizzeria	GUM_vlog_pizzeria-95	S257
+M112	C	en_ewt	newsgroup-groups.google.com_magicworld_04c89d43ff4fd6ea_ENG_20050104_152000	newsgroup-groups.google.com_magicworld_04c89d43ff4fd6ea_ENG_20050104_152000-0019	S185
+M113	C	en_ewt	answers-20111031103114AA61BW3_ans	answers-20111031103114AA61BW3_ans-0002	
+M114	C	en_ewt	email-enronsent13_01	email-enronsent13_01-0034	S449
+M115	C	en_gum	GUM_speech_maiden	GUM_speech_maiden-12	
+M116	F	en_ewt	answers-20111105112131AA6gIX6_ans	answers-20111105112131AA6gIX6_ans-0007	S383
+M117	C	en_ewt	answers-20111108105022AA0Q5wb_ans	answers-20111108105022AA0Q5wb_ans-0008	
+M118	C	en_gum	GUM_speech_inauguration	GUM_speech_inauguration-2	S188
+M119	F	en_gum	GUM_whow_arrogant	GUM_whow_arrogant-58	S189
+M120	F	en_gum	GUM_textbook_artwork	GUM_textbook_artwork-25	S144
+M121	R	en_gum	GUM_court_nullification	GUM_court_nullification-34	S023
+M122	F	en_ewt	email-enronsent08_02	email-enronsent08_02-0069	S377
+M123	F	en_ewt	weblog-juancole.com_juancole_20040823064025_ENG_20040823_064025	weblog-juancole.com_juancole_20040823064025_ENG_20040823_064025-0067	S357
+M124	R	en_gum	GUM_voyage_chatham	GUM_voyage_chatham-28	S172
+M125	F	en_gum	GUM_speech_trump	GUM_speech_trump-66	S038
+M126	C	en_ewt	reviews-326649	reviews-326649-0002	S191
+M127	F	en_gum	GUM_interview_peres	GUM_interview_peres-60	S155
+M128	F	en_gum	GUM_whow_joke	GUM_whow_joke-60	S260
+M129	F	en_ewt	answers-20111108110044AA4rs9f_ans	answers-20111108110044AA4rs9f_ans-0011	S430
+M130	F	en_gum	GUM_court_property	GUM_court_property-77	S245
+M131	C	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0199	S235
+M132	F	en_ewt	email-enronsent26_01	email-enronsent26_01-0014	S371
+M133	F	en_ewt	email-enronsent37_01	email-enronsent37_01-0141	S195
+M134	F	en_ewt	reviews-200566	reviews-200566-0002	S325
+M135	C	en_gum	GUM_vlog_portland	GUM_vlog_portland-16	S272
+M136	C	en_gum	GUM_whow_packing	GUM_whow_packing-23	S321
+M137	C	en_gum	GUM_fiction_error	GUM_fiction_error-21	S033
+M138	F	en_ewt	reviews-043020	reviews-043020-0015	S229
+M139	R	en_ewt	email-enronsent34_01	email-enronsent34_01-0059	S030
+M140	C	en_ewt	reviews-224906	reviews-224906-0002	S194
+M141	F	en_ewt	answers-20111108104724AAuBUR7_ans	answers-20111108104724AAuBUR7_ans-0038	S065
+M142	F	en_ewt	reviews-310032	reviews-310032-0009	S374
+M143	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-36	S085
+M144	C	en_ewt	reviews-363873	reviews-363873-0002	
+M145	C	en_gum	GUM_conversation_erasmus	GUM_conversation_erasmus-6	
+M146	C	en_ewt	reviews-285133	reviews-285133-0001	S166
+M147	C	en_gum	GUM_voyage_sydfynske	GUM_voyage_sydfynske-54	
+M148	F	en_gum	GUM_interview_herrick	GUM_interview_herrick-13	S170
+M149	R	en_gum	GUM_bio_holt	GUM_bio_holt-22	S426
+M150	C	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0016	S241
+M151	F	en_gum	GUM_academic_thrones	GUM_academic_thrones-15	S369
+M152	C	en_ewt	reviews-355325	reviews-355325-0004	S236
+M153	F	en_gum	GUM_speech_nixon	GUM_speech_nixon-27	S423
+M154	F	en_ewt	answers-20111108110329AAxl1pb_ans	answers-20111108110329AAxl1pb_ans-0028	S442
+M155	R	en_gum	GUM_podcast_bangladesh	GUM_podcast_bangladesh-35	S159
+M156	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-42	S315
+M157	C	en_gum	GUM_voyage_athens	GUM_voyage_athens-32	S388
+M158	F	en_gum	GUM_speech_data	GUM_speech_data-16	S273
+M159	C	en_gum	GUM_court_negligence	GUM_court_negligence-19	S385
+M160	R	en_ewt	reviews-058009	reviews-058009-0001	S039
+M161	R	en_ewt	email-enronsent13_01	email-enronsent13_01-0056	S399
+M162	C	en_gum	GUM_speech_floyd	GUM_speech_floyd-33	
+M163	F	en_gum	GUM_podcast_brave	GUM_podcast_brave-21	S091
+M164	C	en_ewt	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0068	
+M165	F	en_gum	GUM_vlog_pregnant	GUM_vlog_pregnant-52	S177
+M166	F	en_gum	GUM_academic_eegimaa	GUM_academic_eegimaa-30	S037
+M167	F	en_gum	GUM_speech_austria	GUM_speech_austria-31	S246
+M168	F	en_ewt	newsgroup-groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700	newsgroup-groups.google.com_HumorUniversity_00dd93cc9545deb3_ENG_20051130_122700-0002	S003
+M169	F	en_ewt	reviews-230176	reviews-230176-0005	S184
+M170	C	en_gum	GUM_vlog_covid	GUM_vlog_covid-46	S105
+M171	F	en_ewt	newsgroup-groups.google.com_INTPunderground_b2c62e87877e4a22_ENG_20050906_165900	newsgroup-groups.google.com_INTPunderground_b2c62e87877e4a22_ENG_20050906_165900-0090	S026
+M172	F	en_gum	GUM_essay_ghost	GUM_essay_ghost-31	S138
+M173	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-17	
+M174	F	en_gum	GUM_conversation_lambada	GUM_conversation_lambada-49	S180
+M175	F	en_ewt	reviews-220214	reviews-220214-0011	S063
+M176	F	en_gum	GUM_news_nasa	GUM_news_nasa-6	S254
+M177	F	en_ewt	email-enronsent00_02	email-enronsent00_02-0035	S341
+M178	F	en_ewt	newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800	newsgroup-groups.google.com_eHolistic_e470976a8f836699_ENG_20050829_183800-0001	S125
+M179	C	en_ewt	answers-20111108101850AAhNuvz_ans	answers-20111108101850AAhNuvz_ans-0004	S158
+M180	C	en_ewt	weblog-juancole.com_juancole_20040823064025_ENG_20040823_064025	weblog-juancole.com_juancole_20040823064025_ENG_20040823_064025-0078	S072
+M181	F	en_gum	GUM_vlog_covid	GUM_vlog_covid-27	S362
+M182	R	en_gum	GUM_vlog_hair	GUM_vlog_hair-50	S337
+M183	F	en_gum	GUM_academic_implicature	GUM_academic_implicature-2	S345
+M184	F	en_ewt	weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500	weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0049	S308
+M185	F	en_ewt	reviews-004574	reviews-004574-0003	S058
+M186	F	en_gum	GUM_voyage_york	GUM_voyage_york-32	S396
+M187	C	en_ewt	weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012	weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0005	S121
+M188	F	en_ewt	reviews-281976	reviews-281976-0001	S218
+M189	C	en_ewt	email-enronsent17_01	email-enronsent17_01-0041	S198
+M190	F	en_ewt	weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134	weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0050	S053
+M191	C	en_ewt	answers-20111108110008AA7xHnL_ans	answers-20111108110008AA7xHnL_ans-0002	S106
+M192	C	en_ewt	reviews-291046	reviews-291046-0005	
+M193	C	en_ewt	answers-20111108091609AAHOFa6_ans	answers-20111108091609AAHOFa6_ans-0003	
+M194	C	en_ewt	newsgroup-groups.google.com_IndiaNewsWindow_1405662573fa84ed_ENG_20050831_110400	newsgroup-groups.google.com_IndiaNewsWindow_1405662573fa84ed_ENG_20050831_110400-0024	S143
+M195	F	en_ewt	answers-20111107173224AA22AwU_ans	answers-20111107173224AA22AwU_ans-0009	S292
+M196	F	en_ewt	newsgroup-groups.google.com_civicamerican_22c54c292026bfd2_ENG_20060128_072400	newsgroup-groups.google.com_civicamerican_22c54c292026bfd2_ENG_20060128_072400-0003	S108
+M197	F	en_gum	GUM_voyage_isfahan	GUM_voyage_isfahan-21	S167
+M198	F	en_ewt	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0261	S223
+M199	F	en_gum	GUM_essay_walking	GUM_essay_walking-27	S141
+M200	C	en_gum	GUM_conversation_grounded	GUM_conversation_grounded-11	S201
+M201	F	en_ewt	reviews-374604	reviews-374604-0003	S270
+M202	F	en_ewt	answers-20111108104015AAGxHNm_ans	answers-20111108104015AAGxHNm_ans-0004	S448
+M203	F	en_ewt	reviews-207629	reviews-207629-0006	S379
+M204	F	en_gum	GUM_news_afghan	GUM_news_afghan-38	S067
+M205	C	en_gum	GUM_speech_open	GUM_speech_open-2	S268
+M206	C	en_ewt	reviews-351058	reviews-351058-0004	S278
+M207	F	en_ewt	reviews-202709	reviews-202709-0003	S287
+M208	F	en_gum	GUM_voyage_york	GUM_voyage_york-9	S262
+M209	F	en_ewt	email-enronsent17_01	email-enronsent17_01-0022	S253
+M210	C	en_ewt	weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425	weblog-blogspot.com_tacitusproject_20040712123425_ENG_20040712_123425-0001	S064
+M211	F	en_ewt	reviews-081934	reviews-081934-0002	S197
+M212	C	en_gum	GUM_essay_system	GUM_essay_system-15	S089
+M213	F	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0194	S220
+M214	C	en_ewt	email-enronsent19_01	email-enronsent19_01-0035	S093
+M215	F	en_ewt	reviews-190256	reviews-190256-0006	S261
+M216	F	en_gum	GUM_podcast_collaboration	GUM_podcast_collaboration-21	S025
+M217	C	en_gum	GUM_whow_elevator	GUM_whow_elevator-42	S016
+M218	C	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0153	S079
+M219	C	en_ewt	reviews-394662	reviews-394662-0004	
+M220	C	en_ewt	reviews-121987	reviews-121987-0002	S050
+M221	C	en_gum	GUM_news_lanterns	GUM_news_lanterns-25	S071
+M222	C	en_ewt	reviews-121987	reviews-121987-0005	S338
+M223	R	en_ewt	answers-20111107200249AAIyCy5_ans	answers-20111107200249AAIyCy5_ans-0007	S395
+M224	F	en_gum	GUM_speech_inauguration	GUM_speech_inauguration-34	S056
+M225	F	en_gum	GUM_letter_trade	GUM_letter_trade-32	S209
+M226	F	en_ewt	reviews-071278	reviews-071278-0003	S334
+M227	F	en_gum	GUM_interview_dungeon	GUM_interview_dungeon-62	S181
+M228	F	en_gum	GUM_whow_parachute	GUM_whow_parachute-35	S222
+M229	C	en_ewt	email-enronsent19_01	email-enronsent19_01-0039	S013
+M230	F	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0163	S314
+M231	F	en_ewt	email-enronsent43_01	email-enronsent43_01-0008	S001
+M232	F	en_ewt	reviews-363685	reviews-363685-0010	S370
+M233	F	en_gum	GUM_fiction_error	GUM_fiction_error-13	S076
+M234	C	en_ewt	answers-20111107144339AA0qw5S_ans	answers-20111107144339AA0qw5S_ans-0004	
+M235	F	en_ewt	answers-20090605110235AAALlCt_ans	answers-20090605110235AAALlCt_ans-0005	S344
+M236	C	en_gum	GUM_news_imprisoned	GUM_news_imprisoned-8	S290
+M237	F	en_ewt	weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002	weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002-0009	S384
+M238	C	en_gum	GUM_fiction_teeth	GUM_fiction_teeth-4	S206
+M239	C	en_ewt	answers-20111107175720AAlb2TB_ans	answers-20111107175720AAlb2TB_ans-0005	S070
+M240	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-37	
+M241	C	en_ewt	weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500	weblog-blogspot.com_rigorousintuition_20050518101500_ENG_20050518_101500-0060	
+M242	C	en_gum	GUM_fiction_wedding	GUM_fiction_wedding-29	S297
+M243	C	en_ewt	newsgroup-groups.google.com_IndiaNewsWindow_8945cbef01f41435_ENG_20051113_092500	newsgroup-groups.google.com_IndiaNewsWindow_8945cbef01f41435_ENG_20051113_092500-0002	S327
+M244	C	en_gum	GUM_news_election	GUM_news_election-48	S211
+M245	C	en_ewt	email-enronsent23_14	email-enronsent23_14-0008	S219
+M246	C	en_gum	GUM_speech_remarks	GUM_speech_remarks-18	S178
+M247	C	en_ewt	reviews-319816	reviews-319816-0029	
+M248	F	en_gum	GUM_letter_gorbachev	GUM_letter_gorbachev-24	S276
+M249	C	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0139	
+M250	R	en_gum	GUM_vlog_covid	GUM_vlog_covid-3	S306
+M251	F	en_gum	GUM_fiction_wedding	GUM_fiction_wedding-30	S355
+M252	C	en_gum	GUM_news_lanterns	GUM_news_lanterns-20	
+M253	C	en_gum	GUM_speech_nixon	GUM_speech_nixon-23	S414
+M254	F	en_ewt	answers-20111024210025AAVtDL7_ans	answers-20111024210025AAVtDL7_ans-0002	S051
+M255	R	en_ewt	reviews-358702	reviews-358702-0001	S352
+M256	F	en_ewt	newsgroup-groups.google.com_alt.animals_0e65f540816d780c_ENG_20041116_124800	newsgroup-groups.google.com_alt.animals_0e65f540816d780c_ENG_20041116_124800-0030	S116
+M257	R	en_gum	GUM_bio_padalecki	GUM_bio_padalecki-30	S409
+M258	F	en_ewt	reviews-345455	reviews-345455-0002	S289
+M259	F	en_ewt	answers-20111107203006AA9ojw8_ans	answers-20111107203006AA9ojw8_ans-0003	S134
+M260	F	en_gum	GUM_essay_walking	GUM_essay_walking-16	S148
+M261	F	en_gum	GUM_bio_fillmore	GUM_bio_fillmore-10	S098
+M262	F	en_ewt	newsgroup-groups.google.com_Meditation20051_1027f5a3651d547c_ENG_20050316_085700	newsgroup-groups.google.com_Meditation20051_1027f5a3651d547c_ENG_20050316_085700-0015	S353
+M263	F	en_ewt	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0014	S300
+M264	F	en_ewt	weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134	weblog-blogspot.com_dakbangla_20050210141134_ENG_20050210_141134-0066	S153
+M265	F	en_ewt	email-enronsent25_01	email-enronsent25_01-0016	S203
+M266	F	en_gum	GUM_whow_cupcakes	GUM_whow_cupcakes-45	S215
+M267	F	en_ewt	answers-20111108104206AAygiaE_ans	answers-20111108104206AAygiaE_ans-0012	S193
+M268	C	en_ewt	reviews-396880	reviews-396880-0002	S318
+M269	F	en_ewt	answers-20111108102445AA5mfrq_ans	answers-20111108102445AA5mfrq_ans-0031	S419
+M270	F	en_gum	GUM_court_way	GUM_court_way-42	S096
+M271	F	en_ewt	reviews-043020	reviews-043020-0001	S411
+M272	F	en_gum	GUM_whow_parachute	GUM_whow_parachute-17	S028
+M273	F	en_ewt	answers-20111108073322AA27tkh_ans	answers-20111108073322AA27tkh_ans-0009	S087
+M274	C	en_gum	GUM_court_property	GUM_court_property-30	S234
+M275	R	en_ewt	answers-20111107180248AAnQ3aE_ans	answers-20111107180248AAnQ3aE_ans-0006	S061
+M276	F	en_gum	GUM_academic_implicature	GUM_academic_implicature-17	S228
+M277	R	en_gum	GUM_textbook_stats	GUM_textbook_stats-50	S078
+M278	C	en_ewt	email-enronsent26_01	email-enronsent26_01-0005	S146
+M279	F	en_ewt	reviews-003418	reviews-003418-0012	S251
+M280	C	en_ewt	weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002	weblog-blogspot.com_dakbangla_20041016151002_ENG_20041016_151002-0044	S204
+M281	F	en_ewt	email-enronsent03_01	email-enronsent03_01-0029	S363
+M282	F	en_gum	GUM_vlog_wine	GUM_vlog_wine-90	S233
+M283	R	en_ewt	reviews-110441	reviews-110441-0010	S296
+M284	C	en_gum	GUM_academic_games	GUM_academic_games-19	S199
+M285	C	en_ewt	weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012	weblog-blogspot.com_healingiraq_20040409053012_ENG_20040409_053012-0006	S252
+M286	C	en_gum	GUM_letter_roomers	GUM_letter_roomers-21	
+M287	R	en_gum	GUM_academic_enjambment	GUM_academic_enjambment-2	S394
+M288	C	en_gum	GUM_academic_art	GUM_academic_art-24	S439
+M289	C	en_ewt	email-enronsent04_01	email-enronsent04_01-0006	
+M290	C	en_ewt	reviews-107608	reviews-107608-0003	
+M291	F	en_ewt	newsgroup-groups.google.com_hiddennook_0bfb82789af9c3c5_ENG_20050309_232400	newsgroup-groups.google.com_hiddennook_0bfb82789af9c3c5_ENG_20050309_232400-0007	S126
+M292	R	en_gum	GUM_vlog_mermaid	GUM_vlog_mermaid-32	S207
+M293	R	en_gum	GUM_conversation_retirement	GUM_conversation_retirement-77	S048
+M294	F	en_gum	GUM_letter_arendt	GUM_letter_arendt-19	S349
+M295	F	en_gum	GUM_letter_critique	GUM_letter_critique-25	S132
+M296	C	en_gum	GUM_voyage_phoenix	GUM_voyage_phoenix-12	S373
+M297	F	en_ewt	reviews-148971	reviews-148971-0004	S084
+M298	C	en_ewt	reviews-216456	reviews-216456-0005	S408
+M299	C	en_ewt	reviews-101972	reviews-101972-0011	S267
+M300	C	en_gum	GUM_letter_conference	GUM_letter_conference-12	S128
+M301	F	en_gum	GUM_textbook_spacetime	GUM_textbook_spacetime-30	S335
+M302	F	en_ewt	email-enronsent40_01	email-enronsent40_01-0021	S305
+M303	R	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0128	S232
+M304	C	en_ewt	newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800	newsgroup-groups.google.com_MeninLingerie_78adf09ead5e7e87_ENG_20041219_035800-0013	S135
+M305	R	en_ewt	newsgroup-groups.google.com_alt.animals_02c2d614bfbf6b20_ENG_20050223_232900	newsgroup-groups.google.com_alt.animals_02c2d614bfbf6b20_ENG_20050223_232900-0009	S031
+M306	C	en_gum	GUM_news_afghan	GUM_news_afghan-39	S324
+M307	C	en_ewt	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0194	S024
+M308	C	en_gum	GUM_voyage_cuba	GUM_voyage_cuba-27	S264
+M309	C	en_gum	GUM_letter_marcie3	GUM_letter_marcie3-11	S435
+M310	F	en_gum	GUM_interview_shalev	GUM_interview_shalev-38	S317
+M311	C	en_gum	GUM_court_loan	GUM_court_loan-28	
+M312	F	en_gum	GUM_interview_mckenzie	GUM_interview_mckenzie-11	S301
+M313	C	en_ewt	answers-20111107152509AA78ktV_ans	answers-20111107152509AA78ktV_ans-0009	S316
+M314	R	en_ewt	answers-20111108084119AAhsBk8_ans	answers-20111108084119AAhsBk8_ans-0009	S212
+M315	F	en_ewt	newsgroup-groups.google.com_alt.animals.cat_01ff709c4bf2c60c_ENG_20040418_040100	newsgroup-groups.google.com_alt.animals.cat_01ff709c4bf2c60c_ENG_20040418_040100-0037	S073
+M316	F	en_gum	GUM_news_warming	GUM_news_warming-24	S216
+M317	F	en_gum	GUM_podcast_addiction	GUM_podcast_addiction-48	S095
+M318	C	en_gum	GUM_news_defector	GUM_news_defector-26	S354
+M319	F	en_ewt	reviews-229442	reviews-229442-0003	S041
+M320	F	en_gum	GUM_conversation_toys	GUM_conversation_toys-98	S403
+M321	C	en_ewt	answers-20111108064026AA86V9T_ans	answers-20111108064026AA86V9T_ans-0027	
+M322	C	en_ewt	weblog-juancole.com_juancole_20040823064025_ENG_20040823_064025	weblog-juancole.com_juancole_20040823064025_ENG_20040823_064025-0037	S265
+M323	C	en_gum	GUM_conversation_toys	GUM_conversation_toys-70	
+M324	F	en_gum	GUM_letter_roomers	GUM_letter_roomers-15	S018
+M325	C	en_ewt	email-enronsent12_01	email-enronsent12_01-0033	S340
+M326	F	en_ewt	reviews-231203	reviews-231203-0005	S066
+M327	C	en_gum	GUM_podcast_mealprep	GUM_podcast_mealprep-5	
+M328	F	en_ewt	answers-20111108074455AAiMwmn_ans	answers-20111108074455AAiMwmn_ans-0005	S005
+M329	C	en_ewt	answers-20111108110329AAxl1pb_ans	answers-20111108110329AAxl1pb_ans-0005	S322
+M330	C	en_gum	GUM_vlog_hiking	GUM_vlog_hiking-56	S397
+M331	C	en_gum	GUM_letter_marcie2	GUM_letter_marcie2-12	
+M332	F	en_gum	GUM_bio_jespersen	GUM_bio_jespersen-35	S111
+M333	C	en_ewt	email-enronsent20_01	email-enronsent20_01-0045	S400
+M334	F	en_gum	GUM_news_asylum	GUM_news_asylum-8	S090
+M335	R	en_gum	GUM_letter_gorbachev	GUM_letter_gorbachev-43	S082
+M336	F	en_ewt	reviews-251755	reviews-251755-0004	S052
+M337	C	en_gum	GUM_court_fire	GUM_court_fire-38	
+M338	C	en_gum	GUM_fiction_honour	GUM_fiction_honour-3	S152
+M339	F	en_gum	GUM_court_fire	GUM_court_fire-37	S330
+M340	F	en_ewt	email-enronsent34_01	email-enronsent34_01-0075	S319
+M341	C	en_ewt	reviews-020992	reviews-020992-0012	S263
+M342	F	en_gum	GUM_conversation_vet	GUM_conversation_vet-6	S303
+M343	F	en_gum	GUM_bio_fillmore	GUM_bio_fillmore-42	S406
+M344	F	en_gum	GUM_fiction_pag	GUM_fiction_pag-17	S182
+M345	R	en_ewt	answers-20111107144434AA0lJDI_ans	answers-20111107144434AA0lJDI_ans-0001	S438
+M346	C	en_gum	GUM_news_nasa	GUM_news_nasa-37	
+M347	R	en_gum	GUM_court_carpet	GUM_court_carpet-35	S416
+M348	C	en_ewt	answers-20111108105520AA73Axw_ans	answers-20111108105520AA73Axw_ans-0023	S366
+M349	F	en_gum	GUM_voyage_athens	GUM_voyage_athens-40	S425
+M350	F	en_gum	GUM_academic_theropod	GUM_academic_theropod-33	S119
+M351	F	en_ewt	reviews-260640	reviews-260640-0005	S286
+M352	R	en_gum	GUM_news_expo	GUM_news_expo-21	S417
+M353	R	en_ewt	newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300	newsgroup-groups.google.com_alt.animals.badgers_2044a3376e5a87a5_ENG_20040529_135300-0013	S154
+M354	C	en_ewt	answers-20111108110329AAxl1pb_ans	answers-20111108110329AAxl1pb_ans-0016	S250
+M355	C	en_ewt	reviews-162662	reviews-162662-0003	S120
+M356	C	en_ewt	reviews-216456	reviews-216456-0001	S131
+M357	C	en_gum	GUM_voyage_cuba	GUM_voyage_cuba-7	
+M358	C	en_gum	GUM_speech_remarks	GUM_speech_remarks-21	S042
+M359	F	en_ewt	email-enronsent03_01	email-enronsent03_01-0114	S007
+M360	C	en_gum	GUM_conversation_atoms	GUM_conversation_atoms-4	S284
+M361	F	en_ewt	email-enronsent17_01	email-enronsent17_01-0091	S086
+M362	R	en_gum	GUM_conversation_family	GUM_conversation_family-127	S136
+M363	F	en_gum	GUM_essay_privatization	GUM_essay_privatization-40	S176
+M364	F	en_ewt	reviews-018548	reviews-018548-0005	S145
+M365	F	en_ewt	email-enronsent21_02	email-enronsent21_02-0049	S398
+M366	C	en_gum	GUM_bio_emperor	GUM_bio_emperor-13	S441
+M367	C	en_gum	GUM_podcast_mealprep	GUM_podcast_mealprep-20	S413
+M368	C	en_gum	GUM_voyage_york	GUM_voyage_york-15	S247
+M369	F	en_gum	GUM_voyage_athens	GUM_voyage_athens-10	S405
+M370	R	en_gum	GUM_interview_gaming	GUM_interview_gaming-4	S274
+M371	C	en_ewt	reviews-335490	reviews-335490-0002	S200
+M372	F	en_ewt	reviews-329692	reviews-329692-0002	S230
+M373	C	en_gum	GUM_conversation_grounded	GUM_conversation_grounded-70	S160
+M374	F	en_ewt	reviews-294081	reviews-294081-0013	S045
+M375	R	en_ewt	answers-20111108104350AAp4hGP_ans	answers-20111108104350AAp4hGP_ans-0004	S279
+M376	R	en_ewt	weblog-juancole.com_juancole_20040708181175_ENG_20040708_181175	weblog-juancole.com_juancole_20040708181175_ENG_20040708_181175-0015	S404
+M377	F	en_ewt	email-enronsent12_01	email-enronsent12_01-0050	S312
+M378	F	en_gum	GUM_speech_nixon	GUM_speech_nixon-5	S333
+M379	F	en_ewt	answers-20111108110012AAK8Azy_ans	answers-20111108110012AAK8Azy_ans-0038	S187
+M380	C	en_gum	GUM_news_iodine	GUM_news_iodine-9	S331
+M381	C	en_gum	GUM_bio_chao	GUM_bio_chao-10	S364
+M382	C	en_gum	GUM_voyage_chatham	GUM_voyage_chatham-63	S068
+M383	R	en_ewt	email-enronsent02_01	email-enronsent02_01-0033	S094
+M384	F	en_gum	GUM_interview_brotherhood	GUM_interview_brotherhood-19	S147
+M385	C	en_gum	GUM_vlog_london	GUM_vlog_london-20	S210
+M386	F	en_ewt	weblog-blogspot.com_healingiraq_20050121235804_ENG_20050121_235804	weblog-blogspot.com_healingiraq_20050121235804_ENG_20050121_235804-0039	S118
+M387	R	en_gum	GUM_academic_mutation	GUM_academic_mutation-2	S407
+M388	R	en_ewt	reviews-017235	reviews-017235-0002	S299
+M389	F	en_ewt	email-enronsent13_01	email-enronsent13_01-0006	S080
+M390	F	en_gum	GUM_bio_byron	GUM_bio_byron-8	S255
+M391	F	en_gum	GUM_podcast_pandemic	GUM_podcast_pandemic-23	S428
+M392	F	en_gum	GUM_whow_glowstick	GUM_whow_glowstick-44	S097
+M393	C	en_gum	GUM_podcast_collaboration	GUM_podcast_collaboration-3	
+M394	C	en_ewt	reviews-063963	reviews-063963-0002	
+M395	F	en_ewt	email-enronsent12_01	email-enronsent12_01-0018	S248
+M396	F	en_ewt	weblog-blogspot.com_dakbangla_20050311135387_ENG_20050311_135387	weblog-blogspot.com_dakbangla_20050311135387_ENG_20050311_135387-0085	S114
+M397	C	en_gum	GUM_podcast_wrestling	GUM_podcast_wrestling-27	S415
+M398	F	en_gum	GUM_podcast_pandemic	GUM_podcast_pandemic-43	S217
+M399	C	en_gum	GUM_vlog_hiking	GUM_vlog_hiking-21	S140
+M400	F	en_gum	GUM_conversation_atoms	GUM_conversation_atoms-61	S021
+M401	F	en_ewt	answers-20111108110012AAK8Azy_ans	answers-20111108110012AAK8Azy_ans-0031	S100
+M402	C	en_gum	GUM_vlog_college	GUM_vlog_college-53	
+M403	F	en_gum	GUM_vlog_exams	GUM_vlog_exams-33	S074
+M404	C	en_gum	GUM_speech_nixon	GUM_speech_nixon-19	S057
+M405	C	en_ewt	reviews-121556	reviews-121556-0002	S420
+M406	F	en_ewt	answers-20111107092617AAgKm4X_ans	answers-20111107092617AAgKm4X_ans-0020	S004
+M407	F	en_ewt	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0013	S323
+M408	F	en_gum	GUM_news_expo	GUM_news_expo-52	S171
+M409	F	en_ewt	reviews-202709	reviews-202709-0002	S431
+M410	F	en_gum	GUM_whow_ballet	GUM_whow_ballet-5	S244
+M411	F	en_ewt	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300	weblog-blogspot.com_rigorousintuition_20060511134300_ENG_20060511_134300-0289	S077
+M412	F	en_ewt	reviews-162702	reviews-162702-0002	S291
+M413	F	en_gum	GUM_fiction_time	GUM_fiction_time-36	S266
+M414	C	en_ewt	email-enronsent15_01	email-enronsent15_01-0011	S022
+M415	C	en_ewt	reviews-342811	reviews-342811-0004	
+M416	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-38	S046
+M417	C	en_ewt	reviews-081796	reviews-081796-0003	
+M418	C	en_gum	GUM_conversation_toys	GUM_conversation_toys-30	S225
+M419	F	en_gum	GUM_speech_austria	GUM_speech_austria-22	S035
+M420	C	en_gum	GUM_voyage_fortlee	GUM_voyage_fortlee-49	S156
+M421	F	en_gum	GUM_speech_trump	GUM_speech_trump-16	S017
+M422	F	en_gum	GUM_news_crane	GUM_news_crane-4	S151
+M423	C	en_gum	GUM_fiction_rose	GUM_fiction_rose-3	S336
+M424	F	en_gum	GUM_voyage_sydfynske	GUM_voyage_sydfynske-10	S110
+M425	F	en_gum	GUM_essay_walking	GUM_essay_walking-28	S258
+M426	R	en_gum	GUM_fiction_pixies	GUM_fiction_pixies-26	S421
+M427	C	en_ewt	reviews-326439	reviews-326439-0009	S348
+M428	R	en_gum	GUM_fiction_pag	GUM_fiction_pag-48	S124
+M429	F	en_ewt	reviews-220214	reviews-220214-0005	S006
+M430	C	en_gum	GUM_speech_nixon	GUM_speech_nixon-21	S034
+M431	F	en_gum	GUM_news_questionnaire	GUM_news_questionnaire-19	S288
+M432	C	en_ewt	reviews-117115	reviews-117115-0004	
+M433	F	en_ewt	email-enronsent41_01	email-enronsent41_01-0038	S412
+M434	C	en_gum	GUM_vlog_hiking	GUM_vlog_hiking-25	S283
+M435	C	en_ewt	answers-20111108092643AAXe4lD_ans	answers-20111108092643AAXe4lD_ans-0050	S240
+M436	C	en_ewt	reviews-342811	reviews-342811-0005	S221
+M437	F	en_gum	GUM_textbook_cognition	GUM_textbook_cognition-54	S075
+M438	C	en_ewt	newsgroup-groups.google.com_INTPunderground_b2c62e87877e4a22_ENG_20050906_165900	newsgroup-groups.google.com_INTPunderground_b2c62e87877e4a22_ENG_20050906_165900-0031	S393
+M439	R	en_ewt	answers-20111108092643AAXe4lD_ans	answers-20111108092643AAXe4lD_ans-0004	S059
+M440	C	en_ewt	reviews-042012	reviews-042012-0006	S157
+M441	F	en_ewt	reviews-267732	reviews-267732-0001	S391
+M442	F	en_ewt	reviews-162567	reviews-162567-0004	S044
+M443	F	en_ewt	answers-20111108081748AAkQhGe_ans	answers-20111108081748AAkQhGe_ans-0001	S368
+M444	R	en_ewt	reviews-101398	reviews-101398-0001	S129
+M445	F	en_ewt	weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700	weblog-blogspot.com_alaindewitt_20040929103700_ENG_20040929_103700-0071	S224
+M446	C	en_ewt	reviews-110441	reviews-110441-0003	S104
+M447	F	en_gum	GUM_fiction_wedding	GUM_fiction_wedding-12	S027
+M448	C	en_gum	GUM_vlog_hair	GUM_vlog_hair-6	
+M449	F	en_ewt	newsgroup-groups.google.com_misc.consumers_a534e32067078b08_ENG_20060116_030800	newsgroup-groups.google.com_misc.consumers_a534e32067078b08_ENG_20060116_030800-0020	S418
+M450	C	en_ewt	reviews-026883	reviews-026883-0006	S011
+M451	F	en_ewt	reviews-398152	reviews-398152-0003	S320
+M452	C	en_ewt	reviews-243799	reviews-243799-0006	
+M453	F	en_gum	GUM_news_sensitive	GUM_news_sensitive-4	S450
+M454	F	en_gum	GUM_conversation_zero	GUM_conversation_zero-60	S149
+M455	C	en_gum	GUM_letter_conference	GUM_letter_conference-31	S437
+M456	F	en_ewt	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100-0071	S238
+M457	F	en_ewt	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0021	S175
+M458	C	en_gum	GUM_bio_emperor	GUM_bio_emperor-22	
+M459	F	en_gum	GUM_news_warhol	GUM_news_warhol-33	S256
+M460	F	en_gum	GUM_voyage_isfahan	GUM_voyage_isfahan-28	S060
+M461	C	en_gum	GUM_voyage_chatham	GUM_voyage_chatham-20	
+M462	F	en_gum	GUM_news_warhol	GUM_news_warhol-66	S012
+M463	C	en_gum	GUM_vlog_portland	GUM_vlog_portland-37	S139
+M464	F	en_ewt	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000	newsgroup-groups.google.com_alt.animals_0084bdc731bfc8d8_ENG_20040905_212000-0034	S183
+M465	F	en_ewt	email-enronsent10_01	email-enronsent10_01-0092	S433
+M466	F	en_ewt	reviews-365154	reviews-365154-0009	S208
+M467	C	en_ewt	reviews-276689	reviews-276689-0004	S168
+M468	F	en_ewt	weblog-juancole.com_juancole_20040604210986_ENG_20040604_210986	weblog-juancole.com_juancole_20040604210986_ENG_20040604_210986-0015	S295
+M469	C	en_gum	GUM_speech_austria	GUM_speech_austria-21	S047
+M470	C	en_gum	GUM_vlog_radiology	GUM_vlog_radiology-35	S133
+M471	C	en_gum	GUM_conversation_vet	GUM_conversation_vet-102	S237
+M472	F	en_gum	GUM_court_negligence	GUM_court_negligence-21	S081
+M473	R	en_ewt	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100	weblog-juancole.com_juancole_20040404101100_ENG_20040404_101100-0025	S310
+M474	C	en_gum	GUM_voyage_sydfynske	GUM_voyage_sydfynske-39	
+M475	F	en_ewt	email-enronsent33_01	email-enronsent33_01-0015	S043
+M476	F	en_gum	GUM_conversation_toys	GUM_conversation_toys-69	S386
+M477	F	en_ewt	reviews-055976	reviews-055976-0007	S169
+M478	F	en_ewt	answers-20111107175720AAlb2TB_ans	answers-20111107175720AAlb2TB_ans-0029	S444
+M479	F	en_gum	GUM_interview_licen	GUM_interview_licen-13	S313
+M480	F	en_ewt	answers-20111108071348AAWu2FU_ans	answers-20111108071348AAWu2FU_ans-0002	S099
+M481	F	en_gum	GUM_letter_conference	GUM_letter_conference-30	S010
+M482	C	en_ewt	answers-20111108050147AAOkFgL_ans	answers-20111108050147AAOkFgL_ans-0003	S150
+M483	C	en_ewt	reviews-317846	reviews-317846-0002	S179
+M484	F	en_gum	GUM_whow_cactus	GUM_whow_cactus-15	S214
+M485	F	en_ewt	weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300	weblog-juancole.com_juancole_20040722101300_ENG_20040722_101300-0004	S142
+M486	C	en_gum	GUM_news_sensitive	GUM_news_sensitive-3	S122
+M487	F	en_gum	GUM_interview_shalev	GUM_interview_shalev-35	S269
+M488	R	en_gum	GUM_court_carpet	GUM_court_carpet-87	S422
+M489	F	en_ewt	newsgroup-groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600	newsgroup-groups.google.com_hiddennook_88969236563fa748_ENG_20050215_173600-0012	S378
+M490	C	en_ewt	answers-20111107082312AAPNaxb_ans	answers-20111107082312AAPNaxb_ans-0002	S014
+M491	F	en_ewt	email-enronsent12_01	email-enronsent12_01-0064	S226
+M492	C	en_ewt	reviews-332105	reviews-332105-0001	S062
+M493	F	en_gum	GUM_conversation_christmas	GUM_conversation_christmas-209	S083
+M494	F	en_ewt	email-enronsent24_01	email-enronsent24_01-0096	S054
+M495	F	en_ewt	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100	weblog-blogspot.com_alaindewitt_20060924104100_ENG_20060924_104100-0118	S376
+M496	F	en_gum	GUM_vlog_covid	GUM_vlog_covid-13	S239
+M497	F	en_ewt	answers-20111108103333AA3eSCk_ans	answers-20111108103333AA3eSCk_ans-0013	S429
+M498	F	en_ewt	newsgroup-groups.google.com_civicamerican_22c54c292026bfd2_ENG_20060128_072400	newsgroup-groups.google.com_civicamerican_22c54c292026bfd2_ENG_20060128_072400-0007	S036
+M499	C	en_gum	GUM_vlog_london	GUM_vlog_london-4	S447
+M500	C	en_ewt	email-enronsent34_01	email-enronsent34_01-0041	S173

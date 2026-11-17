@@ -1,0 +1,23 @@
+# Verbatim stdout of:
+#   wolfram-run.sh (wrapper around wolframscript) --timeout 180 -- -file scripts/p65_wave1_wolfram_checks.wls
+# 2026-11-16. Rerun after the verify pass replaced control W3c (old W3c, 0.8^3 == 0.2^3, was NON-DISCRIMINATING); all other lines identical.
+# Copied from the terminal: redirecting the wrapper's stdout to a file returned exit 255 with an
+# empty file inside the sandbox (two attempts); the unredirected run below was run twice with identical output.
+W1  Davidson conditional == BT -> True
+W1c Rao-Kupper conditional == BT (must be False) -> pi == pj
+W1c' witness pi=2,pj=1,eta=2 -> 1/21
+W2  BT logit additive -> True
+W2c Thurstone logit additive at (1,0,-1) (must be False) -> False
+W2c' size of the defect -> 0.42363569238144122788161149933800739558`20.
+W3  BT product rule -> True
+W3c product rule with one non-BT pair (must NOT be True) -> pi == pk
+W3c' witness pi=2,pj=1,pk=1 -> -1/15
+W4  dh/dt closed form -> (8*(-1 + a^2)*t)/(-1 + 4*a^2*t^2)^2
+W4  dh/dt <= 0 for 0<=t<1/2, 0<a<1 -> True
+W4c dh/dt >= 0 everywhere (must be False) -> False
+W4d g(2 ln4) - 2 g(ln4) at e=0.05 (negative = subadditive) -> -0.25165869673107037307505061921379080534`20.
+W4e same at e=0 (must be 0: no error, exact additivity) -> 0
+W5  df identity -> True
+W5c wrong df (must be False) -> c == 1
+W6  BT goodness-of-fit df -> True
+W6  values D=3,6 -> {1, 10}

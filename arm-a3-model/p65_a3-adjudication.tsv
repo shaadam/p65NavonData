@@ -1,0 +1,177 @@
+item	class	reason
+N0008	TP	was there (location state) at raffle time in August
+N0018	NA	Japan possessive/national; appear figurative
+N0036	PAR	eating outside on deck on weekend, action
+N0042	PAR	plot foiled in Canada months ago, event
+N0068	PAR	thrown out of home when 18, event
+N0076	AMB	registration counts in city at times; not location state or time value
+N0088	PAR	book in Fall 2001 and expelling from Afghanistan, separate events
+N0107	PAR	finishing road now, event
+N0109	PAR	report in Fall 2004, event
+N0120	PAR	service cuts and smog by 1980s, events
+N0140	NA	"not here to" idiom, no literal place
+N0142	AMB	caption fragment, place at time, no predicate
+N0151	NA	jail term as punishment measure, institutional
+N0152	NA	left field = playing position
+N0162	PAR	taught at Berkeley 1947-1960, activity
+N0169	PAR	rooms made available July 20, event
+N0172	TP	in jail in early 1980s, location state
+N0177	TP	in special care for two to four weeks
+N0179	TP	islands closed much of year, place state with time
+N0184	TP	now in session in Washington City
+N0193	PAR	studies at USC in 1937, activity
+N0211	PAR	interview on Thursday, event
+N0226	PAR	drive to hotel, action
+N0227	NA	Great Britain as legislating agent
+N0244	TP	been away for a week, location state
+N0259	NA	no time-place pairing
+N0265	NA	no literal time expression
+N0271	PAR	bring bottle after 9pm at restaurant, action
+N0273	PT	lifespan value restricted by indoor
+N0277	TP	whales in area June to November
+N0283	PAR	killed Aug 4 2002 in Hamilton shop, event
+N0286	PAR	go to city hall within 90 days, action
+N0301	AMB	house filled; last July tied to ballet, unclear pairing
+N0326	PAR	eating at cafe on date, event
+N0332	PAR	going somewhere this weekend, event
+N0352	TP	stayed in room December 2009, location state
+N0362	PAR	appeared at awards, event
+N0374	PAR	anniversary time and SF restaurant independent
+N0377	PAR	threat level raised before Christmas 2003, event
+N0379	TP	24 years in France, location state with duration
+N0389	AMB	2012 great year for Fujairah; evaluative, unclear
+N0403	TP	water sitting on plants overnight
+N0406	PAR	glimpse today of light from other worlds, event
+N0412	PAR	blasted in 2003 for smuggling to Liberia, events
+N0415	NA	Coron as administrative unit, not location
+N0417	TP	lists available at services on dates
+N0419	PAR	opening ceremony of fair in Tehran, event
+N0424	PAR	conversation in April 2010, event
+N0433	PAR	production in pin factories per day, activity
+N0435	PT	middle of the night in the United States
+N0447	PAR	woke early morning while in Texas, event
+N0455	TP	was in two weeks ago, location state
+N0470	PAR	occupation of Iraq over three years, event
+N0475	PT	life expectancy value restricted by outdoor
+N0480	PAR	observed at opening exhibit, event
+N0482	TP	area popular on weekend, place state
+N0490	PT	Michigan picks which winter
+N0506	AMB	life on floor 32 today, question, unclear
+N0549	PAR	ants in nest and watching for hours, separate
+N0605	TP	at desk eight hours, on couch rest of day
+N0606	PAR	softball Saturday, camping on vacation, activities
+N0607	PAR	victory at sea same day, events
+N0611	NA	no literal place
+N0613	TP	was there one day out of 365
+N0617	TP	was here in 45 minutes, place reached as state
+N0618	PAR	stories' period and living near district independent
+N0620	PAR	1973 plans and showing up, events
+N0626	PAR	impacts on region increase in years to come
+N0633	PAR	assessment released today, decisions in US, events
+N0643	PAR	French defeated in 1862, event
+N0645	PAR	abandoned centers by 900 CE, event
+N0652	PT	office closing time value, place picks instance
+N0657	PAR	going to Antioch, start June 30, events
+N0661	TP	Oakland hub since 1960s, place state with time
+N0664	PAR	now and China attach to separate clauses
+N0680	TP	stayed in property eight weeks a year
+N0684	PAR	2000 statement about Iraq, event
+N0692	PAR	finding bee nest in bed this spring, event
+N0708	TP	spent 30 minutes in there
+N0718	PAR	cruise segments arranged in advance, events
+N0719	PAR	tablets in classroom daily, activity
+N0720	PAR	centuries of racism in America, neither restricts
+N0739	TP	stay in same hotel on Sept 22
+N0747	PAR	daily flights to Tehran, events
+N0749	NA	U.S. as consuming agent, national
+N0756	PAR	guns from 90s Bosnian war taken to Iraq, event
+N0765	AMB	had own office one year, possession unclear
+N0774	TP	spent ten years at Ohio State
+N0775	PAR	killings since occupation of Iraq, events
+N0792	PAR	planes fly into New York each month
+N0793	PAR	ferry departures daily, events
+N0796	TP	meeting location, this year/usually pick place
+N0806	TP	surrounded by troops for three days
+N0808	PAR	fleet took Veracruz in 1861, event
+N0811	PAR	town founded on date, event
+N0819	PAR	return to moon by 2018, action
+N0834	NA	jury head = position; Berlin in festival name
+N0835	PAR	statement Friday, Pakistan's recent coup, events
+N0836	PAR	run this fall in Pennsylvania, action
+N0850	PAR	awarded at Moscow festival in 2005, event
+N0858	PAR	going to Nick for 5 months, repeated action
+N0870	TP	volume at LS HPL for the 13th
+N0871	PAR	mission taken after ten days, event
+N0888	PAR	elections and bombings in Spain, events
+N0889	TP	out of office until Monday
+N0893	AMB	caption, place on day of Hajj, no predicate
+N0894	PAR	fleeing country weekly for 20 years, event
+N0896	TP	Arctic Ocean ice-free in summer, place state
+N0898	PAR	threat in September, Darfur atrocities, events
+N0899	PAR	projects regenerate city by late 1980s, events
+N0916	TP	shop closed in winter, place state
+N0922	PAR	tour and visit, events
+N0924	PAR	death in 384; living in Rome, separate
+N0936	PAR	sold books, own today, events
+N0949	PAR	attempts in second half, events
+N1020	AMB	what America will look like in 5 years, unclear
+N1025	NA	no place in sentence (hours only)
+N1035	TP	was there weeks ago, location state
+N1046	AMB	grants in east, time only from context/war
+N1054	NA	no place in sentence (hours only)
+N1064	PAR	board splitting noticed within a week, event
+N1067	PAR	put eggs in water, action
+N1071	TP	sat in cell for 30 hours
+N1085	PAR	left in minicab end of March, event
+N1093	PAR	ground cleared after twenty minutes, event
+N1108	PAR	spending in US 2001-2002, activity
+N1115	PAR	business community stepped in after 2002, event
+N1119	PAR	Europe's expansion begun 16th century, event
+N1131	NA	no time expression
+N1143	AMB	counties' state in 1972 Deep South, TP/PAR torn
+N1144	TP	winds from northeast in summer months
+N1145	TP	Fallujah closed Tuesday, place state
+N1164	NA	no literal place
+N1173	AMB	caption, place today, no predicate
+N1175	TP	was at meetings in Summer 2001 in Pakistan
+N1176	PAR	letter sent May 2001 abroad, event
+N1179	PAR	integration in past decade, process
+N1183	TP	Lodz population at dates, place state
+N1191	PAR	walk one hour along cliff, action
+N1192	TP	eight months in French oak
+N1202	PAR	birthday dinner at restaurant, events
+N1211	TP	West Oakland once a neighborhood, place state
+N1226	PAR	went in that afternoon, event
+N1233	PAR	recreated on opening night, event
+N1234	TP	in dark place for an hour
+N1239	PAR	meeting people worldwide in mandate, events
+N1241	TP	sitting at table 20 minutes
+N1265	PT	restriction start dates, China/Iran pick instance
+N1267	PAR	leave town next Wednesday, event
+N1284	PAR	pulled to ultrasound today, event
+N1302	AMB	living in California; since 2013 scope unclear
+N1303	TP	in that room daily
+N1312	TP	stayed at condominium in 2000
+N1322	TP	by 1900 city had become cosmopolitan
+N1327	PAR	morning activities at counter, actions
+N1341	TP	spent hours in here
+N1351	TP	housed in cages weeks 6-12
+N1353	PAR	came in a month ago, event
+N1357	TP	lived in Alpine, Madrid, Brussels after retiring
+N1377	PAR	entered Trinity October 1805, event
+N1382	PT	trip duration value from Buenos Aires
+N1383	TP	prominent at Tabennese for several years
+N1399	NA	no literal place in sentence
+N1400	PAR	starting days in any office, habitual activity
+N1402	TP	urban areas' water access in late 2002
+N1421	NA	vaulted into circle figurative
+N1427	PAR	start seed indoors weeks before frost, action
+N1439	TP	cold in northern states in winter, place state
+N1441	PAR	fans at panel during Comic-Con 2015, event
+N1445	TP	stayed at hostel last months of life
+N1451	PAR	development of Athens in 20th century, process
+N1457	AMB	crucial for islands today, evaluative unclear
+N1459	NA	town as providing agent, normative
+N1472	PAR	sent to trainers first of September, event
+N1474	PAR	going to Warner Family for years, repeated action
+N1489	TP	cold across plains in winter, weather state

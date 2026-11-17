@@ -1,0 +1,1501 @@
+item	class	time_phrase	place_phrase	confidence	note
+N0001	NA			3	no literal place
+N0002	NA			3	no place
+N0003	PAR	from 1928 onwards	throughout China	3	fieldwork event
+N0004	NA			2	America figurative audience
+N0005	NA			3	no place
+N0006	NA			3	no literal place
+N0007	NA			3	no place
+N0008	TP	when they did a free raffle in August	there	3	was there = location state
+N0009	NA			3	no time
+N0010	AMB	in 2004	in Iraq	1	presence in Iraq vs report date
+N0011	NA			3	no literal place
+N0012	NA			2	no literal place with time
+N0013	NA			3	address only
+N0014	NA			3	no place
+N0015	NA			3	no place
+N0016	NA			3	no place
+N0017	PT	October	in the US	3	month value restricted by country
+N0018	NA			2	Japan's attributive only
+N0019	PAR	in the Spring of 2001	New York City	2	casing event
+N0020	NA			2	frontier is topic not location
+N0021	NA			3	no place
+N0022	NA			2	place implicit only
+N0023	NA			3	no place
+N0024	NA			3	no place
+N0025	PAR	tonight	home	3	send home event
+N0026	PAR	yesterday	here	2	visits event
+N0027	NA			3	publication not place
+N0028	NA			3	timestamp only
+N0029	NA			3	timestamp only
+N0030	NA			3	no place
+N0031	NA			3	no place
+N0032	NA			3	no place
+N0033	PAR	in the mid-1980s	Cleveland; the urban core	3	revitalization event
+N0034	NA			2	fragment no place
+N0035	NA			2	committee institutional
+N0036	PAR	on the weekend	outside on the deck	2	eating action
+N0037	NA			3	no time
+N0038	NA			2	no literal place
+N0039	PT	our last day	here; Glacier National Park	2	time value located
+N0040	PAR	one hour ago; five minutes ago	my house	3	left event
+N0041	NA			3	no place
+N0042	PAR	a few months ago	in Canada	3	plot foiled event
+N0043	TP	for twenty-five years	there	2	has been there state
+N0044	NA			3	no place
+N0045	NA			3	no place
+N0046	NA			2	bullseye figurative
+N0047	NA			3	no place
+N0048	NA			3	no place
+N0049	NA			3	no place
+N0050	NA			2	places = vendors
+N0051	NA			3	no place
+N0052	NA			3	no place
+N0053	NA			3	no place
+N0054	NA			3	no place
+N0055	PAR	On September 24, 1944	in Coron waters; Manila Bay	3	sinking event
+N0056	NA			3	no place
+N0057	NA			3	no time
+N0058	PAR	early today	northwest China's Gansu Province	3	launch event
+N0059	NA			2	newsgroup not literal place
+N0060	PAR	2018	in Texas	2	election support event
+N0061	NA			3	no place
+N0062	TP	by Sunday afternoon	back in Houston	3	location state by time
+N0063	NA			2	no literal place
+N0064	NA			2	Harvard institutional
+N0065	NA			3	no place
+N0066	PAR	mid-afternoon	out of the hotel	3	fire drill event
+N0067	NA			3	no place
+N0068	PAR	when I turn 18	out of home	2	throw out event
+N0069	NA			3	no place
+N0070	NA			3	no place
+N0071	PAR	In 2017	U.S.; countries overseas	2	consumption export
+N0072	NA			2	site = website
+N0073	NA			3	no place
+N0074	NA			2	no place
+N0075	PAR	in time for the 2004 Olympics	the city's historic center	3	renovation event
+N0076	AMB	tonight; when he became chairman	in the city of Philadelphia	1	registration counts at time
+N0077	NA			3	timestamp only
+N0078	PAR	Two years ago	India	3	visit event
+N0079	PAR	early 2002; early 2003	in New Zealand; in Belgium	3	sending event
+N0080	NA			2	in production not place
+N0081	NA			3	no place
+N0082	NA			2	no destination named
+N0083	NA			3	no place
+N0084	PAR	more than a thousand days	Iraq	1	occupation lasting
+N0085	NA			2	Google institutional
+N0086	PAR	during the work week	to Tacoma	3	drive event
+N0087	NA			2	team name not place
+N0088	PAR	Fall 2001	from Afghanistan	1	expelling event
+N0089	NA			3	date only
+N0090	NA			3	no place
+N0091	NA			3	no place
+N0092	NA			3	no place
+N0093	NA			3	no place
+N0094	NA			3	no place
+N0095	NA			2	place only in previous
+N0096	PAR	in one week	in El Hamma in Syria	3	killing event
+N0097	NA			3	date only
+N0098	NA			2	ENA company
+N0099	NA			3	no place
+N0100	NA			3	no place
+N0101	NA			3	no place
+N0102	NA			3	no place
+N0103	PAR	At that time; within 48 hours	in Darfur	2	demand event
+N0104	PAR	7am	at Hyatt Regency Downtown	3	meeting
+N0105	NA			2	place only in previous
+N0106	PAR	several days before the elections	border crossing point at Chaman in Baluchistan	3	closing event
+N0107	PAR	now; in 45 minutes	between Fujairah and Dubai	2	road building
+N0108	NA			3	no place
+N0109	PAR	In Fall 2004	overseas	1	made overseas
+N0110	PAR	on 21 February 2003	worldwide; the streets	2	protest event
+N0111	PAR	until 1867	Mexico	2	conquest event
+N0112	NA			2	no place in sentence
+N0113	NA			3	no place
+N0114	NA			3	no place
+N0115	NA			3	no literal place
+N0116	PAR	a matter of hours	the Kethlan system	2	destruction event
+N0117	NA			3	no place
+N0118	TP	the rest of the year	in Paris, London, New York	2	residing state
+N0119	NA			3	no place
+N0120	PAR	by the 1980s	the city	1	menace event
+N0121	NA			2	office institutional
+N0122	NA			3	space figurative
+N0123	NA			2	address of employer only
+N0124	NA			3	no place
+N0125	NA			3	no place
+N0126	PAR	April 6, 1580	Kent	2	earthquake event
+N0127	NA			3	no place
+N0128	PAR	on a daily basis	in Australia	1	intake rate
+N0129	PAR	in 1971	to the University of California, Berkeley	2	move event
+N0130	NA			2	in private not place
+N0131	NA			3	no place
+N0132	NA			2	university institutional
+N0133	NA			3	no place
+N0134	NA			3	no place
+N0135	PAR	during WWII; the decades that followed	The city	3	damage event
+N0136	NA			2	Congress institutional
+N0137	NA			3	company not place
+N0138	PAR	in the 1540s	on top of a centuries-old Maya city called T'ho	3	founding event
+N0139	PAR	in the spectral summer	the old garden	2	moon shining event
+N0140	NA			2	here idiomatic
+N0141	NA			3	no place
+N0142	TP	shortly after opening Friday	far end of the convention floor	2	caption of scene
+N0143	NA			3	no place
+N0144	NA			3	Iraq is topic
+N0145	NA			2	no destination
+N0146	NA			3	no place
+N0147	PAR	weekly; when you are in port	into the water; in port	2	drill action
+N0148	NA			3	no place
+N0149	NA			3	no place
+N0150	NA			3	timestamp only
+N0151	AMB	one year	in jail	1	sentence duration in jail
+N0152	PAR	On June 8, 2014	left field; 3rd base	3	position move event
+N0153	NA			3	no place
+N0154	NA			3	no place
+N0155	NA			3	timestamp only
+N0156	NA			3	no place
+N0157	NA			3	no place
+N0158	NA			2	no literal place-time pair
+N0159	NA			2	Santa Cruz only in title
+N0160	NA			2	place only in previous
+N0161	PAR	in 1991	Kuwait	2	re-securing event
+N0162	PAR	From 1947 to 1960; in 1952	at the University of California at Berkeley	3	teaching action
+N0163	NA			3	no place
+N0164	PAR	once a week; every two weeks	my house	2	cleaning visits
+N0165	PAR	Tues. Oct. 3; around noon; around 4:30pm	London to Houston	3	flight event
+N0166	NA			3	there figurative
+N0167	NA			3	no time
+N0168	NA			3	no place
+N0169	PAR	on July 20	the Wyndham rooms	1	making available event
+N0170	NA			3	no place
+N0171	NA			3	no place
+N0172	TP	in the early 1980s	in jail	2	in jail state
+N0173	PAR	The next day	to 2 auto shops	3	took event
+N0174	NA			3	no place
+N0175	NA			3	no place
+N0176	NA			3	no place
+N0177	TP	for another two to four weeks	in the lowest level of special care; in there	2	location state duration
+N0178	NA			3	no place
+N0179	TP	during much of the year	Most other islands	1	islands closed state
+N0180	NA			3	no place
+N0181	PAR	Tonight	Kethlan	1	battle event
+N0182	TP	ca 1907	down-town; Tulsa	2	extent of town at time
+N0183	NA			3	no place
+N0184	TP	now	in Washington City	2	in session state
+N0185	NA			3	no place
+N0186	NA			3	company not place
+N0187	NA			3	no place
+N0188	NA			3	no place
+N0189	NA			3	no place
+N0190	NA			3	no place
+N0191	NA			2	House institutional
+N0192	PAR	every week	in this town	2	murders happen
+N0193	PAR	In 1937; in 1939	at the University of Southern California	3	study action
+N0194	PT	four to seven days earlier than 25 years ago	in the United Kingdom	2	egg timing by place
+N0195	NA			3	no place
+N0196	NA			3	timestamp only
+N0197	NA			3	no place
+N0198	NA			3	no place
+N0199	NA			3	no place
+N0200	NA			3	no place
+N0201	NA			3	no place
+N0202	PAR	on Tuesday	in the Washington area	1	nomination event
+N0203	NA			3	no place
+N0204	NA			3	no place
+N0205	NA			3	timestamp only
+N0206	NA			2	no explicit place
+N0207	NA			3	no place
+N0208	NA			2	nation not location
+N0209	NA			3	no place
+N0210	NA			3	no place
+N0211	PAR	On Thursday; 110 days until the start of the 2014 Winter Paralympics	in Sochi, Russia; Washington State University	2	interview event
+N0212	PAR	in the mornings; at night	our balcony; outside	2	activities on balcony
+N0213	NA			3	no place
+N0214	NA			2	place only in previous
+N0215	NA			3	no place
+N0216	NA			3	no place
+N0217	NA			2	dominos business not place
+N0218	NA			3	timestamp only
+N0219	NA			3	no place
+N0220	PAR	As recently as last week	the country	2	entering event
+N0221	NA			3	timestamp only
+N0222	NA			3	team name not place
+N0223	NA			3	date only
+N0224	NA			3	no place
+N0225	NA			3	no place
+N0226	PAR	less than 1 hour	to first hotel	2	drive event
+N0227	PAR	in 1833	Great Britain	2	abolition event
+N0228	NA			3	land as resource
+N0229	NA			3	no place
+N0230	NA			3	no time
+N0231	NA			3	no place
+N0232	NA			3	no place
+N0233	NA			2	road only in previous
+N0234	PAR	in February 1860	at Platt's Music Hall in San Francisco	3	assembly event
+N0235	PAR	by the end of the 21st century	Arctic	1	ice decline event
+N0236	NA			3	no place
+N0237	NA			3	no place
+N0238	NA			3	show not place
+N0239	NA			3	no place
+N0240	NA			3	no place
+N0241	NA			3	no place
+N0242	NA			3	no place
+N0243	TP	six years to seven years	in your cellar	2	keep in cellar duration
+N0244	TP	for a week	away; in his apartment	1	been away state
+N0245	PAR	Last week	Al-Ghaza Hotel near the Masjid Al-Haram	3	collapse event
+N0246	NA			3	timestamp only
+N0247	NA			3	no place
+N0248	NA			3	no place
+N0249	NA			2	world figurative
+N0250	NA			2	place implicit
+N0251	NA			3	no place
+N0252	NA			3	no place
+N0253	PAR	many years later; 1821	in Italy	3	meeting event
+N0254	NA			2	no time expression
+N0255	NA			3	no place
+N0256	NA			3	no place
+N0257	NA			3	no place
+N0258	NA			3	no place
+N0259	PAR	weekly	in the city and the surrounding region	1	events listing
+N0260	NA			2	lobby only in previous
+N0261	NA			3	no place
+N0262	PAR	In 1887 - 1888	to England, Germany and France; Oxford University	3	travel event
+N0263	NA			3	timestamp only
+N0264	NA			3	no place
+N0265	PAR	two years ago	on Baffin Island, just south of the Arctic Circle	3	attack event
+N0266	NA			3	timestamp only
+N0267	NA			3	no place
+N0268	PAR	the very next year	in the US	2	plant start event
+N0269	NA			3	no place
+N0270	NA			3	no place
+N0271	PAR	after 9pm	Alto	1	bring bottle action
+N0272	NA			3	no place
+N0273	PT	11-15 years	Indoor	1	lifespan narrowed by indoor
+N0274	NA			3	no place
+N0275	NA			3	no place
+N0276	NA			3	no place
+N0277	TP	between June and November	The area	2	whales present in season
+N0278	NA			3	date only
+N0279	NA			3	no place
+N0280	NA			3	no place
+N0281	NA			2	no destination
+N0282	NA			3	no place
+N0283	PAR	Aug. 4, 2002	Hamilton sandwich shop	2	killing event
+N0284	NA			3	team name not place
+N0285	NA			2	American not location
+N0286	PAR	within 90 days	in the hospital; city hall	2	registration event
+N0287	NA			3	no place
+N0288	NA			3	no place
+N0289	NA			2	no destination
+N0290	NA			3	no place
+N0291	NA			2	place only in previous
+N0292	NA			3	no place
+N0293	NA			3	no literal place
+N0294	NA			3	date only
+N0295	NA			3	no place
+N0296	TP	for about a week	in Okinawa	3	be in Okinawa
+N0297	NA			3	no place
+N0298	TP	today	here	3	is here today
+N0299	NA			3	no place
+N0300	PAR	On Wednesday	to the United Nations	2	travel event
+N0301	AMB	last July	The house	1	house filled vs ballet time
+N0302	PAR	fifteen sixteen; fifteen seventeen; April of fifteen eighteen	in Heidelberg	3	disputation event
+N0303	NA			3	no place
+N0304	NA			3	no place
+N0305	NA			3	no place
+N0306	NA			3	no place
+N0307	NA			3	no place
+N0308	NA			3	timestamp only
+N0309	NA			3	no place
+N0310	NA			3	no place
+N0311	NA			3	colleges institutional
+N0312	NA			3	timestamp only
+N0313	NA			2	meter not a place
+N0314	NA			3	no place
+N0315	PAR	weekend	in Salt Lake City and Phoenix	3	press conference event
+N0316	NA			3	timestamp only
+N0317	NA			2	ERCOT market not place
+N0318	NA			2	place only in previous
+N0319	PT	October	in the United States	3	month value by country
+N0320	NA			2	countries as teams
+N0321	NA			3	no place
+N0322	NA			2	place implicit
+N0323	NA			3	no place
+N0324	NA			2	no explicit place
+N0325	NA			3	no place
+N0326	PAR	November 7, 2010	at Caffe Bella Italia	3	eating event
+N0327	NA			3	no time
+N0328	NA			2	place only in previous
+N0329	TP	Until 1995	at Twante, an island off the coast of Myanmar	2	base maintained state
+N0330	NA			3	no place
+N0331	NA			2	school as activity
+N0332	PAR	this weekend	somewhere	2	going event
+N0333	PAR	today	at the Payne Creek site	3	picket established
+N0334	NA			3	no place
+N0335	NA			3	no place
+N0336	NA			3	org not place
+N0337	NA			2	website not place
+N0338	NA			3	date only
+N0339	PAR	April 6, 610 AD	to Earth	1	religious event
+N0340	NA			3	no place
+N0341	NA			3	no place
+N0342	NA			3	no place
+N0343	NA			2	no literal place
+N0344	NA			3	no place
+N0345	PAR	on Tuesday	in the DAR Constitution Hall in Washington D.C.	3	award event
+N0346	PAR	in 2000	Los Angeles, California	3	move event
+N0347	NA			3	no place
+N0348	NA			3	no place
+N0349	NA			3	no place
+N0350	NA			3	no place
+N0351	NA			2	Iraq in event name only
+N0352	TP	in December 2009	in the Seaview room here	1	stayed in room
+N0353	NA			3	no place
+N0354	NA			3	no place
+N0355	PAR	in the 19th and 20th century	San Francisco	3	settlement event
+N0356	PAR	many decades later	in Germany	2	competition submission
+N0357	NA			1	country as agent
+N0358	NA			3	jeans not place
+N0359	NA			3	no place
+N0360	NA			3	no place
+N0361	NA			3	no place
+N0362	PAR	1999	at the Teen Choice Awards	1	appearance event
+N0363	NA			3	no place
+N0364	NA			3	US as agent
+N0365	TP	on that day	in Houston	3	be in Houston
+N0366	NA			2	Russian service institutional
+N0367	PAR	on Saturday	to Kobeys	3	visit event
+N0368	NA			3	no place
+N0369	NA			3	no place
+N0370	NA			3	website not place
+N0371	NA			3	no place
+N0372	NA			3	no place
+N0373	NA			3	no place
+N0374	PAR	in a few days	a great restaurant in sf or other nearby cities	1	anniversary search
+N0375	NA			2	water not place
+N0376	NA			3	timestamp only
+N0377	PAR	A few days before Christmas 2003	in the US homeland	2	threat raised event
+N0378	NA			3	no place
+N0379	TP	24 difficult years	in France; to England	2	years in France
+N0380	NA			2	teams not places
+N0381	NA			3	no place
+N0382	NA			3	no place
+N0383	NA			3	no place
+N0384	NA			3	no place
+N0385	PAR	for ten minutes	to outer space	3	rocket flight event
+N0386	NA			3	no place
+N0387	NA			3	no place
+N0388	NA			3	no place
+N0389	PT	2012	for Fujairah	2	year value for place
+N0390	NA			3	no place
+N0391	PAR	in early 2001	in the NYC area	3	surveillance event
+N0392	NA			3	no place
+N0393	NA			3	no place
+N0394	NA			3	no place
+N0395	NA			3	no place
+N0396	NA			3	no place
+N0397	NA			3	no place
+N0398	PAR	2016	in Toronto	3	expo event
+N0399	NA			3	companies not places
+N0400	NA			2	community not place
+N0401	NA			3	no place
+N0402	NA			3	no place
+N0403	TP	overnight	on the plants	1	water sitting state
+N0404	NA			2	jungle figurative
+N0405	NA			3	world figurative
+N0406	PAR	today	from other worlds	1	glimpse event
+N0407	NA			3	no place
+N0408	NA			2	no literal place
+N0409	NA			3	no place
+N0410	NA			3	no place
+N0411	NA			3	no place
+N0412	PAR	in 2003	to Liberia	2	smuggling event
+N0413	NA			2	program not place
+N0414	NA			2	India personified
+N0415	PAR	On September 12, 1992	Coron; Municipality of Culion	2	municipal creation event
+N0416	NA			3	no place
+N0417	TP	on Feb. 27 and March 6	at the services	1	lists available at
+N0418	PAR	in 1984	at Carnegie Hall	3	performance event
+N0419	PAR	month-long	in Tehran's Palestine Contemporary Art Museum	2	ceremony speech
+N0420	NA			2	scene figurative
+N0421	NA			3	date only
+N0422	NA			3	no place
+N0423	NA			3	no place
+N0424	PAR	in April 2010	this place	1	conversation event
+N0425	NA			3	no place
+N0426	PAR	5 days per week; seasonally	from Christchurch, Auckland or Wellington; from Napier	2	flights event
+N0427	NA			3	addresses only
+N0428	NA			3	no time
+N0429	PAR	last week	in Texas	2	police response event
+N0430	NA			3	no place
+N0431	NA			3	no place
+N0432	NA			3	no place
+N0433	PAR	in a day	pin factories	1	production rate
+N0434	NA			3	no place
+N0435	PT	in the middle of the night; in the morning U.S. time	in the United States	3	time value by country
+N0436	NA			3	no place
+N0437	NA			3	timestamp only
+N0438	PT	summer	in New York	2	quiet summer in NY
+N0439	NA			3	timestamp only
+N0440	NA			2	no literal place for event
+N0441	NA			3	no place
+N0442	NA			3	no place
+N0443	NA			2	summer attributive
+N0444	PAR	4th of July	over the river	2	fireworks event
+N0445	NA			2	no time
+N0446	PAR	for few minutes	in Houston; your office	2	visit event
+N0447	AMB	early in the morning	in Texas	1	woke up when in Texas
+N0448	NA			3	no place
+N0449	PAR	in 1679	at Kiev	2	appointment event
+N0450	NA			3	no place
+N0451	NA			3	no place
+N0452	NA			3	no place
+N0453	NA			3	title not place
+N0454	PAR	tomorrow	Universal	2	park visit
+N0455	TP	two weeks ago	in	2	was in = location state
+N0456	NA			2	affront to people
+N0457	NA			2	no literal place
+N0458	NA			3	no place
+N0459	NA			3	no place
+N0460	NA			3	no place
+N0461	NA			3	no place
+N0462	NA			3	timestamp only
+N0463	PAR	at age 13	in Champagne, France	2	homestay action
+N0464	NA			3	no place
+N0465	PAR	on Thursday	Georgia Tech	3	visit event
+N0466	NA			2	team not place
+N0467	NA			3	no time
+N0468	NA			3	no place
+N0469	NA			3	no place
+N0470	PAR	The last three years	Iraq	1	occupation event
+N0471	NA			3	no place
+N0472	NA			2	game half not place
+N0473	NA			3	no place
+N0474	NA			3	no place
+N0475	PT	3-7 years	outdoor	1	lifespan narrowed by outdoor
+N0476	NA			2	no place
+N0477	PAR	in January 1997	to newspaper offices in New York City and Washington, D.C.	3	sending event
+N0478	NA			3	no time
+N0479	NA			3	no place
+N0480	PAR	the 1960s	at USI's opening exhibit	1	observed event
+N0481	NA			3	no place
+N0482	TP	on the weekend	A popular area	2	area state by time
+N0483	PAR	of the 1970s	The Coppergate excavations	2	excavation event
+N0484	NA			3	no place
+N0485	NA			3	no place
+N0486	NA			3	no place
+N0487	NA			2	no literal place
+N0488	NA			2	country as agent
+N0489	NA			2	no place in sentence
+N0490	PT	winter	Michigan	2	Michigan winter
+N0491	NA			3	no place
+N0492	NA			3	no place
+N0493	NA			3	no place
+N0494	NA			3	no place
+N0495	NA			2	society not place
+N0496	NA			2	age not time
+N0497	NA			3	no place
+N0498	NA			3	no place
+N0499	NA			3	no place
+N0500	NA			3	no place
+N0501	NA			3	no place
+N0502	PAR	on Friday	from the Luxembourg	3	walking event
+N0503	NA			1	places not located in time
+N0504	NA			3	header date
+N0505	NA			3	no place
+N0506	AMB	today	on 32	1	state of life on floor today
+N0507	NA			2	no literal place
+N0508	NA			3	institution only
+N0509	NA			3	header
+N0510	PAR	by 6:30	to church	2	motion event
+N0511	NA			3	no time-place
+N0512	NA			2	no time expression
+N0513	NA			3	no place
+N0514	NA			3	no place
+N0515	NA			2	residence generic
+N0516	PAR	Thur. Sept. 21 early a.m.	London	3	arrival event
+N0517	NA			3	no place
+N0518	NA			3	none
+N0519	PAR	this spring	to Austin	3	travel event
+N0520	NA			3	no place
+N0521	NA			3	no place
+N0522	NA			3	no place
+N0523	NA			2	Congress institutional
+N0524	NA			3	no time
+N0525	NA			3	list
+N0526	TP	in the morning	on the deck	3	bears located at time
+N0527	NA			2	no place phrase
+N0528	NA			3	no place
+N0529	NA			2	municipality institutional
+N0530	NA			2	back/in time idiomatic
+N0531	NA			1	duration modifier only
+N0532	NA			3	no place
+N0533	NA			3	no place
+N0534	NA			3	no place
+N0535	NA			3	site = website
+N0536	NA			1	lifespan appositive
+N0537	PAR	In 1960	this city	2	electoral event
+N0538	PAR	over the 1968 Christmas holidays	the moon	3	circling event
+N0539	NA			3	no place
+N0540	NA			3	none
+N0541	NA			3	no place
+N0542	NA			3	no place
+N0543	NA			3	no place
+N0544	TP	on Monday, September 20, 1999	in Sao Paulo	3	location state at time
+N0545	NA			2	habitual, no time point
+N0546	NA			3	header
+N0547	NA			3	no place
+N0548	NA			3	no place
+N0549	PAR	for hours	in an observation nest	1	separate clauses
+N0550	NA			3	no place
+N0551	NA			3	none
+N0552	NA			3	none
+N0553	NA			2	British nationality
+N0554	PAR	mid day monday	home	2	arriving event
+N0555	NA			2	Chernobyl in title
+N0556	NA			3	none
+N0557	NA			3	no place
+N0558	NA			2	no literal place
+N0559	NA			2	deal name
+N0560	NA			3	no place
+N0561	NA			3	no place
+N0562	NA			3	header
+N0563	NA			3	no place
+N0564	NA			3	none
+N0565	NA			2	Iraq as polity
+N0566	NA			3	team names
+N0567	NA			3	list
+N0568	NA			1	place only in previous
+N0569	NA			3	no place
+N0570	PAR	Fall 2001	in the US	2	mailings event
+N0571	NA			3	figurative time
+N0572	NA			3	no place
+N0573	NA			3	header
+N0574	NA			2	Italian adjective
+N0575	NA			3	none
+N0576	NA			3	online figurative
+N0577	NA			3	no place
+N0578	NA			3	age
+N0579	NA			3	no place
+N0580	NA			2	no literal place
+N0581	NA			3	address no time
+N0582	NA			3	no place
+N0583	NA			3	no place
+N0584	NA			3	figurative
+N0585	NA			3	heading
+N0586	NA			3	no place
+N0587	NA			3	no place
+N0588	NA			3	none
+N0589	NA			3	no place
+N0590	NA			3	no place
+N0591	NA			3	header
+N0592	NA			2	meeting not place
+N0593	NA			3	list
+N0594	PAR	in 1895	the United States / Bohemia	3	leave and return event
+N0595	NA			3	no place
+N0596	NA			3	no place
+N0597	PAR	On Dec. 6th 1954	in Recine, Wis.	2	execution event
+N0598	NA			3	none
+N0599	NA			2	Congress institutional
+N0600	NA			3	no place
+N0601	NA			3	no place
+N0602	NA			3	citation header
+N0603	NA			2	no place in sentence
+N0604	NA			3	no place
+N0605	PAR	eight hours a day	at a desk	2	generic activity
+N0606	PAR	on Saturday	outside	1	separate infinitives
+N0607	PAR	Upon the same day	at sea	3	victory event
+N0608	NA			3	spring cleaning
+N0609	NA			3	header
+N0610	NA			3	no time
+N0611	PAR	6 weeks Later	back out	1	return event
+N0612	PAR	one day	the country	3	leaving event
+N0613	TP	one out of 365 days	there	2	presence frequency
+N0614	PAR	On May 31, 2014	at Fenway Park	3	home run event
+N0615	NA			2	administrative creation
+N0616	NA			3	no time-place
+N0617	TP	in 45 minutes	here	2	arrived state
+N0618	AMB	1894 - 96	near the red-light district	1	period vs living place
+N0619	NA			3	no place
+N0620	PAR	in 1973	Harvard Business School	1	plans to go
+N0621	PAR	in 1937	across the street	3	exhibition event
+N0622	NA			3	figurative positions
+N0623	NA			3	no place
+N0624	PAR	Wednesday	Fallujah	3	military event
+N0625	NA			3	vintage only
+N0626	PAR	in the years to come	the region and the globe	1	place as affected
+N0627	NA			2	duration, no place
+N0628	NA			3	on the way idiom
+N0629	NA			3	header
+N0630	PAR	in about a month	to Calgary	3	moving event
+N0631	NA			3	no place
+N0632	PAR	on Wednesday	in several northern Iraqi cities	3	clashes event
+N0633	PAR	today	in the United States	1	separate clauses
+N0634	NA			3	no place
+N0635	NA			3	no place
+N0636	NA			3	German = language
+N0637	NA			2	cities generic
+N0638	PAR	Sat. Sept. 23 mid afternoon	to St. Tropez	3	travel event
+N0639	PAR	in August 1799	in Dulwich	3	entering school event
+N0640	NA			3	header
+N0641	NA			3	no place
+N0642	NA			3	no time
+N0643	PAR	in 1862	Mexico City	3	military event
+N0644	NA			3	no place
+N0645	PAR	by about 900 CE	their large population centers	2	abandonment event
+N0646	PAR	1570	in Italy	3	birth event
+N0647	NA			3	header
+N0648	NA			2	made it idiom
+N0649	NA			3	none
+N0650	NA			2	back vague
+N0651	NA			3	none
+N0652	PT	at noon	his office	1	closing time of office
+N0653	NA			3	no literal place
+N0654	NA			1	place only in previous
+N0655	NA			3	figurative Rome
+N0656	NA			3	header
+N0657	PAR	June 30	to Antioch	2	going event
+N0658	NA			3	no place
+N0659	NA			3	no place
+N0660	NA			3	no place
+N0661	TP	Since the 1960s	Oakland	1	hub state over time
+N0662	NA			3	no place
+N0663	NA			3	no place
+N0664	PAR	now	in the People's Republic of China	1	separate clauses
+N0665	NA			3	no place
+N0666	NA			3	no place
+N0667	NA			3	header
+N0668	NA			3	Iraqi adjective
+N0669	NA			3	no place
+N0670	NA			3	no place
+N0671	TP	today / tomorrow	out of the office / back	3	location state
+N0672	PAR	In April 1864	Fort Pillow in Tennessee	3	attack event
+N0673	NA			2	no literal place
+N0674	PT	summer	here	3	season value at place
+N0675	NA			2	institutional
+N0676	NA			3	no place
+N0677	NA			3	no time
+N0678	NA			3	no place
+N0679	PAR	following its retirement	in Los Angeles, California	2	transfer event
+N0680	TP	for eight weeks of the year	in the property	2	stay state
+N0681	NA			2	Greeks nationality
+N0682	NA			3	no place
+N0683	NA			3	header
+N0684	PAR	2000	in Iraq	1	statement vs place
+N0685	NA			3	no place
+N0686	NA			3	no place
+N0687	PAR	Less than an hour ago	on the porch	3	landing event
+N0688	NA			3	citation
+N0689	PAR	today	on the loop	1	hiking action
+N0690	PAR	In 1687 and 1689	in the Crimea	3	expeditions
+N0691	NA			3	no place
+N0692	TP	THIS SPRING	IN YOUR BED	1	nest located
+N0693	PAR	a year ago	to San Antonio	3	moving event
+N0694	PAR	in November of 1776	the area / through New Jersey	3	evacuation event
+N0695	NA			3	greeting
+N0696	NA			2	age not time
+N0697	PAR	Later in 1689	in Moscow	3	revolution event
+N0698	NA			3	figurative place
+N0699	NA			3	no place
+N0700	NA			2	Syria as state
+N0701	NA			2	style period not time
+N0702	NA			3	no place
+N0703	NA			3	header
+N0704	PAR	on the Saturday before Easter in 1980	in the sacristy ... in downtown Toledo	3	crime event
+N0705	NA			3	no place
+N0706	NA			2	takes place idiom
+N0707	NA			3	header
+N0708	TP	30 minutes	in there	2	duration in store
+N0709	NA			3	no place
+N0710	NA			3	no place
+N0711	NA			3	no place
+N0712	NA			2	dates are event names
+N0713	NA			3	no place
+N0714	NA			3	no place
+N0715	NA			2	back vague
+N0716	TP	at 7:30	there	3	presence at time
+N0717	NA			3	website
+N0718	PAR	about 18 months in advance	London ... Barcelona ... Alexandria	1	booking vs segments
+N0719	PAR	daily for a period of five weeks	in the classroom	2	activity
+N0720	PAR	centuries	in America	1	racism located
+N0721	NA			3	no place
+N0722	NA			3	signature
+N0723	NA			3	nationality only
+N0724	NA			3	no place
+N0725	NA			2	Italian adjective
+N0726	PAR	31 March 1635 / 29 November 1699	in Auchleuchries / in Moscow, Russia	3	birth and death
+N0727	NA			2	no time expression
+N0728	NA			3	TV not place
+N0729	NA			2	Chinese = language
+N0730	NA			2	no explicit place
+N0731	TP	close to 3000 years ago	on these islands	3	presence at time
+N0732	PAR	in the 14th century	on the area of present-day Lodz	2	establishment event
+N0733	NA			3	header
+N0734	NA			2	Chernobyl as event
+N0735	NA			3	list figurative
+N0736	NA			3	header
+N0737	NA			3	US as polity
+N0738	TP	for 10 years	there	3	presence duration
+N0739	TP	Fri. Sept. 22	in same hotel	2	stay; visit also
+N0740	NA			3	age
+N0741	NA			3	no time
+N0742	NA			1	place only in previous
+N0743	NA			2	nation institutional
+N0744	NA			3	no place
+N0745	NA			3	no place
+N0746	NA			3	no place
+N0747	PAR	daily	to Tehran and Mashhad in Iran	2	flights
+N0748	NA			1	place only implicit
+N0749	NA			2	country as agent
+N0750	NA			3	none
+N0751	NA			3	institutional
+N0752	NA			3	none
+N0753	NA			3	no place
+N0754	NA			3	header
+N0755	NA			3	age
+N0756	PAR	the 90s	to Iraq	1	shipment event
+N0757	NA			2	US adjective
+N0758	TP	Mon. Sept. 25	St. Tropez	2	itinerary location
+N0759	PAR	in 1877	at Azov	3	reinterment
+N0760	NA			3	no place
+N0761	PAR	today	our house	3	service event
+N0762	PAR	in June	on Anahuac	3	march event
+N0763	NA			3	software
+N0764	NA			3	no place
+N0765	AMB	One year	my own little office	1	having office
+N0766	PAR	at 7am	in the lobby	2	meeting event
+N0767	NA			3	institutional
+N0768	NA			3	no place
+N0769	NA			3	no place
+N0770	NA			3	no place
+N0771	NA			2	1993 in name
+N0772	NA			3	none
+N0773	NA			3	no place
+N0774	TP	ten years	at The Ohio State University	1	spent years at
+N0775	PAR	every month	Iraq	1	killing vs occupation
+N0776	NA			3	header
+N0777	NA			3	no place
+N0778	NA			3	no place
+N0779	NA			3	no place
+N0780	PAR	within minutes	in Murfreesboro	3	tracking event
+N0781	NA			3	no place
+N0782	NA			2	no place in sentence
+N0783	NA			3	age
+N0784	NA			3	header
+N0785	NA			3	no place
+N0786	NA			3	document
+N0787	NA			3	header
+N0788	NA			3	no place
+N0789	NA			3	figurative
+N0790	NA			3	no place
+N0791	NA			2	no place
+N0792	PAR	each month	into New York	2	flights
+N0793	PAR	25 minutes, 1 departure per day	from Marstal on Aero	2	ferry trip
+N0794	PAR	this weekend	at the Metro Toronto Convention Centre	3	event took place
+N0795	NA			3	no place
+N0796	TP	usually / this year	in San Antonio	2	meeting location
+N0797	NA			3	none
+N0798	NA			3	greeting
+N0799	NA			3	no place
+N0800	PAR	last night	at The Grill	3	dining event
+N0801	NA			2	no explicit place
+N0802	NA			3	age
+N0803	NA			3	no place
+N0804	NA			3	no place
+N0805	NA			3	website
+N0806	TP	for three days now	my neighbourhood / over our heads	2	surrounded state
+N0807	NA			3	no place
+N0808	PAR	in 1861	Veracruz	3	capture event
+N0809	NA			2	university position
+N0810	NA			2	no explicit place
+N0811	PAR	September 20 1888	Miramar	1	founding of place
+N0812	NA			3	no place
+N0813	PAR	tomorrow	at woodrows	3	watching event
+N0814	NA			3	figurative
+N0815	NA			3	no place
+N0816	NA			3	no place
+N0817	NA			3	none
+N0818	NA			2	no place in sentence
+N0819	PAR	by 2018	to the moon	3	return event
+N0820	NA			3	no place
+N0821	PAR	between July 2004 and July 2005	in Baghdad	1	separate clauses
+N0822	NA			3	none
+N0823	NA			3	none
+N0824	PAR	last September	in Tehran	1	opening vs publication
+N0825	PAR	between March 1962 and December 1969	in the Vietnam theater	2	service
+N0826	NA			2	no place in sentence
+N0827	NA			2	no place in sentence
+N0828	NA			3	no place
+N0829	NA			3	no place
+N0830	NA			3	none
+N0831	NA			3	nationality only
+N0832	PAR	sometime in the 1970s	to Yellowstone	3	release event
+N0833	AMB	winter (December to February)	huge parts of the country	1	season property at place
+N0834	PAR	In 1983	at the 33rd Berlin International Film Festival	1	jury role at event
+N0835	PAR	Friday	Pakistan	1	statement vs coup
+N0836	PAR	this fall	in the State of Pennsylvania	2	running in election
+N0837	NA			3	blog post
+N0838	NA			3	none
+N0839	NA			2	meeting not place
+N0840	NA			3	no place
+N0841	NA			3	no place
+N0842	TP	on a given week	at the store	2	availability state
+N0843	NA			3	no place
+N0844	NA			3	none
+N0845	NA			3	figurative era
+N0846	TP	in the 1590's	in England	3	presence at time
+N0847	NA			3	none
+N0848	NA			3	none
+N0849	NA			3	no place
+N0850	PAR	In 2005	at the 27th Moscow International Film Festival	2	award event
+N0851	NA			3	no place
+N0852	NA			3	header
+N0853	PAR	in 1989	the Cypress Street Overpass	2	destruction event
+N0854	NA			3	no place
+N0855	PAR	tonight	out on the balcony	3	gazing action
+N0856	NA			3	no place
+N0857	NA			3	header
+N0858	PAR	for 5 months now	to Nick	1	habitual visits
+N0859	NA			2	ride duration only
+N0860	NA			3	none
+N0861	NA			3	none
+N0862	PAR	In 1892	to the United States / in New York City	3	moving event
+N0863	NA			3	no place
+N0864	NA			3	no place
+N0865	NA			3	Twitter figurative
+N0866	NA			3	institutional
+N0867	NA			3	address no time
+N0868	NA			3	no place
+N0869	PAR	three years ago	in my Tampa residence	3	replacement event
+N0870	TP	for the 13th	at LS HPL	1	volume at point
+N0871	PAR	After ten days	the mission	3	capture event
+N0872	PAR	In early February	in the Landfall Islands	2	charge and hiding
+N0873	NA			3	Union polity
+N0874	NA			3	no place
+N0875	NA			1	place only in previous
+N0876	NA			3	header
+N0877	NA			3	no place
+N0878	NA			3	no place
+N0879	NA			3	no place
+N0880	NA			3	header
+N0881	NA			3	no place
+N0882	PAR	in August 2008	to Creekside Apartments	3	moving event
+N0883	NA			3	no place
+N0884	NA			3	schedule
+N0885	NA			3	radio not place
+N0886	NA			3	no place
+N0887	NA			3	no place
+N0888	PAR	a few days earlier	in Spain	2	elections/bombings
+N0889	TP	until Monday	out of the office	3	absence state
+N0890	NA			3	no place
+N0891	NA			3	none
+N0892	NA			3	no place
+N0893	AMB	on the day of Hajj	The Plains of Arafat	1	caption no predicate
+N0894	PAR	for the past 20+ years	this country	3	fleeing
+N0895	NA			3	none
+N0896	TP	in summer	the Arctic Ocean	2	ice-free state
+N0897	NA			3	header
+N0898	PAR	In September	in Darfur	1	veto threat vs atrocities
+N0899	PAR	By the late 1980s and early 1990s	the city	2	regeneration
+N0900	NA			3	no place
+N0901	PAR	Three months after	back to the US	2	return and reopening
+N0902	PAR	this week	in Washington D.C.	3	competition held
+N0903	NA			3	no place
+N0904	NA			3	no place
+N0905	PAR	on Monday	at your desk	3	making change
+N0906	NA			3	no place
+N0907	NA			2	no place in sentence
+N0908	NA			3	no place
+N0909	NA			2	no literal place
+N0910	NA			3	no place
+N0911	NA			3	citation
+N0912	NA			3	none
+N0913	NA			3	no time-place
+N0914	NA			3	institutional
+N0915	NA			3	no place
+N0916	TP	in the winter	there	2	store closed state
+N0917	NA			3	header
+N0918	NA			2	year in act name
+N0919	NA			3	no place
+N0920	NA			3	header
+N0921	NA			3	none
+N0922	PAR	three-day	to Sri Lanka	2	visit event
+N0923	NA			2	body location
+N0924	PAR	in December of 384	in cosmopolitan centers such as Rome	1	separate clauses
+N0925	NA			3	rotation figurative
+N0926	NA			3	no place
+N0927	NA			3	no place
+N0928	NA			3	no place
+N0929	NA			2	governor position
+N0930	NA			3	none
+N0931	NA			2	year in label
+N0932	NA			3	body side
+N0933	PAR	our last day	the Going to the Sun Road	2	driving
+N0934	NA			3	citation
+N0935	NA			3	no place
+N0936	PAR	today	behind the counter	1	separate clauses
+N0937	NA			2	no place in sentence
+N0938	NA			3	no place
+N0939	NA			3	no place
+N0940	NA			2	UT institution
+N0941	NA			3	header
+N0942	NA			3	team
+N0943	NA			3	no place
+N0944	NA			3	no time
+N0945	NA			3	no place
+N0946	NA			2	no place in sentence
+N0947	NA			3	institutional
+N0948	NA			3	team names
+N0949	PAR	In the second half	the goal line	1	match attempts
+N0950	NA			3	citation
+N0951	NA			3	no place
+N0952	TP	As of March 28, 2003	in a hospital	3	location state
+N0953	PAR	a decade	in Russia and the Middle East	2	recruitment attempts
+N0954	NA			3	header
+N0955	NA			2	time as distance
+N0956	NA			3	no place
+N0957	NA			3	no place
+N0958	NA			3	no place
+N0959	NA			3	no place
+N0960	NA			3	no place
+N0961	NA			2	time as distance
+N0962	NA			3	no place
+N0963	TP	until she was eighteen	at Flag Land Base in Clearwater, Florida	3	kept at place
+N0964	NA			3	none
+N0965	NA			3	no place
+N0966	NA			3	team names
+N0967	NA			3	no place
+N0968	NA			3	no place
+N0969	NA			3	no place
+N0970	NA			3	header
+N0971	NA			3	no place
+N0972	NA			3	no place
+N0973	NA			3	no place
+N0974	NA			3	no place
+N0975	NA			2	winter modifies winds
+N0976	PAR	for a week	in to town	2	visit
+N0977	NA			3	Danish language
+N0978	NA			3	no place
+N0979	NA			3	header
+N0980	NA			1	going in vague
+N0981	NA			3	institutional
+N0982	NA			3	none
+N0983	NA			3	no place
+N0984	NA			3	no time
+N0985	NA			3	no place
+N0986	PAR	April	in Sri Lanka	2	elections held
+N0987	NA			3	no place
+N0988	NA			3	team
+N0989	NA			3	no place
+N0990	NA			3	header
+N0991	NA			3	no literal place
+N0992	NA			2	epithet only
+N0993	NA			3	website
+N0994	NA			3	header
+N0995	PAR	two days earlier / some weeks	the country / in Iran	2	entry; stay in Iran
+N0996	NA			3	institutional
+N0997	NA			3	no place
+N0998	NA			3	market figurative
+N0999	PAR	in 1721	at Basel, Heidelberg, and Strasbourg	2	study event
+N1000	NA			3	no place
+N1001	NA			3	no literal place
+N1002	NA			3	no place
+N1003	NA			3	no place
+N1004	NA			2	no literal place
+N1005	NA			3	no place
+N1006	NA			3	no place
+N1007	NA			2	walk duration, no time location
+N1008	NA			3	no literal place
+N1009	NA			3	no place
+N1010	NA			3	market not a place
+N1011	NA			3	no place
+N1012	PT	Sunday	in snowy Manhattan	3	time value with place
+N1013	PAR	on Monday	Ft. Worth	3	travel event
+N1014	NA			3	no place
+N1015	NA			3	no place
+N1016	NA			3	no place
+N1017	NA			3	no place
+N1018	NA			2	France as nationality
+N1019	NA			2	no literal time
+N1020	AMB	in 5 years	America	1	America as polity or place
+N1021	NA			2	American adjective only
+N1022	NA			3	no place
+N1023	PAR	two years running	at this fabulous little motel	2	stay as action
+N1024	NA			3	no place
+N1025	NA			2	hours only, place in previous
+N1026	NA			2	no literal place
+N1027	NA			3	no place
+N1028	NA			2	government institutional
+N1029	NA			3	no place
+N1030	PAR	in the 1860s; in 1911	the area; north and east of Phoenix	3	historical events
+N1031	NA			3	team institutional
+N1032	NA			3	no place
+N1033	NA			3	no place
+N1034	NA			3	no place
+N1035	TP	Sunday three four weeks ago	there	3	was there at time
+N1036	NA			3	no place
+N1037	NA			2	US as institution
+N1038	TP	now	on the south side	2	windows back in place now
+N1039	NA			3	no place
+N1040	PAR	in November 1849	San Francisco	3	arrival event
+N1041	NA			3	no place
+N1042	PAR	in 1904; in 1909-1910	St. Louis; University of California	3	lecture/visit events
+N1043	NA			3	no place
+N1044	PAR	on 31 October 1950	in Baghdad, Iraq	3	birth event
+N1045	PAR	beginning of February next year	India	3	planned visit
+N1046	AMB	in 1846	in the eastern portion of the state	1	time attaches to war not location
+N1047	NA			2	laptop not a place
+N1048	NA			3	no place
+N1049	PAR	in the last match of the day	at the Volgograd Arena	3	match event
+N1050	NA			3	no place
+N1051	NA			2	Western World figurative
+N1052	NA			3	no place
+N1053	NA			3	no place
+N1054	NA			2	hours only, place in previous
+N1055	TP	for the last 9 years and 10 months	of S. F., Cal.	2	residence state over time
+N1056	NA			3	no place
+N1057	NA			3	no place
+N1058	PAR	July 13	in the southern city of Tyre	2	wedding event
+N1059	NA			3	no place
+N1060	PAR	from January 23 through March 9	in Evansville, Indiana	2	exhibit run event
+N1061	NA			3	no time
+N1062	PAR	in 1990	Taipei	1	festival start; Taipei as name
+N1063	PAR	in the past decade; today	in Coron	2	influx event
+N1064	PAR	within a week	on our gate	1	noticing event
+N1065	NA			3	no place
+N1066	PAR	recently	here	3	trip event
+N1067	PAR	then	in water	1	action sequence
+N1068	NA			3	no place
+N1069	NA			3	no place
+N1070	NA			3	no place
+N1071	TP	for the next 30 hours	in a cell	3	location state with duration
+N1072	NA			2	institutions only
+N1073	PAR	in 2002	in British Museum	3	exhibition event
+N1074	PAR	on Friday	toward Malaysia; toward Indonesia	3	rescue events
+N1075	NA			3	no place
+N1076	NA			3	net figurative
+N1077	PAR	on Wednesday	throughout the Sunni Arab regions	3	demonstration events
+N1078	NA			3	no place
+N1079	NA			3	no place
+N1080	NA			3	no literal place
+N1081	TP	by noon on the 20th	there	3	place reached by time
+N1082	NA			2	no literal time
+N1083	NA			3	no place
+N1084	NA			3	no place
+N1085	PAR	at the end of March	in a minicab	1	departure event
+N1086	NA			2	institutional
+N1087	NA			3	no time
+N1088	NA			3	no place
+N1089	NA			3	no place
+N1090	NA			3	no place
+N1091	NA			3	no place
+N1092	NA			3	no place
+N1093	NA			1	place only via pronoun
+N1094	NA			3	no place
+N1095	NA			3	no place
+N1096	NA			3	no place
+N1097	NA			3	no place
+N1098	NA			3	no place
+N1099	PAR	next month; in November; in December	Las Vegas; Italy; Mexico	3	travel itinerary
+N1100	NA			2	places only in commands, time on learning
+N1101	NA			2	interview not a place
+N1102	NA			2	by hand not a place
+N1103	TP	Wed. Sept. 27	Paris	2	itinerary: in Paris on date
+N1104	NA			3	no place
+N1105	NA			2	Austria as state actor
+N1106	NA			3	no time
+N1107	NA			2	arrive figurative
+N1108	PAR	between 2001 and 2002	in the United States	1	spending located
+N1109	NA			3	no time
+N1110	NA			3	figurative
+N1111	NA			3	no place
+N1112	PAR	in 1971	in Bangladesh	2	embedded defeat event
+N1113	NA			3	no place
+N1114	NA			3	no time expression
+N1115	PAR	in 2002	in India	2	stepping-in event
+N1116	NA			3	no place
+N1117	NA			2	team institutional
+N1118	NA			3	no place
+N1119	NA			1	Europe as polity
+N1120	NA			3	no place
+N1121	NA			3	no place
+N1122	NA			3	no place
+N1123	NA			3	no place
+N1124	PAR	Dec. 12	Houston; at the Compaq Center	3	concert event
+N1125	NA			3	no place
+N1126	NA			3	no place
+N1127	NA			3	no time
+N1128	TP	today	in the office	3	location state today
+N1129	NA			3	no place
+N1130	NA			3	no place
+N1131	NA			3	no time
+N1132	NA			2	Barstool institution
+N1133	NA			3	no place
+N1134	NA			2	journal not a place
+N1135	NA			2	Colombo as government
+N1136	PAR	March 25-26, 2002	Atlanta, Georgia	2	conference event
+N1137	NA			2	New York contract institutional
+N1138	PAR	Thursday	USI art gallery	1	opening event
+N1139	NA			3	no place
+N1140	NA			3	no place
+N1141	NA			3	no place
+N1142	NA			3	no place
+N1143	AMB	back in 1972	in the Deep South	1	state of affairs framed by both
+N1144	TP	during the summer months	from the northeast	1	wind direction by season
+N1145	TP	Tuesday	Fallujah	2	place closed on day
+N1146	PT	annually	Tulsa	2	sunshine days at place
+N1147	NA			3	no place
+N1148	NA			3	no place
+N1149	NA			3	no place
+N1150	NA			3	no place
+N1151	NA			3	no place
+N1152	NA			3	no place
+N1153	NA			3	no place
+N1154	NA			3	no place
+N1155	NA			2	place only implied
+N1156	NA			3	no place
+N1157	NA			2	meeting not a place
+N1158	PAR	1560	Rome	3	visit event
+N1159	NA			3	no place
+N1160	NA			3	no place
+N1161	NA			3	no place
+N1162	NA			3	no place
+N1163	NA			2	Phoenix team name
+N1164	NA			3	no place
+N1165	NA			3	no place
+N1166	TP	in a couple of weeks	in Calgary	3	will be in place at time
+N1167	NA			3	no time or place
+N1168	NA			2	trail as object
+N1169	NA			2	territory as object
+N1170	NA			3	no place
+N1171	NA			2	no place
+N1172	NA			2	US as actor
+N1173	TP	today	Łódź	1	caption, place as it is today
+N1174	NA			3	no place
+N1175	TP	in the Summer of 2001	in Pakistan	3	was at meetings
+N1176	PAR	May 2001	abroad	1	letter sending
+N1177	NA			3	no place
+N1178	PAR	on November 11, 1914	in Oklahoma City, Oklahoma	3	birth event
+N1179	NA			2	economies institutional
+N1180	NA			3	no place
+N1181	NA			3	no place
+N1182	NA			3	no place
+N1183	AMB	in the 1830s; in 1865	Łódź	1	population of place over time
+N1184	NA			3	no place
+N1185	NA			3	no place
+N1186	NA			3	no place
+N1187	NA			3	no place
+N1188	NA			3	figurative
+N1189	NA			3	no place
+N1190	NA			3	no place
+N1191	PAR	one hour	along the cliff	2	walking action
+N1192	TP	eight months	in the French oak	2	wine located in oak
+N1193	NA			2	Alaska as state polity
+N1194	NA			3	no place
+N1195	NA			3	no place
+N1196	NA			3	no place
+N1197	NA			3	no place
+N1198	NA			3	no place
+N1199	NA			2	Austria as state actor
+N1200	NA			3	no place
+N1201	NA			2	post-production not a place
+N1202	PAR	November 22nd	to Del Frisco's	2	planned dinner outing
+N1203	NA			3	no place
+N1204	PAR	in May 2012	to the Philippines; from Raleigh, NC	3	trip event
+N1205	NA			3	blog location not literal
+N1206	NA			3	no place
+N1207	NA			2	journal not a place
+N1208	NA			3	no place
+N1209	NA			3	project not a place
+N1210	PAR	on Sunday	at Bahia	2	teaching activity
+N1211	TP	once; opening decades of the 19th century	West Oakland	1	state of place in past
+N1212	NA			3	site not literal
+N1213	NA			3	no place
+N1214	NA			3	no place
+N1215	NA			3	no place
+N1216	NA			3	no place
+N1217	TP	ever since 1890	in the southwestern US	3	groups existed in region
+N1218	NA			3	no place
+N1219	NA			2	Americans demonym
+N1220	NA			2	North as origin only
+N1221	NA			3	no place
+N1222	NA			3	no place
+N1223	NA			3	no place
+N1224	NA			2	traffic not a place
+N1225	NA			3	no place
+N1226	PAR	later that afternoon	in	1	went in, event
+N1227	NA			2	time on report, place on position
+N1228	NA			3	no place
+N1229	PAR	last week	at the Risk conference; in Houston	3	meeting event
+N1230	NA			3	no place
+N1231	NA			3	no place
+N1232	NA			3	no place
+N1233	PAR	on USI's opening night	USI	1	recreation event
+N1234	TP	for an hour or so	in a dark place	1	placed there for a duration
+N1235	NA			2	Iraq as object
+N1236	NA			2	abroad as policy target
+N1237	NA			3	no place
+N1238	NA			3	no place
+N1239	PAR	throughout the first half of my mandate	around the world	2	meeting people
+N1240	NA			3	no place
+N1241	TP	for 20 minutes	at the table	2	sitting at table for time
+N1242	NA			3	no place
+N1243	NA			3	no place
+N1244	NA			2	figurative world
+N1245	NA			2	company not place
+N1246	NA			1	place only via pronoun
+N1247	NA			3	figurative
+N1248	NA			3	no place
+N1249	NA			2	School as institution
+N1250	NA			3	no place
+N1251	NA			2	no time expression
+N1252	NA			3	no place
+N1253	NA			2	Indian pressure institutional
+N1254	NA			2	court institutional
+N1255	NA			3	no place
+N1256	NA			3	no place
+N1257	PAR	for over a year; every Saturday evening	A Ward Dance Centre	2	attending activity
+N1258	NA			3	no place
+N1259	NA			3	no place
+N1260	PAR	in May; in the evening	in the Wenatchee hills; on the patio	3	travel activities
+N1261	NA			2	from Texas as origin
+N1262	NA			3	no place
+N1263	TP	on May 11th	in Houston	3	will be in place on date
+N1264	NA			2	in place figurative
+N1265	AMB	since 3 February; since last Friday	for China; for Iran	1	restrictions for places since dates
+N1266	NA			2	place implicit
+N1267	PAR	next Wednesday	town	2	leaving event
+N1268	PAR	on Monday	Ft. Worth	3	travel event
+N1269	NA			2	Court institutional
+N1270	NA			3	no place
+N1271	NA			2	place implicit
+N1272	NA			3	no place
+N1273	NA			3	no place
+N1274	NA			3	no place
+N1275	NA			3	no place
+N1276	PAR	Thanksgiving	here	2	holiday event at place
+N1277	NA			3	no place
+N1278	NA			2	EBS workplace institutional
+N1279	NA			2	Triple-A league
+N1280	NA			3	no place
+N1281	NA			2	city as polity
+N1282	NA			3	no place
+N1283	NA			3	no place
+N1284	PAR	today	to ultrasound	1	pulled to department
+N1285	NA			2	Italian culture adjective
+N1286	NA			3	no place
+N1287	NA			3	no place
+N1288	TP	for almost 200 years	in this region	3	lived in region duration
+N1289	TP	these days	where	2	residence at time
+N1290	NA			3	no place
+N1291	NA			3	no place
+N1292	NA			3	no place
+N1293	NA			2	US institutional title
+N1294	NA			3	no place
+N1295	NA			3	no place
+N1296	NA			3	no time
+N1297	NA			3	no place
+N1298	NA			3	no place
+N1299	NA			3	no place
+N1300	NA			3	greeting, no place
+N1301	NA			3	no place
+N1302	AMB	since 2013	in California	1	time on relationship, place on living
+N1303	TP	on a daily basis	in that room	3	be in room routinely
+N1304	NA			3	no time
+N1305	NA			3	body part not place
+N1306	TP	31 years	there	3	has been there duration
+N1307	NA			2	CA modifies contracts
+N1308	NA			3	no place
+N1309	PAR	over the past year	near Vienna	3	establishment events
+N1310	PAR	in 2001	in the 300-some inhabited islands	3	operation event
+N1311	NA			3	no place
+N1312	TP	in 2000	at Sufaat's condominium	2	stayed at place in year
+N1313	NA			3	no place
+N1314	NA			2	plant as object
+N1315	NA			3	no place
+N1316	NA			3	no place
+N1317	PAR	on the Saturday	on the ground	2	disturbance event
+N1318	NA			2	place only in previous
+N1319	PAR	at 4:00	there	2	meeting event
+N1320	NA			2	Colombo as government
+N1321	NA			3	no place
+N1322	TP	by 1900	the city	1	state of city by date
+N1323	PAR	in 1947	to Coron	3	introduction event
+N1324	NA			3	no place
+N1325	NA			3	no place
+N1326	NA			3	no place
+N1327	PAR	in the morning	at your counter	1	activities
+N1328	NA			2	servers not literal place
+N1329	NA			3	no place
+N1330	NA			2	no place in sentence
+N1331	NA			3	no place
+N1332	TP	in 2008	at Mecca's Grand Mosque	2	caption, pilgrims at place
+N1333	NA			3	no place
+N1334	NA			3	no place
+N1335	NA			3	no place
+N1336	TP	when your parents come	in Korea	2	stay in place; also China trip
+N1337	NA			3	no place
+N1338	NA			2	place only in previous
+N1339	NA			3	no place
+N1340	NA			3	no place
+N1341	TP	hours	in here	1	could have spent hours here
+N1342	NA			3	no place
+N1343	NA			3	no place
+N1344	NA			3	no place
+N1345	NA			3	no time
+N1346	NA			3	no place
+N1347	NA			2	regional team institutional
+N1348	NA			2	CA modifies contracts
+N1349	NA			3	no place
+N1350	TP	this summer	in the ceiling of the outer porch	2	hooks located unless removed
+N1351	TP	from the 6th to the 12th week	in smaller cages	2	housing state
+N1352	PT	9 am; 11 am	Houston time; Sao Paulo	3	clock time by place
+N1353	PAR	about a month ago	in	2	came in, visit
+N1354	NA			3	no place
+N1355	NA			3	no place
+N1356	NA			3	no place
+N1357	TP	early 1980s	in Alpine, Arizona; Madrid; Brussels	1	lived in places after retirement; lectures PAR
+N1358	NA			3	no place
+N1359	NA			3	no place
+N1360	NA			3	no place
+N1361	NA			2	statistics, no located time
+N1362	NA			3	no place
+N1363	PAR	in 1943	in Yellowstone National Park	3	killing event
+N1364	TP	on July 4th 2008	there	3	was there on date
+N1365	NA			3	no place
+N1366	NA			3	no place
+N1367	NA			2	place only implicit
+N1368	NA			3	no place
+N1369	NA			2	Republic institutional
+N1370	NA			2	Americans demonym
+N1371	NA			3	no place
+N1372	PAR	23 January 1928	Paris, France	3	birth event
+N1373	NA			3	no place
+N1374	NA			2	team institutional
+N1375	PAR	ten minutes later	down the street	3	driving event
+N1376	NA			3	no place
+N1377	NA			1	college entry institutional
+N1378	NA			3	no place
+N1379	NA			3	no place
+N1380	NA			3	no place
+N1381	NA			3	no place
+N1382	PT	a full 20 hours	from Buenos Aires	2	trip duration by origin
+N1383	TP	for several years	at Tabennese	2	figure at place duration
+N1384	NA			3	no place
+N1385	TP	for 4 days	in Ho chi Minh	3	be in city duration
+N1386	NA			3	figurative
+N1387	NA			3	no place
+N1388	NA			3	no place
+N1389	NA			2	Chinese adjective
+N1390	NA			2	body sites not places
+N1391	NA			3	no place
+N1392	NA			2	festival not place
+N1393	NA			3	no place
+N1394	NA			2	courts and municipality institutional
+N1395	NA			3	no place
+N1396	NA			3	no place
+N1397	NA			3	no place
+N1398	NA			3	no place
+N1399	NA			2	no place in sentence
+N1400	PAR	the days	in any office	1	generic routine action
+N1401	NA			3	no place
+N1402	TP	in late 2002	Iraq's urban areas	1	state of places at time
+N1403	NA			2	institutions only
+N1404	NA			3	no place
+N1405	NA			3	no place
+N1406	NA			2	place implicit
+N1407	NA			3	no place
+N1408	PAR	over the years	each other's offices; at Italian restaurants	3	visiting activities
+N1409	NA			3	no place
+N1410	NA			3	no place
+N1411	NA			3	no place
+N1412	NA			3	no place
+N1413	NA			3	no place
+N1414	NA			3	no place
+N1415	PAR	on September 29	to the East Los Angeles sheriff's station	3	visit event
+N1416	NA			3	website not place
+N1417	PAR	in March 1998	to the Iraqi capital; from Sudan	3	sending event
+N1418	NA			3	no place
+N1419	NA			3	no place
+N1420	NA			3	no place
+N1421	NA			2	no time locating place
+N1422	NA			3	no place
+N1423	PAR	in about a month	to Calgary	3	moving event
+N1424	NA			2	huts figurative lifestyle
+N1425	NA			3	no place
+N1426	NA			3	no place
+N1427	PAR	four to six weeks before last frost	indoors	2	planting action
+N1428	NA			3	no place
+N1429	NA			3	no place
+N1430	NA			3	no place
+N1431	NA			3	figurative
+N1432	PAR	Feb. 23	Boulder, CO	1	dateline
+N1433	NA			3	figurative
+N1434	NA			3	no place
+N1435	NA			3	no place
+N1436	NA			3	no place
+N1437	NA			3	no place
+N1438	NA			2	authorities institutional
+N1439	TP	during the winter	in the northern states	1	weather state by season
+N1440	NA			3	no place
+N1441	PAR	during San Diego Comic-Con 2015	at the Supernatural panel	2	surprise event
+N1442	NA			2	institutional
+N1443	NA			2	place not in sentence
+N1444	NA			3	no place
+N1445	TP	during the last months of his life	at the hostel	2	stayed there period
+N1446	NA			3	no literal place
+N1447	NA			3	no place
+N1448	NA			2	Olympics not place
+N1449	NA			3	no place
+N1450	NA			3	no place
+N1451	AMB	the 20th century	Athens	1	development of place over century
+N1452	NA			3	no place
+N1453	NA			3	no place
+N1454	NA			2	abdomen not place
+N1455	NA			3	no place
+N1456	NA			3	no place
+N1457	AMB	today	Port Hutt; these islands	1	place property with today
+N1458	NA			3	no place
+N1459	AMB	nowadays	every town	1	normative claim about towns
+N1460	NA			3	no place
+N1461	NA			2	place only implicit
+N1462	NA			3	no place
+N1463	NA			3	no place
+N1464	NA			3	no place
+N1465	NA			3	no place
+N1466	NA			3	no place
+N1467	NA			3	no place
+N1468	PT	3 pm; 5 pm	Houston time; Sao Paulo time	3	clock time by place
+N1469	NA			3	no place
+N1470	NA			2	no literal place
+N1471	TP	through Sunday morning	in town	3	be in town until time
+N1472	PAR	the first of September	to the trainers	2	sending event
+N1473	NA			3	no place
+N1474	PAR	for a number of years	to Warner Family	2	habitual visits
+N1475	PAR	in 1964; about ten years	South Vietnam	2	deployment event
+N1476	NA			2	South as polity
+N1477	NA			3	no time
+N1478	TP	in fifteen minutes	home	3	place reached by time
+N1479	NA			3	no place
+N1480	PAR	yesterday evening	in Germany	2	broadcast event
+N1481	NA			3	no place
+N1482	NA			3	no place in sentence
+N1483	NA			3	no place
+N1484	NA			3	no place
+N1485	NA			3	no place
+N1486	NA			3	no place
+N1487	NA			3	no place
+N1488	NA			3	no place
+N1489	TP	in the winter	across the plains	1	weather state by season
+N1490	NA			3	no place
+N1491	NA			3	figurative center
+N1492	NA			2	place not in sentence
+N1493	TP	tomorrow	in the office	2	also leaving for Sao Paulo Saturday (PAR)
+N1494	NA			2	no time-place pairing
+N1495	PAR	in the past	at colleges in the US	2	playing activity
+N1496	NA			2	no locating time
+N1497	TP	next year	in Limerick, Ireland	3	live in place next year
+N1498	NA			3	no place
+N1499	NA			2	Netflix not place
+N1500	NA			2	teams institutional

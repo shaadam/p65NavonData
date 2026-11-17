@@ -1,0 +1,47 @@
+coding column: code
+rows in file 108; counted 64
+
+== PRIMARY (all counted): n = 64 experiments
+  SPACE>TIME   27  (0.42; 95% Wilson 0.31-0.54)
+  TIME>SPACE   14  (0.22; 95% Wilson 0.14-0.33)
+  SYMMETRIC    21  (0.33; 95% Wilson 0.23-0.45)
+  NONE          2  (0.03; 95% Wilson 0.01-0.11)
+  sign test SPACE>TIME 27 vs TIME>SPACE 14: two-sided exact p = 0.0596
+
+== ADULT HUMAN, VISUAL: n = 55 experiments
+  SPACE>TIME   25  (0.45; 95% Wilson 0.33-0.58)
+  TIME>SPACE   11  (0.20; 95% Wilson 0.12-0.32)
+  SYMMETRIC    17  (0.31; 95% Wilson 0.20-0.44)
+  NONE          2  (0.04; 95% Wilson 0.01-0.12)
+  sign test SPACE>TIME 25 vs TIME>SPACE 11: two-sided exact p = 0.0288
+
+== CHILD: n = 5 experiments
+  SPACE>TIME    2  (0.40; 95% Wilson 0.12-0.77)
+  TIME>SPACE    0  (0.00; 95% Wilson 0.00-0.43)
+  SYMMETRIC     3  (0.60; 95% Wilson 0.23-0.88)
+  NONE          0  (0.00; 95% Wilson 0.00-0.43)
+  sign test SPACE>TIME 2 vs TIME>SPACE 0: two-sided exact p = 0.5000
+
+== ANIMAL: n = 2 experiments
+  SPACE>TIME    0  (0.00; 95% Wilson 0.00-0.66)
+  TIME>SPACE    1  (0.50; 95% Wilson 0.09-0.91)
+  SYMMETRIC     1  (0.50; 95% Wilson 0.09-0.91)
+  NONE          0  (0.00; 95% Wilson 0.00-0.66)
+  sign test SPACE>TIME 0 vs TIME>SPACE 1: two-sided exact p = 1.0000
+
+== NONVISUAL (primary modality): n = 2 experiments
+  SPACE>TIME    0  (0.00; 95% Wilson 0.00-0.66)
+  TIME>SPACE    2  (1.00; 95% Wilson 0.34-1.00)
+  SYMMETRIC     0  (0.00; 95% Wilson 0.00-0.66)
+  NONE          0  (0.00; 95% Wilson 0.00-0.66)
+  sign test SPACE>TIME 0 vs TIME>SPACE 2: two-sided exact p = 0.5000
+
+== FULL TEXT only (abstract-only rows dropped): n = 53 experiments
+  SPACE>TIME   21  (0.40; 95% Wilson 0.28-0.53)
+  TIME>SPACE   13  (0.25; 95% Wilson 0.15-0.38)
+  SYMMETRIC    17  (0.32; 95% Wilson 0.21-0.45)
+  NONE          2  (0.04; 95% Wilson 0.01-0.13)
+  sign test SPACE>TIME 21 vs TIME>SPACE 13: two-sided exact p = 0.2295
+
+== PAPER LEVEL: 39 papers: SPACE>TIME 15, TIME>SPACE 8, SYMMETRIC 11, NONE 1, MIXED 4
+  sign test (papers) SPACE>TIME 15 vs TIME>SPACE 8: p = 0.2100

@@ -1,0 +1,26 @@
+RESULT LABEL: CONFIRMATORY (registration 9 S1, wave3/main/S1_LABEL.txt)
+batches analysed: 17 (6628 sentences)
+[confirmatory] P_kappa 0.9304169123497871
+[confirmatory] D_kappa 0.6034287666261021
+[confirmatory] n_both 743
+[confirmatory] raw_presence 0.9853651176825589
+[confirmatory] tp 49
+[confirmatory] pt 21
+[confirmatory] n_dir 70
+[confirmatory] gate pass
+[confirmatory] flip_d 0.047619047619047616
+[confirmatory] flip_e 0.024405134394329064
+[confirmatory] flip_e_upper 0.08868622664178505
+[confirmatory] flip_ok True
+[confirmatory] n_both_dir 42
+[confirmatory] share 0.7
+[confirmatory] share_lo 0.5832404596826146
+[confirmatory] share_hi 0.7955167080746655
+[confirmatory] logit 0.8472978603872034
+[confirmatory] logit_se 0.2608202654786505
+[confirmatory] p_two_sided 0.0010932449729686143
+[confirmatory] share_corrected (0.7102629932151387, 0.5875119410473532, 0.8106811379243176)
+[confirmatory] share_corrected_e_upper 0.7431233925952427
+[confirmatory] diff_vs_english_logit (-0.6895086077160368, -1.5091004988272387, 0.13008328339516495)
+[confirmatory] rule_y insufficient-for-own-test
+[confirmatory] screen {'TP': 0.6938775510204082, 'PT': 0.8095238095238095, 'precision': 0.0448943661971831}

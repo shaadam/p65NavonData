@@ -1,0 +1,12 @@
+row	item	final	rule
+1	M0152	NA	"ada di Bank Mandiri": the bank holds the credit as an institution, not a physical location (table: institutions; PR12); no place
+2	M0206	PAR	place present (berjarak 300 km dari kota Biak; singgah di pulau Masyai), time present (selama 30 jam; selama 6 jam); distance and travel/stop durations each describe the journey, neither restricts the other (1.3 step 2)
+3	M0376	PAR	time (Sebelum ... clause) and place (di rute-rute bagian Barat) both restrict the asserted property "sangat kuat", neither restricts the other; R1 logic applied to the time-place pair
+4	M0018	NA	"di Kongres Amerika Serikat" is an institution used as position (career in Congress); no place
+5	M0028	TP	"tidak terlihat lagi di sepanjang sungai Mahakam" asserts where the dolphin is (not) found, a locative predicate like "ditemukan di"; "saat ini" narrows when it holds
+6	M0335	NA	"sebagai mahasiswa di Universitas Harvard" is membership/position at an institution, not a location (table; PR4; PR12); no place
+7	M0297	PAR	time (saat beroperasi ...) and place (di bandara yang terletak di ketinggian 2137 meter ini) present; the place sits inside a definite NP and identifies it (R2), neither restricts the other
+8	M0392	NA	"Memel masuk ke Prusia" is political incorporation, not literal movement (PR4: membership/rule); only time (hingga 1919) present
+9	M0156	NA	time present (pada pertengahan 1940-an); "di Ford" frames decision-making at an institution and "di dalam proses manajemen" is non-literal; no place
+10	M0298	TP	rule not stated in codebook: "tinggal di" (reside in) treated as a locative predicate like "berada di", asserting a place-value; "Setelah gagal ..." narrows when it holds
+11	M0065	TP	rule not stated in codebook: interrogative "Sampai kapan" counted as a time expression; the state "lamp di tangannya" (place) is bounded in time by it, time>place

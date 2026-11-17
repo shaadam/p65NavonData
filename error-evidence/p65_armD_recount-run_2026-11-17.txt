@@ -1,0 +1,8 @@
+RECOUNT: N = 33 distinct sources
+  primary code only : S>T 9 · DISSOC 5 · MIXED 9 · T>S 0 · NONE 8 · unknown 2  (sum 33)
+  with double codes : S>T 9 · DISSOC 7 · MIXED 9 · T>S 0 · NONE 8 · unknown 2  (sum 35 = N 33 + 2 double-coded)
+  headline: sources coded T>S = 0
+CONTROL 1 (planted duplicate): FIRED -> DUPLICATE source_key: Kemmerer 2005
+CONTROL 2 (planted T>S row): FIRED -> T>S 0 -> 1, N 33 -> 34
+MAP STATES: 42 sources; S>T 12 · DISSOC 7 · MIXED 9 · T>S 0 · NONE 15 · unknown 2  (sum 45; 43 net of the 2 double-coded)
+DIFFERENCE (map minus recount, with double codes): S>T +3 · DISSOC +0 · MIXED +0 · T>S +0 · NONE +7 · unknown +0

@@ -1,0 +1,10 @@
+row	item	final	rule
+1	M3470	PAR	R2: "di Britania Raya" locates inside the definite NP "edisi novel di Britania Raya" and identifies the edition; time "pada tahun berikutnya" frames the winning
+2	M3305	TP	not stated: "menjadi tujuan akhir" treated like a locative predicate asserting a place value (Thailand as destination, with "dari Cina"); the "sebelum terbang ke Korea Selatan" clause narrows when it holds; "biasanya" is frequency, not time
+3	M3618	PT	not stated: "baru pertama kali ... pada tahun 2000" treated as focus (like hanya), so the year is the asserted time value; "di 50 negara bagian" picks the instance (R3); "oleh 44 negara bagian" is an institution acting, not place
+4	M3625	PAR	place present via residence ("penghuni Pekojan", PR4); it sits inside a definite NP (R2) and "saat ini" frames; neither restricts the other
+5	M3335	NA	"dari Universitas Binus" is title/membership (PR4); "dikukuhkan di Universitas Bina Nusantara" is di + institution framing an appointment, literal location not settled (institution note, PR12); no place
+6	M3431	PAR	place present via origin "berasal dari tanah air kita" (PR4) inside a relative clause on a named musician (R2); "Ditahun 2003" frames the project
+7	M3291	NA	"ke rumah sakit" is place, but "segera" (immediately) can be time or manner and is not settled (PR12); "di depan umum" is idiomatic, not literal place; no time
+8	M3491	PAR	not stated: "begitu" + clause read as a time clause (as soon as); "kebelakang" is a direction on a motion verb (PR4); both set the event, neither restricts
+9	M3536	NA	"tahun 2006" is time, but "dalam film Cars" is not a literal place and "membawanya" is not literal motion; no place

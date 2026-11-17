@@ -1,0 +1,2001 @@
+item	class	time_phrase	place_phrase	confidence	note
+Z0001	NA		local city papers	3	no time expression
+Z0002	NA			3	no time or place
+Z0003	NA	now		3	no literal place
+Z0004	NA		Chicago	3	no time expression
+Z0005	NA			3	no time or place
+Z0006	NA			3	no time or place
+Z0007	NA		in Glacier	2	no literal time phrase
+Z0008	NA			3	no time or place
+Z0009	NA			3	no time or place
+Z0010	NA		not on the trail	3	no time expression
+Z0011	NA			3	no time or place
+Z0012	NA		around the country	3	no time expression
+Z0013	NA	at the beginning		3	time within trial; no place
+Z0014	NA			3	no time or place
+Z0015	NA			3	no time or place
+Z0016	PAR	as soon as the doors close	in the elevator	2	action (exclaim) located in time and place
+Z0017	NA			3	no time or place
+Z0018	NA		on a island	3	no time expression
+Z0019	PAR	once you're ready	in front of a sympathetic friend or family member	1	practicing located in time and place
+Z0020	NA	of the day		3	no literal place
+Z0021	NA		in Lewiston	2	tense only no time phrase
+Z0022	NA			3	no time or place
+Z0023	NA		on the HRonline web-site	3	website not literal place; no time
+Z0024	NA	the whole time		3	led the way figurative
+Z0025	NA			3	no time or place
+Z0026	NA			3	no time or place
+Z0027	NA			3	no time or place
+Z0028	TP	now	at sea	2	migrants located at sea now
+Z0029	NA			3	no time or place
+Z0030	NA	Already		3	no place
+Z0031	NA			3	no time or place
+Z0032	PAR	seldom	in the North	1	frequency adverb only; event of hearing of duels
+Z0033	NA			3	no time or place
+Z0034	NA			3	no time or place
+Z0035	NA			3	no time or place
+Z0036	NA			3	no time or place
+Z0037	NA			3	no time or place
+Z0038	NA			2	rose in ranks figurative; no time phrase
+Z0039	NA			3	no time or place
+Z0040	PAR	when entering another country	another country	1	routine event on entry
+Z0041	NA			3	no time or place
+Z0042	NA			3	no time or place
+Z0043	PAR	never	there	1	frequency adverb only; event
+Z0044	NA	after that		3	no place
+Z0045	NA			3	no time or place
+Z0046	NA		in here	3	no time
+Z0047	NA			3	no time or place
+Z0048	NA			3	conflict figurative
+Z0049	NA		this hotel	3	no time
+Z0050	NA			3	no place
+Z0051	NA			3	no time or place
+Z0052	NA	right away		3	no place
+Z0053	NA		this one spot on earth	3	no time
+Z0054	NA			3	no time or place
+Z0055	NA			3	path forward figurative
+Z0056	NA			3	no time or place
+Z0057	NA			3	no time or place
+Z0058	NA			3	no time or place
+Z0059	NA		out at sea	3	no time
+Z0060	NA			3	no time or place
+Z0061	NA			3	no time or place
+Z0062	NA		at sea	2	no time in sentence
+Z0063	NA			3	no time or place
+Z0064	NA			3	no time or place
+Z0065	NA			3	no time or place
+Z0066	NA			3	no time or place
+Z0067	NA			3	no time
+Z0068	NA			3	no time
+Z0069	NA			3	no time or place
+Z0070	NA			3	no time or place
+Z0071	NA			3	no time or place
+Z0072	NA			3	no time or place
+Z0073	NA			3	no time or place
+Z0074	NA	the first time		3	no place
+Z0075	NA			3	no time or place
+Z0076	NA			3	no time or place
+Z0077	NA	anymore		3	no place
+Z0078	NA	recently		3	no place
+Z0079	NA			3	no time or place
+Z0080	NA			3	no time or place
+Z0081	NA			3	no time or place
+Z0082	PAR	while I'm sitting here	in those Holocaust-esque death chambers	2	events located in time and place
+Z0083	NA			3	no time or place
+Z0084	NA			3	no time or place
+Z0085	NA			3	no time or place
+Z0086	NA			3	no time or place
+Z0087	NA			3	no time or place
+Z0088	NA			3	no time or place
+Z0089	NA			3	no time or place
+Z0090	NA			3	no time or place
+Z0091	NA			3	no time or place
+Z0092	NA	so far		3	no place
+Z0093	NA			3	no time or place
+Z0094	NA			3	no time or place
+Z0095	NA	now		3	United States institutional
+Z0096	NA			3	no time or place
+Z0097	NA			3	no time or place
+Z0098	NA			3	no time or place
+Z0099	NA	as soon as possible		3	no place
+Z0100	NA		over here	3	no time
+Z0101	NA			3	no time or place
+Z0102	NA			3	no time or place
+Z0103	NA			3	no time or place
+Z0104	NA			3	no time or place
+Z0105	NA			3	no time or place
+Z0106	NA			3	no time or place
+Z0107	PAR	Before the phones went	in Biloxi	2	event of being told located in time
+Z0108	NA			3	no time or place
+Z0109	NA			3	government institutional
+Z0110	NA			3	no place
+Z0111	PAR	For now	the room	1	place modifies covering event
+Z0112	NA		on GitHub	3	figurative place
+Z0113	NA			3	no time or place
+Z0114	NA			3	no time or place
+Z0115	NA			3	no time or place
+Z0116	NA			3	no time or place
+Z0117	NA			3	arena figurative
+Z0118	NA			3	no time or place
+Z0119	NA			3	no time or place
+Z0120	NA			3	no time or place
+Z0121	NA			3	no time or place
+Z0122	NA	the modern era		3	no literal place
+Z0123	NA	before the wedding		3	no place
+Z0124	NA			3	no time or place
+Z0125	NA			3	no time or place
+Z0126	NA			3	no time or place
+Z0127	TP	from about 1200 to about 400 BCE	along the hot Gulf Coast of Mexico	2	located state over period
+Z0128	NA			3	no time
+Z0129	NA		on these lands	3	no time
+Z0130	NA			3	no place
+Z0131	NA			3	no time or place
+Z0132	NA			3	no time or place
+Z0133	PAR	before he gained title to it	his land grant	2	evict/settle events
+Z0134	NA			3	no time or place
+Z0135	NA		At Harvard	3	institutional; no time
+Z0136	NA			3	no time or place
+Z0137	NA			3	no time or place
+Z0138	NA	an age		3	no place
+Z0139	NA	the 10th anniversary		3	no place
+Z0140	NA			3	no time
+Z0141	NA			3	no time
+Z0142	NA			3	no time or place
+Z0143	NA			3	no time or place
+Z0144	NA			3	no time or place
+Z0145	NA			3	no time or place
+Z0146	NA			3	no time or place
+Z0147	NA			3	no time or place
+Z0148	NA			3	no time or place
+Z0149	NA			3	no time or place
+Z0150	NA			3	no time or place
+Z0151	NA			3	no time or place
+Z0152	NA		to the Chathams	3	no time
+Z0153	NA		At beaches	3	no time
+Z0154	NA	before Hydrodynamica		3	book not place
+Z0155	NA	a little at a time		3	no place
+Z0156	NA			3	no time or place
+Z0157	NA			3	no time or place
+Z0158	NA			3	no time or place
+Z0159	NA			2	going back without time phrase
+Z0160	NA		in the Gables	3	no time
+Z0161	NA			3	no time or place
+Z0162	PAR	not long ago	in the United States	3	event located in time and place
+Z0163	NA			3	no time or place
+Z0164	NA			3	no time or place
+Z0165	NA		on the air	3	figurative
+Z0166	NA		in Iraq	3	no time
+Z0167	NA	later		3	no place
+Z0168	NA			3	no time or place
+Z0169	NA		on the desk	3	no time
+Z0170	NA	when cleaning them		3	no place
+Z0171	NA			3	no time or place
+Z0172	NA			3	no time or place
+Z0173	NA			3	no time or place
+Z0174	NA			3	no time or place
+Z0175	NA			3	no time or place
+Z0176	NA			3	no time or place
+Z0177	NA			3	no time or place
+Z0178	NA		in the lab	3	no time
+Z0179	NA		In the background	3	no time
+Z0180	NA			3	no time or place
+Z0181	NA			3	no time or place
+Z0182	NA			3	no time or place
+Z0183	NA			3	no time or place
+Z0184	NA			3	no time or place
+Z0185	NA			3	no time or place
+Z0186	NA		at 319 S. Denver (downtown)	3	no time
+Z0187	NA			3	no time or place
+Z0188	NA			3	no time or place
+Z0189	NA			3	no time or place
+Z0190	NA			3	no time or place
+Z0191	NA			3	text location not place
+Z0192	NA	until then		2	no place phrase
+Z0193	NA			3	no time or place
+Z0194	NA			3	no time or place
+Z0195	NA	soon		3	no place
+Z0196	NA			3	no time or place
+Z0197	NA			3	no time or place
+Z0198	NA			3	no time or place
+Z0199	NA	of his time		3	no place
+Z0200	NA	again	this place	2	again aspectual only
+Z0201	NA		this dealership	3	no time
+Z0202	NA			3	no time or place
+Z0203	NA			3	no time or place
+Z0204	NA	AGAIN		2	no literal place phrase
+Z0205	NA	always		3	door figurative
+Z0206	NA			3	no time or place
+Z0207	NA	at the time		3	no place
+Z0208	NA			3	no time or place
+Z0209	NA		at the event	2	no time phrase
+Z0210	NA			3	no time or place
+Z0211	PAR	then	to Glasgow	3	trip event
+Z0212	NA			3	no time or place
+Z0213	NA			3	no time or place
+Z0214	NA			3	no place
+Z0215	NA			3	no time or place
+Z0216	NA			3	no time or place
+Z0217	NA			3	no time or place
+Z0218	NA			3	no time or place
+Z0219	NA			3	no time or place
+Z0220	NA			3	no time or place
+Z0221	NA		to Dartmouth	3	institutional; no time
+Z0222	NA			3	no time or place
+Z0223	NA			3	no time or place
+Z0224	NA	Currently		3	no place
+Z0225	NA			3	no time or place
+Z0226	NA		In Baghdad	3	no time
+Z0227	NA	A moment		3	place figurative
+Z0228	PAR	right away	in the nest	2	action located in time and place
+Z0229	NA			3	no time or place
+Z0230	NA			3	no time or place
+Z0231	NA		throughout the Muslim world	3	no time
+Z0232	PAR	twice	to Delhi	1	frequency only; travel events
+Z0233	NA			3	no time or place
+Z0234	PAR	after the crash	from the boat club proper	3	wandering event
+Z0235	NA	a little while		3	no place
+Z0236	NA			3	no time or place
+Z0237	NA			3	no time or place
+Z0238	NA			3	on-line not place
+Z0239	NA			3	no time
+Z0240	NA			3	no place
+Z0241	NA	Now		3	Iran institutional actor
+Z0242	NA			3	no time or place
+Z0243	NA			3	no time or place
+Z0244	NA			3	no time or place
+Z0245	NA			3	no time or place
+Z0246	NA			3	no time or place
+Z0247	NA			3	no time or place
+Z0248	NA			3	no time or place
+Z0249	NA			3	no time or place
+Z0250	NA			3	no time or place
+Z0251	NA			3	no time or place
+Z0252	NA			3	no time or place
+Z0253	NA			3	no time or place
+Z0254	NA			3	no time or place
+Z0255	NA			3	no time or place
+Z0256	NA		all around the island	3	no time
+Z0257	NA		in kerala	2	good time not time expression
+Z0258	NA			3	no time or place
+Z0259	NA	always		3	videos not place
+Z0260	NA			3	no time or place
+Z0261	NA			3	no time or place
+Z0262	NA	for so long		3	no place
+Z0263	NA			3	no time or place
+Z0264	NA			3	no time or place
+Z0265	NA			3	no time or place
+Z0266	NA			3	no time or place
+Z0267	NA		from Saudi Arabia	3	no time
+Z0268	NA			3	no time or place
+Z0269	NA			3	no time or place
+Z0270	NA			3	no time phrase
+Z0271	NA	Thus far	across the world	1	place modifies noun not event
+Z0272	NA	now		3	no place
+Z0273	NA			3	no time or place
+Z0274	NA			3	no time or place
+Z0275	NA			3	no time or place
+Z0276	PAR	after an American attack	in the Gulf	2	retaliation event
+Z0277	NA			3	no time or place
+Z0278	NA		to Texas	3	no time
+Z0279	NA			3	season not place
+Z0280	NA			3	no time or place
+Z0281	NA			3	no time or place
+Z0282	NA			3	no time or place
+Z0283	NA			3	hack inside figurative
+Z0284	NA			3	no time or place
+Z0285	NA	whenever you're ready		3	no place
+Z0286	NA			3	no time or place
+Z0287	NA			3	no time or place
+Z0288	NA			3	no time or place
+Z0289	NA			3	no time or place
+Z0290	NA		London	3	tense only
+Z0291	NA			3	no time or place
+Z0292	NA	now		3	no place
+Z0293	NA			3	no time or place
+Z0294	NA			3	no time or place
+Z0295	NA	just		3	no place
+Z0296	NA			3	no time or place
+Z0297	NA		on a soapbox	3	figurative
+Z0298	NA			3	no time or place
+Z0299	NA	once you understand it		3	getting right in figurative
+Z0300	NA		to Heaven	3	not literal place
+Z0301	NA			3	no time or place
+Z0302	NA		there	3	no time
+Z0303	NA	during the initial quote		3	no place
+Z0304	NA		in Texas	3	no time
+Z0305	NA	again		3	no place
+Z0306	NA			3	no time or place
+Z0307	NA		close to a train station in Calcutta	3	no time
+Z0308	NA			3	no time or place
+Z0309	NA			3	no time or place
+Z0310	NA		Okinawa	3	no time
+Z0311	NA			3	no time or place
+Z0312	NA			3	no time
+Z0313	NA		here	3	first is ranking
+Z0314	NA			3	no time or place
+Z0315	NA	10:55 P.M		3	no place
+Z0316	NA			3	no time or place
+Z0317	NA			3	no time or place
+Z0318	PAR	never	at the ones you have listed	1	frequency only; eating event
+Z0319	NA		here	3	web location; no time
+Z0320	NA			3	no time or place
+Z0321	NA			3	no time or place
+Z0322	NA			3	no time or place
+Z0323	NA		the most touristy spots	3	no time
+Z0324	NA			3	no time or place
+Z0325	NA			3	no time or place
+Z0326	NA			3	no time or place
+Z0327	NA	after Israel killed		3	no literal place
+Z0328	NA		in the Gulf	3	no time
+Z0329	NA			3	no time or place
+Z0330	NA	Long after his death		2	bridge is object not location
+Z0331	NA	today		3	no place
+Z0332	NA			3	no time or place
+Z0333	NA		From C to D	2	no time phrase
+Z0334	NA			3	no time or place
+Z0335	NA			3	goes back figurative
+Z0336	NA			3	no time or place
+Z0337	NA			3	no time or place
+Z0338	NA	already		3	no place
+Z0339	NA			3	no time or place
+Z0340	NA			3	no time or place
+Z0341	NA			3	no time or place
+Z0342	NA			3	no time or place
+Z0343	NA			3	no time or place
+Z0344	NA			3	crossed over figurative
+Z0345	NA	during the third map		3	no literal place
+Z0346	NA			3	no time or place
+Z0347	NA	after the markets close		3	no place
+Z0348	NA			3	no time or place
+Z0349	NA			3	no time or place
+Z0350	NA	recently	near oil and gas facilities	1	place modifies communities not event
+Z0351	PAR	earlier	There	1	starting project located; weak time
+Z0352	NA			3	no time or place
+Z0353	NA		from Earth	3	no time
+Z0354	NA			3	no place
+Z0355	NA			3	no time or place
+Z0356	NA			3	no time
+Z0357	NA			3	no time or place
+Z0358	NA			3	no time or place
+Z0359	NA	always		3	no place
+Z0360	NA		onto the parched stones	1	first is ordinal only
+Z0361	TP	always	close enough	1	location state with time
+Z0362	NA	for your next try		3	no place
+Z0363	NA			3	no time or place
+Z0364	NA			3	no time
+Z0365	NA			3	no time or place
+Z0366	NA			3	no time or place
+Z0367	NA			3	no time or place
+Z0368	NA	in the past		3	government institutional
+Z0369	NA			3	no time or place
+Z0370	NA			3	no time or place
+Z0371	NA	never ... before		1	no specific place
+Z0372	NA			3	no time
+Z0373	NA			3	no time or place
+Z0374	NA			3	no time or place
+Z0375	NA			3	no time or place
+Z0376	NA	sooner		3	no place
+Z0377	NA		on the rack	3	no time
+Z0378	NA	now	Queensland	1	place modifies price not event
+Z0379	NA			3	no time or place
+Z0380	NA			3	no time or place
+Z0381	NA			3	no time or place
+Z0382	NA			3	figurative
+Z0383	NA			3	no time or place
+Z0384	NA			3	no time or place
+Z0385	NA			3	no time or place
+Z0386	PAR	since the earthquakes	to Rotarua	2	travel event
+Z0387	NA			3	no time or place
+Z0388	NA			3	no time or place
+Z0389	NA			3	no time or place
+Z0390	NA	already		3	no place
+Z0391	NA			3	no time or place
+Z0392	NA			3	no time or place
+Z0393	NA			3	no time or place
+Z0394	NA			3	no time or place
+Z0395	NA			3	no time or place
+Z0396	NA			3	no time or place
+Z0397	NA			3	no time or place
+Z0398	NA			3	no time or place
+Z0399	NA			3	before is list order
+Z0400	NA			3	no time or place
+Z0401	NA			3	no time
+Z0402	NA	of all time		3	no place
+Z0403	NA		to Ireland	3	no time
+Z0404	NA			3	no time or place
+Z0405	NA			3	no time or place
+Z0406	NA			3	no time or place
+Z0407	NA			3	no time or place
+Z0408	NA			3	institutional
+Z0409	NA			3	no time or place
+Z0410	NA			3	no time or place
+Z0411	NA			3	no place
+Z0412	PAR	after they're cut	in water	1	action located in time and place
+Z0413	NA			3	no time or place
+Z0414	NA			3	starting from figurative
+Z0415	NA			3	no time or place
+Z0416	NA			3	no time or place
+Z0417	NA			3	no time or place
+Z0418	NA		down the street	3	times is count; no time
+Z0419	NA			3	no time or place
+Z0420	NA	first		3	no place
+Z0421	NA			3	no time or place
+Z0422	PAR	usually	the boundaries	1	frequency only; running action
+Z0423	NA			3	no time
+Z0424	NA			3	no time or place
+Z0425	NA			3	no time or place
+Z0426	NA			3	no time or place
+Z0427	NA			3	no time or place
+Z0428	NA	now		3	no place
+Z0429	NA			3	no time or place
+Z0430	PAR	then	to about 4 inches (10 cm) away	2	movement action
+Z0431	NA			3	no place
+Z0432	NA			3	no time or place
+Z0433	NA	Then		3	Earth as agent figurative
+Z0434	NA		Here	3	no time
+Z0435	NA			3	no time
+Z0436	NA			3	no time or place
+Z0437	NA			3	no time or place
+Z0438	NA			3	no time or place
+Z0439	NA	Last time I went		2	no place phrase
+Z0440	NA			3	no time
+Z0441	NA			3	no time or place
+Z0442	NA	at the very beginning		3	no place
+Z0443	NA			3	no time
+Z0444	NA			3	no time or place
+Z0445	PT	the dates	Aberdeen	1	time value restricted by place
+Z0446	NA			3	no time or place
+Z0447	NA			3	no time or place
+Z0448	NA		from LJ	3	no time
+Z0449	NA			2	childhood home compound
+Z0450	NA			3	no time or place
+Z0451	NA			3	no time or place
+Z0452	TP	now	here	3	presence state at time
+Z0453	NA			3	no time or place
+Z0454	NA	before going		3	no place
+Z0455	NA			3	no time or place
+Z0456	NA			3	no time or place
+Z0457	NA			3	no time or place
+Z0458	NA			3	no time or place
+Z0459	NA	currently		3	department institutional
+Z0460	NA			3	no time or place
+Z0461	NA			3	no time or place
+Z0462	NA			3	no time or place
+Z0463	NA			3	no time or place
+Z0464	NA			3	no place
+Z0465	NA			3	no time or place
+Z0466	NA			3	no time or place
+Z0467	NA			3	no place
+Z0468	PAR	30 min before close	in	2	arrival event
+Z0469	NA			3	no place
+Z0470	TP	currently	at Auckland Hospital	3	location state at time
+Z0471	NA		from the mosque to the Royal Palace	3	no time
+Z0472	NA			3	figurative
+Z0473	NA			3	no time or place
+Z0474	NA			3	no time or place
+Z0475	NA			3	no time
+Z0476	NA			3	no time or place
+Z0477	NA			3	no time or place
+Z0478	NA	already	to North County	2	favorites list not place
+Z0479	NA			3	no time or place
+Z0480	NA	now	inside of Berkshire	3	figurative/institutional
+Z0481	NA			3	no time or place
+Z0482	NA			3	no time or place
+Z0483	NA			3	no place
+Z0484	NA			3	no time
+Z0485	NA			3	no time or place
+Z0486	NA			3	no time or place
+Z0487	NA			3	no time or place
+Z0488	NA		southeast of Puerto Rico	3	no time
+Z0489	NA			3	no time or place
+Z0490	NA	until his death	University of Basel	1	held chairs institutional
+Z0491	NA			3	no time or place
+Z0492	NA			3	no time or place
+Z0493	NA		In Chicago	3	no time
+Z0494	NA			3	no time
+Z0495	NA			3	no time or place
+Z0496	NA			3	no time or place
+Z0497	NA			3	no time
+Z0498	NA			3	no time or place
+Z0499	NA			3	no time or place
+Z0500	NA			3	no time or place
+Z0501	NA			3	no time-place pair
+Z0502	NA			3	no literal time
+Z0503	NA			3	no time-place pair
+Z0504	NA			3	no literal time
+Z0505	NA			3	no time-place pair
+Z0506	NA			3	no time-place pair
+Z0507	NA			3	no time-place pair
+Z0508	NA			3	no time-place pair
+Z0509	NA			3	no literal time
+Z0510	NA			3	no literal place
+Z0511	NA			3	no time-place pair
+Z0512	NA			3	no literal time
+Z0513	NA			3	no time-place pair
+Z0514	NA			3	no time-place pair
+Z0515	NA			3	no time-place pair
+Z0516	NA			3	no time-place pair
+Z0517	NA			3	no time-place pair
+Z0518	NA			3	no literal time
+Z0519	NA			3	no time-place pair
+Z0520	NA			3	no time-place pair
+Z0521	NA			3	no time-place pair
+Z0522	NA			3	no time-place pair
+Z0523	NA			3	no literal place
+Z0524	NA			3	no time-place pair
+Z0525	NA			3	no time-place pair
+Z0526	NA			3	no time-place pair
+Z0527	NA			3	no time-place pair
+Z0528	NA			3	no time-place pair
+Z0529	NA			3	no literal time
+Z0530	NA			3	no time-place pair
+Z0531	NA			3	no time-place pair
+Z0532	NA	the next time		3	no literal place
+Z0533	NA			3	no time-place pair
+Z0534	NA			3	no time-place pair
+Z0535	NA		in Vietnam	3	no literal time
+Z0536	NA			3	no time-place pair
+Z0537	NA			3	no time-place pair
+Z0538	NA			3	no time-place pair
+Z0539	NA			3	no time-place pair
+Z0540	NA			3	no time-place pair
+Z0541	NA			3	no time-place pair
+Z0542	NA	still	about Miami	2	still is not a time locator
+Z0543	NA			3	no time-place pair
+Z0544	NA			3	no literal time
+Z0545	NA			3	no time-place pair
+Z0546	NA			3	hair not a place
+Z0547	NA		there	3	no literal time
+Z0548	NA			3	no time-place pair
+Z0549	NA			3	no time-place pair
+Z0550	NA			3	no literal time
+Z0551	NA			3	no time-place pair
+Z0552	NA		close to the morse redline stop	3	no literal time
+Z0553	NA			3	no time-place pair
+Z0554	NA	now		3	no literal place
+Z0555	NA			3	no time-place pair
+Z0556	NA			3	no time-place pair
+Z0557	NA			3	no time-place pair
+Z0558	NA			3	no time-place pair
+Z0559	NA			3	no time-place pair
+Z0560	NA	again		3	no literal place
+Z0561	NA			3	no time-place pair
+Z0562	NA			3	no time-place pair
+Z0563	NA			3	no time-place pair
+Z0564	NA	yet		3	no literal place
+Z0565	NA	Before 1492	The Americas, Europe, and Africa	2	heading not a sentence
+Z0566	NA			3	no time-place pair
+Z0567	NA		at the store	3	no literal time
+Z0568	NA			3	no time-place pair
+Z0569	NA			3	no time-place pair
+Z0570	NA	these last two weeks		3	no literal place
+Z0571	NA	recently		3	no literal place
+Z0572	NA			3	no time-place pair
+Z0573	NA			3	no time-place pair
+Z0574	NA			3	no time-place pair
+Z0575	NA			3	no time-place pair
+Z0576	NA	subsequent		3	no literal place
+Z0577	NA		before the Massachusetts Legislature	3	institutional place, no time
+Z0578	NA			3	no time-place pair
+Z0579	PAR	before the baby can leave the hospital	in Canada	2	registration event located in time and place
+Z0580	NA			3	no time-place pair
+Z0581	NA			3	no time-place pair
+Z0582	NA			3	no time-place pair
+Z0583	NA			3	no time-place pair
+Z0584	NA			3	no time-place pair
+Z0585	NA			3	no time-place pair
+Z0586	NA		in the region	3	no literal time
+Z0587	NA			3	no time-place pair
+Z0588	NA	at least once		3	heck figurative
+Z0589	NA			3	no time-place pair
+Z0590	NA			3	no time-place pair
+Z0591	NA			3	no time-place pair
+Z0592	NA		in a house of six females	3	no literal time
+Z0593	NA			3	no time-place pair
+Z0594	NA			3	no time-place pair
+Z0595	NA			3	no time-place pair
+Z0596	NA			3	no time-place pair
+Z0597	NA	ASAP		3	no literal place
+Z0598	NA			3	no time-place pair
+Z0599	NA			3	no time-place pair
+Z0600	NA			3	no time-place pair
+Z0601	NA			3	no time-place pair
+Z0602	NA			3	no time-place pair
+Z0603	NA	pronto		3	no literal place
+Z0604	NA		on the floor	3	no literal time
+Z0605	NA		to one of the train stations	3	no literal time
+Z0606	NA			3	no time-place pair
+Z0607	NA			3	no literal time
+Z0608	NA			3	no time-place pair
+Z0609	NA			3	no time-place pair
+Z0610	PAR	all the time	within Australia	2	competing action located in time and place
+Z0611	NA			3	no time-place pair
+Z0612	NA		out of London	2	no literal time
+Z0613	NA	already		3	no literal place
+Z0614	NA			3	no time-place pair
+Z0615	NA			3	no time-place pair
+Z0616	NA			3	no time-place pair
+Z0617	NA		from the docks	3	no literal time
+Z0618	NA			3	no time-place pair
+Z0619	NA		at Exeter School	2	sequence only, no literal time expression
+Z0620	NA			3	no time-place pair
+Z0621	NA			3	figurative sky
+Z0622	NA			3	no time-place pair
+Z0623	NA			3	no time-place pair
+Z0624	NA			3	no time-place pair
+Z0625	NA			3	no time-place pair
+Z0626	NA	right then and there		3	idiom, no literal place
+Z0627	NA			3	no time-place pair
+Z0628	NA			3	no time-place pair
+Z0629	NA	almost always		3	no literal place
+Z0630	NA			3	no time-place pair
+Z0631	NA			3	no time-place pair
+Z0632	NA			3	no literal time
+Z0633	NA			3	no time-place pair
+Z0634	NA			3	no time-place pair
+Z0635	NA			3	no time-place pair
+Z0636	NA			3	no time-place pair
+Z0637	NA			3	no time-place pair
+Z0638	NA			3	no time-place pair
+Z0639	NA			3	no time-place pair
+Z0640	NA		at Providence Aesthetics and Medical Spa	3	no literal time
+Z0641	NA			3	no time-place pair
+Z0642	NA			3	no time-place pair
+Z0643	NA		near hotel	3	no literal time
+Z0644	NA			3	no time-place pair
+Z0645	NA			3	no time-place pair
+Z0646	NA			3	no time-place pair
+Z0647	NA			3	no time-place pair
+Z0648	NA		in there	3	no literal time
+Z0649	NA			3	no time-place pair
+Z0650	NA		into a glass or bottle of vodka	3	no literal time
+Z0651	NA			3	no time-place pair
+Z0652	NA	at the time		3	no literal place
+Z0653	NA			3	no literal place
+Z0654	NA			3	no literal place
+Z0655	NA		to your house	3	no literal time
+Z0656	NA			3	no time-place pair
+Z0657	NA			3	no time-place pair
+Z0658	NA			3	no time-place pair
+Z0659	NA			3	no time-place pair
+Z0660	NA			3	no time-place pair
+Z0661	NA			3	no time-place pair
+Z0662	NA			3	no time-place pair
+Z0663	NA			3	no time-place pair
+Z0664	NA	Now		3	no literal place
+Z0665	NA		back to his territory	3	no literal time
+Z0666	NA		next to carval and walmart	3	no literal time
+Z0667	NA			3	no time-place pair
+Z0668	NA			3	no time-place pair
+Z0669	NA		in the countryside	3	no literal time
+Z0670	NA		at: 508 Cannon Office Building, Washington, D.C. 20515	3	no literal time
+Z0671	NA			3	no time-place pair
+Z0672	NA			3	no time-place pair
+Z0673	NA			3	no time-place pair
+Z0674	NA		here	3	no literal time
+Z0675	NA			3	no time-place pair
+Z0676	NA			3	no time-place pair
+Z0677	NA		in the cabins	3	make the time is not a time expression
+Z0678	NA			3	no time-place pair
+Z0679	NA			3	no time-place pair
+Z0680	NA			3	no time-place pair
+Z0681	NA			3	no time-place pair
+Z0682	NA		in Britain	3	no literal time
+Z0683	NA		all along the east coast of Africa	3	no literal time
+Z0684	NA			3	no time-place pair
+Z0685	NA	now		3	in your way figurative
+Z0686	NA	before and after the implementation of the intervention		3	no literal place
+Z0687	NA	Five		3	no literal place
+Z0688	NA			3	no literal time
+Z0689	NA			3	no time-place pair
+Z0690	NA			3	no time-place pair
+Z0691	NA			3	no time-place pair
+Z0692	NA			3	no literal place
+Z0693	NA			3	no time-place pair
+Z0694	NA			3	no time-place pair
+Z0695	NA			3	no time-place pair
+Z0696	NA			3	no time-place pair
+Z0697	NA	always	in Baluchistan	2	frequency adverb only, not a time locator
+Z0698	NA			3	no time-place pair
+Z0699	NA	still	of Fallujah	2	place modifies noun, still not a time locator
+Z0700	NA			3	no time-place pair
+Z0701	NA			3	no time-place pair
+Z0702	NA		at the RADISON WARWICK HOTEL in Rittenhouse Square	3	no literal time
+Z0703	NA			3	no time-place pair
+Z0704	NA			3	no time-place pair
+Z0705	NA	one more time		3	no literal place
+Z0706	NA			3	institutional constituency
+Z0707	NA			3	no time-place pair
+Z0708	NA		in Oxford, England	2	aspect only, no time expression
+Z0709	NA			3	no time-place pair
+Z0710	NA		in here	3	figurative place
+Z0711	NA			3	no time-place pair
+Z0712	NA	In midlife		3	no literal place
+Z0713	PAR	then while she's eating her cookie	to the food court	2	actions located in time and place
+Z0714	NA		to Amelia Gentle Dentistry	3	no literal time
+Z0715	NA			3	no time-place pair
+Z0716	NA			3	culture not a place
+Z0717	NA		to Delaware	3	no literal time
+Z0718	NA			3	no time-place pair
+Z0719	NA			3	no time-place pair
+Z0720	NA			3	no time-place pair
+Z0721	NA			3	no time-place pair
+Z0722	NA			3	no time-place pair
+Z0723	NA			3	no time-place pair
+Z0724	NA			3	no time-place pair
+Z0725	NA		in the Persian Gulf	3	no literal time
+Z0726	NA			3	no time-place pair
+Z0727	NA	Then		3	no literal place
+Z0728	NA	when i take out the battery		3	no literal place
+Z0729	NA	before	in film	3	film not a place
+Z0730	NA			3	no time-place pair
+Z0731	NA			3	no time-place pair
+Z0732	NA			3	no time-place pair
+Z0733	NA	The appointed day		3	figurative
+Z0734	NA			3	no time-place pair
+Z0735	NA			3	no time-place pair
+Z0736	NA			3	no time-place pair
+Z0737	NA			3	no time-place pair
+Z0738	NA			3	no time-place pair
+Z0739	NA			3	no time-place pair
+Z0740	NA			3	no time-place pair
+Z0741	TP	before the scheduled time	here	2	location state (was here) narrowed by time
+Z0742	NA			3	no time-place pair
+Z0743	NA			3	no time-place pair
+Z0744	NA			3	no time-place pair
+Z0745	PAR	when about 373	through Thrace and Asia Minor into northern Syria	3	journey event located in time and space
+Z0746	NA			3	no time-place pair
+Z0747	NA			3	no literal time
+Z0748	NA			3	no time-place pair
+Z0749	NA			3	no time-place pair
+Z0750	NA			3	no time-place pair
+Z0751	NA			3	no time-place pair
+Z0752	NA		from the country	3	no literal time
+Z0753	PAR	Once you've buttered them up a bit	to the pet store	2	action located in time and place
+Z0754	NA			3	no time-place pair
+Z0755	NA			3	no time-place pair
+Z0756	NA	at the time		3	no literal place
+Z0757	NA			3	no time-place pair
+Z0758	NA	every morning at five oclock		3	no literal place
+Z0759	NA	again	there	2	again is repetition not a time locator
+Z0760	NA	for lunch		2	come in lacks a literal place phrase
+Z0761	NA			3	no time-place pair
+Z0762	NA			3	no time-place pair
+Z0763	NA		in Canada	3	no literal time
+Z0764	NA			3	no time-place pair
+Z0765	NA			3	no time-place pair
+Z0766	NA		in the back of the paper	3	no literal time
+Z0767	NA			3	no time-place pair
+Z0768	NA			3	no literal time
+Z0769	NA			3	no time-place pair
+Z0770	NA			3	no time-place pair
+Z0771	PAR	of 1835	at San Felipe de Austin	3	vote event located in time and place
+Z0772	NA			3	no time-place pair
+Z0773	NA			3	no time-place pair
+Z0774	NA			3	no time-place pair
+Z0775	NA			3	no time-place pair
+Z0776	NA			3	no time-place pair
+Z0777	NA			3	no literal time
+Z0778	NA			3	no time-place pair
+Z0779	NA			3	no time-place pair
+Z0780	NA	currently		3	no literal place
+Z0781	NA			3	no time-place pair
+Z0782	NA			3	no time-place pair
+Z0783	NA	anytime		3	no literal place
+Z0784	NA			3	no time-place pair
+Z0785	NA			3	no time-place pair
+Z0786	NA	then	the House	3	institutional place
+Z0787	NA			3	no time-place pair
+Z0788	NA			3	no time-place pair
+Z0789	NA			3	no time-place pair
+Z0790	NA			3	no time-place pair
+Z0791	NA			3	no time-place pair
+Z0792	NA		Down at the back	3	no literal time
+Z0793	NA			3	no time-place pair
+Z0794	NA			3	no time-place pair
+Z0795	NA			3	no time-place pair
+Z0796	NA			3	inside your mind figurative
+Z0797	NA			3	no time-place pair
+Z0798	NA			3	no time-place pair
+Z0799	NA		there	2	no literal time
+Z0800	NA			3	no time-place pair
+Z0801	NA			3	no time-place pair
+Z0802	NA			3	institutional, no time-place pair
+Z0803	NA			3	no time-place pair
+Z0804	NA			3	no time-place pair
+Z0805	NA			3	no time-place pair
+Z0806	NA		in Chicago	3	no literal time
+Z0807	NA			3	no time-place pair
+Z0808	NA	still	around the island	3	still not a time locator
+Z0809	NA		the country	3	no literal time
+Z0810	NA			3	no time-place pair
+Z0811	NA			3	no time-place pair
+Z0812	NA			3	no time-place pair
+Z0813	NA		in the port city of Chittagong	3	no literal time
+Z0814	NA			3	no time-place pair
+Z0815	NA			3	no time-place pair
+Z0816	NA			3	no time-place pair
+Z0817	NA			3	no time-place pair
+Z0818	NA			3	no time-place pair
+Z0819	NA			3	no time-place pair
+Z0820	TP	until the Montparnasse Bienvenue stop	on the bus	1	location state bounded by until; until-term is itself a place
+Z0821	NA			3	no time-place pair
+Z0822	TP	all the time	here	2	location state (we're here) with time
+Z0823	NA			3	no time-place pair
+Z0824	NA			3	no time-place pair
+Z0825	NA			3	no time-place pair
+Z0826	NA			3	no time-place pair
+Z0827	NA			3	no time-place pair
+Z0828	NA		onto the deck	3	no literal time
+Z0829	NA			3	no time-place pair
+Z0830	NA		in an over priced Olive Garden	3	no literal time
+Z0831	NA			3	abstract space and time
+Z0832	NA		the Circuit Court	3	institutional
+Z0833	NA	the time set for the oral argument		3	no literal place
+Z0834	NA			3	no time-place pair
+Z0835	NA			3	no time-place pair
+Z0836	NA	at the next election		3	no literal place
+Z0837	NA			3	institutional
+Z0838	NA			3	no time-place pair
+Z0839	PT	12:30	Central Time	1	clock time with time zone as place restriction
+Z0840	NA			3	no time-place pair
+Z0841	NA			3	no time-place pair
+Z0842	NA			3	no time-place pair
+Z0843	PAR	For an indefinite time	where I had arrived	1	clinging and arriving events
+Z0844	NA			3	no time-place pair
+Z0845	NA	always		3	no literal place
+Z0846	NA			3	no time-place pair
+Z0847	NA			3	no time-place pair
+Z0848	NA	at the same time		3	no literal place
+Z0849	NA			3	no time-place pair
+Z0850	NA			3	no literal time
+Z0851	NA			3	no time-place pair
+Z0852	NA		just below the knees	3	no literal time
+Z0853	NA			3	no time-place pair
+Z0854	NA			3	no time-place pair
+Z0855	NA			3	no time-place pair
+Z0856	NA		at their restaurant	3	no literal time
+Z0857	NA			3	no time-place pair
+Z0858	NA	Weekends		3	no literal place
+Z0859	NA			3	no time-place pair
+Z0860	NA	at once		3	no literal place
+Z0861	NA			3	no time-place pair
+Z0862	NA		in Hong Kong	3	institutional, history not a time locator
+Z0863	NA			3	no time-place pair
+Z0864	TP	now	at relatives in Amiriya, Baghdad	2	location state with now; also used to live in Fallujah
+Z0865	NA			3	no time-place pair
+Z0866	NA			3	no time-place pair
+Z0867	NA			3	no time-place pair
+Z0868	NA			3	no time-place pair
+Z0869	NA			3	no time-place pair
+Z0870	NA			3	no time-place pair
+Z0871	NA	when the sprouts emerge		3	no literal place
+Z0872	NA			3	no time-place pair
+Z0873	NA			3	no time-place pair
+Z0874	NA			3	no time-place pair
+Z0875	PAR	only after suicide murders arrive	in Europe	1	arrival event; Europe partly metonymic
+Z0876	NA	within a set period of time		3	no literal place
+Z0877	NA			3	no time-place pair
+Z0878	PAR	When I tour around Taiwan	around Taiwan	2	touring and finding events
+Z0879	NA	then	from the Philippines	1	then inside quote, no locating relation
+Z0880	NA			3	no time-place pair
+Z0881	NA			3	no time-place pair
+Z0882	PAR	then	over the world	1	sequence marker as time
+Z0883	NA			3	no time-place pair
+Z0884	NA	per month		3	website not a place
+Z0885	NA	in later life		3	no literal place
+Z0886	NA			3	no time-place pair
+Z0887	NA			3	no time-place pair
+Z0888	NA			3	no time-place pair
+Z0889	NA			3	no time-place pair
+Z0890	NA			3	no time-place pair
+Z0891	NA			3	no time-place pair
+Z0892	NA		in the area	3	no literal time
+Z0893	NA			3	no literal time
+Z0894	NA		for Duluth	3	no literal time
+Z0895	NA			3	no time-place pair
+Z0896	NA	now		3	no literal place
+Z0897	NA			3	no time-place pair
+Z0898	NA			3	no time-place pair
+Z0899	NA			3	no time-place pair
+Z0900	NA		places in the U.S.	3	no literal time
+Z0901	NA			3	no time-place pair
+Z0902	NA		South East Asia	3	no literal time
+Z0903	PAR	Once I actually got back in my car	in my car	2	getting-back event locates the state
+Z0904	NA			3	no time-place pair
+Z0905	NA			3	no time-place pair
+Z0906	NA			3	no time-place pair
+Z0907	NA			3	no time-place pair
+Z0908	NA			3	no time-place pair
+Z0909	NA			3	no time-place pair
+Z0910	NA			3	no time-place pair
+Z0911	NA		Near the Temple of the Feathered Serpent	3	no literal time
+Z0912	NA	later	in this neighborhood	2	later modifies stories, not a time locator
+Z0913	NA	always		3	no literal place
+Z0914	NA		from Earth	3	no literal time
+Z0915	NA		from Mexico	2	political entity, no literal time in sentence
+Z0916	NA	since then		3	no literal place
+Z0917	NA		within Enron	3	institutional
+Z0918	NA			3	no time-place pair
+Z0919	PAR	when the people don't have the resource to go to	places in the mountains	1	setting up points event
+Z0920	NA			3	no time-place pair
+Z0921	NA			3	no time-place pair
+Z0922	NA		on the board	3	institutional
+Z0923	NA			3	no time-place pair
+Z0924	NA			3	no time-place pair
+Z0925	NA			3	institutional
+Z0926	NA			3	no time-place pair
+Z0927	NA			3	no time-place pair
+Z0928	NA			3	no time-place pair
+Z0929	NA	Throughout history		3	no literal place
+Z0930	NA			3	no time-place pair
+Z0931	NA	now		3	no literal place
+Z0932	NA			3	no time-place pair
+Z0933	NA			3	no time-place pair
+Z0934	NA			3	no time-place pair
+Z0935	NA			3	no time-place pair
+Z0936	NA		in Gloucestershire	3	no literal time
+Z0937	NA			3	no time-place pair
+Z0938	NA			3	no time-place pair
+Z0939	NA			3	no time-place pair
+Z0940	NA			3	no time-place pair
+Z0941	NA			3	no time-place pair
+Z0942	NA		in the bathroom	3	no literal time
+Z0943	NA		down here on the floor	2	no literal time expression
+Z0944	NA	from begiinning to end		3	no literal place
+Z0945	NA	ASAP		3	no literal place
+Z0946	NA			3	no time-place pair
+Z0947	NA			3	no time-place pair
+Z0948	NA		around the world	3	no literal time
+Z0949	NA			3	no time-place pair
+Z0950	NA			3	no time-place pair
+Z0951	PAR	until it passes out and dies	in a sealed tupperwear container	2	instruction actions in time and place
+Z0952	NA			3	no time-place pair
+Z0953	NA			3	no time-place pair
+Z0954	NA			3	no time-place pair
+Z0955	NA			3	no time-place pair
+Z0956	NA			3	no time-place pair
+Z0957	NA			3	no time-place pair
+Z0958	NA			3	no time-place pair
+Z0959	NA			3	no literal place
+Z0960	NA			3	no time-place pair
+Z0961	NA			3	no time-place pair
+Z0962	NA		in the marginalized areas	3	no literal time
+Z0963	NA			3	no time-place pair
+Z0964	NA	When someone comes in		2	comes in lacks a literal place phrase
+Z0965	NA			3	no time-place pair
+Z0966	NA	for some time to come		2	no literal place in locating role
+Z0967	NA			3	no time-place pair
+Z0968	TP	currently	at sea in the region	3	location state narrowed by time
+Z0969	NA			3	body part not a place
+Z0970	PAR	still	In Baghdad	2	fighting event located in place, ongoing in time
+Z0971	NA	recently		2	no literal place in locating role
+Z0972	NA			3	no time-place pair
+Z0973	NA			3	no time-place pair
+Z0974	NA			3	no time-place pair
+Z0975	NA			3	no time-place pair
+Z0976	NA			3	no time-place pair
+Z0977	NA			3	no time-place pair
+Z0978	NA			3	no time-place pair
+Z0979	NA		in the US	3	no literal time
+Z0980	NA	still		3	no literal place
+Z0981	NA		on the street	3	no literal time
+Z0982	NA			3	no time-place pair
+Z0983	NA			3	no time-place pair
+Z0984	NA			3	no time-place pair
+Z0985	NA			3	no time-place pair
+Z0986	NA		Marin County	2	no literal time expression
+Z0987	PAR	When annoying people on an elevator	on an elevator	1	pranking action in time and place
+Z0988	NA			3	no time-place pair
+Z0989	NA			3	no time-place pair
+Z0990	NA	always	on television	3	television not a place
+Z0991	NA			3	no time-place pair
+Z0992	NA	once a year		3	no literal place
+Z0993	NA		at her door	3	no literal time
+Z0994	NA			3	no time-place pair
+Z0995	NA			3	no time-place pair
+Z0996	NA			3	no time-place pair
+Z0997	NA		to its private island Coco Cay and Labadee	3	no literal time
+Z0998	NA			3	no time-place pair
+Z0999	NA			3	no time-place pair
+Z1000	NA			3	no time-place pair
+Z1001	NA			3	no time and place pair
+Z1002	NA			3	no time and place pair
+Z1003	NA			3	no time and place pair
+Z1004	NA			3	no time and place pair
+Z1005	NA		to Santa Fe	3	no literal time expression
+Z1006	NA		in Minneapolis	3	place only
+Z1007	NA		this place	3	no literal time expression
+Z1008	NA			3	no time and place pair
+Z1009	NA	until I met		2	time clause only; dentist not a literal place
+Z1010	NA			3	no time and place pair
+Z1011	NA			3	no time and place pair
+Z1012	NA			3	no time and place pair
+Z1013	NA			3	no time and place pair
+Z1014	PAR	a night	at my friend Ken's hotel	2	stay event located in time and place
+Z1015	NA			3	no time and place pair
+Z1016	NA			3	no time and place pair
+Z1017	NA			3	no time and place pair
+Z1018	NA			3	no time and place pair
+Z1019	NA			3	no time and place pair
+Z1020	NA			3	no time and place pair
+Z1021	NA		at the bottom of the screen	3	place only
+Z1022	NA			3	no time and place pair
+Z1023	NA		in Iraq	3	place only
+Z1024	NA			3	no time and place pair
+Z1025	NA			3	no time and place pair
+Z1026	NA			3	no time and place pair
+Z1027	NA	at the trial	into this apartment	1	trial is occasion; place in embedded clause only
+Z1028	PAR	After having written so far	across the sanded floor of the cafe	2	walking event located in time and place
+Z1029	NA		into a new house just outside a small town	3	no literal time expression
+Z1030	PAR	since I was sixteen	in coffeehouses	2	readings activity located in time and place
+Z1031	NA			3	no time and place pair
+Z1032	NA			3	no time and place pair
+Z1033	NA			3	no time and place pair
+Z1034	NA			3	no time and place pair
+Z1035	NA			3	no time and place pair
+Z1036	NA			3	no place
+Z1037	NA			3	no time and place pair
+Z1038	NA			3	no time and place pair
+Z1039	NA			3	no time and place pair
+Z1040	NA			3	no time and place pair
+Z1041	NA			3	no time and place pair
+Z1042	NA			3	no time and place pair
+Z1043	NA			3	no time and place pair
+Z1044	NA			3	no time and place pair
+Z1045	NA			3	no time and place pair
+Z1046	NA			3	no time and place pair
+Z1047	NA			3	no time and place pair
+Z1048	NA			3	no time and place pair
+Z1049	NA		in the assault on a city	3	no literal time expression
+Z1050	NA		In Agra	2	place only; no time expression
+Z1051	NA			3	no time and place pair
+Z1052	NA			3	no time and place pair
+Z1053	NA			3	no time and place pair
+Z1054	NA			3	no time and place pair
+Z1055	NA			3	no time and place pair
+Z1056	NA			3	no time and place pair
+Z1057	NA			3	no time and place pair
+Z1058	NA			3	no time and place pair
+Z1059	NA		in Iraq and Afghanistan	3	place only
+Z1060	NA			3	no time and place pair
+Z1061	NA			3	no time and place pair
+Z1062	NA	yet	all over	2	vague; no literal time-place pairing
+Z1063	NA		in the province of Palawan	3	place only
+Z1064	NA			3	no time and place pair
+Z1065	NA			3	no time and place pair
+Z1066	NA			3	no time and place pair
+Z1067	NA		to the elevator	3	place only
+Z1068	NA			3	no time and place pair
+Z1069	NA			3	no time and place pair
+Z1070	NA			3	no time and place pair
+Z1071	NA			3	no time and place pair
+Z1072	NA			3	no time and place pair
+Z1073	NA			3	no time and place pair
+Z1074	NA	yet	the CBD	2	aspectual still/yet only
+Z1075	NA			3	no time and place pair
+Z1076	NA			3	time only
+Z1077	NA			3	no time and place pair
+Z1078	NA			3	no time and place pair
+Z1079	NA			3	no time and place pair
+Z1080	NA			3	no time and place pair
+Z1081	NA			3	no time and place pair
+Z1082	NA			3	no time and place pair
+Z1083	NA			3	no time and place pair
+Z1084	NA		in Denmark	3	place only
+Z1085	NA			3	no time and place pair
+Z1086	NA		from home	3	place only
+Z1087	NA			3	no time and place pair
+Z1088	NA			3	no time and place pair
+Z1089	NA			3	no time and place pair
+Z1090	NA			3	no time and place pair
+Z1091	NA		in front of its beak	3	place only
+Z1092	NA			3	no time and place pair
+Z1093	NA			3	no time and place pair
+Z1094	NA			3	no time and place pair
+Z1095	NA			3	no time and place pair
+Z1096	NA			3	no time and place pair
+Z1097	NA			3	no time and place pair
+Z1098	NA			3	no time and place pair
+Z1099	NA			3	no time and place pair
+Z1100	NA	currently	with the aviation department	3	institutional place
+Z1101	NA			3	no time and place pair
+Z1102	NA			3	no time and place pair
+Z1103	NA			3	no time and place pair
+Z1104	NA		on my YouTube channel	3	figurative place
+Z1105	NA			3	no time and place pair
+Z1106	NA			3	no time and place pair
+Z1107	PAR	soon	the whole house	1	claiming house as action; partly figurative
+Z1108	NA			3	no time and place pair
+Z1109	NA			3	no time and place pair
+Z1110	NA			3	no time and place pair
+Z1111	NA			3	no time and place pair
+Z1112	PAR	during their lifetimes	to Mecca	3	pilgrimage action located in time and place
+Z1113	NA			3	no time and place pair
+Z1114	NA			3	no time and place pair
+Z1115	NA			3	no time and place pair
+Z1116	NA			3	no time and place pair
+Z1117	NA			3	no time and place pair
+Z1118	NA			3	no time and place pair
+Z1119	NA		in the huge HONKA Log Homes building	3	place only
+Z1120	NA			3	no time and place pair
+Z1121	PAR	Once Cyclone Phailin comes on shore	on shore	1	place inside time clause; event
+Z1122	NA		at garden centers	3	place only
+Z1123	NA	always	to dinner	2	dinner is event not place
+Z1124	NA		down here	3	place only
+Z1125	NA			3	no time and place pair
+Z1126	NA			3	no time and place pair
+Z1127	NA			3	no time and place pair
+Z1128	NA			3	no time and place pair
+Z1129	NA			3	no time and place pair
+Z1130	NA			3	no time and place pair
+Z1131	NA			3	no time and place pair
+Z1132	NA		in different societies	3	no time
+Z1133	NA			3	no time and place pair
+Z1134	NA		in the pan	2	aspectual still only
+Z1135	NA			3	no time and place pair
+Z1136	NA			3	no time and place pair
+Z1137	NA			3	no time and place pair
+Z1138	NA		in there	3	place only
+Z1139	NA			3	no time and place pair
+Z1140	NA			3	no time and place pair
+Z1141	NA			3	no time and place pair
+Z1142	NA			3	no time and place pair
+Z1143	NA	In time		3	time only
+Z1144	NA		at Penn State	3	institutional place
+Z1145	NA			3	no time and place pair
+Z1146	NA			3	no time and place pair
+Z1147	NA			3	no time and place pair
+Z1148	NA			3	no time and place pair
+Z1149	NA		around the world	3	no time
+Z1150	NA			3	no time and place pair
+Z1151	NA			3	no time and place pair
+Z1152	NA			3	no time and place pair
+Z1153	NA		across the globe	3	no time
+Z1154	NA			3	no time and place pair
+Z1155	NA			3	no time and place pair
+Z1156	NA		on the beach	3	place only
+Z1157	NA		in Fort Lee	3	place only
+Z1158	NA		There	3	place is in a book
+Z1159	NA			3	no time and place pair
+Z1160	NA			3	no time and place pair
+Z1161	NA			3	no time and place pair
+Z1162	NA			3	no time and place pair
+Z1163	NA			3	no time and place pair
+Z1164	NA			3	no time and place pair
+Z1165	NA			3	no time and place pair
+Z1166	NA			3	no time and place pair
+Z1167	NA			3	no time and place pair
+Z1168	NA			3	no time and place pair
+Z1169	NA			3	no time and place pair
+Z1170	AMB	post-Saddam	in post-Saddam Iraq	1	period-place modifier; neither state nor event clear
+Z1171	NA			3	no time and place pair
+Z1172	NA		Preston, Victoria, Australia	3	place only
+Z1173	NA			3	no time and place pair
+Z1174	NA			3	no time and place pair
+Z1175	NA		in academia	3	institutional place
+Z1176	NA			3	no time and place pair
+Z1177	NA		into the hot coals	3	place only
+Z1178	NA			3	no time and place pair
+Z1179	NA			3	no time and place pair
+Z1180	NA			3	no time and place pair
+Z1181	NA			3	no time and place pair
+Z1182	NA	1551	of Russia	2	place only in ruler title
+Z1183	NA			3	no time and place pair
+Z1184	NA			3	no time and place pair
+Z1185	NA			3	no time and place pair
+Z1186	NA			3	no time and place pair
+Z1187	NA			3	no time and place pair
+Z1188	NA			3	no time and place pair
+Z1189	NA			3	no time and place pair
+Z1190	NA		in or around the Chillicothe, OH area	3	place only
+Z1191	NA			3	no time and place pair
+Z1192	NA			3	no time and place pair
+Z1193	NA			3	no time and place pair
+Z1194	NA			3	no time and place pair
+Z1195	NA			3	no time and place pair
+Z1196	PAR	Then	in a room with a huge gap under the door	2	being put in room is event
+Z1197	NA			3	no time and place pair
+Z1198	NA			3	no time and place pair
+Z1199	NA			3	no time and place pair
+Z1200	NA			3	no time and place pair
+Z1201	NA	every time		3	time only
+Z1202	NA			3	no time and place pair
+Z1203	NA			3	no time and place pair
+Z1204	NA			3	no time and place pair
+Z1205	NA		from developed countries	3	no literal time
+Z1206	NA			3	no time and place pair
+Z1207	NA			3	no time and place pair
+Z1208	NA			3	no time and place pair
+Z1209	PAR	at Night	On Wheel	2	noise-making activity located in time and place
+Z1210	NA			3	no time and place pair
+Z1211	NA			3	no time and place pair
+Z1212	NA			3	no time and place pair
+Z1213	NA			3	no time and place pair
+Z1214	NA			3	no time and place pair
+Z1215	NA			3	no time and place pair
+Z1216	NA			3	no time and place pair
+Z1217	NA			3	no time and place pair
+Z1218	NA	As the southeast asians and philipinos came over	over	2	deictic over; no literal place
+Z1219	NA			3	no time and place pair
+Z1220	NA			3	no time and place pair
+Z1221	NA			3	no time and place pair
+Z1222	NA			3	no time and place pair
+Z1223	NA			3	no time and place pair
+Z1224	NA			3	no time and place pair
+Z1225	NA			3	no time and place pair
+Z1226	NA			3	no time and place pair
+Z1227	NA		the Western World	3	figurative; no time
+Z1228	NA			3	no time and place pair
+Z1229	PAR	When you come to ncfa	ncfa	2	visiting and seeing event
+Z1230	PAR	The first night	in an empty parking lot	2	dream event located in time and place
+Z1231	NA			3	no time and place pair
+Z1232	NA			3	no time and place pair
+Z1233	NA			3	no time and place pair
+Z1234	NA			3	no time and place pair
+Z1235	NA			3	no time and place pair
+Z1236	NA			3	no time and place pair
+Z1237	NA			3	no time and place pair
+Z1238	NA			3	no time and place pair
+Z1239	NA			3	no time and place pair
+Z1240	NA			3	no time and place pair
+Z1241	NA		over at Jerry's	3	place only
+Z1242	NA			3	no time and place pair
+Z1243	NA			3	no time and place pair
+Z1244	NA			3	no time and place pair
+Z1245	NA			3	no time and place pair
+Z1246	NA			3	no time and place pair
+Z1247	NA		East along I-580	3	place only
+Z1248	NA			3	no time and place pair
+Z1249	NA		in a salon	3	place only
+Z1250	NA			3	no time and place pair
+Z1251	NA			3	no time and place pair
+Z1252	NA			3	time only
+Z1253	NA			3	no time and place pair
+Z1254	NA		behind the camera	3	figurative place
+Z1255	NA			3	no time and place pair
+Z1256	NA		in Ft. Worth	2	no time expression in sentence
+Z1257	NA		where the Blue Water Bridge Duty Free is located	3	place only
+Z1258	NA	for a while		3	time only
+Z1259	NA			3	no time and place pair
+Z1260	NA			3	no time and place pair
+Z1261	NA			3	no time and place pair
+Z1262	NA			3	no time and place pair
+Z1263	NA	that night		3	time only
+Z1264	NA			3	no time and place pair
+Z1265	NA			3	no time and place pair
+Z1266	NA		in the region	3	place only
+Z1267	NA			3	no time and place pair
+Z1268	NA			3	no time and place pair
+Z1269	NA			3	no time and place pair
+Z1270	NA			3	no time and place pair
+Z1271	PAR	all the time	from here	2	ordering action located in time and place
+Z1272	NA			3	no time and place pair
+Z1273	NA			3	no time and place pair
+Z1274	NA			3	no time and place pair
+Z1275	NA			3	no time and place pair
+Z1276	NA		in Springfield, IL	2	occasion not time expression
+Z1277	NA		anywhere else	3	place only
+Z1278	NA			3	no time and place pair
+Z1279	NA	shortly after the Soviet Union collapsed		3	time only
+Z1280	NA			3	no time and place pair
+Z1281	TP	always	on the street or in our private lot	2	existence of parking at a place with time
+Z1282	NA			3	no time and place pair
+Z1283	NA			3	no time and place pair
+Z1284	NA			3	no time and place pair
+Z1285	NA	early in his term		3	Senate institutional
+Z1286	NA			3	no time and place pair
+Z1287	NA			3	no time and place pair
+Z1288	NA	still	in Texas	1	aspectual still only
+Z1289	PAR	then	about 10 feet behind their husbands	1	walking action; then scopes noting
+Z1290	NA			3	no time and place pair
+Z1291	NA			3	no time and place pair
+Z1292	NA			3	no time and place pair
+Z1293	PAR	shortly before her death	to the emergency department	3	taken-to event
+Z1294	NA			3	no time and place pair
+Z1295	NA			3	no time and place pair
+Z1296	NA		on the Liberty	3	place only
+Z1297	NA		at the southeast end of Downtown	3	place only
+Z1298	NA			3	no time and place pair
+Z1299	NA		in Texas	3	place only
+Z1300	NA			3	no time and place pair
+Z1301	NA			3	no time and place pair
+Z1302	NA			3	no time and place pair
+Z1303	NA			3	no time and place pair
+Z1304	NA		outside	3	no time
+Z1305	NA			3	no time and place pair
+Z1306	NA			3	no time and place pair
+Z1307	NA			3	no time and place pair
+Z1308	NA			3	no time and place pair
+Z1309	NA			3	no time and place pair
+Z1310	NA	prior to the attack	on the Internet	3	figurative place
+Z1311	NA			3	no time and place pair
+Z1312	NA			3	no time and place pair
+Z1313	NA			3	no time and place pair
+Z1314	NA			3	no time and place pair
+Z1315	NA			3	no time and place pair
+Z1316	NA		in the coffee pot	3	place only
+Z1317	NA			3	no time and place pair
+Z1318	NA			3	no time and place pair
+Z1319	NA			3	no time and place pair
+Z1320	NA		right here on bad-old-planet-earth	3	place only
+Z1321	NA			3	no time and place pair
+Z1322	NA			3	no time and place pair
+Z1323	NA	soon		3	time only
+Z1324	NA	Often		3	time only
+Z1325	NA			3	no time and place pair
+Z1326	NA		on Church Street	3	place only
+Z1327	NA		up here	3	place only
+Z1328	NA			3	no time and place pair
+Z1329	NA			3	no time and place pair
+Z1330	NA			3	no time and place pair
+Z1331	NA			3	no time and place pair
+Z1332	NA			3	no time and place pair
+Z1333	PAR	coincided with the release	in Iceland	1	release event; timing and place independent
+Z1334	NA			3	no time and place pair
+Z1335	NA			3	no time and place pair
+Z1336	NA			3	no time and place pair
+Z1337	NA			3	no time and place pair
+Z1338	NA			3	no time and place pair
+Z1339	NA			3	no time and place pair
+Z1340	NA			3	no time and place pair
+Z1341	NA			3	no time and place pair
+Z1342	NA	used to	at Meadowrun	1	used to is aspect, no time expression
+Z1343	NA	previously	at her neck	2	body location not place
+Z1344	NA			3	no time and place pair
+Z1345	NA			3	no time and place pair
+Z1346	NA			3	no time and place pair
+Z1347	NA		at my house	3	place only
+Z1348	NA			3	no time and place pair
+Z1349	NA			3	no time and place pair
+Z1350	NA			3	no time and place pair
+Z1351	NA			3	no time and place pair
+Z1352	NA		in the closet	3	place only
+Z1353	NA			3	no time and place pair
+Z1354	NA			3	no time and place pair
+Z1355	AMB	since we started dental care there	there	1	place only inside time clause
+Z1356	NA			3	no time and place pair
+Z1357	NA			3	no time and place pair
+Z1358	NA			3	no time and place pair
+Z1359	NA			3	no time and place pair
+Z1360	NA			3	no time and place pair
+Z1361	NA			3	no time and place pair
+Z1362	NA	prior to new trial		3	time only
+Z1363	NA			3	no time and place pair
+Z1364	NA		at their 95,000 bpd Meraux, Louisiana refinery	3	place only
+Z1365	NA			3	no time and place pair
+Z1366	NA	after the offsite		3	time only
+Z1367	NA			3	no time and place pair
+Z1368	NA		in this district	3	place only
+Z1369	NA			3	no time and place pair
+Z1370	NA			3	no time and place pair
+Z1371	NA			3	no time and place pair
+Z1372	NA			3	no time and place pair
+Z1373	NA			3	no time and place pair
+Z1374	NA		in a sunny window	3	place only
+Z1375	NA			3	no time and place pair
+Z1376	NA			3	no time and place pair
+Z1377	NA			3	no time and place pair
+Z1378	NA		near KPA civil police posts	3	place only
+Z1379	NA			3	no time and place pair
+Z1380	NA			3	no time and place pair
+Z1381	NA			3	no time and place pair
+Z1382	NA			3	no time and place pair
+Z1383	NA	already	in Hollywood	1	aspectual already only
+Z1384	NA	then	The State of Ohio	2	Ohio institutional
+Z1385	NA			3	no time and place pair
+Z1386	PAR	one day	this little restaurant	3	stumbling-across event
+Z1387	NA			3	no time and place pair
+Z1388	PAR	before I was referred to this place	down the street	2	tanning activity located in time and place
+Z1389	NA			3	no time and place pair
+Z1390	NA			3	no time and place pair
+Z1391	NA			3	no time and place pair
+Z1392	NA			3	no time and place pair
+Z1393	NA		on TV	3	figurative place
+Z1394	NA			3	no time and place pair
+Z1395	NA			3	no time and place pair
+Z1396	NA			3	no time and place pair
+Z1397	NA			3	no time and place pair
+Z1398	NA			3	no time and place pair
+Z1399	NA			3	no time and place pair
+Z1400	NA			3	no time and place pair
+Z1401	NA			3	no time and place pair
+Z1402	NA			3	no time and place pair
+Z1403	NA			3	no time and place pair
+Z1404	NA			3	no time and place pair
+Z1405	NA			3	no time and place pair
+Z1406	NA			3	no time and place pair
+Z1407	NA			3	no time and place pair
+Z1408	NA			3	no time and place pair
+Z1409	PAR	again	In Brazil	1	meeting event; dates in prior sentence
+Z1410	NA			3	no time and place pair
+Z1411	NA	Last time		3	time only
+Z1412	NA		there	3	place only
+Z1413	PAR	on this occasion	in the part of the world from which I come	1	presenting event; place modifies events
+Z1414	NA			3	no time and place pair
+Z1415	NA			3	no time and place pair
+Z1416	NA			3	no time and place pair
+Z1417	NA			3	no time and place pair
+Z1418	NA		around anywhere	3	place only
+Z1419	NA			3	no time and place pair
+Z1420	NA			3	no time and place pair
+Z1421	NA			3	no time and place pair
+Z1422	NA			3	no time and place pair
+Z1423	NA			3	no time and place pair
+Z1424	NA	right now		3	time only
+Z1425	NA			3	no time and place pair
+Z1426	NA		in such a small, tight space	2	when-clause conditional not time
+Z1427	NA		to my house	3	no time expression
+Z1428	NA			3	no time and place pair
+Z1429	NA			3	no time and place pair
+Z1430	NA			3	no time and place pair
+Z1431	NA			3	no time and place pair
+Z1432	NA			3	no time and place pair
+Z1433	NA	once	in the US	2	place is comparison set not location
+Z1434	NA		to the house	3	no time
+Z1435	NA			3	no time and place pair
+Z1436	NA			3	no time and place pair
+Z1437	NA			3	no time and place pair
+Z1438	NA			3	no time and place pair
+Z1439	TP	most of our lives	on the land	2	living-on-land state restricted by time
+Z1440	NA			3	no time and place pair
+Z1441	NA			3	no time and place pair
+Z1442	NA			3	no time and place pair
+Z1443	NA			3	no time and place pair
+Z1444	NA			3	no time and place pair
+Z1445	NA			3	no time and place pair
+Z1446	NA			3	no time and place pair
+Z1447	NA			3	no time and place pair
+Z1448	NA			3	no time and place pair
+Z1449	NA			3	no time and place pair
+Z1450	NA			3	no time and place pair
+Z1451	NA			3	no time and place pair
+Z1452	NA			3	no time and place pair
+Z1453	NA			3	no time and place pair
+Z1454	NA			3	no time and place pair
+Z1455	NA		on a city bus in Montgomery, Alabama	3	place only
+Z1456	NA			3	no time and place pair
+Z1457	NA			3	no time and place pair
+Z1458	NA			3	no time and place pair
+Z1459	NA			3	no time and place pair
+Z1460	NA			3	no time and place pair
+Z1461	NA			3	no time and place pair
+Z1462	NA			3	no time and place pair
+Z1463	NA			3	no time and place pair
+Z1464	NA			3	no time and place pair
+Z1465	NA		in the Lincoln Square area	2	time only in prior sentence
+Z1466	TP	Not long before	on the flight deck of his deployment carrier	2	standing location state restricted by time
+Z1467	NA			3	no time and place pair
+Z1468	NA			3	no time and place pair
+Z1469	NA			3	no time and place pair
+Z1470	NA			3	no time and place pair
+Z1471	NA			3	no time and place pair
+Z1472	NA		to its new home	3	no time
+Z1473	NA			3	no time and place pair
+Z1474	NA			3	no time and place pair
+Z1475	NA			3	no time and place pair
+Z1476	NA			3	no time and place pair
+Z1477	NA			3	no time and place pair
+Z1478	NA			3	no time and place pair
+Z1479	NA			3	no time and place pair
+Z1480	NA			3	no time and place pair
+Z1481	NA			3	no time and place pair
+Z1482	NA		in the refrigerator	3	place only
+Z1483	NA		under a sturdy table	2	in case of is conditional not time
+Z1484	NA	After your initial greeting	in the real world	3	figurative place
+Z1485	NA			3	no time and place pair
+Z1486	NA			3	no time and place pair
+Z1487	NA			3	no time and place pair
+Z1488	NA			3	no time and place pair
+Z1489	NA			3	no time and place pair
+Z1490	NA			3	no time and place pair
+Z1491	NA			3	no time and place pair
+Z1492	NA			3	no time and place pair
+Z1493	NA			3	no time and place pair
+Z1494	NA			3	no time and place pair
+Z1495	NA	After the war		3	time only
+Z1496	NA	at first		3	no literal place
+Z1497	NA			3	no time and place pair
+Z1498	NA			3	no time and place pair
+Z1499	NA			3	no time and place pair
+Z1500	NA			3	no time and place pair
+Z1501	NA			3	no time or place
+Z1502	NA			3	no time or place
+Z1503	NA			3	no literal place
+Z1504	NA			3	no time or place
+Z1505	NA			3	no time or place
+Z1506	NA			3	no time or place
+Z1507	NA			3	no time expression
+Z1508	NA			3	no time expression
+Z1509	NA			3	no time or place
+Z1510	NA			3	no time expression
+Z1511	NA			3	no time or place
+Z1512	NA			3	no literal time
+Z1513	NA			3	no time expression
+Z1514	NA			3	no literal place
+Z1515	NA			3	no time expression
+Z1516	NA			3	no time or place
+Z1517	NA			3	no time expression
+Z1518	NA			3	no time or place
+Z1519	NA			3	no time or place
+Z1520	NA			2	then is discourse; generic place
+Z1521	PAR	at 12:Sat	@ Compaq Center	2	scheduled event located in time and place
+Z1522	NA			3	no time or place
+Z1523	NA			3	no time expression
+Z1524	NA			3	no time expression
+Z1525	NA			3	no time expression
+Z1526	NA			3	no time or place
+Z1527	NA			3	no time expression
+Z1528	NA			3	no time or place
+Z1529	NA			3	no time or place
+Z1530	NA			3	no time expression
+Z1531	NA			3	no place
+Z1532	NA			3	no time expression
+Z1533	NA			3	no time or place
+Z1534	NA			3	no time or place
+Z1535	NA			3	no time or place
+Z1536	NA			3	no time expression
+Z1537	NA			3	no time or place
+Z1538	NA			3	no place
+Z1539	NA			3	no time or place
+Z1540	PAR	when we left Iraq	Iraq	1	place sits inside time clause; taking oil as event
+Z1541	NA			3	no time or place
+Z1542	NA			3	no time expression
+Z1543	NA			3	no time expression
+Z1544	NA			3	no time or place
+Z1545	NA			3	then is discourse; no place
+Z1546	NA			3	no time expression
+Z1547	NA			3	no time or place
+Z1548	NA			3	no time or place
+Z1549	NA			3	no time expression
+Z1550	NA			3	no time or place
+Z1551	NA			3	no time or place
+Z1552	NA			3	no time expression
+Z1553	NA			3	no time or place
+Z1554	NA			3	no time or place
+Z1555	NA			3	free time not a time locator; no place
+Z1556	NA			3	no time or place
+Z1557	NA			3	no time or place
+Z1558	NA			3	no time expression
+Z1559	NA			3	no time or place
+Z1560	NA			3	no time expression
+Z1561	NA			3	no time expression
+Z1562	NA			3	no time or place
+Z1563	NA			3	no time or place
+Z1564	NA			3	no time or place
+Z1565	NA			3	no time or place
+Z1566	NA			3	no time or place
+Z1567	NA			3	no time or place
+Z1568	NA			3	no time or place
+Z1569	NA			3	no time expression
+Z1570	NA			3	no time or place
+Z1571	NA			3	now but no place
+Z1572	NA			3	no time expression
+Z1573	NA			3	no time expression
+Z1574	NA			3	no place
+Z1575	NA			3	no time expression
+Z1576	NA			3	no time or place
+Z1577	NA			3	no time or place
+Z1578	NA			3	no time or place
+Z1579	NA			3	no time expression
+Z1580	NA			3	no time or place
+Z1581	NA			3	no time expression
+Z1582	NA			3	no time or place
+Z1583	NA			3	no time or place
+Z1584	NA			3	no time expression
+Z1585	NA			3	no time expression
+Z1586	NA			3	no time expression
+Z1587	NA			3	no time or place
+Z1588	NA			3	no time or place
+Z1589	NA			3	no time or place
+Z1590	NA			3	no time expression
+Z1591	NA			3	no time expression in this sentence
+Z1592	NA			3	no time expression
+Z1593	NA			3	no time or place
+Z1594	NA			3	no time or place
+Z1595	NA			3	no time expression
+Z1596	NA			3	Supreme Court institutional
+Z1597	NA			3	no time expression
+Z1598	NA			3	no place
+Z1599	NA			3	no time or place
+Z1600	NA			3	no time or place
+Z1601	NA			2	for a while scopes figurative act; households not located in time
+Z1602	TP	At the moment	in Levico Terme, Trento, Italy	3	location state narrowed by time
+Z1603	NA			3	no time or place
+Z1604	NA			3	no time expression
+Z1605	NA			3	no place
+Z1606	NA			3	no time or place
+Z1607	NA			3	no time or place
+Z1608	NA			3	no time expression
+Z1609	NA			3	no time or place
+Z1610	NA			3	no time or place
+Z1611	PAR	during the filming of Let it Be	in the Apple studios	3	event located in time and place
+Z1612	NA			3	no time or place
+Z1613	NA			3	no time or place
+Z1614	NA			3	no time or place
+Z1615	NA			3	no time or place
+Z1616	NA			3	no time expression
+Z1617	NA			3	no place
+Z1618	NA			3	no time or place
+Z1619	NA			3	no time expression
+Z1620	NA			3	no time or place
+Z1621	NA			2	again is repetition not time locator
+Z1622	NA			3	no time or place
+Z1623	NA			3	no time or place
+Z1624	NA			3	no time expression
+Z1625	NA			3	no time or place
+Z1626	NA			3	no time expression
+Z1627	NA			3	no time expression
+Z1628	NA			2	future tense only; no time expression
+Z1629	NA			3	still not a time locator
+Z1630	NA			3	no place
+Z1631	NA			3	no time or place
+Z1632	NA			3	no time or place
+Z1633	NA			3	no time expression
+Z1634	NA			3	no time or place
+Z1635	NA			3	no time or place
+Z1636	NA			3	no time expression
+Z1637	NA			3	no time or place
+Z1638	NA			3	no time or place
+Z1639	NA			3	no time or place
+Z1640	NA			3	right now but no place
+Z1641	NA			2	Amsterdam with tense only; no time expression
+Z1642	NA			3	no time or place
+Z1643	NA			3	no time expression
+Z1644	NA			3	no time expression
+Z1645	NA			3	no time or place
+Z1646	NA			3	no place
+Z1647	NA			3	no time expression
+Z1648	NA			3	so far but no literal place
+Z1649	NA			3	no place
+Z1650	NA			3	no time expression
+Z1651	NA			3	no time or place
+Z1652	NA			3	no time expression
+Z1653	NA			3	no time or place
+Z1654	NA			3	no time expression
+Z1655	NA			3	no time expression
+Z1656	NA			3	no time or place
+Z1657	NA			3	no time or place
+Z1658	NA			3	soon but no place
+Z1659	NA			3	no time expression
+Z1660	NA			3	no time or place
+Z1661	NA			3	no time or place
+Z1662	NA			3	no place
+Z1663	TP	most of my life	in the Dallas/Fort Worth Metroplex	3	location state over a time span
+Z1664	NA			3	no time or place
+Z1665	NA			3	no time expression
+Z1666	NA			3	no place
+Z1667	NA			3	no time or place
+Z1668	NA			3	no place
+Z1669	NA			3	no place
+Z1670	NA			3	no place
+Z1671	NA			3	no time expression
+Z1672	PAR	now	to Saxby's	3	motion event located in time and place
+Z1673	NA			3	no time expression
+Z1674	NA			3	no time or place
+Z1675	NA			3	no time expression
+Z1676	NA			3	no place
+Z1677	NA			3	no time or place
+Z1678	NA			3	on Al-Jazeera institutional; no time
+Z1679	NA			3	no time or place
+Z1680	NA			3	no time or place
+Z1681	NA			3	no time expression
+Z1682	NA			3	no time expression
+Z1683	NA			3	no time or place
+Z1684	NA			3	no place
+Z1685	NA			3	no time or place
+Z1686	NA			3	no time or place
+Z1687	NA			3	no time or place
+Z1688	NA			3	no time or place
+Z1689	NA			3	no time or place
+Z1690	NA			2	time only in previous sentence
+Z1691	NA			3	no time or place
+Z1692	NA			3	no time or place
+Z1693	NA			3	on the phone figurative
+Z1694	NA			3	no place
+Z1695	NA			3	no time or place
+Z1696	NA			3	no time or place
+Z1697	NA			3	no time or place
+Z1698	NA			3	no time or place
+Z1699	NA			3	no time expression
+Z1700	NA			3	no time or place
+Z1701	NA			3	no time or place
+Z1702	NA			3	no time or place
+Z1703	NA			3	Tokyo literary establishment institutional
+Z1704	NA			3	no time or place
+Z1705	NA			3	no time or place
+Z1706	NA			3	no time expression
+Z1707	NA			3	no time expression
+Z1708	NA			3	no time or place
+Z1709	NA			3	no time expression
+Z1710	NA			3	no place
+Z1711	NA			3	no time or place
+Z1712	NA			3	no time or place
+Z1713	NA			2	conditional arrival; no time expression
+Z1714	NA			3	file cabinet figurative
+Z1715	NA			3	no time expression
+Z1716	NA			3	no time or place
+Z1717	NA			3	no place
+Z1718	NA			2	then is sequence; body-relative position
+Z1719	NA			3	no time expression
+Z1720	NA			3	no time locator for America
+Z1721	NA			3	no time expression
+Z1722	NA			3	no time or place
+Z1723	NA			3	no time or place
+Z1724	NA			3	no time or place
+Z1725	PAR	last time	at BNA	2	waiting and parking events at BNA
+Z1726	NA			3	at the same time is discourse
+Z1727	NA			3	no place
+Z1728	NA			3	on the road figurative
+Z1729	NA			2	unit institutional
+Z1730	NA			3	no time or place
+Z1731	NA			3	no time expression
+Z1732	NA			3	right now but no place
+Z1733	NA			3	no time or place
+Z1734	NA			3	no literal place
+Z1735	NA			3	no place
+Z1736	NA			3	no time expression
+Z1737	NA			3	no time or place
+Z1738	NA			3	no time or place
+Z1739	NA			3	no place
+Z1740	NA			3	no time or place
+Z1741	NA			3	no place
+Z1742	NA			3	no time or place
+Z1743	NA			3	no place
+Z1744	NA			3	no place
+Z1745	NA			3	no time or place
+Z1746	NA			3	no time or place
+Z1747	NA			3	no time expression
+Z1748	NA			3	no time or place
+Z1749	NA			3	no time expression
+Z1750	NA			3	no time or place
+Z1751	NA			3	no place
+Z1752	NA			3	online not literal place
+Z1753	NA			3	no time or place
+Z1754	NA			2	Congress institutional
+Z1755	NA			3	no time or place
+Z1756	NA			3	no time expression
+Z1757	NA			3	no time or place
+Z1758	NA			3	no time or place
+Z1759	NA			3	no time expression
+Z1760	AMB	for a long time	the Bay Area	1	property of a place over time; neither location state nor time value
+Z1761	NA			3	no time or place
+Z1762	NA			3	section is document location
+Z1763	NA			3	no time expression
+Z1764	NA			3	no time or place
+Z1765	NA			3	no time or place
+Z1766	NA			3	no time or place
+Z1767	PAR	After our meal	in the jazz club	3	event located in time and place
+Z1768	NA			3	figurative
+Z1769	NA			3	no time or place
+Z1770	NA			3	no time or place
+Z1771	NA			3	no place
+Z1772	NA			3	no place
+Z1773	NA			3	no literal place
+Z1774	NA			3	no time or place
+Z1775	NA			3	no time or place
+Z1776	NA			3	no time or place
+Z1777	NA			3	no time or place
+Z1778	NA			3	no time or place
+Z1779	NA			3	no time or place
+Z1780	NA			2	outdoors but no time expression
+Z1781	NA			3	no time or place
+Z1782	NA			3	no time or place
+Z1783	NA			3	no time expression
+Z1784	NA			3	no time or place
+Z1785	NA			3	no time or place
+Z1786	NA			3	no time or place
+Z1787	NA			3	no time expression
+Z1788	PAR	when in Dubai	Fujairah	2	visit event; time clause holds a place
+Z1789	NA			3	no time or place
+Z1790	NA			3	no time or place
+Z1791	NA			3	no time or place
+Z1792	PAR	when we were working at Aberdeen	at Aberdeen	2	interruption event; place inside time clause
+Z1793	NA			3	no time or place
+Z1794	NA			3	no time or place
+Z1795	NA			3	no time expression
+Z1796	NA			2	ROTC institutional
+Z1797	PAR	shortly after the crash	on scene	3	arrival event
+Z1798	PAR	when I say go home	in the cage	1	habitual command; going event
+Z1799	NA			3	no place
+Z1800	NA			3	no place
+Z1801	NA			3	new heights figurative; no time
+Z1802	PAR	recent	to the island	2	visit events
+Z1803	NA			3	no time expression
+Z1804	NA			3	then is sequence; no time locator
+Z1805	NA			3	no time expression
+Z1806	NA			3	no time locator
+Z1807	NA			3	no place
+Z1808	NA			3	no time expression
+Z1809	NA			3	no time or place
+Z1810	NA			2	time only in previous sentence
+Z1811	NA			3	no time expression
+Z1812	NA			3	no time or place
+Z1813	NA			3	no place
+Z1814	NA			3	no time or place
+Z1815	TP	now	in garbage bags	2	location state narrowed by now
+Z1816	NA			3	no time expression
+Z1817	NA			3	no time or place
+Z1818	NA			3	no time or place
+Z1819	NA			2	no time expression
+Z1820	NA			3	no time or place
+Z1821	NA			3	no time or place
+Z1822	NA			3	no time expression
+Z1823	NA			3	no time expression
+Z1824	NA			3	no time or place
+Z1825	NA			3	no time or place
+Z1826	NA			3	no time or place
+Z1827	NA			3	no time expression
+Z1828	NA			3	no time or place
+Z1829	NA			3	no time expression
+Z1830	NA			3	no time or place
+Z1831	NA			3	no place
+Z1832	NA			3	no time expression
+Z1833	NA			3	no time or place
+Z1834	NA			3	no time or place
+Z1835	NA			3	no time expression
+Z1836	NA			3	no place
+Z1837	PAR	soon	in several Pachomian monasteries	2	problems arose event
+Z1838	NA			3	no time expression
+Z1839	NA			3	no place
+Z1840	NA			3	no time expression
+Z1841	NA			3	no time expression
+Z1842	NA			3	no time or place
+Z1843	NA			3	no time or place
+Z1844	NA			3	no time or place
+Z1845	NA			3	no time expression
+Z1846	NA			3	good place figurative
+Z1847	NA			3	no time expression
+Z1848	NA			3	no time or place
+Z1849	NA			3	no time or place
+Z1850	NA			3	no time or place
+Z1851	PAR	at a time when the mosque was relatively uncrowded	the mosque	2	accident event; place inside time clause
+Z1852	NA			3	no time expression
+Z1853	NA			3	no time or place
+Z1854	NA			3	no time expression
+Z1855	NA			3	no time or place
+Z1856	NA			3	no place
+Z1857	NA			3	no time expression
+Z1858	NA			3	no time expression
+Z1859	NA			3	no time expression
+Z1860	NA			3	no place
+Z1861	NA			3	no time or place
+Z1862	NA			3	no time or place
+Z1863	NA			3	at once but no literal place
+Z1864	NA			3	no time or place
+Z1865	NA			3	no place
+Z1866	NA			3	no time expression
+Z1867	NA			3	no time expression
+Z1868	NA			3	no time or place
+Z1869	NA			3	no place
+Z1870	NA			3	no time or place
+Z1871	NA			3	no time or place
+Z1872	NA			3	no time or place
+Z1873	NA			3	no place
+Z1874	NA			3	no time or place
+Z1875	NA			3	no time expression
+Z1876	NA			3	no time expression
+Z1877	NA			3	no time or place
+Z1878	NA			2	every time we go; place implicit only
+Z1879	NA			3	no time or place
+Z1880	NA			3	no time expression
+Z1881	NA			3	no time or place
+Z1882	NA			3	no time or place
+Z1883	NA			3	no time or place
+Z1884	NA			3	no time or place
+Z1885	NA			3	no literal time locator
+Z1886	NA			3	no time or place
+Z1887	NA			3	no time or place
+Z1888	NA			3	no time expression
+Z1889	NA			3	no time or place
+Z1890	NA			3	no time or place
+Z1891	NA			2	then is sequence; no time locator
+Z1892	NA			3	no time or place
+Z1893	NA			3	no time or place
+Z1894	NA			3	Supreme Court institutional
+Z1895	NA			3	no time or place
+Z1896	NA			3	no time or place
+Z1897	NA			3	no time or place
+Z1898	NA			3	no time or place
+Z1899	NA			3	no time expression
+Z1900	NA			3	no time or place
+Z1901	NA			3	no time or place
+Z1902	NA			3	no time or place
+Z1903	PAR	Upon both of them entering and tying for first place in a scientific contest	from his house	2	banning event
+Z1904	NA			3	no place
+Z1905	NA			3	no place
+Z1906	NA			3	no time or place
+Z1907	NA			3	no time expression
+Z1908	NA			3	no time or place
+Z1909	NA			3	no time or place
+Z1910	NA			3	no place
+Z1911	PAR	later	at the Conservatoire de Paris	2	studying event; Conservatoire is a literal site
+Z1912	NA			3	no time or place
+Z1913	NA			3	no time or place
+Z1914	NA			3	no time or place
+Z1915	NA			3	no literal place
+Z1916	NA			3	no place
+Z1917	NA			3	no time or place
+Z1918	NA			3	no time or place
+Z1919	NA			3	no time expression
+Z1920	NA			3	no time or place
+Z1921	NA			3	no time or place
+Z1922	PAR	How long	each place	1	duration of stays at places; action
+Z1923	NA			3	no time expression
+Z1924	NA			3	no place
+Z1925	NA			3	no place
+Z1926	NA			3	no time or place
+Z1927	NA			3	no time or place
+Z1928	NA			3	no time expression
+Z1929	NA			3	no time expression
+Z1930	NA			3	no time or place
+Z1931	NA			3	no time or place
+Z1932	NA			3	no time expression
+Z1933	NA			3	no time or place
+Z1934	NA			3	no time or place
+Z1935	NA			3	no time expression
+Z1936	NA			3	no time expression
+Z1937	NA			3	no time expression
+Z1938	NA			3	no place
+Z1939	NA			3	no time expression
+Z1940	NA			3	no time or place
+Z1941	NA			3	no time expression
+Z1942	NA			3	no time expression
+Z1943	NA			3	no place
+Z1944	NA			3	no place
+Z1945	NA			3	no time or place
+Z1946	NA			3	no time or place
+Z1947	NA			3	no time or place
+Z1948	NA			3	no time expression
+Z1949	NA			3	no time expression
+Z1950	NA			3	no time or place
+Z1951	NA			3	no time or place
+Z1952	NA			3	later but no place
+Z1953	NA			3	no place
+Z1954	NA			3	no time expression
+Z1955	PAR	at the same time	at her home	3	leaving event located in time and place
+Z1956	NA			3	no time or place
+Z1957	NA			3	no time expression
+Z1958	NA			3	no time expression
+Z1959	NA			3	no place
+Z1960	NA			3	no time or place
+Z1961	NA			3	no time or place
+Z1962	NA			3	no place
+Z1963	NA			3	no time or place
+Z1964	NA			3	no time expression
+Z1965	NA			3	no time or place
+Z1966	NA			3	no time or place
+Z1967	NA			3	no time or place
+Z1968	NA			3	no time or place
+Z1969	NA			2	future is not a time locator
+Z1970	NA			3	no time or place
+Z1971	NA			3	no time expression
+Z1972	NA			3	mind figurative
+Z1973	PAR	just as the wash hit us	down into the sea	2	rope thrown event
+Z1974	NA			3	no place
+Z1975	NA			3	no time expression
+Z1976	NA			3	no time or place
+Z1977	NA			3	no time or place
+Z1978	NA			3	no time expression
+Z1979	NA			3	no time or place
+Z1980	NA			3	no time or place
+Z1981	NA			3	no time expression
+Z1982	NA			3	no time or place
+Z1983	NA			3	no time or place
+Z1984	NA			3	no place
+Z1985	NA			3	no place
+Z1986	NA			3	no time or place
+Z1987	NA			3	no time expression
+Z1988	NA			3	no time or place
+Z1989	NA			3	no time expression
+Z1990	NA			2	under the accord not a time locator
+Z1991	NA			3	no place
+Z1992	NA			3	no place
+Z1993	PAR	the first time	to his apartment	1	visit event; also she stood in the center of his bedroom
+Z1994	NA			3	no time or place
+Z1995	NA			3	no time or place
+Z1996	NA			3	no time expression
+Z1997	NA			3	no place
+Z1998	NA			3	no time or place
+Z1999	NA			3	no time or place
+Z2000	NA			3	no time expression

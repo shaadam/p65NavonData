@@ -1,0 +1,7 @@
+cell	all_sentences	population	armA_coded	uncoded_eligible	new_draw	coded_after
+C-T	151	151	151	0	0	151
+C-N	49	49	49	0	0	49
+F-T	2801	2696	62	2634	943	1005
+F-N	9266	9052	188	0	0	188
+R-T	1573	1561	5	1556	557	562
+R-N	17135	17017	45	0	0	45

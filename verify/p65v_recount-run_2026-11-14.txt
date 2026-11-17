@@ -1,0 +1,28 @@
+kappa CHANGE (0.9105, 1725)
+kappa DIM (0.9471, 931) kappa OVER (0.8854, 931)
+A!=B items 141 C coded 141 missing C 0 extra C 0
+falsifier both coders: real [('WK:185048.1', 'time-change')] plants 5
+falsifier disputed [('GC:S020548', 'Soil', ('Y', 'OTHER', 'UNSPECIFIED'), ('Y', 'TIME', 'COLOUR'), ('Y', 'TIME', 'COLOUR'), ('Y', 'TIME', 'COLOUR'))]
+directional real senses 121 over TIME 112 over POSITION 6 col counts Counter({'TIME': 112, 'POSITION': 6, 'OTHER': 2, 'COLOUR': 1})
+dim TIME rows [('TIME', 'POSITION'), ('TIME', 'COLOUR')]
+  TIME        -   1   0   1   0   0   0
+  POSITION   10   -   0   0   0   0   1
+  SIZE        7   2   -   0   0   0   0
+  COLOUR      6   3   0   -   0   0   0
+  INTENSITY  11   0   0   0   -   0   0
+  QUANTITY   29   0   0   0   0   -   1
+  OTHER      49   0   0   0   0   0   -
+UNSPECIFIED 835 {'POSITION': 234, 'OTHER': 337, 'TIME': 60, 'SIZE': 89, 'COLOUR': 38, 'INTENSITY': 39, 'QUANTITY': 38}
+WN random change 69 UNSPEC 66 TIME 2 SPACE 1 missed by filter 52 time-dim []
+GC random change 59 UNSPEC 58 TIME 1 SPACE 0 missed by filter 51 time-dim [('Bishop', '0')]
+WK random change 70 UNSPEC 65 TIME 2 SPACE 2 missed by filter 61 time-dim [('marmorealize', '0')]
+F5 min loss 2 n best orders 48 all TIME first True any POSITION second False best with TIME,POSITION first 3 =0.025
+  sample best order ('TIME', 'INTENSITY', 'OTHER', 'POSITION', 'SIZE', 'COLOUR', 'QUANTITY')
+transpose: TIME last in all best orders True
+permutation p (min loss <= observed), 300 shuffles 0.997
+Garner licenses 117 of 121 not licensed Counter({('QUANTITY', 'OTHER'): 1, ('TIME', 'POSITION'): 1, ('POSITION', 'OTHER'): 1, ('TIME', 'COLOUR'): 1})
+pair TIME POSITION (10, 1)
+pair TIME QUANTITY (29, 0)
+pair POSITION QUANTITY (0, 0)
+pair TIME OTHER (49, 0)
+pair POSITION OTHER (0, 1)

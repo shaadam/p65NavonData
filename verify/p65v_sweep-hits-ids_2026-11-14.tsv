@@ -1,0 +1,180 @@
+hits 183 outside coded items 179
+WN	WN:00015706	oversleep
+WN	WN:00015799	sleep late|sleep in
+WN	WN:00317569	shorten
+WN	WN:00343295	anticipate
+WN	WN:00361458	predecease
+WN	WN:00521682	cut short
+WN	WN:01107508	outgrow
+WN	WN:01107796	outsail
+WN	WN:01113291	outmarch
+WN	WN:01747963	scale
+WN	WN:01931561	outrun
+WN	WN:01962137	outride
+WN	WN:02271402	underspend
+WN	WN:02625819	outlive|outlast|survive
+WN	WN:02648041	delay
+WN	WN:02711163	outwear
+WN	WN:02726572	follow
+GC	GC:A001082	Assess
+GC	GC:G009686	Gate
+GC	GC:O014479	Outfly
+GC	GC:O014496	Outlast
+GC	GC:O014509	Outlive
+GC	GC:O014515	Outmarch
+GC	GC:O014522	Outpace
+GC	GC:O014548	Outreign
+GC	GC:O014549	Outride
+GC	GC:O014556	Outrun
+GC	GC:O014558	Outsail
+GC	GC:O014571	Outsit
+GC	GC:O014591	Outstay
+GC	GC:O014596	Outstrike
+GC	GC:O014597	Outstrip
+GC	GC:O014621	Outwear
+GC	GC:O014634	Outwork
+GC	GC:O014695	Overdate
+GC	GC:P015988	Postdate
+GC	GC:P016146	Predate
+GC	GC:P016148	Predecease
+GC	GC:P016543	Proportionate
+GC	GC:R018897	Run
+GC	GC:S021984	Survive
+GC	GC:U024040	Unseven
+WK	WK:62.2	abbreviate
+WK	WK:380.2	accumulate
+WK	WK:1024.13	lose
+WK	WK:1190.8	burst
+WK	WK:1483.1	outgrow
+WK	WK:1486.0	outrun
+WK	WK:1498.2	boot
+WK	WK:1554.1	overdraw
+WK	WK:1580.0	oversleep
+WK	WK:1580.1	oversleep
+WK	WK:1818.11	swing
+WK	WK:1846.2	undertake
+WK	WK:7316.0	outstay
+WK	WK:7362.0	predecease
+WK	WK:7740.0	outlive
+WK	WK:7741.3	survive
+WK	WK:8206.7	shave
+WK	WK:8562.0	socialize
+WK	WK:10062.0	outlast
+WK	WK:10097.0	outstrip
+WK	WK:12244.2	exceed
+WK	WK:13774.1	fight fires
+WK	WK:13851.0	speedy
+WK	WK:13949.1	antedate
+WK	WK:13950.1	postdate
+WK	WK:15011.0	outpace
+WK	WK:15399.2	tarry
+WK	WK:15474.0	outdistance
+WK	WK:15815.0	backdate
+WK	WK:16407.1	bring forward
+WK	WK:17203.1	beat up
+WK	WK:18921.0	clock in
+WK	WK:19787.0	prepone
+WK	WK:21686.3	time out
+WK	WK:23775.0	undercrank
+WK	WK:27018.0	predate
+WK	WK:30975.2	outgo
+WK	WK:34548.1	outdraw
+WK	WK:34644.0	outrace
+WK	WK:34645.0	outshout
+WK	WK:34648.0	outwear
+WK	WK:34649.0	outwork
+WK	WK:35960.2	overexpose
+WK	WK:43004.0	outgallop
+WK	WK:45263.1	overlive
+WK	WK:48818.0	posticipate
+WK	WK:50206.0	gear down
+WK	WK:51151.0	outstay one's welcome
+WK	WK:51351.1	lie in
+WK	WK:52196.0	change up
+WK	WK:55679.2	uprate
+WK	WK:56048.2	leave behind
+WK	WK:56048.4	leave behind
+WK	WK:59405.2	backcheck
+WK	WK:59898.0	outsprint
+WK	WK:62373.0	outfly
+WK	WK:65163.0	outsleep
+WK	WK:68603.7	overgo
+WK	WK:70225.0	overdate
+WK	WK:70947.1	outwalk
+WK	WK:71464.0	outsail
+WK	WK:71466.0	outsing
+WK	WK:71574.0	outrange
+WK	WK:73569.0	outpiss
+WK	WK:74012.3	outhold
+WK	WK:74043.1	underhold
+WK	WK:76276.1	make time
+WK	WK:76824.1	outburn
+WK	WK:76901.1	outcreep
+WK	WK:76915.0	adultize
+WK	WK:79742.0	outsit
+WK	WK:79780.0	outreign
+WK	WK:79793.0	outstrike
+WK	WK:80848.4	overwalk
+WK	WK:82924.0	outmarch
+WK	WK:84442.1	outmount
+WK	WK:87327.0	outswim
+WK	WK:90233.0	outfoot
+WK	WK:92535.0	overpark
+WK	WK:96185.0	outsurvive
+WK	WK:102530.2	gain on
+WK	WK:105854.2	stay out
+WK	WK:114946.0	beat to
+WK	WK:119676.0	out-chorus
+WK	WK:119729.0	outbawl
+WK	WK:119750.0	outcrawl
+WK	WK:119758.0	outhowl
+WK	WK:119776.0	outpush
+WK	WK:119782.0	outrow
+WK	WK:119798.0	outtrot
+WK	WK:119802.0	outyelp
+WK	WK:119811.0	outbleat
+WK	WK:123274.0	outplod
+WK	WK:123375.0	outkeep
+WK	WK:126115.1	outrule
+WK	WK:126222.5	front up
+WK	WK:128591.0	retrodate
+WK	WK:128650.0	outmove
+WK	WK:129738.0	outcycle
+WK	WK:131333.0	preexcite
+WK	WK:132128.0	outhike
+WK	WK:134506.1	outbrake
+WK	WK:134587.0	trail behind
+WK	WK:134595.0	lag behind
+WK	WK:138473.2	overspeed
+WK	WK:149158.0	bear date
+WK	WK:150651.0	overcrank
+WK	WK:151088.0	outbike
+WK	WK:151143.2	stop someone's clock
+WK	WK:151902.0	force the voucher
+WK	WK:151934.0	play through
+WK	WK:152290.0	shoot around
+WK	WK:153006.0	postdecease
+WK	WK:154796.0	soft-block
+WK	WK:157368.0	outbellow
+WK	WK:157755.1	fail fast
+WK	WK:161324.0	outvoyage
+WK	WK:161512.0	star up
+WK	WK:165074.0	outdash
+WK	WK:172239.0	outhasten
+WK	WK:172262.0	outlinger
+WK	WK:172654.0	outcalculate
+WK	WK:173825.0	outpick
+WK	WK:181988.0	outaccelerate
+WK	WK:185871.0	outdig
+WK	WK:186534.0	outadd
+WK	WK:187813.0	outhop
+WK	WK:196529.0	call it an early night
+WK	WK:204565.0	linger on
+WK	WK:204962.0	outwake
+WK	WK:214107.0	prevoice
+WK	WK:214452.0	understay one's welcome
+WK	WK:215847.0	outevolve
+WK	WK:220260.0	dub over
+WK	WK:220544.0	outheel
+WK	WK:220946.0	outheal
+WK	WK:221540.2	outrise

@@ -1,0 +1,5 @@
+  F-N pop   9052 coded  1188 weight    7.62 | TP 7, PT 1, PAR 64, AMB 2, NA 1114
+  R-N pop  17017 coded  1045 weight   16.28 | TP 1, PT 0, PAR 7, AMB 0, NA 1037
+BRACKET from F-N/R-N bounds (other cells at estimate): s_low 0.664, s_high 0.901
+DIRECTIONAL share s = 0.854, 95% document bootstrap within cells 0.785 to 0.915 (width 0.131; 10000 resamples)
+DECISION (protocol v2 sec. 5): SUPPORTS_DIRECTION

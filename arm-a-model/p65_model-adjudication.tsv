@@ -1,0 +1,57 @@
+item	class	reason
+M003	PAR	main predicate is an event (slept in today, here in Glacier); 'last day here' not asserted as a time value
+M013	TP	location state (same writers in the back room) held for years; literal room
+M018	PT	time value asserted (last buses leave ~8 pm), place picks which buses; same form as 'In Spain dinner is at ten'
+M025	PAR	hugging event located by 'while he was there'
+M034	PAR	imperative put = event; 'for now' does not assert a location state
+M050	NA	sentence has no time expression (four nights is in the previous sentence)
+M057	PAR	present activity 'here I flow' located now and here; literal fountain
+M064	NA	Misalette is a book, not a place; no time in sentence
+M076	NA	French House is a housing assignment (institutional) and an aim, not a location
+M079	PAR	put = event (habitual action), codebook step 2
+M082	TP	'had in here last week' = the dog was here last week, a location state at a time
+M086	PAR	filming event located out there, just
+M095	NA	'all of the house is his' is possession, not location
+M118	PAR	here and today both locate the occasion; neither restricts the other
+M124	NA	no time or place in the sentence itself
+M131	AMB	'days spent at the ranch' could be time measured per place (PT) or location over a period (TP); counted statistic
+M132	NA	no place in the sentence
+M136	AMB	'first night at your new house': time defined by the stay (PT) or stay narrowed by time (TP)
+M137	NA	event of looking has no literal place; the house is inside a photo
+M139	NA	no place in the sentence
+M143	PAR	habitual event (go home) with frequency
+M147	NA	'empty' is a property of the houses, no location state
+M162	PAR	leaving home when going to work: event
+M170	PAR	smelling from across the room: event
+M174	PAR	went out there, then: event
+M186	PAR	using a car park while staying until evening: event/action
+M192	AMB	'college evenings there': time narrowed by place or place by time, noun phrase
+M237	NA	Afghanistan as polity (institutional)
+M239	PT	when their fall is, there: a time value restricted by place
+M244	PT	time of last ballot asserted, place restricts which station; like the dinner-in-Spain anchor
+M246	NA	being back in Philadelphia carries no time; '3 years ago' attaches to goals
+M253	NA	office = position (institutional)
+M265	PAR	going to the wedding Sunday: event
+M267	PAR	property of meat located by both a time and a place; neither restricts the other
+M284	NA	no literal time or place pairing in the sentence (ages are not time expressions)
+M294	NA	no time attached to the London revenues; 'already' attaches to discounting
+M307	NA	'here' is an online forum (figurative place)
+M318	PAR	interrogation event in an office for two hours
+M327	PAR	sitting there spending five minutes: event
+M338	NA	figurative (echo into every corner of the galaxy)
+M340	PAR	taking a test this afternoon, moving to 30: events
+M348	PAR	incubation and transfer are actions; time attaches to incubating
+M354	PAR	put back / keep the door closed for a week: actions
+M368	PAR	festivals every year in York: events located in time and place
+M378	PAR	speaking from this office (literal Oval Office), 37th time: event
+M382	PT	the eastern spot gets the sun's first rays each day: time of sunrise ordered by place, as in the 'eastern towns' anchor
+M418	NA	this week attaches to studying; cleaning in here has no time
+M419	NA	no time or place in the sentence
+M443	PAR	getting wifi anywhere 24/7: action located everywhere, always
+M448	PT	the cold season has not yet arrived where I am: seasonal time restricted by place (low confidence)
+M452	NA	brought home has no time; 'now' attaches to the coat being choppy
+M469	PAR	took centre stage this week here: event, time and place literal
+M478	PT	'anytime' (good time to visit) depends on which place is meant
+M482	PT	duration of medical school (6 years) restricted to my country
+M493	NA	no time or place in the sentence itself
+M299	PAR	waiting at least an hour there: event

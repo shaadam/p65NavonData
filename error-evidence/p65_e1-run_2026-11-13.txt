@@ -1,0 +1,42 @@
+## LEARNER (pooled)
+sentences 70,940; tokens 1,223,992; annotator-0 edits 123,036
+opportunities (term tokens) corrected text: F 334, S 2,376, T 4,356, T1 2,458, T2 1,893, V 366
+opportunities original text: F 317, S 2,270, T 4,473, T1 2,493, T2 1,976, V 379
+dedicated-ness check T: 109/4356 = 0.025 followed (<=3 tokens) by other-domain noun
+dedicated-ness check S: 43/2376 = 0.018 followed (<=3 tokens) by other-domain noun
+E1: n(S->T) = 2, n(T->S) = 8, p = 0.200 (95% 0.025-0.556), n = 10; opportunity-normalised RR = 0.136; contains-match 2 vs 8
+    A S->T: 1
+    B T->S: 3
+    C S->T: 1
+    fce T->S: 5
+C1: n(T1->T2) = 5, n(T2->T1) = 4, p = 0.556 (95% 0.212-0.863), n = 9; opportunity-normalised RR = 1.623; contains-match 5 vs 5
+    A T1->T2: 3
+    B T1->T2: 1
+    B T2->T1: 1
+    fce T1->T2: 1
+    fce T2->T1: 3
+C2: n(V->F) = 1, n(F->V) = 0, p = 1.000 (95% 0.025-1.000), n = 1; contains-match 1 vs 0
+    B V->F: 1
+word pairs (orig -> corr): 
+    C1 after -> since: 5
+    C1 until -> before: 2
+    C1 since -> after: 1
+    C1 during -> before: 1
+    C2 under -> in front of: 1
+    E1 before -> above: 4
+    E1 after -> behind: 2
+    E1 before -> in front of: 1
+    E1 after -> on top of: 1
+    E1 near -> before: 1
+    E1 along -> during: 1
+
+## NATIVE (LOCNESS)
+sentences 988; tokens 23,117; annotator-0 edits 950
+opportunities (term tokens) corrected text: F 9, S 72, T 58, T1 36, T2 22, V 10
+opportunities original text: F 9, S 68, T 57, T1 36, T2 21, V 10
+dedicated-ness check T: 0/58 = 0.000 followed (<=3 tokens) by other-domain noun
+dedicated-ness check S: 1/72 = 0.014 followed (<=3 tokens) by other-domain noun
+E1: n(S->T) = 0, n(T->S) = 0, p = nan (95% nan-nan), n = 0; contains-match 0 vs 0
+C1: n(T1->T2) = 0, n(T2->T1) = 0, p = nan (95% nan-nan), n = 0; contains-match 0 vs 0
+C2: n(V->F) = 0, n(F->V) = 0, p = nan (95% nan-nan), n = 0; contains-match 0 vs 0
+word pairs (orig -> corr): 

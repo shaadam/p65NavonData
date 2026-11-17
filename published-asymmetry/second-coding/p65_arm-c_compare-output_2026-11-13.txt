@@ -1,0 +1,107 @@
+wrote published-asymmetry/second-coding/p65_arm-c-second-coding_2026-11-13.tsv
+
+### code2 vs first code: reached n = 62, raw agreement 0.968, Cohen kappa 0.952; all 64 (UNREACHED = disagree) raw 0.938
+  3-way (S>T / T>S / nondirectional): raw 0.968, kappa 0.950
+  confusion (second, first): NONE/NONE 2; NONE/TIME>SPACE 1; SPACE>TIME/SPACE>TIME 27; SPACE>TIME/SYMMETRIC 1; SYMMETRIC/SYMMETRIC 18; TIME>SPACE/TIME>SPACE 13
+
+### code2_2tailed vs first code_2tailed: reached n = 62, raw agreement 0.903, Cohen kappa 0.856; all 64 (UNREACHED = disagree) raw 0.875
+  3-way (S>T / T>S / nondirectional): raw 0.903, kappa 0.846
+  confusion (second, first): NONE/NONE 3; NONE/TIME>SPACE 1; SPACE>TIME/SPACE>TIME 25; SPACE>TIME/SYMMETRIC 3; SYMMETRIC/SYMMETRIC 19; TIME>SPACE/NONE 1; TIME>SPACE/SYMMETRIC 1; TIME>SPACE/TIME>SPACE 9
+
+### DISAGREEMENTS (primary columns)
+
+row 5 CaiConnell2015_E3 exp 3: SECOND TIME>SPACE (2t TIME>SPACE) [FULL TEXT] vs FIRST TIME>SPACE (2t NONE) [FULL TEXT]
+  second: S->T pooled model (with modality predictor): length on reproduced duration b=0.140 t=1.08 p=.141 (1-tailed) | T->S pooled model: duration on reproduced length b=0.004 t=3.28 p<.001 (1-tailed) | asym haptic block t(30)=3.16 p=.004 (T-on-S > S-on-T); visuohaptic block t(30)=1.66 p=.108 | Pooled test given so used as primary; haptic cell T-on-S t(33)=2.79 p=.004 vs S-on-T p=.272 (TIME>SPACE); visuohaptic cell T-on-S p=.033 1-tailed (2-tailed ~.066), S-on-T p=.168 (TIME>SPACE / NONE 2-tailed)
+  first : S->T Table 3 (both blocks): reproduced duration ~ length: b = 0.140, SE = 0.129, t = 1.08, p = .141 (1-tailed), partial r = .130 [column header printed t(61); model F(3,68)] | T->S Table 3: reproduced length ~ duration: b = 0.004, SE = 0.001, t = 3.28, p < .001 (1-tailed), partial r = .370 | asym per block only: haptic t(30) = 3.16, p = .004 (T>S); visuohaptic t(30) = 1.66, p = .108 | adj sensitivity: visuohaptic cell rests on one-tailed p
+
+row 13 Lambrechts2013_E1 exp 1 (prospective): SECOND NONE (2t NONE) [FULL TEXT] vs FIRST TIME>SPACE (2t TIME>SPACE) [FULL TEXT (main text; Table S1 supplement not held)]
+  second: S->T duration task, surface varied with number fixed: c1(Smin,Nmin) vs c4(Smax,Nmin) t=0.047 p=.964; c3(Smin,Nmax) vs c2(Smax,Nmax) t=-1.292 p=.223 | T->S surface task, duration varied with number fixed: c1(Dmin,Nmin) vs c4(Dmax,Nmin) t=-2.423 p=.034; c3(Dmin,Nmax) vs c2(Dmax,Nmax) t=3.247 p=.008 (Bonferroni threshold .005: ns) | asym magnitude x condition PSE ANOVA F=2.905 p=.051 (all three dims, not S-T specific) | Authors' tests Bonferroni-corrected (alpha .005, Table S1): no D-isolating contrast survives -> NONE; uncorrected p<.05 would give TIME>SPACE. Text claims PSE2>PSE1 p<.01 (Table S1 p=.006, confounds D with N)
+  first : S->T duration task: no post-hoc contrast significant; magnitude x condition F(12,4) [as printed] = 2.905, p = .051 (omnibus across tasks) | T->S surface task: PSE2 (Dmax,Nmax) vs PSE1 (Dmin,Nmin): t(12,11) [as printed] = -3.389, p < .01; PSE0 > PSE1, p < .001 -- both contrasts vary duration AND number together | asym none | adj 
+
+row 27 Merritt2010_E2b exp 2b (monkeys, cue after stimulus): SECOND TIME>SPACE (2t TIME>SPACE) [FULL TEXT] vs FIRST TIME>SPACE (2t SYMMETRIC) [FULL TEXT (PMC author manuscript HTML)]
+  second: S->T Space on time chi2(1, N=1174)=126.37, p<.001, OR=3.06 | T->S Time on space chi2(1, N=1173)=164.83, p<.001, OR=3.32 | asym Interaction chi2(1, N=2347)=4.39, p=.04, OR=1.30, 95% CI 0.97-1.63 (favours time-on-space) | Both sig; asymmetry test p=.04 favours time-on-space, so TIME>SPACE by rule (statistics win). Authors discount it because the OR CI includes 1 and call the monkey pattern symmetric; the 2a vs 2b difference was n.s. (p=.96).
+  first : S->T chi2(1, N=1174)=126.37, p<.001, OR=3.06, 95% CI 2.46-3.66 | T->S chi2(1, N=1173)=164.83, p<.001, OR=3.32, 95% CI 2.71-3.93 | asym chi2(1, N=2347)=4.39, p=.04, OR=1.30, 95% CI 0.97-1.63, favouring time-on-space | adj sensitivity: authors call it symmetric; OR CI 0.97-1.63 includes 1
+
+row 36 Jagorska2025_young exp 1 (younger group, 18-35 y): SECOND SPACE>TIME (2t SPACE>TIME) [FULL TEXT] vs FIRST SPACE>TIME (2t SYMMETRIC) [FULL TEXT (Europe PMC XML)]
+  second: S->T Per-group per-direction tests not reported; overall LMM intercept beta=0.03, t(73)=8.55, p<.001 (all cells pooled) | T->S Per-group per-direction tests not reported | asym Trial type x age group beta=0.04, t(519)=2.51, p=.009; younger paired t(36)=2.2, p=.04 (space-on-time > time-on-space) | Coded by significant within-group asymmetry test. Text inconsistency: the Results sentence says time-on-space was larger in the young, but the Discussion says the space-on-time asymmetry held in the young, and the authors' posted R script (t.test(time task, space task)) gives t=+2.2, so space-on-time is larger. Authors state both groups showed significant bidirectional interference (no per-group p).
+  first : S->T per-group test not reported; overall intercept beta=0.03, SE=0.003, t(73)=8.55, p<.001 (both directions, both groups); authors state both age groups show significant bidirectional interference | T->S per-group test not reported (see S_on_T_stat) | asym paired t (space-on-time minus time-on-space) t(36)=2.2, p=.04; trial type x age beta=0.04, SE=0.015, t(519)=2.51, p=.009 | adj sensitivity: own re-analysis of posted data does not reproduce t(36)=2.2
+
+row 38 BratzkeUlrich2025_E1 exp 1 (dimension cued after stimulus): SECOND SPACE>TIME (2t SPACE>TIME) [FULL TEXT] vs FIRST SPACE>TIME (2t SYMMETRIC) [FULL TEXT (Europe PMC XML)]
+  second: S->T Preregistered individual slopes: space-on-time mean 0.048, p<.001; R2 .196, p<.001; multiple regression beta=0.049, p<.001 | T->S Time-on-space mean slope 0.022, p=.008; R2 .140, p=.002; multiple regression beta=0.019, p=.041 | asym Slope comparison t(22)=2.08, p=.050 (exact two-tailed p about .049 from t), dz=0.43, favours space-on-time; R2 comparison t(22)=1.03, p=.317 | Both sig; preregistered slope asymmetry test is significant (authors' Table 1: asymmetry Yes), so SPACE>TIME. Borderline: reported as p=.050, and the R2 asymmetry is n.s.
+  first : S->T mean individual slope 0.048, p<.001 (vs 0); multiple regression beta=0.049, partial R2=.204, p<.001; LME beta=0.075, 95% CI [0.041, 0.104] | T->S mean individual slope 0.022, p=.008; multiple regression beta=0.019, partial R2=.053, p=.041; LME beta=0.025, 95% CI [0.006, 0.047] | asym slope difference t(22)=2.08, p=.050, dz=0.43 (exact two-tailed p from t=2.08, df=22 is .049); R2 difference t(22)=1.03, p=.317 | adj sensitivity: asymmetry p=.049/.050 borderline
+
+row 76 RiedlHallez2026 exp 1: SECOND SPACE>TIME (2t SPACE>TIME) [ABSTRACT] vs FIRST SYMMETRIC (2t SYMMETRIC) [FULL TEXT: HAL author manuscript hal-05646716 (Manuscript.pdf) read with PyMuPDF; results sections read in full.]
+  second: S->T visual: space influenced time more strongly (kappa) (no stats in abstract) | T->S visual: time-on-space weaker (auditory: time further influenced space) | asym not in abstract | Abstract only (HAL copy bot-blocked): visual modality kappa stronger than tau; low confidence whether tau visual was sig; auditory cell leans TIME>SPACE
+  first : S->T Visual BP: Spacing main effect F(1,87)=23.00, p<.001, eta2=.09; Spacing x Age F(2,87)=3.12, p=.049 (5-6 y ns t(86)=1.03 p=.30; 7-8 y t(86)=2.84 p=.01; adults t(86)=4.35 p<.001) | T->S Visual BP: Duration main effect F(1,87)=4.11, p=.046, eta2=.015; Duration x Age F(2,87)=0.71, p=.50 | asym none (directions analysed in separate ANOVAs) | adj 
+
+row 77 RiedlHallez2026 exp 2: SECOND UNREACHED (2t UNREACHED) [UNREACHED] vs FIRST SYMMETRIC (2t SYMMETRIC) [FULL TEXT: HAL author manuscript hal-05646716 (Manuscript.pdf) read with PyMuPDF; results sections read in full.]
+  second: S->T abstract: greater task difficulty reduced space-on-time interference (visual) | T->S not reported separately in abstract | asym not in abstract | Abstract does not report Exp 2 time-on-space effect or direction test; HAL full text bot-blocked
+  first : S->T BP: Space main effect F(2,98)=77.81 [sic df], p<.001, eta2=.12; Space x Age F=3.38 p=.04; Difficulty x Space F(1,98)=17.36 p<.001 (kappa larger in Easy) | T->S BP: Duration main effect F(1,97)=7.51, p=.007, eta2=.01; Difficulty x Duration F(1,97)=5.16 p=.03 (Easy t(97)=2.58 p=.02; Hard t(97)=2.51 p=.02) | asym none | adj 
+
+row 95 Sarrazin2004_E3 exp 3: SECOND UNREACHED (2t UNREACHED) [UNREACHED] vs FIRST SYMMETRIC (2t SYMMETRIC) [ABSTRACT ONLY (PubMed)]
+  second: S->T abstract (all Exps): kappa observed in nonproportional conditions | T->S abstract (all Exps): tau observed in nonproportional conditions | asym not in abstract | Abstract summarises tau and kappa across 3 Exps without Exp-3-specific results (would suggest SYMMETRIC); full text paywalled, no repository copy found
+  first : S->T kappa effect observed (abstract, pooled across experiments; no statistic) | T->S tau effect observed (abstract, pooled across experiments; no statistic) | asym none seen | adj 
+
+== SECOND CODER code2 (UNREACHED dropped): n = 62
+  SPACE>TIME   28 (0.45; 95% Wilson 0.33-0.57)
+  TIME>SPACE   13 (0.21; 95% Wilson 0.13-0.33)
+  SYMMETRIC    18 (0.29; 95% Wilson 0.19-0.41)
+  NONE          3 (0.05; 95% Wilson 0.02-0.13)
+  sign test S>T 28 vs T>S 13: two-sided exact p = 0.0275
+  paper level (38 papers): SPACE>TIME 16, TIME>SPACE 7, SYMMETRIC 9, NONE 1, MIXED 5; sign p = 0.0931
+
+== SECOND CODER code2 (UNREACHED filled with first code): n = 64
+  SPACE>TIME   28 (0.44; 95% Wilson 0.32-0.56)
+  TIME>SPACE   13 (0.20; 95% Wilson 0.12-0.32)
+  SYMMETRIC    20 (0.31; 95% Wilson 0.21-0.43)
+  NONE          3 (0.05; 95% Wilson 0.02-0.13)
+  sign test S>T 28 vs T>S 13: two-sided exact p = 0.0275
+  paper level (39 papers): SPACE>TIME 15, TIME>SPACE 7, SYMMETRIC 10, NONE 1, MIXED 6; sign p = 0.1338
+
+== SECOND CODER code2, second-coder FULL TEXT rows only: n = 50
+  SPACE>TIME   21 (0.42; 95% Wilson 0.29-0.56)
+  TIME>SPACE   12 (0.24; 95% Wilson 0.14-0.37)
+  SYMMETRIC    14 (0.28; 95% Wilson 0.17-0.42)
+  NONE          3 (0.06; 95% Wilson 0.02-0.16)
+  sign test S>T 21 vs T>S 12: two-sided exact p = 0.1628
+  paper level (27 papers): SPACE>TIME 10, TIME>SPACE 6, SYMMETRIC 6, NONE 1, MIXED 4; sign p = 0.4545
+
+== FIRST CODER code (check): n = 64
+  SPACE>TIME   27 (0.42; 95% Wilson 0.31-0.54)
+  TIME>SPACE   14 (0.22; 95% Wilson 0.14-0.33)
+  SYMMETRIC    21 (0.33; 95% Wilson 0.23-0.45)
+  NONE          2 (0.03; 95% Wilson 0.01-0.11)
+  sign test S>T 27 vs T>S 14: two-sided exact p = 0.0596
+  paper level (39 papers): SPACE>TIME 15, TIME>SPACE 8, SYMMETRIC 11, NONE 1, MIXED 4; sign p = 0.2100
+
+== SECOND CODER code2_2tailed (UNREACHED dropped): n = 62
+  SPACE>TIME   28 (0.45; 95% Wilson 0.33-0.57)
+  TIME>SPACE   11 (0.18; 95% Wilson 0.10-0.29)
+  SYMMETRIC    19 (0.31; 95% Wilson 0.21-0.43)
+  NONE          4 (0.06; 95% Wilson 0.03-0.15)
+  sign test S>T 28 vs T>S 11: two-sided exact p = 0.0095
+  paper level (38 papers): SPACE>TIME 16, TIME>SPACE 6, SYMMETRIC 10, NONE 1, MIXED 5; sign p = 0.0525
+
+== SECOND CODER code2_2tailed (UNREACHED filled with first code): n = 64
+  SPACE>TIME   28 (0.44; 95% Wilson 0.32-0.56)
+  TIME>SPACE   11 (0.17; 95% Wilson 0.10-0.28)
+  SYMMETRIC    21 (0.33; 95% Wilson 0.23-0.45)
+  NONE          4 (0.06; 95% Wilson 0.02-0.15)
+  sign test S>T 28 vs T>S 11: two-sided exact p = 0.0095
+  paper level (39 papers): SPACE>TIME 15, TIME>SPACE 6, SYMMETRIC 11, NONE 1, MIXED 6; sign p = 0.0784
+
+== SECOND CODER code2_2tailed, second-coder FULL TEXT rows only: n = 50
+  SPACE>TIME   21 (0.42; 95% Wilson 0.29-0.56)
+  TIME>SPACE   10 (0.20; 95% Wilson 0.11-0.33)
+  SYMMETRIC    15 (0.30; 95% Wilson 0.19-0.44)
+  NONE          4 (0.08; 95% Wilson 0.03-0.19)
+  sign test S>T 21 vs T>S 10: two-sided exact p = 0.0708
+  paper level (27 papers): SPACE>TIME 10, TIME>SPACE 5, SYMMETRIC 7, NONE 1, MIXED 4; sign p = 0.3018
+
+== FIRST CODER code_2tailed (check): n = 64
+  SPACE>TIME   25 (0.39; 95% Wilson 0.28-0.51)
+  TIME>SPACE   10 (0.16; 95% Wilson 0.09-0.26)
+  SYMMETRIC    25 (0.39; 95% Wilson 0.28-0.51)
+  NONE          4 (0.06; 95% Wilson 0.02-0.15)
+  sign test S>T 25 vs T>S 10: two-sided exact p = 0.0167
+  paper level (39 papers): SPACE>TIME 15, TIME>SPACE 6, SYMMETRIC 14, NONE 2, MIXED 2; sign p = 0.0784

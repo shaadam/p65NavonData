@@ -1,0 +1,64 @@
+ENGLISH VALIDATION (Arm A + A3 + A3b final classes, n 4000; matched 4000; unmatched 0)
+  weighted pool 30526 (A3b eligible population 30,526: weight check)
+  screen TIME and BROAD PLACE:
+    flag_share 0.120  (95% cell bootstrap 0.111 to 0.128)
+    rec_both   0.698  (95% cell bootstrap 0.646 to 0.748)
+    prec_both  0.393  (95% cell bootstrap 0.357 to 0.429)
+    rec_dir    0.698  (95% cell bootstrap 0.592 to 0.795)
+    ppv_dir    0.100  (95% cell bootstrap 0.079 to 0.123)
+    rec_TP     0.769  (95% cell bootstrap 0.670 to 0.854)
+    rec_PT     0.366  (95% cell bootstrap 0.179 to 0.670)
+  screen TIME and NARROW PLACE:
+    flag_share 0.073  (95% cell bootstrap 0.067 to 0.080)
+    rec_both   0.545  (95% cell bootstrap 0.496 to 0.596)
+    prec_both  0.500  (95% cell bootstrap 0.450 to 0.548)
+    rec_dir    0.510  (95% cell bootstrap 0.414 to 0.614)
+    ppv_dir    0.120  (95% cell bootstrap 0.092 to 0.151)
+    rec_TP     0.544  (95% cell bootstrap 0.434 to 0.654)
+    rec_PT     0.355  (95% cell bootstrap 0.183 to 0.657)
+  unweighted coded-set counts, broad: AMB/noflag 10, AMB/flag 11, NA/noflag 2839, NA/flag 509, PAR/noflag 98, PAR/flag 360, PT/noflag 10, PT/flag 17, TP/noflag 27, TP/flag 119
+  unweighted coded-set counts, narrow: AMB/noflag 13, AMB/flag 8, NA/noflag 3085, NA/flag 263, PAR/noflag 153, PAR/flag 305, PT/noflag 11, PT/flag 16, TP/noflag 54, TP/flag 92
+  directional items with NO time flag (time-screen misses, unweighted): {'TP': 5}
+  English census: 30975 sentences
+
+PER LANGUAGE (seed 20261130, 500-sentence draw; census = whole treebank)
+  D = N x r x PPV_dir(English); PPV_dir broad 0.1004, narrow 0.1198 (English, weighted)
+  columns: language, verdict, N | draw: screen-positive k/500 = r [Wilson 95%] | census r_broad r_narrow r_time r_time+quantity | D_broad from draw [95%] | D_broad census | D_narrow census | TOTAL directional = D_broad census / rec_dir_broad(English)
+  English        baseline    30975 |  67/500 = 0.134 [0.107-0.167] | 0.121 0.075 0.273 0.029 |   417 [333-518] |   376 |   276 |   539
+  Mandarin       MARGINAL     6001 |  34/500 = 0.068 [0.049-0.094] | 0.075 0.019 0.429 0.197 |    41 [30-56] |    45 |    13 |    65
+  Japanese       MARGINAL     8100 |  54/500 = 0.108 [0.084-0.138] | 0.109 0.042 0.279 0.056 |    88 [68-112] |    88 |    41 |   127
+  Turkish        MARGINAL     9761 |  54/500 = 0.108 [0.084-0.138] | 0.114 0.053 0.248 0.028 |   106 [82-136] |   111 |    61 |   160
+  Turkish-Kenet  fallback    18687 |  20/500 = 0.040 [0.026-0.061] | 0.050 0.020 0.186 0.014 |    75 [49-114] |    94 |    44 |   135
+  Arabic         MARGINAL     7664 | 150/500 = 0.300 [0.261-0.342] | 0.322 0.076 0.500 0.132 |   231 [201-263] |   248 |    70 |   355
+  Indonesian     MARGINAL     6628 |  86/500 = 0.172 [0.141-0.208] | 0.171 0.115 0.382 0.143 |   114 [94-138] |   114 |    91 |   164
+  Naija          MARGINAL     9241 |  38/500 = 0.076 [0.056-0.103] | 0.056 0.028 0.229 0.011 |    71 [52-95] |    52 |    31 |    74
+  Hindi          FEASIBLE    16649 | 107/500 = 0.214 [0.180-0.252] | 0.222 0.110 0.350 0.096 |   358 [301-421] |   371 |   218 |   532
+  Finnish        FEASIBLE    15136 |  50/500 = 0.100 [0.077-0.129] | 0.103 0.041 0.269 0.035 |   152 [117-197] |   157 |    74 |   225
+  Korean         reserve     27363 |  23/500 = 0.046 [0.031-0.068] | 0.058 0.005 0.154 0.017 |   126 [85-187] |   160 |    15 |   229
+  Persian        reserve     29107 |  42/500 = 0.084 [0.063-0.112] | 0.087 0.034 0.201 0.035 |   246 [183-326] |   254 |   118 |   365
+
+LEXICON CHECK (entries matched at least once per language / entries listed; zero-hit entries listed)
+  English        time lex 53/54 used; zero-hit: later
+                 top time cues: T:rel:obl:unmarked 2202, T:rel:nmod:unmarked 2168, T:lex:YEAR 1518, T:lex:time 989, T:lex:year 773
+  Mandarin       time lex 34/47 used; zero-hit: 世纪 分钟 后来 小时 当时 时 时代 时候 时期 明年 曾经 期间 现在
+                 top time cues: T:rel:nmod:tmod 1616, T:lex:年 1572, T:lex:YEAR 1363, T:lex:月 607, T:lex:日 445, T:lex:時 260, T:func:後 245
+  Japanese       time lex 40/41 used; zero-hit: とき
+                 top time cues: T:lex:年 1026, T:lex:YEAR 821, T:lex:月 554, T:lex:日 515, T:func:まで 308, T:lex:時 234
+  Turkish        time lex 50/50 used; zero-hit: 
+                 top time cues: T:lex:sonra 389, T:lex:gün 352, T:lex:yıl 341, T:lex:zaman 297, T:rel:obl:tmod 279, T:func:kadar 248
+  Turkish-Kenet  time lex 47/50 used; zero-hit: halen kasım salı
+                 top time cues: T:lex:gün 556, T:func:kadar 541, T:lex:sonra 436, T:lex:zaman 383, T:lex:gece 206, T:func:sonra 204
+  Arabic         time lex 33/34 used; zero-hit: حاليا
+                 top time cues: T:lex:عام 1037, T:lex:يوم 1010, T:lex:YEAR 930, T:func:خلال 541, T:func:بعد 522, T:func:منذ 290, T:lex:شهر 286
+  Indonesian     time lex 46/46 used; zero-hit: 
+                 top time cues: T:lex:YEAR 1583, T:rel:obl:tmod 1052, T:lex:tahun 914, T:rel:nmod:tmod 436, T:lex:saat 248, T:lex:setelah 240
+  Naija          time lex 27/30 used; zero-hit: naw then wen
+                 top time cues: T:lex:now 823, T:lex:when 502, T:lex:time 234, T:lex:den 183, T:lex:day 165, T:lex:before 157
+  Hindi          time lex 46/48 used; zero-hit: वक़्त हफ़्ता
+                 top time cues: T:lex:बाद 1123, T:func:बाद 1027, T:lex:अब 469, T:lex:दौरान 452, T:lex:पहले 439
+  Finnish        time lex 48/51 used; zero-hit: aikana keskiviikko vuosisata
+                 top time cues: T:lex:YEAR 991, T:lex:vuosi 892, T:lex:kun 636, T:func:kun 609, T:lex:aika 542, T:lex:päivä 343
+  Korean         time lex 30/30 used; zero-hit: 
+                 top time cues: T:lex:때 958, T:lex:YEAR 598, T:lex:년 550, T:lex:후 297, T:lex:지금 288, T:lex:시간 287
+  Persian        time lex 27/28 used; zero-hit: اخیرا
+                 top time cues: T:lex:سال 1223, T:lex:روز 947, T:lex:وقت 734, T:lex:زمان 605, T:func:پس 411, T:lex:امروز 337

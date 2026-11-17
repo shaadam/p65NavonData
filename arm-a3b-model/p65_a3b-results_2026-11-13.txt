@@ -1,0 +1,26 @@
+AGREEMENT (A3b items, n 2000)  raw 0.969  Cohen kappa 0.576  (95% bootstrap 0.479 to 0.665; usable >= 0.60)
+  cell F-N: n 1000, kappa 0.612, raw 0.951
+  cell R-N: n 1000, kappa 0.295, raw 0.986
+  confusion (coder1, coder2): NA/NA 1894, PAR/NA 38, PAR/PAR 35, TP/TP 8, NA/PAR 6, TP/NA 6, NA/TP 4, TP/PAR 2, PT/NA 2, AMB/NA 2, PAR/TP 1, AMB/TP 1, NA/PT 1
+DISAGREEMENTS 63, adjudicated 63, unresolved 0
+CELL TABLE (population, coded, weight; final labels unweighted)
+  C-T pop    151 coded   151 weight    1.00 | TP 31, PT 6, PAR 82, AMB 3, NA 29
+  C-N pop     49 coded    49 weight    1.00 | TP 8, PT 1, PAR 20, AMB 1, NA 19
+  F-T pop   2696 coded  1005 weight    2.68 | TP 72, PT 12, PAR 245, AMB 13, NA 663
+  F-N pop   9052 coded  1188 weight    7.62 | TP 13, PT 1, PAR 64, AMB 2, NA 1108
+  R-T pop   1561 coded   562 weight    2.78 | TP 19, PT 5, PAR 40, AMB 2, NA 496
+  R-N pop  17017 coded  1045 weight   16.28 | TP 3, PT 2, PAR 7, AMB 0, NA 1033
+A3b NEW ITEMS ONLY: F-N: TP 13, PT 0, PAR 56, AMB 2, NA 929; R-N: TP 3, PT 2, PAR 7, AMB 0, NA 988
+EXPANSION: TP 433, PT 93, PAR 1472, AMB 60, NA 28468
+PER-STRATUM BOUNDS (rate k/n; Clopper-Pearson 95%; x population = sentences)
+  F-N TP: 13/1188 = 0.0109, CP 0.0058 to 0.0186 -> 53 to 169 sentences (point 99)
+  F-N PT: 1/1188 = 0.0008, CP 0.0000 to 0.0047 -> 0 to 42 sentences (point 8)
+  R-N TP: 3/1045 = 0.0029, CP 0.0006 to 0.0084 -> 10 to 142 sentences (point 49)
+  R-N PT: 2/1045 = 0.0019, CP 0.0002 to 0.0069 -> 4 to 117 sentences (point 33)
+BRACKET from F-N/R-N bounds (other cells at estimate): s_low 0.620, s_high 0.912
+DIRECTIONAL share s = 0.823, 95% document bootstrap within cells 0.728 to 0.906 (width 0.179; 10000 resamples)
+T-SCREEN RECALL TP: 0.640 (95% 0.523 to 0.771)
+T-SCREEN RECALL PT: 0.558 (95% 0.311 to 0.983)
+MINIMUM COUNT: 173 coded sentences with a final TP or PT label (rule: >= 30)
+DECISION (protocol v2 sec. 5): SUPPORTS_DIRECTION
+  kappa below 0.60: the directional result is EXPLORATORY
