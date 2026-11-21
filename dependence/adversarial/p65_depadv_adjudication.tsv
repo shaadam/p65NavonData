@@ -1,0 +1,28 @@
+bid	final	reason
+B0007	P	observance is an event (place needs time); a calendar month is not a local day or date
+B0012	P	person; "today" is a time relative to now, so No under the brief
+B0022	P	as B0007
+B0027	P	person; "today" relative to now
+B0031	T	a feeling is not a located thing; summer is a season, local
+B0037	NEITHER	a sentiment is not a movable thing; a period of history is No
+B0038	P	mushrooms are present only for a time by kind; "almost all year" is a period, No
+B0046	P	person; "today" relative to now
+B0067	NEITHER	the entity is a destination (a place), "usually" is a frequency
+B0077	BOTH	a commemorated event; a calendar date differs across time zones
+B0080	T	hooks are a fixed installation; summer is a season
+B0088	BOTH	people; time taken to reach a stop is a travel time between places
+B0096	BOTH	passenger; the time a moving bus reaches a stop
+B0100	P	person; "that day" is relative to an event, No
+B0120	P	event; a calendar month is not local
+B0127	BOTH	visit; "the dates" are calendar dates
+B0128	P	sunshine is weather; "annually" is a frequency
+B0136	P	person; "tomorrow" relative to now
+B0139	P	person; "humid days" is not a time-keeping value
+B0141	P	people; "today" relative to now
+B0157	P	stay; a month and year is not a local day
+B0165	NEITHER	office fixed; closing time is set by the place's schedule, No under the brief
+B0172	NEITHER	entity is a time, not a located thing; "last day" relative to an event
+B0192	P	a civilization (people) is somewhere for a time; period of history No
+B0200	NEITHER	islands fixed; closure is a rule of the place
+B0206	NEITHER	entity is a time; "today" relative to now
+B0216	P	person; "today" relative to now

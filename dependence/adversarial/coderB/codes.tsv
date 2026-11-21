@@ -1,0 +1,250 @@
+bid	code	confidence	note
+B0001	P	3	envoys movable; duration
+B0002	NEITHER	2	culture tied to city; period
+B0003	P	3	person; tenure span
+B0004	P	2	selection at store varies; week
+B0005	T	3	time of day; clock reading
+B0006	P	3	animals; now
+B0007	BOTH	1	event; calendar month
+B0008	P	3	event; duration
+B0009	P	3	people; now
+B0010	P	3	residence; duration
+B0011	P	3	animal; duration
+B0012	P	3	person; today relative
+B0013	P	3	visit; anytime
+B0014	BOTH	2	event; weekday and date
+B0015	BOTH	3	trip; summer season
+B0016	P	3	animal; last week relative
+B0017	BOTH	3	arrival; Sunday morning
+B0018	P	3	people; now
+B0019	P	3	people; currently
+B0020	P	3	animals; frequency
+B0021	P	3	stay; duration
+B0022	BOTH	1	event; calendar month
+B0023	P	3	movable object; until when
+B0024	NEITHER	3	duration entity; duration
+B0025	P	3	person; at the moment
+B0026	BOTH	2	event; morning
+B0027	P	3	person; today
+B0028	BOTH	1	animals; calendar months
+B0029	P	3	movable object; now
+B0030	P	3	wine; duration
+B0031	BOTH	1	feeling; summer season
+B0032	NEITHER	3	institution; since colonial era
+B0033	P	3	person; until death
+B0034	P	3	people; all the time
+B0035	P	3	event; frequency
+B0036	P	3	stay; duration
+B0037	NEITHER	2	sentiment tied to Germany; period
+B0038	NEITHER	1	plant species; most of year
+B0039	P	2	sun rays move; each day frequency
+B0040	BOTH	3	animal; night
+B0041	BOTH	3	person; morning
+B0042	NEITHER	3	city population; decade
+B0043	P	3	stay; duration
+B0044	P	3	people; then
+B0045	P	3	work activity; this week
+B0046	P	3	person; today
+B0047	NEITHER	3	institution; now
+B0048	P	3	animals; now
+B0049	P	3	person; relative to schedule
+B0050	P	3	person; now
+B0051	P	3	groups; year
+B0052	NEITHER	3	fixed branches; now
+B0053	P	1	dish movable; usually
+B0054	P	3	people; now
+B0055	P	3	person; duration
+B0056	BOTH	3	lists movable; dates
+B0057	P	3	person; early 1980s
+B0058	BOTH	1	events; summer season
+B0059	P	3	animals; duration
+B0060	P	3	people; duration
+B0061	NEITHER	3	shop fixed; years ago
+B0062	P	3	stay; duration
+B0063	NEITHER	3	installation fixed; now
+B0064	P	3	arrival; relative time
+B0065	P	3	activities; 30 years
+B0066	NEITHER	3	junction fixed; then
+B0067	NEITHER	1	destination place; usually
+B0068	P	3	family; duration
+B0069	T	3	shop fixed; winter
+B0070	P	3	people; year
+B0071	NEITHER	3	duration entity; duration
+B0072	P	3	remains; duration
+B0073	BOTH	3	visit; calendar date
+B0074	P	3	visit; two weeks ago
+B0075	BOTH	3	weather; summer
+B0076	P	3	objects; now
+B0077	BOTH	2	holiday event; date
+B0078	NEITHER	3	lifespan duration
+B0079	BOTH	3	vehicles; clock time
+B0080	T	2	hooks fixed; summer
+B0081	BOTH	3	crowd; Saturday night
+B0082	NEITHER	3	lifespan duration
+B0083	NEITHER	3	terminal fixed; then
+B0084	P	3	person; duration
+B0085	NEITHER	3	script feature; no time
+B0086	P	3	residence; used to
+B0087	P	3	person; years
+B0088	P	3	tourists; duration
+B0089	P	3	residence; duration
+B0090	P	3	person; now
+B0091	P	3	person; relative to event
+B0092	BOTH	3	presence; clock time
+B0093	P	3	group; duration
+B0094	BOTH	3	animals; morning
+B0095	NEITHER	2	community tied to place; period
+B0096	P	3	stay; relative to stop
+B0097	NEITHER	3	area fixed; year
+B0098	BOTH	3	bird; seasons
+B0099	P	3	residence; next year
+B0100	P	3	presence; that day relative
+B0101	P	3	residence; these days
+B0102	P	3	people; decade
+B0103	BOTH	3	person; night
+B0104	P	3	person; years
+B0105	P	3	person; frequency
+B0106	P	3	waiting; duration
+B0107	P	3	person; years
+B0108	BOTH	3	stay; date
+B0109	NEITHER	3	institutions; long
+B0110	P	1	dish movable; now
+B0111	NEITHER	3	restaurant fixed; duration
+B0112	P	3	residence; duration
+B0113	P	3	troops; duration
+B0114	BOTH	3	weather; winter
+B0115	BOTH	2	stay; holiday date
+B0116	P	2	groups; era
+B0117	P	2	paintings movable; duration
+B0118	BOTH	3	stay; date
+B0119	P	3	babies; duration
+B0120	BOTH	3	event; month
+B0121	NEITHER	3	institution; duration
+B0122	P	3	person; years
+B0123	P	3	residence; duration
+B0124	BOTH	3	fleet; clock and date
+B0125	P	1	songs performed; now
+B0126	BOTH	2	trip; travel duration
+B0127	P	2	visit; unspecified dates
+B0128	P	2	weather; annually
+B0129	BOTH	3	visit; calendar date
+B0130	P	3	body; frequency
+B0131	BOTH	1	sea ice; summer
+B0132	NEITHER	1	rules; since date
+B0133	P	3	celebration; year
+B0134	BOTH	3	dog; afternoon
+B0135	NEITHER	3	duration; duration
+B0136	P	3	presence; tomorrow
+B0137	P	3	stay; duration
+B0138	P	3	person; after event
+B0139	P	2	activity; humid days
+B0140	BOTH	3	trip; travel duration
+B0141	P	3	group; today
+B0142	P	3	stay; duration
+B0143	NEITHER	3	palace fixed; early period
+B0144	NEITHER	2	access abstract; year
+B0145	P	3	person; early 1980s
+B0146	P	3	time spent; duration
+B0147	NEITHER	3	office fixed; year
+B0148	P	3	flights; decade
+B0149	P	3	people; closing hours custom
+B0150	BOTH	3	eclipse event; summer
+B0151	P	3	person; earlier
+B0152	P	3	people; now
+B0153	P	3	residence; duration
+B0154	P	3	persons; now
+B0155	P	3	stay; duration
+B0156	P	3	legions; first
+B0157	BOTH	1	stay; month-year date
+B0158	P	3	people; years
+B0159	P	3	stay; duration
+B0160	BOTH	3	visit; calendar date
+B0161	NEITHER	3	capital fixed; previously
+B0162	BOTH	3	crowd; Tuesday night
+B0163	P	3	absence; duration
+B0164	BOTH	3	presence; weekday
+B0165	T	3	time of day; noon
+B0166	P	3	stay; duration
+B0167	BOTH	3	event; date and afternoon
+B0168	P	3	residence; many years
+B0169	NEITHER	3	city sections fixed; now
+B0170	P	3	weather; now
+B0171	P	3	stay; period
+B0172	NEITHER	1	day entity; relative time
+B0173	P	3	movable treasure; now
+B0174	P	3	person; relative time
+B0175	NEITHER	3	lifespan; duration
+B0176	NEITHER	3	fort fixed; since
+B0177	P	3	activity; duration
+B0178	NEITHER	3	area fixed; now
+B0179	BOTH	3	flight; sunrise to sunset
+B0180	P	3	absence; future duration
+B0181	P	3	position; now
+B0182	T	3	time entity; clock time
+B0183	BOTH	2	person; until Monday weekday
+B0184	NEITHER	3	base fixed; until year
+B0185	BOTH	3	bus; clock time
+B0186	NEITHER	3	seat fixed; temporarily
+B0187	BOTH	3	event; weekday
+B0188	P	3	wine; duration
+B0189	BOTH	3	event; dates
+B0190	NEITHER	3	city fixed; by year
+B0191	P	3	person; year
+B0192	NEITHER	3	civilization region; era
+B0193	T	2	parking fixed; weekends
+B0194	NEITHER	3	institutions; until year
+B0195	P	3	person; until age
+B0196	NEITHER	3	institution; now
+B0197	NEITHER	2	government; period
+B0198	P	3	group; duration
+B0199	NEITHER	3	windows fixed; now
+B0200	P	1	closure event; much of year
+B0201	P	3	stay; weeks of year
+B0202	P	3	event; years ago
+B0203	BOTH	3	stay; Sunday morning
+B0204	P	3	troupe; now
+B0205	T	2	cafe fixed; lunch time
+B0206	NEITHER	2	day entity; today relative
+B0207	P	3	members; now
+B0208	P	3	people; years ago
+B0209	NEITHER	3	duration; duration
+B0210	BOTH	3	stay; date
+B0211	BOTH	2	freezer; winter
+B0212	NEITHER	3	heating fixed; modern era
+B0213	BOTH	1	money amount; date
+B0214	NEITHER	3	buildings fixed; period
+B0215	BOTH	3	weather; winter
+B0216	P	3	absence; today
+B0217	P	3	descendants; now
+B0218	P	3	service; duration
+B0219	P	3	residence; now
+B0220	BOTH	3	climb event; before sunrise
+B0221	P	3	living; in 2 years
+B0222	T	3	season entity; summer
+B0223	BOTH	3	call; date and clock
+B0224	P	3	living; most of lives
+B0225	NEITHER	3	lake fixed; until now
+B0226	P	3	objects; now
+B0227	P	3	appearances; duration
+B0228	NEITHER	3	trees fixed; past
+B0229	P	3	animals; duration
+B0230	P	3	person; couple weeks
+B0231	P	1	personnel and posts; duration
+B0232	P	3	person; rest of year
+B0233	T	3	vibe tied to area; weekend
+B0234	NEITHER	3	ruins fixed; to this day
+B0235	P	3	locomotive; year
+B0236	BOTH	3	stay; evening
+B0237	T	3	day entity; weekday
+B0238	P	3	person; now
+B0239	BOTH	3	ballot; clock time
+B0240	BOTH	3	person; calendar date
+B0241	P	3	stay; duration
+B0242	P	3	person; after event
+B0243	BOTH	3	return; Sunday afternoon
+B0244	NEITHER	2	palace; reign period
+B0245	BOTH	3	events; night
+B0246	P	3	meeting; this year
+B0247	P	3	person; duration
+B0248	BOTH	3	call; clock time
+B0249	BOTH	3	team; clock and date

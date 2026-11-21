@@ -1,7 +1,6 @@
 test	scenario	unit	n	power_or_rejection	note
 F1 direction	share 0.60	items per pair	210	0.820	
-F1 direction	share 0.65	items per pair	97	0.834	
-F1 direction	share 0.66	items per pair	86	0.834	0.66 = Arm C's 0.34 read the other way
+F1 direction	share 0.65	items per pair	97	0.834	0.65 = Arm C's 0.35 (14 of 40) read the other way
 F1 direction	share 0.70	items per pair	54	0.837	
 F1 direction	share 0.74	items per pair	37	0.859	
 F1 direction	share 0.80	items per pair	23	0.840	

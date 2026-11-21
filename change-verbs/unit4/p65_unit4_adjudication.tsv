@@ -1,0 +1,108 @@
+id	code	reason	lemma	A	B
+U1143	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U1155	TEMPORAL	change of orientation, direction or state	turn	NOT-CHANGE	TEMPORAL
+U1449	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U1510	TEMPORAL	people move to one place (motion)	gather	NOT-CHANGE	TEMPORAL
+U1561	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U1562	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U1659	NOT-CHANGE	"broke out the activities": itemised in an account	break	NOT-CHANGE	TEMPORAL
+U1677	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U1699	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U1707	TEMPORAL	destruction: change of state	wipe	TEMPORAL	NOT-CHANGE
+U1768	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U1957	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U1993	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U1997	TEMPORAL	change of orientation, direction or state	turn	NOT-CHANGE	TEMPORAL
+U2004	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U2069	NOT-CHANGE	phrase split across verse lines: an arrangement, no value differs from place to place	break	NOT-CHANGE	SPATIAL
+U2221	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U2244	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U2603	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U2612	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U2671	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U2693	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U2709	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U3176	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U3248	TEMPORAL	change of orientation, direction or state	turn	NOT-CHANGE	TEMPORAL
+U3611	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U3754	NOT-CHANGE	"her face turned up towards me": a held posture, not a change and not a gradient	turn	NOT-CHANGE	TEMPORAL
+U3811	TEMPORAL	change of orientation, direction or state	turn	TEMPORAL	NOT-CHANGE
+U3821	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U3842	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U3901	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U3943	TEMPORAL	a train passing a station: motion of a thing (codebook: motion is TEMPORAL), not a static route	pass	TEMPORAL	SPATIAL
+U3986	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U3997	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U4052	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U4154	TEMPORAL	change of orientation, direction or state	turn	TEMPORAL	NOT-CHANGE
+U4238	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U4350	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U4351	TEMPORAL	change of orientation, direction or state	turn	TEMPORAL	NOT-CHANGE
+U4389	TEMPORAL	buses passing through a junction: motion of vehicles, codebook motion rule	pass	TEMPORAL	SPATIAL
+U4469	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U4551	TEMPORAL	change of orientation, direction or state	turn	TEMPORAL	NOT-CHANGE
+U4667	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U4726	TEMPORAL	death or transmission: change of state or motion	pass	TEMPORAL	NOT-CHANGE
+U4762	TEMPORAL	death or transmission: change of state or motion	pass	NOT-CHANGE	TEMPORAL
+U4947	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U4994	TEMPORAL	death or transmission: change of state or motion	pass	NOT-CHANGE	TEMPORAL
+U5112	TEMPORAL	participle names a completed change (rusting)	rust	NOT-CHANGE	TEMPORAL
+U5233	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U5357	TEMPORAL	motion, or "step it up" = increase	step	NOT-CHANGE	TEMPORAL
+U5440	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U5462	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U5684	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U5804	TEMPORAL	motion, or "step it up" = increase	step	TEMPORAL	NOT-CHANGE
+U5810	NOT-CHANGE	"broke out the activities": itemised in an account	break	NOT-CHANGE	TEMPORAL
+U5824	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U5908	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U5922	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U5973	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U6023	TEMPORAL	death or transmission: change of state or motion	pass	NOT-CHANGE	TEMPORAL
+U6071	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U6119	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U6129	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U6196	TEMPORAL	death or transmission: change of state or motion	pass	NOT-CHANGE	TEMPORAL
+U6358	TEMPORAL	change of orientation, direction or state	turn	NOT-CHANGE	TEMPORAL
+U6413	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U6481	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U6555	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U6622	TEMPORAL	object moved down into mud (motion)	sink	NOT-CHANGE	TEMPORAL
+U6633	TEMPORAL	motion, or "step it up" = increase	step	NOT-CHANGE	TEMPORAL
+U7257	TEMPORAL	change of orientation, direction or state	turn	NOT-CHANGE	TEMPORAL
+U7281	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U7377	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U7467	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U7519	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U7755	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U7910	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8019	TEMPORAL	participle names a completed change (rusting)	rust	NOT-CHANGE	TEMPORAL
+U8049	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U8198	TEMPORAL	change of orientation, direction or state	turn	TEMPORAL	NOT-CHANGE
+U8263	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8296	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8303	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8326	TEMPORAL	destruction: change of state	wipe	TEMPORAL	NOT-CHANGE
+U8338	ACROSS-ITEMS	"these things shade into one another": gradation between separate concepts, not along a place or path	shade	ACROSS-ITEMS	SPATIAL
+U8423	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8446	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U8525	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U8577	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U8579	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8717	TEMPORAL	change of orientation, direction or state	turn	TEMPORAL	NOT-CHANGE
+U8725	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U8748	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U8918	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U9038	TEMPORAL	change of orientation, direction or state	turn	NOT-CHANGE	TEMPORAL
+U9190	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U9223	ACROSS-ITEMS	"they shade together": gradation between separate categories	shade	ACROSS-ITEMS	UNCLEAR
+U9263	ACROSS-ITEMS	outcomes vary by type of training (classroom vs immersion): categorical cases, not a continuous dimension	vary	ACROSS-ITEMS	OTHER-DIM
+U9355	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U9585	TEMPORAL	change of state (breaking, broken)	break	TEMPORAL	NOT-CHANGE
+U9608	TEMPORAL	something comes into being or changes over time	develop	TEMPORAL	NOT-CHANGE
+U9690	TEMPORAL	make better: change of state	ameliorate	TEMPORAL	NOT-CHANGE
+U9726	TEMPORAL	people move to one place (motion)	gather	NOT-CHANGE	TEMPORAL
+U9730	NOT-CHANGE	"broken-up phrase": same arrangement sense as U2069	break	NOT-CHANGE	SPATIAL
+U9759	TEMPORAL	flying = motion through the air (codebook motion rule)	fly	TEMPORAL	NOT-CHANGE
+U9923	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE
+U9951	TEMPORAL	growing or cultivating plants: the plants change in size over time	grow	TEMPORAL	NOT-CHANGE

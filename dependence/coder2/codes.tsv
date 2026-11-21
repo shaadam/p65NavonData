@@ -1,0 +1,250 @@
+did	code	confidence	note
+D0001	S	2	garbage bags, movable objects
+D0002	N	3	fort on ridge, fixed landmark
+D0003	S	2	people locked in venue during closing hours
+D0004	S	3	wrestler's presence at event day
+D0005	S	3	person's stay here for an evening
+D0006	N	2	duration of life in the wild; place picks out
+D0007	S	2	first sunrise rays over the sea each day
+D0008	S	3	person away from office
+D0009	S	3	person's years at a university
+D0010	S	3	descendants live dispersed now
+D0011	S	3	migratory birds breed in Siberia by season
+D0012	S	3	mechanic's years at the station
+D0013	S	3	person living here
+D0014	S	3	person lying in bed next morning
+D0015	S	3	writers in the back room for years
+D0016	S	2	dog was in here last week
+D0017	S	3	body sitting at a desk
+D0018	S	3	members scattered across regions now
+D0019	S	2	season and weather there
+D0020	B	2	hooks in porch ceiling, fixed unless removed
+D0021	B	3	palace location early on, later moved
+D0022	S	3	where we are now
+D0023	N	3	keynote on Tuesday, single event
+D0024	S	3	driver now at relatives
+D0025	S	3	person used to live there
+D0026	B	3	ceremony date set by custom
+D0027	S	2	sunshine days of the sky
+D0028	S	3	person arrived here after call
+D0029	S	3	wolves present for ten years
+D0030	S	3	person kept at base until eighteen
+D0031	S	3	clock time in two zones
+D0032	S	3	person in office tomorrow
+D0033	S	3	person's residence over years
+D0034	N	2	cafes fixed on commuting route
+D0035	S	3	person stationed in Japan
+D0036	B	3	company headquarters at that time, later moved
+D0037	S	3	visitors must stay a night
+D0038	N	2	lifespan of cats, kind-level duration
+D0039	S	3	persons home in fifteen minutes
+D0040	S	2	sign-up lists at services
+D0041	N	2	duration of a single campaign
+D0042	N	2	duration of passage through corridor
+D0043	B	3	observance month set by custom
+D0044	S	3	people present now
+D0045	S	3	river dolphins no longer seen
+D0046	S	3	local day and time zone
+D0047	B	3	observance month set by custom
+D0048	S	3	person stayed at condo
+D0049	S	3	people present on islands
+D0050	S	2	sentiment present in Germany at a period
+D0051	B	3	administrative seat, later moved
+D0052	B	3	regency capital formerly elsewhere
+D0053	S	3	season felt here
+D0054	S	3	pilgrims at mosque
+D0055	S	3	stock available that week
+D0056	S	2	refugees' destination country
+D0057	B	3	course length by country practice
+D0058	S	3	person at meetings
+D0059	S	3	person stays at home
+D0060	S	3	person working from office this week
+D0061	S	3	people still in Egypt then
+D0062	S	3	painting cycle on display
+D0063	S	3	person at aunt's house
+D0064	N	2	lifespan depends on local predators; kind-level
+D0065	S	3	person staying in Fiji
+D0066	S	2	sunrise to sunset flight hours
+D0067	S	3	person in Mecca
+D0068	S	3	traveller's itinerary stop
+D0069	S	3	person spent time in store
+D0070	N	2	inscription at fixed gate
+D0071	S	2	mushrooms present across seasons in forest
+D0072	S	3	clock time in two zones
+D0073	S	3	person out of office
+D0074	S	2	seasonal egg-laying timing of birds
+D0075	N	2	dates of a trip stay
+D0076	S	3	traveller stays at hotel
+D0077	S	3	chickens housed in cages
+D0078	B	1	term usage across hotels and homes
+D0079	S	3	papyrus kept in Berlin now
+D0080	S	3	patients in hospital
+D0081	N	3	single event at one polling station
+D0082	S	3	person lived in Europe
+D0083	S	3	birds left in cage
+D0084	N	1	city closed in strike; fixed city
+D0085	S	3	weather and winds by season
+D0086	S	3	person was there at raffle
+D0087	S	3	meeting event in San Antonio
+D0088	N	2	restaurant long established, duration
+D0089	B	3	office closing hour by practice
+D0090	S	3	person lived in San Francisco
+D0091	S	2	groups in post-Saddam Iraq
+D0092	S	3	water sitting on plants overnight
+D0093	S	3	travellers at waterfall area
+D0094	S	3	person living in Texas
+D0095	S	3	person sat in library
+D0096	N	2	duration of holdouts in remote places
+D0097	S	3	guest stay
+D0098	S	2	songs performed in venues now
+D0099	S	3	person in hospital
+D0100	S	3	season and cold locally
+D0101	S	3	congress in session in Washington
+D0102	S	3	traveller will be in Okinawa
+D0103	S	3	speaker present here today
+D0104	S	2	troupes found in areas now
+D0105	S	3	treasure's current location
+D0106	S	3	friend in Chicago this week
+D0107	B	2	road branch formerly near here
+D0108	S	2	gas volumes at a point on date
+D0109	B	3	regency capital versus temporary seat
+D0110	S	3	resident lived here
+D0111	S	3	person arrived here early
+D0112	S	3	person in Houston that day
+D0113	S	3	remains waked at home
+D0114	S	3	customers waiting at table
+D0115	S	3	student living in Limerick
+D0116	S	3	customer present on dates
+D0117	N	2	local government since colonial era
+D0118	B	2	large trees once in the area
+D0119	S	3	people present at the shop now
+D0120	N	3	buildings built and destroyed, events
+D0121	S	2	population of city over time
+D0122	S	3	person home all night
+D0123	S	3	person stayed at hostel
+D0124	S	3	man away for a week
+D0125	B	3	bus terminal then in front of market
+D0126	S	3	person now lives in London
+D0127	S	3	envoys inside office five minutes
+D0128	S	3	person lying in bed as head
+D0129	B	2	holiday adoption by state law
+D0130	S	3	Jews in England in 1590s
+D0131	S	3	traveller in Ho Chi Minh four days
+D0132	N	2	islands fixed; time says when open
+D0133	S	3	writer in that room daily
+D0134	S	3	passenger on bus
+D0135	S	3	bears on deck
+D0136	S	3	person in Sao Paulo on date
+D0137	S	2	evening crowds in the area
+D0138	S	3	migrants at sea now
+D0139	S	3	eclipse and sun position, season there
+D0140	S	3	traveller itinerary
+D0141	S	2	missionary strategy carried out in region then
+D0142	B	3	school length by national practice
+D0143	S	3	snake placed in container
+D0144	N	2	single decision on travel restrictions
+D0145	S	3	weekday in Manhattan
+D0146	N	3	lake fixed north of town
+D0147	B	3	school length by national practice
+D0148	S	3	time zones and daylight
+D0149	N	2	salon fixed here; nothing shows move
+D0150	S	3	person in office today
+D0151	S	3	visitors spent hours in shop
+D0152	S	2	culture centered in area then
+D0153	B	3	palace location later moved
+D0154	S	3	floodwater in city sections
+D0155	N	2	city is hub; fixed city
+D0156	N	2	last day in office, single state
+D0157	S	3	clock time in zone
+D0158	S	3	stuff in apartment now
+D0159	S	3	person in Houston on date
+D0160	S	2	windows removed and put back
+D0161	B	2	institutions long based in regency
+D0162	S	3	summer sea ice, weather
+D0163	S	2	dishes found abroad now
+D0164	S	3	local clock time
+D0165	S	2	event held in studio
+D0166	S	3	climate and seasonal weather
+D0167	S	3	wine kept in cellar
+D0168	S	3	person in town through Sunday
+D0169	S	3	legions based in York
+D0170	B	2	military base held until 1995
+D0171	S	3	people living on land
+D0172	S	2	water access state at time
+D0173	S	3	climbers reach summit
+D0174	S	3	person lives here now
+D0175	S	3	person out of office
+D0176	S	3	people here all the time
+D0177	S	2	shopper there; shop closed in winter
+D0178	S	3	pamphlets stocked at points
+D0179	S	3	person in Calgary
+D0180	S	3	person spent years on ship
+D0181	S	3	crowd in the square
+D0182	S	3	person and crowd in square
+D0183	S	3	guests stayed at property
+D0184	S	3	person in jail
+D0185	N	2	earlier existence; place picks out
+D0186	S	3	pilot on flight deck
+D0187	B	2	radio stations spread now
+D0188	S	2	parking, cars
+D0189	S	3	customer was in salon
+D0190	N	2	city's importance; fixed city
+D0191	N	2	audition dates picked by city
+D0192	S	3	date differs across time zones
+D0193	S	3	person in cell
+D0194	S	3	person was there on day
+D0195	S	3	resident lived there
+D0196	S	3	person present today
+D0197	S	3	winter weather and temperature
+D0198	N	2	last day, single event
+D0199	S	3	person back in Houston
+D0200	B	3	schools in village until 2011
+D0201	S	3	people staying in Korea
+D0202	S	3	guest stayed
+D0203	B	2	chain branches spread now
+D0204	S	3	person now resides at address
+D0205	S	3	person in office
+D0206	S	3	troops around neighbourhood
+D0207	S	3	Michigan winter season
+D0208	S	3	person lived in Sicily
+D0209	S	3	fighters on the street now
+D0210	S	3	wine in oak barrels
+D0211	S	3	babies in care unit
+D0212	N	2	downtown layout fixed
+D0213	S	3	beaver colonies in range
+D0214	B	2	airline route opened in 1970s
+D0215	B	3	school length by national practice
+D0216	S	3	person lived in cities
+D0217	N	2	trip duration from Buenos Aires
+D0218	N	2	train journey duration
+D0219	S	3	summer in New York
+D0220	S	3	person present in the year
+D0221	S	3	family lived in region
+D0222	S	3	groups existed in southwest US
+D0223	N	2	charity developed in China
+D0224	S	3	person lived there
+D0225	S	3	person at conservatory
+D0226	N	2	single departure date
+D0227	S	1	best seasons for visiting, weather
+D0228	S	3	person in Italy for conference
+D0229	B	2	usual local way of selling
+D0230	S	3	resident lived here
+D0231	S	3	migrants at sea
+D0232	S	3	guest stayed in room
+D0233	S	3	rabbit kept at night
+D0234	S	3	locomotive operating on railway
+D0235	S	3	person not there at time
+D0236	S	3	patient there by noon
+D0237	S	3	musician rarely outside studio
+D0238	S	3	monk at monastery
+D0239	S	3	whales in waters by season
+D0240	S	3	last bus departure time at stop
+D0241	S	3	fleet position at time
+D0242	S	3	person residing in cities
+D0243	S	2	civilization flourished in region then
+D0244	N	2	letter position fixed under line
+D0245	S	3	person lives in rented house
+D0246	S	3	owner at shop for years
+D0247	S	3	lamp held in hand
+D0248	N	2	neighborhood fixed on the map
+D0249	S	3	visiting professor at university

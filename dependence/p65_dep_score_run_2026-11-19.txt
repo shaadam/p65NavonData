@@ -1,0 +1,5 @@
+coder1: plants missed (primary binary) 0/6 []; exact three-level 6/6; trusted; real-item codes {'S': 190, 'B': 31, 'N': 22}
+coder2: plants missed (primary binary) 0/6 []; exact three-level 6/6; trusted; real-item codes {'S': 186, 'N': 30, 'B': 27}
+kappa primary (S vs not) 0.883 (agreement 0.959); broad (S/B vs N) 0.613 (0.926); quadratic-weighted three-level 0.812; exact three-level agreement 0.909
+kappa shuffle control (500): median -0.010, 97.5th pct 0.131 -> FIRED
+disagreements on three-level code: 22; on primary binary: 10

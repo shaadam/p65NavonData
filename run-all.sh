@@ -96,7 +96,7 @@ same out/arm-c_meta.txt published-asymmetry/p65_meta_random-effects.txt
 
 step "9. error-evidence arm: per-source recount with its two planted controls"
 "$PY" -I scripts/p65_armD_recount.py --control > out/arm-d_recount.txt 2>&1; echo "   exit $?"
-same out/arm-d_recount.txt error-evidence/p65_armD_recount-run_2026-11-17.txt
+same_prefix out/arm-d_recount.txt error-evidence/p65_armD_recount-run_2026-11-20.txt
 
 step "10. appendix mathematics: attack-stage numerical checks (fixed seeds)"
 "$PY" -I scripts/p65_wave1_attack_checks.py > out/wave1_attack-checks.txt 2>&1; echo "   exit $?"

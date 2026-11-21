@@ -1,6 +1,14 @@
 """Arm C second coding: merge blinded part files, then (only after merging) compare
 with the first coding and re-run the registered tally on the second codes.
 Usage: python3 -I p65_arm-c_compare.py <second-coding dir> <original coded.tsv>
+
+Unit ruling (2026-11-19, G04 ledger row 21): the first coding split Jagorska, Steinecker & Riemer (2025) into two
+rows by age group (blinded rows 36 and 37). Under the registered unit rule (the experiment as numbered by the authors;
+a between-subjects split is tagged BETWEEN, not split) it is one experiment, coded by its main direction test
+(trial-type main effect, t(519) = -0.49, p = .62: SYMMETRIC). The coded table now carries row 36 as the merged
+experiment and row 37 as MERGED. The frozen second-coding file is not edited; UNIT_RULINGS below applies the same
+ruling to the second coder's codes after merging the parts: row 36 takes the merged experiment's code, row 37 is
+dropped from agreement and tallies on both sides.
 """
 import csv, sys, math, os, glob
 from collections import Counter, defaultdict
@@ -27,6 +35,18 @@ if len(sys.argv) > 3 and sys.argv[3] == '--merge-only':
 
 o = list(csv.DictReader(open(orig), delimiter='\t'))
 first = {str(i): r for i, r in enumerate(o, 1)}
+
+# unit ruling applied to the second coder (see docstring); the frozen file on disk is unchanged
+UNIT_RULINGS = {'36': ('Jagorska2025_young', 'SYMMETRIC'), '37': ('Jagorska2025_older', None)}
+for r, (key, code) in UNIT_RULINGS.items():
+    assert blind[r]['key'] == key == first[r]['key'], (r, key, blind[r]['key'], first[r]['key'])
+    if code is None:
+        assert first[r]['code'] == 'MERGED', first[r]['code']
+        del blind[r]
+    else:
+        print(f"unit ruling: row {r} {key} second-coder code {parts[r]['code2']} (2t {parts[r]['code2_2tailed']}) -> {code}")
+        parts[r] = dict(parts[r], code2=code, code2_2tailed=code)
+print(f'unit ruling: rows compared {len(blind)} (row 37 merged into row 36)')
 
 def norm(c):
     c = c.upper().replace(' ', '')
@@ -77,7 +97,7 @@ for mine, theirs in (('code2', 'code'), ('code2_2tailed', 'code_2tailed')):
     po, k = kappa(reached)
     po_all = sum(a == b for a, b in allp) / len(allp)
     print(f'\n### {mine} vs first {theirs}: reached n = {len(reached)}, raw agreement {po:.3f}, Cohen kappa {k:.3f};'
-          f' all 64 (UNREACHED = disagree) raw {po_all:.3f}')
+          f' all {len(allp)} (UNREACHED = disagree) raw {po_all:.3f}')
     # directional collapse: S>T / T>S / non-directional
     col = lambda c: c if c in ('SPACE>TIME', 'TIME>SPACE') else 'NONDIR'
     po3, k3 = kappa([(col(a), col(b)) for a, b in reached])

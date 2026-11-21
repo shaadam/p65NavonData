@@ -1,0 +1,32 @@
+work: https://openalex.org/W2049844796 On a conceptual hierarchy of time, space, and other dimensions 1978 cited_by_count= 32
+cites-filter meta count: 29 returned: 29
+1985 article | Information as the possible
+1989 book-chapter | Chapter 10 Subjective Time and Attentional Resource Allocation: An Integrated Model of Time Estimation
+1989 book-chapter | Introduction
+1993 dissertation | Family members' temporal perception and mood during an open heart surgery waiting experience
+1996 book-chapter | Time perception measurements in neuropsychology
+1998 article | Constraints on the selection of auditory information.
+1999 article | Visuospatial attention: Beyond a spotlight model
+1999 article | Filled versus Empty Intervals in Prospective Hypnotic Time Estimation with a Real-Simulator Design
+2003 article | Hypnosis, Attention, and Time Cognition
+2004 dissertation | An investigation into expected duration estimation as used as part of the time management process.
+2005 article | Behavioral and Electrophysiological Indices of Temporal Processing Dysfunction in Schizophrenia
+2006 article | Effect of task difficulty on the functional anatomy of temporal processing
+2006 article | Comprehending narratives containing flashbacks: Evidence for temporally organized representations.
+2006 report | The relationship between different email management strategies and the perceived control of time
+2007 article | Is location cueing inherently superior to color cueing? Not if color is presented early enough
+2007 dissertation | The effects of cue size manipulations on target processing efficiency
+2010 article | Temporal processing in schizophrenia: Effects of task-difficulty on behavioral discrimination and neuronal res
+2011 book-chapter | Establishing salience during narrative text comprehension: A simulation view account
+2011 dissertation | The mind's eye. Orienting attention to categorical and idiosyncratic stimulus representations
+2012 article | Developmental neuroscience of time and number: implications for autism and other neurodevelopmental disabiliti
+2012 book-chapter | Processing narrative texts: Melting frozen time?
+2012 article | Модели языковой экспликации концепта время в английских художественных произведениях XVII века
+2012 article | Τεχνικές αντιμετώπισης κρίσεων: διαχείριση άγχους
+2015 book-chapter | Time Processing in Schizophrenia
+2016 article | Time-informed task planning in multi-agent collaboration
+2017 article | The Temporal Dimensions in the First Year of Life
+2018 article | Temporarily Out of Order: Temporal Perspective Taking in Language in Children With Autism Spectrum Disorder
+2020 article | Specific verbal representation of the time category
+2023 review | Clinical, Cognitive, and Neurobiological Correlates of Impaired Timing Abilities Associate to Cannabis Use: a 
+control (citers before 1978, must be 0): 0

@@ -1,0 +1,35 @@
+OMP: Warning #179: Function Can't set size of /tmp file failed:
+n = 243
+TABLE en def TP 139 PT 16 | nondef TP 7 PT 11
+TABLE id def TP 32 PT 3 | nondef TP 17 PT 18
+TABLE All def TP 171 PT 19 | nondef TP 24 PT 29
+FISHER en p = 2.80857054449646638252375787468611`8.*^-6 exact 99234602894275/35332779192151729314
+FISHER id p = 0.00016723783236728531382722458202685234`8. exact 27785/166140637
+FISHER All p = 3.055626147362794546076574262`8.*^-11 exact 1464214346206980232391248412633/47918635186136664426887243303351319538683
+
+FindRoot::lstol: The line search decreased the step size to within tolerance specified by AccuracyGoal and PrecisionGoal, but was unable to find a sufficient decrease in the merit function. You may need more than 30. digits of working precision to meet these tolerances.
+
+FindRoot::lstol: The line search decreased the step size to within tolerance specified by AccuracyGoal and PrecisionGoal, but was unable to find a sufficient decrease in the merit function. You may need more than 30. digits of working precision to meet these tolerances.
+EXACT CONDITIONAL common OR (MLE, lo, hi) {12.3173953782451681702`6., 0.0183156388887341803`6., 1.784823009631872608449100339`6.*^8} p = 9.003218950248647283100303826`8.*^-10
+
+FindRoot::lstol: The line search decreased the step size to within tolerance specified by AccuracyGoal and PrecisionGoal, but was unable to find a sufficient decrease in the merit function. You may need more than 30. digits of working precision to meet these tolerances.
+
+General::stop: Further output of FindRoot::lstol will be suppressed during this calculation.
+en cond OR {13.2845348616935782317`6., 4.0642501793621592023`6., 1.784823009631872608449100339`6.*^8}
+
+FindMaximum::lstol: The line search decreased the step size to within the tolerance specified by AccuracyGoal and PrecisionGoal, but was unable to find a sufficient increase in the function. You may need more than MachinePrecision digits of working precision to meet these tolerances.
+FIRTH without interaction: loglik -94.48532250464264 b {-0.3682098754160313, 2.485178883804328, 0.279219022985284} OR {0.6919719385492964, 12.003267252904442, 1.3220968817665335}
+   coef 2 OR 12.003267252904442 profile 95% {5.354454343996338, 28.744629010026145}
+   coef 3 OR 1.3220968817665335 profile 95% {0.5796914132147023, 3.244938169116375}
+   predicted TP non-def en 0.4089736494936175 id 0.47776695760015725 | def en 0.8925415694144472 id 0.9165361595865718
+
+FindMaximum::lstol: The line search decreased the step size to within the tolerance specified by AccuracyGoal and PrecisionGoal, but was unable to find a sufficient increase in the function. You may need more than MachinePrecision digits of working precision to meet these tolerances.
+FIRTH with interaction: loglik -94.30652583032546 b {-0.4274440168938323, 2.562148238204159, 0.3718741618409568, -0.27810127142746316} OR {0.6521739116955048, 12.963636402816805, 1.450450447794426, 0.7572201328674574}
+   coef 2 OR 12.963636402816805 profile 95% {4.616903887261981, 38.734752772747385}
+   coef 3 OR 1.450450447794426 profile 95% {0.4735810135145367, 4.621077904711419}
+   coef 4 OR 0.7572201328674574 profile 95% {0.1500470926539625, 4.343273126829072}
+CONTROL shuffled within language, 500 draws: share p<0.05 = 0.032; share S <= 171 = 1.; median S = 155. (null expectation of S ~ 155.3092485549133)
+CONTROL FIRED (association removed)
+SHARE en non-dep TP 7/18 {0.3888888888888889, 0.17298585478975181, 0.6425487941069373} | dep TP 139/155 {0.896774193548387, 0.8377835729765246, 0.9398366180147149}
+SHARE id non-dep TP 17/35 {0.4857142857142857, 0.3138285092147232, 0.6601085846090226} | dep TP 32/35 {0.9142857142857143, 0.7694249813411227, 0.9819623601857824}
+SHARE All non-dep TP 24/53 {0.4528301886792453, 0.31561528386409926, 0.5955017082732811} | dep TP 171/190 {0.9, 0.8482462664612885, 0.9387127306604774}

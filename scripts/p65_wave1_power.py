@@ -51,12 +51,12 @@ say("P1 direction of one pair (F1), exact equal-tailed binomial, alpha .05, powe
 ctrl = max(power_dir(n, 0.5) for n in range(5, 400))
 say(f"   control: max rejection at true share 0.5 over n=5..399 = {ctrl:.4f} (must be <= .05)")
 P1 = {}
-for p in (0.60, 0.65, 0.66, 0.70, 0.74, 0.80):
+for p in (0.60, 0.65, 0.70, 0.74, 0.80):
     n = min_n(p); P1[p] = n
     say(f"   true share {p:.2f} (logit {logit(p):+.2f}): n = {n} directional items"
         f"  [x5.7 = {int(np.ceil(n * 5.7))} if drawn like Arm A3]")
     row("F1 direction", f"share {p:.2f}", "items per pair", n, power_dir(n, p),
-        "0.66 = Arm C's 0.34 read the other way" if p == 0.66 else "")
+        "0.65 = Arm C's 0.35 (14 of 40) read the other way" if p == 0.65 else "")
 
 # ---------------- P2: transitivity (F2): resolve all three pairs of a triad
 say("\nP2 transitivity (F2): all three pairs of a triad resolved (each 95% CI clear of .5)")

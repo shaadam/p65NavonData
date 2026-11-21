@@ -1,0 +1,7 @@
+pid	entity	time_expr	place_expr	answer
+CP1	the fishing boats	for the whole winter	in the harbour	P
+CP2	the date	already Tuesday	in Sydney	T
+CP3	the night train	at 22:05	at the border station	BOTH
+CP4	the cathedral	since the twelfth century	in the old town	NEITHER
+CP5	the river	for thousands of years	along the valley floor	NEITHER
+CP6	the children	for three weeks	in a holiday camp by the lake	P

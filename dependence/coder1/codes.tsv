@@ -1,0 +1,250 @@
+did	code	confidence	note
+D0001	S	2	location of belongings, movable objects
+D0002	N	3	fort on ridge, fixed landmark
+D0003	S	2	MC and guests locked inside, persons
+D0004	S	3	he was at Wrestlemania, person
+D0005	S	3	friends staying here, persons
+D0006	B	1	lifespan in the wild, set by conditions not timekeeping
+D0007	S	2	sun's first rays at Manakau, sun position
+D0008	S	3	person away from the office
+D0009	S	3	Fillmore at Ohio State, person
+D0010	S	3	descendants living across Indonesia, persons
+D0011	S	3	cranes breeding in Siberia, animals
+D0012	S	3	mechanic there 25 years, person
+D0013	S	3	speaker living here, person
+D0014	S	3	narrator lying in bed, person
+D0015	S	2	writers in the back room, persons
+D0016	S	3	dog he had in here, animal
+D0017	S	2	body sitting at desk, person
+D0018	S	3	members scattered across regions, persons
+D0019	S	3	when fall comes there, season
+D0020	B	2	ceiling hooks, fixture that may be removed
+D0021	B	2	Medang palace in Mataram, later moved
+D0022	S	3	where we are now, persons
+D0023	N	3	keynote day, single event
+D0024	S	3	taxi driver at relatives, person
+D0025	S	3	speaker used to live at Meadowrun
+D0026	B	3	ceremony date, custom of the cities
+D0027	S	2	sunshine days per year, sky and climate
+D0028	S	3	John arrived here, person
+D0029	S	3	wolves there ten years, animals
+D0030	S	3	Paris kept at Flag Land Base, person
+D0031	S	3	call clock time in Houston and Sao Paulo
+D0032	S	3	speaker in office or Sao Paulo, person
+D0033	S	3	speaker lived in Dallas, person
+D0034	S	1	Parisians stopping at cafe at lunch, persons
+D0035	S	3	Fillmore stationed in Japan, person
+D0036	B	3	ANA headquarters, business that later moved
+D0037	S	3	visitor staying overnight, person
+D0038	B	1	indoor cat lifespan, by care conditions
+D0039	S	3	family home in fifteen minutes, persons
+D0040	S	2	sign-up lists at services, movable objects
+D0041	N	2	duration of Napoleon campaign, single event
+D0042	N	1	walking time to T3, fixed by passage layout
+D0043	B	3	Magic Month in October, designation by custom
+D0044	S	3	who is here now, persons
+D0045	S	3	Mahakam dolphins along the river, animals
+D0046	S	3	Saturday morning in Sydney, clock and date
+D0047	B	3	Magic Month in October, designation by custom
+D0048	S	3	Moussaoui at condominium, person
+D0049	S	3	early Polynesians on islands, persons
+D0050	S	1	antitobacco sentiment in Germany, movement of people
+D0051	B	3	Yahukimo government seat, institution moved
+D0052	B	3	Badung capital in Denpasar, later moved
+D0053	S	3	summer here, season
+D0054	S	3	pilgrims at the mosque, persons
+D0055	S	2	store merchandise, movable goods
+D0056	S	2	refugees passing through Thailand, persons
+D0057	B	3	medical school length, national practice
+D0058	S	3	he was at meetings in Pakistan, person
+D0059	S	3	speaker stays at home, person
+D0060	S	3	speaker working from Hong Kong office
+D0061	S	3	Israelites still in Egypt, persons
+D0062	S	2	paintings on display, movable objects
+D0063	S	3	he at aunt's house, person
+D0064	B	1	outdoor cat lifespan, by environment conditions
+D0065	S	3	speaker staying in Fiji
+D0066	B	2	Paro flight window, airport rule tied to daylight
+D0067	S	3	Sayyid Ahmad in Mecca, person
+D0068	S	3	itinerary location, traveller
+D0069	S	3	speaker inside DSW, person
+D0070	N	2	inscription at the gate, fixed feature
+D0071	S	2	oyster mushrooms in forests, seasonal organism
+D0072	S	3	meeting clock time Houston and Sao Paulo
+D0073	S	3	speaker out of office, person
+D0074	S	2	egg-laying dates, seasonal timing by climate
+D0075	N	2	dates of Aberdeen stay, single visit
+D0076	S	3	traveller staying in hotel
+D0077	S	3	chickens housed in cages, animals
+D0078	N	1	underfloor heating in buildings, fixed installation
+D0079	S	3	papyrus kept in Berlin, movable object
+D0080	S	3	patients at Auckland Hospital, persons
+D0081	N	2	last ballot at that station, single event
+D0082	S	3	Whistler lived in Europe, person
+D0083	S	3	birds in the cage, animals
+D0084	S	1	general strike in Fallujah, event
+D0085	S	3	trade winds direction, weather
+D0086	S	3	speaker there at raffle, person
+D0087	S	3	Neil's meeting in San Antonio, event
+D0088	N	2	how long restaurant has stood, single history
+D0089	B	3	office closing at noon, schedule
+D0090	S	3	Norton resident of San Francisco, person
+D0091	S	1	nationalist groups in Iraq, persons
+D0092	S	2	water sitting on plants, movable substance
+D0093	S	3	family at waterfall area, persons
+D0094	S	3	where addressee lives, person
+D0095	S	3	speaker sat in library, person
+D0096	N	2	holdouts refusing surrender, single history
+D0097	S	3	couple staying here, persons
+D0098	S	2	song performances in public places, events
+D0099	S	3	he was in hospital, person
+D0100	S	3	cold season where speaker is
+D0101	S	2	Congress in session, gathering of persons
+D0102	S	3	speaker in Okinawa, person
+D0103	S	3	speaker here today, person
+D0104	S	2	ludruk troupes in regions, groups of persons
+D0105	S	3	king's treasure now, movable object
+D0106	S	3	friend in Chicago, person
+D0107	N	2	former road branch near here, fixed feature
+D0108	S	2	gas volume at meter point, commodity
+D0109	B	3	government center at Dekai, institution relocated
+D0110	S	3	speaker lived here, person
+D0111	S	3	Rich arrived here, person
+D0112	S	3	Ed in Houston, person
+D0113	S	3	remains waked at home, body
+D0114	S	3	diners sitting at table, persons
+D0115	S	3	student living in Limerick, person
+D0116	S	3	speaker there on dates, person
+D0117	N	2	US local government since colonial era, single history
+D0118	N	1	large trees in Kayuagung, fixed growth
+D0119	S	3	where they are now, persons
+D0120	N	3	construction date of buildings, single events
+D0121	S	2	inhabitants of Lodz, population of persons
+D0122	S	3	speaker home all night, person
+D0123	S	3	Galois staying at hostel, person
+D0124	S	3	waiting in his apartment, person
+D0125	B	3	bus terminal in front of market, later moved
+D0126	S	3	he lives in London, person
+D0127	S	3	envoys inside PDI office, persons
+D0128	S	3	Kihei lying in bed, person
+D0129	B	2	MLK Day adoption dates, state law practice
+D0130	S	3	Jews in England, persons
+D0131	S	3	traveller in Ho Chi Minh, person
+D0132	N	2	islands closed seasonally, fixed places reachable only sometimes
+D0133	S	3	writer in that room, person
+D0134	S	3	rider on the bus, person
+D0135	S	3	bears on the deck, animals
+D0136	S	3	speaker in Sao Paulo, person
+D0137	S	1	weekend crowds in the area
+D0138	S	3	migrants at sea, persons
+D0139	S	3	eclipse view and summer, sky and season
+D0140	S	3	itinerary location, traveller
+D0141	S	1	Jesuit mission activity in region, event
+D0142	B	3	high school length, national practice
+D0143	S	3	snake put in dark place, animal
+D0144	N	2	start dates of travel restrictions, single decisions
+D0145	S	3	Sunday in Manhattan, weekday
+D0146	N	3	lake north of town, fixed feature
+D0147	B	3	primary school length, national practice
+D0148	S	3	broadcast clock time in US vs Sochi
+D0149	S	2	speaker living in La Jolla, person
+D0150	S	3	Kay in the office, person
+D0151	S	3	visitors in bookstore, persons
+D0152	S	2	Hohokam culture center, people
+D0153	B	3	Medang palace moved to Poh Pitu
+D0154	S	2	floodwater in city sections, weather and water
+D0155	S	1	radical culture in Oakland, people and movement
+D0156	N	2	last day at Azurix, single event
+D0157	S	3	12:30 Central Time, clock reading
+D0158	S	3	stuff in apartment, movable objects
+D0159	S	3	speaker in Houston, person
+D0160	B	2	stained glass windows, fixtures removed in war
+D0161	B	2	three institutions in Bangka, institutional history
+D0162	S	3	sea ice in summer, weather
+D0163	S	2	Indonesian dishes abroad, movable cuisine
+D0164	S	3	nine pm in Jayapura, clock reading
+D0165	S	3	grand final venue, event
+D0166	S	3	summer and winter temperatures, weather
+D0167	S	3	wines in cellar, movable objects
+D0168	S	3	speaker in town, person
+D0169	S	3	legions housed at York, persons
+D0170	B	2	LTTE base at Twante, organisation base ended
+D0171	S	2	humans living on land, persons
+D0172	B	1	urban water access, infrastructure by history
+D0173	S	3	climbers at summit before sunrise, persons
+D0174	S	3	speaker living here, person
+D0175	S	3	she is out of office, person
+D0176	S	3	staff here all the time, persons
+D0177	S	2	shopper there to stock up, person
+D0178	S	3	pamphlets at parking lots, movable objects
+D0179	S	3	Paul in Calgary, person
+D0180	S	3	Paris on the ship, person
+D0181	S	3	crowd in the square
+D0182	S	3	almost no one there, persons
+D0183	S	3	Palmers staying in property, persons
+D0184	S	3	Zawahiri in jail, person
+D0185	N	2	when Kanade existed in Afterlife, single state
+D0186	S	3	pilot on flight deck, person
+D0187	N	2	community radio stations in region, fixed stations
+D0188	S	2	parked cars on weekends, vehicles
+D0189	S	3	customer in salon, person
+D0190	N	2	Athens as a city, fixed place
+D0191	N	1	audition dates per city, single events
+D0192	S	3	VJ Day date differs by time zone
+D0193	S	3	Daniel in a cell, person
+D0194	S	3	speaker there Sunday, person
+D0195	S	3	speaker living there, person
+D0196	S	3	Ramona here today, person
+D0197	S	3	winter freezing, weather
+D0198	N	2	last day of this visit, single event
+D0199	S	3	speaker back in Houston, person
+D0200	N	2	schools in village, fixed institutions
+D0201	S	3	family staying in Korea, persons
+D0202	S	3	guest stayed here, person
+D0203	B	2	Sour Sally branches, business spread changes
+D0204	S	3	Slamet Gundono residence, person
+D0205	S	3	president in this office, person
+D0206	S	3	troops surrounding neighbourhood, persons
+D0207	S	3	Michigan winter, season
+D0208	S	3	speaker in Sicily, person
+D0209	S	3	fedayeen on the street, persons
+D0210	S	3	wine in French oak, movable object
+D0211	S	3	babies in special care, persons
+D0212	B	2	original extent of Tulsa, town grew by history
+D0213	S	3	beaver colonies in park, animals
+D0214	S	1	flights to Hong Kong, airline route
+D0215	B	3	primary school length, national practice
+D0216	S	3	Nida living in three cities, person
+D0217	S	2	bus trip time from Buenos Aires, moving vehicle
+D0218	S	2	train travel time to Jakarta Kota, moving vehicle
+D0219	S	2	summer in New York, season
+D0220	S	3	he was there one day, person
+D0221	S	3	family living in region, persons
+D0222	S	3	polygamous groups in southwest, persons
+D0223	B	2	when formal charity developed in China, practice history
+D0224	S	3	speaker lived in Edinburgh, person
+D0225	S	3	Moreau at conservatory, mother in France, persons
+D0226	B	3	vocational school length, national practice
+D0227	S	1	best time to visit Ireland, by climate
+D0228	S	3	Shalev in Levico Terme, person
+D0229	B	2	when sold after boiling in Bogor, local custom
+D0230	S	3	speaker lived here, person
+D0231	S	3	migrants at sea, persons
+D0232	S	3	guest stayed here, person
+D0233	S	3	rabbit and chickens at night, animals
+D0234	S	3	B16 locomotive operating, vehicle
+D0235	S	3	speaker there at 7:30, person
+D0236	S	3	family there by noon, persons
+D0237	S	3	Barrett making music outside studio, person
+D0238	S	3	Theodorus at Tabennese, person
+D0239	S	3	humpback whales in area, animals
+D0240	S	3	last bus departure from city centre
+D0241	S	3	fleet TF17 position, vehicles
+D0242	S	3	diner residing in cities, person
+D0243	S	2	Olmec flourishing on Gulf Coast, people
+D0244	B	1	letter position below line, script rule
+D0245	S	3	Anzu in rented house, person
+D0246	S	3	owner there 31 years, person
+D0247	S	3	lamp in Aladin's hand, movable object
+D0248	N	2	West Oakland neighbourhood, fixed place
+D0249	S	3	visiting professor at Johns Hopkins, person

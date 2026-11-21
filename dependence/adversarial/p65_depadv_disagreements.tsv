@@ -1,0 +1,28 @@
+bid	entity	expr_1	expr_2	codeA	codeB
+B0007	National Magic Month	October	in the US	P	BOTH
+B0012	Ramona Stewart	today	here with us	BOTH	P
+B0022	National Magic Month	October	in the United States	P	BOTH
+B0027	the addressee	today	in the office	BOTH	P
+B0031	the summer feeling	here	summer	T	BOTH
+B0037	sentimen antitembakau	pada awal abad 20	di Jerman	P	NEITHER
+B0038	jamur tiram	di hutan pegunungan daerah yang sejuk	hampir sepanjang tahun	P	NEITHER
+B0046	the speaker as Chief Guest	today	here	BOTH	P
+B0067	tujuan akhir pengungsi Korea Utara	biasanya	Thailand	P	NEITHER
+B0077	Hari Kemenangan atas Jepang	14 Agustus	di benua Amerika	T	BOTH
+B0080	2 hooks	this summer	in the ceiling of the outer porch	BOTH	T
+B0088	wisatawan	dalam waktu lima menit	T3	BOTH	P
+B0096	the passenger's stay	until the "Montparnasse Bienvenue" stop	on the bus	BOTH	P
+B0100	the recipient's presence	on that day	in Houston	BOTH	P
+B0120	the free raffle	in August	there	P	BOTH
+B0127	the visit	the dates	Aberdeen	BOTH	P
+B0128	days of sunshine	annually	Tulsa	NEITHER	P
+B0136	the speaker's presence	in the office	tomorrow	BOTH	P
+B0139	the speaker's staying and working	at home	on humid days	BOTH	P
+B0141	the speaker's group	at like a river waterfall area	today	BOTH	P
+B0157	the speaker's stay	in the Seaview room here	in December 2009	P	BOTH
+B0165	the office's closing time	at noon	his office	NEITHER	T
+B0172	the group's last day	our last day	at Glacier National Park	T	NEITHER
+B0192	the Olmec civilization	from about 1200 to about 400 BCE	along the hot Gulf Coast of Mexico	P	NEITHER
+B0200	the closure of the islands	Most other islands	during much of the year	NEITHER	P
+B0206	the speaker's last day	in the office here at Azurix	Today	T	NEITHER
+B0216	the speaker's absence	today	out of the office	BOTH	P

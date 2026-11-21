@@ -1,0 +1,23 @@
+did	final	reason
+D0006	N	lifespan in the wild: kind-level duration, neither local time-keeping nor a custom of the place
+D0034	S	located things are Parisians stopping at cafes at lunch (persons)
+D0038	N	cat lifespan: kind-level duration, not time-keeping or custom
+D0064	N	cat lifespan: kind-level duration, not time-keeping or custom
+D0066	B	flight window is an airport rule (anchored to daylight, but the stated value is the rule)
+D0078	N	underfloor heating is a fixed installation; the time phrase changes the term's use, not location
+D0084	S	city closed by a general strike: an event
+D0107	N	former road branch: fixed feature; ceasing to exist is not being elsewhere
+D0118	N	large trees once in the area: fixed growth; not elsewhere at another time
+D0149	S	speaker has lived in the area for years: a person's stay
+D0155	S	radical culture located in Oakland since the 1960s: people and movements (low confidence)
+D0160	S	stained glass windows removed and put back: movable objects actually moved
+D0172	B	urban water access: infrastructure state that differs by history
+D0187	N	community radio stations: fixed installations, nothing shows a move
+D0200	N	schools in the village until 2011: fixed institutions; ending is not being elsewhere
+D0212	B	original extent of Tulsa: town shown different at another time by history
+D0214	B	airline route opened in the 1970s: a service schedule set by history
+D0217	S	bus travel time from Buenos Aires: time for a moving thing to reach from that stop
+D0218	S	train travel time to Jakarta Kota: time for a moving thing between stops
+D0223	N	when formal charity developed in China: time of a single historical development
+D0226	B	school course length: national rule of the place
+D0244	N	letter position under the line: fixed by script rule, not by time

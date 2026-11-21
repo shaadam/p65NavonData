@@ -1,0 +1,14 @@
+(a) REGISTERED DEFINITIONAL CODES, subtype x direction (primary rule)
+  ARR   TP: 1
+  EXPR  PT: 2
+  EXPR  TP: 2
+  TZ    PT: 7
+  all definitional: n 12, exact conditional p 0.000033, MH OR 0.0709
+  TZ rows removed (n 236), definitional non-TZ: n 5, TP 3, exact conditional p 0.2397, MH OR 0.3293
+
+(b) NULL WORLD: latent ties independent of direction; rates q_TZ 0.1458, q_SUN/ARR 0.0051, q_EXPR 0.0165; direction kept as observed (TP 195, PT 48), language kept
+  registered (directional) rule: share of 5000 runs reporting OR < 1 with p < 0.05: 0.9074; median MH OR 0.1113; median n definitional 12
+
+(c) NEGATIVE CONTROL, same latent ties, label fires regardless of frame:
+  share reporting OR < 1 with p < 0.05: 0.0272; median MH OR 1.0147; median n definitional 40
+  CONTROL FIRED (no false association, <= 0.05)

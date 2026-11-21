@@ -1,0 +1,12 @@
+rows 243
+crosstab final x dependent(S): {('TP', '1'): 171, ('PT', '0'): 29, ('PT', '1'): 19, ('TP', '0'): 24}
+P(S | TP row; question = does the PLACE need a time) = 171/195 = 0.877
+P(S | PT row; question = does the TIME need a place) = 19/48 = 0.396
+crude OR = 10.88; s0 = 24/53 = 0.453
+label predicted from direction alone (TP->S, PT->not S): accuracy 0.823 vs majority 0.782
+mutual information label;direction = 0.134 bits of H(label) = 0.757
+identity check s0 = nT(1-a)/(nT(1-a)+nP(1-b)) = 0.453
+NULL (direction independent of both dependence facts), 5000 sims:
+  median s0 0.453 [2.5%,97.5%] [0.319, 0.587]; median OR 10.5
+  registered verdict frequencies: {'DEP SUPPORTED': 0.92, 'NOT SUPPORTED as stated (leans PT)': 0.078, 'PARTLY': 0.001, 'HIER SUPPORTED': 0.0, 'UNDECIDED': 0.0}
+DEPENDENCE-ONLY world (direction follows dependence, none-or-both at 0.5): verdicts {'DEP SUPPORTED': 0.835, 'NOT SUPPORTED as stated (leans PT)': 0.165, 'PARTLY': 0.001}

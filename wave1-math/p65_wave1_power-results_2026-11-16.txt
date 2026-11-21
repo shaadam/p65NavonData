@@ -2,7 +2,6 @@ P1 direction of one pair (F1), exact equal-tailed binomial, alpha .05, power .80
    control: max rejection at true share 0.5 over n=5..399 = 0.0500 (must be <= .05)
    true share 0.60 (logit +0.41): n = 210 directional items  [x5.7 = 1197 if drawn like Arm A3]
    true share 0.65 (logit +0.62): n = 97 directional items  [x5.7 = 553 if drawn like Arm A3]
-   true share 0.66 (logit +0.66): n = 86 directional items  [x5.7 = 491 if drawn like Arm A3]
    true share 0.70 (logit +0.85): n = 54 directional items  [x5.7 = 308 if drawn like Arm A3]
    true share 0.74 (logit +1.05): n = 37 directional items  [x5.7 = 211 if drawn like Arm A3]
    true share 0.80 (logit +1.39): n = 23 directional items  [x5.7 = 132 if drawn like Arm A3]

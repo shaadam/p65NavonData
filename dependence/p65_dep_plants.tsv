@@ -1,0 +1,7 @@
+pid	frame	previous_sentence	sentence	expected
+PL1	PLACE-STATED	We looked everywhere for him.	At nine he was still at his aunt's house.	S
+PL2	PLACE-STATED	The road climbs steeply.	Even in midwinter the old fort sits on the ridge above the town.	N
+PL3	PLACE-STATED	Kotanya kecil.	Sampai sekarang pun danau itu terletak di sebelah utara kota.	N
+PL4	TIME-STATED	The call came from abroad.	In Sydney it was already Saturday morning.	S
+PL5	TIME-STATED	Kami menelepon keluarga di rumah.	Di Jayapura waktu itu sudah pukul sembilan malam.	S
+PL6	TIME-STATED	The conference had three days of talks.	In the main hall the keynote was on the Tuesday.	N

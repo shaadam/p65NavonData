@@ -1,0 +1,107 @@
+p65: registration commits cited in the article (from git log of the private working repository
+shaadam/p65Spacetime). Each entry: the short hash as printed, the full hash, the commit date (ISO 8601,
+with offset from UTC), the commit subject, and the files the commit touched; [in deposit] marks a file
+whose current version is in this deposit. The repository itself is not public.
+
+089561b
+  full hash: 089561b8203096c4b6c6b80f820cced37f92757b
+  date:      2026-11-13T13:45:33-05:00
+  subject:   Arm A registered before coding: plan, predictions P1-P6 + figure, pivot table, analysis script (smoke-tested on synthetic codes), blind 500-item file; aborted coder output set aside unread
+  files:
+    arm-a-model/p65_arm-a_predictions_2026-11-13.png
+    arm-a-model/p65_model-items_blind.tsv
+    arm-a-model/p65_model-items_map.tsv  [in deposit]
+    p65_arm-a_predictions_2026-11-13.md  [in deposit]
+    scripts/p65_navon_arm_a_analyze.py  [in deposit]
+    scripts/p65_navon_predictions_fig.py
+
+f470e71
+  full hash: f470e71dd76ca54a1c47a596f7a2889c92ba28d7
+  date:      2026-11-13T13:46:37-05:00
+  subject:   Arm A plan: correct registration and coder-stop times (13:45, ~13:30-13:38); app timestamp
+  files:
+    arm-a-class/p65_held-holding.html
+    p65_arm-a_predictions_2026-11-13.md  [in deposit]
+
+4a2de35
+  full hash: 4a2de35ac6390af384bd05b1f3e23f820873ded0
+  date:      2026-11-13T15:31:31-05:00
+  subject:   p65 Arm A2: register entity-screen recall check (S1 spaCy, S2 GUM gold, S3) before any screen is run
+  files:
+    p65_arm-a2_entity-screen-registration_2026-11-13.md  [in deposit]
+
+a81a309
+  full hash: a81a30963c6b61d7aca2ebd2577be17b60394300
+  date:      2026-11-13T15:46:11-05:00
+  subject:   p65 Arm A3: register 6-cell re-stratified design (groups x DATE/TIME flag), 1,500 new items, predictions, before any draw
+  files:
+    p65_arm-a3_registration_2026-11-13.md  [in deposit]
+
+63f3a67
+  full hash: 63f3a67de6b0ecbfa86f7bf1dbe4cb2f818d2681
+  date:      2026-11-13T18:53:22-05:00
+  subject:   p65 A3b: F-N/R-N 1,000-draw (registered 18:44 before draw). s 0.823 (0.728-0.906), was 0.738 (0.561-0.893); unseen-cell bounds F-N PT<=42, R-N PT<=117, worst case s 0.62-0.91; kappa 0.576 < 0.60 bar -> exploratory (NA-dominated); agreed-only s 0.854. Screen recall TP 0.64 (misses now/currently).
+  files:
+    arm-a3b-model/p65_a3b-adjudication-sheet.tsv
+    arm-a3b-model/p65_a3b-adjudication.tsv  [in deposit]
+    arm-a3b-model/p65_a3b-codes_coder1.tsv  [in deposit]
+    arm-a3b-model/p65_a3b-codes_coder1_b1.tsv
+    arm-a3b-model/p65_a3b-codes_coder1_b2.tsv
+    arm-a3b-model/p65_a3b-codes_coder1_b3.tsv
+    arm-a3b-model/p65_a3b-codes_coder1_b4.tsv
+    arm-a3b-model/p65_a3b-codes_coder2.tsv  [in deposit]
+    arm-a3b-model/p65_a3b-codes_coder2_b1.tsv
+    arm-a3b-model/p65_a3b-codes_coder2_b2.tsv
+    arm-a3b-model/p65_a3b-codes_coder2_b3.tsv
+    arm-a3b-model/p65_a3b-codes_coder2_b4.tsv
+    arm-a3b-model/p65_a3b-items_blind.tsv
+    arm-a3b-model/p65_a3b-items_blind_b1.tsv
+    arm-a3b-model/p65_a3b-items_blind_b2.tsv
+    arm-a3b-model/p65_a3b-items_blind_b3.tsv
+    arm-a3b-model/p65_a3b-items_blind_b4.tsv
+    arm-a3b-model/p65_a3b-items_map.tsv  [in deposit]
+    arm-a3b-model/p65_a3b-results_2026-11-13.txt  [in deposit]
+    arm-a3b-model/p65_a3b-robustness-agreed-only.txt  [in deposit]
+    arm-a3b-model/p65_a3b-run-log.txt
+    arm-a3b-model/p65_codebook-v2-sec2.md  [in deposit]
+    arm-a3b-model/p65_navon_arm_a3b_analyze.py  [in deposit]
+    arm-a3b-model/p65_navon_arm_a3b_sample.py  [in deposit]
+    p65_arm-a3b_registration_2026-11-13.md  [in deposit]
+    p65_arm-a3b_results_2026-11-13.md  [in deposit]
+
+ea3fef9
+  full hash: ea3fef9d6300bfc29374d5f4bc2dd792517f27ef
+  date:      2026-11-14T06:13:26-05:00
+  subject:   p65 Arm B: register criterion-(b) dictionary test (codebook, strata, falsifier rule, F2/F3/F5, plants) before any classification
+  files:
+    p65_change-verbs-registration_2026-11-14.md  [in deposit]
+    scripts/p65_change_verbs_extract.py  [in deposit]
+    scripts/p65_change_verbs_fetch.sh  [in deposit]
+    scripts/p65_change_verbs_filter.py  [in deposit]
+    scripts/p65_change_verbs_items.py  [in deposit]
+
+66d9131
+  full hash: 66d91314bba60574435361dab01999bbb254beeb
+  date:      2026-11-13T15:31:38-05:00
+  subject:   p65: register published space-time interference asymmetry tally as Navon Garner-criterion test (before search)
+  files:
+    p65_published-asymmetry-registration_2026-11-13.md  [in deposit]
+
+0c6fcdd
+  full hash: 0c6fcdd54e7ea596e0f70ad80dd7d45f1e4dc05a
+  date:      2026-11-13T15:52:46-05:00
+  subject:   p65 E1: register learner-error time/space intrusion test (FCE + W&I M2), predictions and controls, before any count
+  files:
+    p65_error-evidence-registration_2026-11-13.md  [in deposit]
+    scripts/p65_error_intrusion_count.py  [in deposit]
+
+Six-dimension study, registration commits by date; the registration document is not in
+this deposit because it describes the gold items of a study not yet run:
+
+  18afffe  2026-11-16T10:23:35-05:00  p65 wave2: registration draft
+  7a8fe32  2026-11-16T11:38:13-05:00  p65 wave2: colour arm registration (OANC 1.0.1 targeted draw) and freeze, before any v3 coding
+  34a7655  2026-11-16T11:52:09-05:00  p65 wave2: pilot 1 results, S1 fired (pooled kappa 0.249, presence disagreements), Addendum 3
+  a2e563b  2026-11-16T12:35:39-05:00  p65 wave2: registration Addendum 4 (codebook v3.1, pilot 2 excluding pilot 1, seed 20261124, same gold design and stopping rules), before the pilot 2 draw
+  2431f9a  2026-11-16T12:38:14-05:00  p65 wave2: registration Addendum 5 (colour rate from pilot 2 only, draw sized on lower 95% bound), before any pilot 2 code
+  07c29a1  2026-11-16T12:38:23-05:00  p65 wave2: Addendum 5 names the cap it refers to (3,000, Addendum 1)
+  105d203  2026-11-16T16:27:29-05:00  p65 wave2: registration Addendum 6 - 0.60 per-pair bar gates confirmatory tests (sec. 5.2); pilot 2 pooled kappa 0.495 is below the second-pilot S1 bar 0.60, so every wave 2 result is exploratory (earlier "S1 pass" corrected); pilot 2 kappa intervals; seeds for main run

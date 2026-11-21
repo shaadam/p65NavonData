@@ -1,0 +1,7 @@
+pid	time_expr	place_expr	expected
+PL1	pukul sembilan malam	di Jayapura	TBP
+PL2	already Saturday morning	in Sydney	TBP
+PL3	on Tuesday	at the Tuesday market	PBT
+PL4	at sunrise	just above the eastern horizon	BOTH
+PL5	in 2019	on Main Street	NEITHER
+PL6	kemarin	di rumah neneknya	NEITHER

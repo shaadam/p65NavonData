@@ -239,6 +239,12 @@ for r in counted:
 n_papers = len(papers)
 abstract_papers = sum(all(v) for v in papers.values())
 row76 = [r for r in coded if r["key"] == "RiedlHallez2026" and r["exp"] == "1"][0]["code"].strip()
+jag25 = "/".join(r["code"].strip() for r in coded if r["key"].startswith("Jagorska2025"))
+reali = [r for r in coded if r["key"] == "RealiLlerasAlviar2019"][0]["code"].strip()
+_wk = rd("change-verbs", "p65_wiktionary-webster-overlap_run_2026-11-19.txt")
+_m = re.search(r"Wiktionary verb senses: (\d+)", _wk); wk_n = int(_m.group(1))
+_m = re.search(r"ALL senses: exact (\d+)", _wk); wk_ex = int(_m.group(1))
+_m = re.search(r"EXACT-MATCHED WK REMOVED: directional naming time (\d+) of (\d+)", _wk); wk_t, wk_d = int(_m.group(1)), int(_m.group(2))
 
 # ------------------------------------------------------------------ Arm D (per-source list, recount of 2026-11-17)
 armd = tsv("error-evidence", "p65_armD_per-source_2026-11-17.tsv")
@@ -270,19 +276,23 @@ if PERTURB:
 
 # ================================================================== abstract
 A_ = "abstract"
-check(A_, "almost fifty years", "2026 minus 1978", "Navon 1978 (title page)", 2026 - 1978, "subtraction; 48 is 'almost fifty'", tol=3, printed_value=50)
-check(A_, "four arms", "arms A, B, C, D", "Sections 2 to 5", 4, "count of arm sections", tol=0)
-check(A_, "two blind model coders", "coders per sample", "arm-a*/codes_coder1, coder2", 2, "files per sample", tol=0)
+# dropped 2026-11-18 (apply ledger 3, row L3-1): the abstract now says "We know of no direct test since."
+# check(A_, "almost fifty years", "2026 minus 1978", "Navon 1978 (title page)", 2026 - 1978, "subtraction; 48 is 'almost fifty'", tol=3, printed_value=50)
+check(A_, "in four studies", "arms A, B, C, D", "Sections 2 to 5", 4, "count of arm sections", tol=0)
+check(A_, "Two AI coders of one model family", "coders per sample", "arm-a*/codes_coder1, coder2", 2, "files per sample", tol=0)
 check(A_, "about three times as often", "0.738 / (1 − 0.738) = 2.8", "arm-a3-model/p65_a3-results_2026-11-13.txt", s3 / (1 - s3), "odds from the recomputed share; 2.8 reads 'about three'", tol=0.4, printed_value=3)
-check(A_, "0.74 of directional sentences", "registered share, time over place", "arm-a3-model/p65_a3-results_2026-11-13.txt CELL TABLE", s3, "Σ TP·pop/coded ÷ Σ (TP+PT)·pop/coded over the six cells")
+check(A_, "0.74 of sentences in which one dimension restricts the other", "registered share, time over place", "arm-a3-model/p65_a3-results_2026-11-13.txt CELL TABLE", s3, "Σ TP·pop/coded ÷ Σ (TP+PT)·pop/coded over the six cells")
 check(A_, "(95% interval 0.56 to 0.89)", "document bootstrap within cells, 10,000 resamples", "same file, 'DIRECTIONAL share' line: 0.561 to 0.893", (0.561, 0.893), "READ: the bootstrap is not rerun here", read=True)
-check(A_, "three openly licensed dictionaries", "WordNet, GCIDE, Wiktionary", "change-verbs/items_key_nodefs.tsv 'dict' column", len({key[k]["dict"] for k in key}), "distinct dict values", tol=0)
-check(A_, "23 of 27 unbiased cases", "directional change senses in the C and R strata naming time", "change-verbs/codes/*.tsv + items_key (final codes re-derived by the 2-of-3 rule)", (len(unb_time), len(unbiased)), "final OVER not UNSPECIFIED/ITEMS, strata C or R, plants out; OVER == TIME")
-check(A_, "64 published experiments", "counted experiments", "published-asymmetry/p65_published-asymmetry-coded_2026-11-13.tsv", len(counted), "tally rule re-applied: code in the four codes, not CLINICAL, not SECONDARY")
-check(A_, "(27 against 14, with 21 symmetric)", "primary tally", "same TSV", (cc["SPACE>TIME"], cc["TIME>SPACE"], cc["SYMMETRIC"]), "Counter over counted rows (row 76 Riedl & Hallez Exp 1 = %s, ruled 2026-11-17)" % row76)
-check(A_, "(p = .060)", "two-sided exact sign test 27 vs 14", "same TSV", p_sign, "binomial tail sum, doubled", tol=0.0006)
-check(A_, "of 33 sources", "Arm D map, one row per source", "error-evidence/p65_armD_per-source_2026-11-17.tsv", n_sources, "rows counted; source_key distinct")
-check(A_, "none shows time structuring space", "T>S count", "same TSV, direction_code", d_codes["T>S"], "rows with direction_code T>S", tol=0)
+# dropped 2026-11-18 (G17 row 1): the abstract no longer names the three dictionaries; Section 3.1 carries them
+# check(A_, "three openly licensed dictionaries", "WordNet, GCIDE, Wiktionary", "change-verbs/items_key_nodefs.tsv 'dict' column", len({key[k]["dict"] for k in key}), "distinct dict values", tol=0)
+check(A_, "that say what the change happens over, 23 say time", "directional change senses in the C and R strata naming time", "change-verbs/codes/*.tsv + items_key (final codes re-derived by the 2-of-3 rule)", (len(unb_time), len(unbiased)), "final OVER not UNSPECIFIED/ITEMS, strata C or R, plants out; OVER == TIME", printed_value=(23, 27))
+check(A_, "64 experiments from 39 papers", "counted experiments", "published-asymmetry/p65_published-asymmetry-coded_2026-11-13.tsv", len(counted), "tally rule re-applied: code in the four codes, not CLINICAL, not SECONDARY")
+# anchor reworded 2026-11-21 (Adam: one sentence opening "Applying the Garner criterion to 64 experiments")
+check(A_, "only the effect of space (extent or distance) on time reached significance in 25, and only that of time on space in 14 (both in 22, neither in 3)", "primary tally", "same TSV", (cc["SPACE>TIME"], cc["TIME>SPACE"], cc["SYMMETRIC"], cc["NONE"]), "Counter over counted rows (row 76 Riedl & Hallez Exp 1 = %s, ruled 2026-11-17; Jagorska et al. 2025 one experiment = %s, G04 merge 2026-11-19; full-text recode 2026-11-19, Reali et al. 2019 = %s by ruling)" % (row76, jag25, reali))
+# dropped 2026-11-21 (B-1061, Adam "just remove the sentence"): the abstract no longer prints the sign-test p; the body rows keep it
+check(A_, "none shows time dominating space, and two partly",  # anchor reworded at 48a0c04 (G17 R1, apply pass 2026-11-20); "one" -> "two" after the Arm D full-text recode (Adam rwj 2026-11-20)
+      "T>S count (the sentence opens 'Of 32 sources')", "same TSV, direction_code", d_codes["T>S"], "rows with direction_code T>S", tol=0, printed_value=0)
+check(A_, "Of 32 sources on errors", "Arm D sources read (direction code not unknown)", "same TSV", n_sources - d_codes["unknown"], "rows minus direction_code unknown (apply pass 2026-11-19)", tol=0, printed_value=32)
 # 2026-11-17 field-register read (Adam) cut: "4,000 sentences", the exploratory 0.82 (0.73 to 0.91), "one sense in 1,725", the learner-English
 # 1.2 million words and ten errors, and "six dimensions in English" left the abstract; the body still prints them and the
 # hand tables below trace them (the ten errors and the 4,000 are also checked in the discussion block).
@@ -292,14 +302,80 @@ D_ = "discussion"
 check(D_, "about three of four directional English sentences", "0.738 ≈ 3/4", "arm-a3-model results, CELL TABLE", s3, "recomputed share; 0.74 reads 'three of four'", tol=0.02, printed_value=0.75)
 check(D_, "lower bound 0.56 above one half", "A3 interval lower bound", "arm-a3-model results 'DIRECTIONAL share' line: 0.561", 0.561, "READ", read=True)
 check(D_, "117 of the 121 directional senses", "Garner licence on pooled directional senses", "change-verbs/codes (final codes) with the appendix's dependence rule", (licensed, dirs_total), "licensed = X over TIME (X ≠ TIME) plus size/colour/intensity/quantity over POSITION; total directional")
-check(D_, "ten errors cannot decide", "E1 count", "error-evidence/p65_e1-run_2026-11-13.txt", n_st + n_ts, "n(S->T) + n(T->S)", tol=0)
+# dropped 2026-11-19 (full-text recode pass): "ten errors cannot decide" was already absent from the Discussion at f064cc0;
+# the count is printed in Section 5 ("Only ten corrections"), outside the traced regions.
+# check(D_, "ten errors cannot decide", "E1 count", "error-evidence/p65_e1-run_2026-11-13.txt", n_st + n_ts, "n(S->T) + n(T->S)", tol=0)
 check(D_, "kappa 0.79 and 0.68", "first sample and A3 agreement", "arm-a-model and arm-a3-model coder files", (k_a, k_a3), "Cohen's kappa recomputed on the 'class' columns (n %d, %d)" % (n_a, n_a3))
 check(D_, "0.58 on the", "A3b agreement", "arm-a3b-model coder files", k_a3b, "Cohen's kappa recomputed (n %d)" % n_a3b)
 check(D_, "300 of the same sentences is planned", "planned human coding", "docs/manuscript/p65_navon-validation_DRAFT.md (plan, no results file)", None, "plan statement, not a result")
 check(D_, "155\ndirectional sentences".replace("\n", " "), "A3 combined directional count", "arm-a3-model results CELL TABLE", directional_a3, "Σ (TP + PT) over the six cells")
 check(D_, "design effect of about 6", "stratified-draw design effect", "p65_wave1_verify_2026-11-16.md L20: 5.0 to 6.9", (deff[0] + deff[1]) / 2, "READ: midpoint of the verify pass's range", read=True)
 check(D_, "about 22 to 31 independent items", "155 ÷ design effect", "same, L20", (round(155 / deff[1]), round(155 / deff[0])), "155 ÷ 6.9 and 155 ÷ 5.0, rounded")
-check(D_, "ten of its 39 papers", "abstract-only papers among counted", "published-asymmetry coded TSV, 'verification' column", (abstract_papers, n_papers), "papers whose counted rows all start ABSTRACT; distinct doi-or-key")
+check(D_, "Its 64 experiments come from 39 papers", "counted experiments and papers (none coded from an abstract: %d)" % abstract_papers, "published-asymmetry coded TSV", (len(counted), n_papers), "tally rule re-applied; papers = distinct doi-or-key")
+# 2026-11-20 F01 (final blind read of build 36da1e26): 6.4 limitation sentence now states the abstract-only count.
+# 2026-11-21: Feagans (1980) read in full (commit 335213a); five -> four.
+check(D_, "Four of the 33 error-map sources were read only as abstracts or as cited", "error-map sources not read in full or in part", "error-evidence/p65_armD_per-source_2026-11-17.tsv column status_in_map", (sum(r["status_in_map"] not in ("FULL", "partial") for r in armd), len(armd)), "rows with status other than FULL or partial (ABS, SEC, title only, not stated); all rows")
+check(D_, "word for word in 4% of its verb senses", "Wiktionary verb senses repeating a Webster 1913 definition exactly (%d of %d)" % (wk_ex, wk_n), "change-verbs/p65_wiktionary-webster-overlap_run_2026-11-19.txt", 100 * wk_ex / wk_n, "parsed from the registered run (dictionaries not in the tree); percent", tol=0.5)
+check(D_, "111 of 120 directional senses vary over time", "change count with exact-matched Wiktionary items removed", "same run file", (wk_t, wk_d), "parsed from the EXACT-MATCHED WK REMOVED line")
+# ---- 2026-11-19 integration pass: direction-blind re-tests (6.2) and unit 4 (6.4). Counts recomputed from the
+# coded TSVs by a join written here; odds-ratio intervals READ from the run files. The dependence and definitional
+# folders are not in the deposit bundle (scripts/p65_v1_build_deposit.py); there the rows fall back to LOCATED.
+_dep_ok = os.path.isdir(os.path.join(ROOT, "dependence", "adversarial")) and os.path.isdir(os.path.join(ROOT, "definitional-adversarial"))
+if _dep_ok:
+    _item = {r["item"]: r for r in tsv("definitional-adversarial", "p65_defadv_final.tsv")}
+    _bm = {r["bid"]: r["item"] for r in tsv("dependence", "adversarial", "p65_depadv_blind_map.tsv")}
+    _cell, _tabs = {}, {"en": [0, 0, 0, 0], "id": [0, 0, 0, 0]}
+    for _r in tsv("dependence", "adversarial", "p65_depadv_final.tsv"):
+        _it = _bm.get(_r["bid"])
+        if _it not in _item:
+            continue   # plants
+        _tp = int(_item[_it]["final"] == "TP"); _c = _r["code"]; _L = _item[_it]["corpus"]
+        _cell.setdefault(_c, [0, 0]); _cell[_c][0] += _tp; _cell[_c][1] += 1
+        if _c == "P":
+            _tabs[_L][0] += _tp; _tabs[_L][1] += 1 - _tp
+        elif _c in ("T", "NEITHER"):
+            _tabs[_L][2] += _tp; _tabs[_L][3] += 1 - _tp
+    _mh = sum(a * d / (a + b + c + d) for a, b, c, d in _tabs.values()) / sum(b * c / (a + b + c + d) for a, b, c, d in _tabs.values())
+    _ndef = sum(r["inter"] == "1" for r in _item.values())
+    _nd = {L: [r for r in _item.values() if r["corpus"] == L and r["inter"] == "0"] for L in ("en", "id")}
+    _sh = tuple(100 * sum(r["final"] == "TP" for r in _nd[L]) / len(_nd[L]) for L in ("en", "id"))
+    _strat = rd("dependence", "adversarial", "p65_depadv_stratified_run_2026-11-19.txt")
+    _ana = rd("dependence", "adversarial", "p65_depadv_analysis_run_2026-11-19.txt")
+    _firth = rd("definitional-adversarial", "p65_defadv_assoc_run_inter_2026-11-19.txt")
+    _m = re.search(r"P vs T\+NEITHER: .*?MH OR [\d.]+ \[([\d.]+), ([\d.]+)\]", _strat); _mh_ci = (float(_m.group(1)), float(_m.group(2)))
+    _m = re.search(r"NEITHER\s+TP\s+32/ 47 = [\d.]+ \[([\d.]+), ([\d.]+)\]", _ana); _nei_ci = (float(_m.group(1)), float(_m.group(2)))
+    _m = re.search(r"dependent\s+b -?[\d.]+ SE [\d.]+\s+OR\s+([\d.]+) \[([\d.]+), ([\d.]+)\]", _firth); _fo = tuple(float(x) for x in _m.groups())
+else:
+    _cell = None
+_u4 = os.path.isdir(os.path.join(ROOT, "change-verbs", "unit4"))
+if _u4:
+    _key = {r["id"]: r for r in tsv("change-verbs", "unit4", "p65_unit4_key_nosent.tsv")}
+    _A = {r["id"]: r["code"] for r in tsv("change-verbs", "unit4", "p65_unit4_codes_A.tsv")}
+    _B = {r["id"]: r["code"] for r in tsv("change-verbs", "unit4", "p65_unit4_codes_B.tsv")}
+    _adj = {r["id"]: r["code"] for r in tsv("change-verbs", "unit4", "p65_unit4_adjudication.tsv")}
+    _real = [i for i in _key if not _key[i]["plant_answer"].strip()]
+    assert all(i in _adj or _A[i] == _B[i] for i in _real), "unit 4: unadjudicated disagreement"
+    _fin = Counter(_adj.get(i, _A[i]) for i in _real)
+    _u4dir = _fin["TEMPORAL"] + _fin["SPATIAL"] + _fin["OTHER-DIM"]
+    _ds = tsv("change-verbs", "unit4", "p65_unit4_directional-senses.tsv")
+    _dnt = sum(r["OVER"] != "TIME" for r in _ds)
+check(D_, "in 121 of 134 where the place needs the time (0.90)", "direction-blind dependence: place needs time, TP", "dependence/adversarial final codes + blind map + item directions", None if _cell is None else (_cell["P"][0], _cell["P"][1], _cell["P"][0] / _cell["P"][1]), "join and count, plants dropped")
+check(D_, "32 of 47 where neither needs the other (0.68", "direction-blind dependence: neither, TP", "same", None if _cell is None else (_cell["NEITHER"][0], _cell["NEITHER"][1], _cell["NEITHER"][0] / _cell["NEITHER"][1]), "join and count")
+check(D_, "(0.68, 95% interval 0.53 to 0.81)", "exact interval, neither cell", "p65_depadv_analysis_run_2026-11-19.txt NEITHER line", None if _cell is None else _nei_ci, "READ", read=True)
+check(D_, "too few to read (5 of 9)", "direction-blind dependence: time needs place, TP", "same join", None if _cell is None else tuple(_cell["T"]), "join and count")
+check(D_, "the pooled odds ratio of 3.9", "Mantel-Haenszel OR, P vs T+NEITHER by language", "same join", None if _cell is None else _mh, "MH point estimate recomputed here (apply pass 2026-11-19; interval 1.75 to 8.64 no longer printed)", tol=0.05)
+check(D_, "in English (odds ratio 8.9,", "English OR, P vs T+NEITHER", "same join", None if _cell is None else (_tabs["en"][0] * _tabs["en"][3]) / (_tabs["en"][1] * _tabs["en"][2]), "ad/bc from the joined 2x2", tol=0.05)
+check(D_, "in Indonesian (1.7, *p* = .54)", "Indonesian OR and Fisher p", "same join; p from scipy fisher_exact on the same table (methods-evidence 2026-11-19 apply pass)", None if _cell is None else ((_tabs["id"][0] * _tabs["id"][3]) / (_tabs["id"][1] * _tabs["id"][2]), 0.5424), "ad/bc; p READ", tol=0.05)
+check(D_, "The two languages differ (*p* = .04)", "MH homogeneity p", "p65_depadv_stratified_run_2026-11-19.txt 'homogeneity p 0.04'", 0.04 if "MH OR 3.89 [1.75, 8.64], CMH p 0.000231, homogeneity p 0.04" in _strat else None, "READ", read=True)
+check(D_, "in 37 of 53 where each needs the other (0.70)", "direction-blind dependence: both, TP", "same join", None if _cell is None else (_cell["BOTH"][0], _cell["BOTH"][1], _cell["BOTH"][0] / _cell["BOTH"][1]), "join and count")
+check(D_, "less often than the others (12 of 20;", "TP among definitional pairings", "p65_defadv_final.tsv column inter", None if _cell is None else (sum(r["final"] == "TP" for r in _item.values() if r["inter"] == "1"), _ndef), "count")
+check(D_, "The 20 such pairings of 243", "blind definitional, both coders", "definitional-adversarial/p65_defadv_final.tsv column inter", None if _cell is None else (_ndef, len(_item)), "rows counted")
+check(D_, "0.32, 95% interval 0.12 to 0.85", "Firth OR, blind definitional, language-adjusted", "p65_defadv_assoc_run_inter_2026-11-19.txt 'dependent' Firth line", None if _cell is None else _fo, "READ", read=True)
+check(D_, "86% of the coded English pairings and 72% of the Indonesian", "TP share among non-definitional pairings, per language", "p65_defadv_final.tsv", None if _cell is None else _sh, "count; percent", tol=0.5)
+check(D_, "3 of the 499 changes to run over space (0.6%)", "unit 4 spatial share of directional uses", "change-verbs/unit4 codes + adjudication, plants dropped", (_fin["SPATIAL"], _u4dir, 100 * _fin["SPATIAL"] / _u4dir) if _u4 else None, "final code = adjudicated else agreed; directional = TEMPORAL + SPATIAL + OTHER-DIM")
+check(D_, "9 of 121 senses not over time (7.4%", "dictionary directional senses not over time", "change-verbs/unit4/p65_unit4_directional-senses.tsv", (_dnt, len(_ds), 100 * _dnt / len(_ds)) if _u4 else None, "rows counted; percent", tol=0.05)
+check(D_, "their 6 of 121 over space (5.0%, p = .002)", "dictionary directional senses over space; Fisher vs usage 3/499", "p65_unit4_directional-senses.tsv; p from p65_unit4_analysis-output_2026-11-19.txt sensitivity (a) 'p = 0.002484'", (sum(r["OVER"] == "SPACE" for r in _ds), len(_ds), 100 * sum(r["OVER"] == "SPACE" for r in _ds) / len(_ds), 0.002484) if _u4 else None, "rows counted; percent; p READ", tol=0.05)
+check(D_, "In 915 corpus uses", "unit 4 real uses coded", "same", len(_real) if _u4 else None, "rows counted, plants dropped")
 check(D_, "re-codes the 4,000", "wave 2 items", "item maps (as above)", n_items, "rows counted")
 check(D_, "all 30 ordered pairs", "6 dimensions, ordered pairs", "p65_wave2_registration_2026-11-16.md Section 1.4", 6 * 5, "6 × 5", tol=0)
 check(D_, "about 37 directional items per pair for direction at a share of 0.74", "exact binomial power 0.80", "Appendix D.6 table (exact binomial)", n37, "smallest n with exact two-sided power ≥ 0.80 at p = 0.74, α = .05")
@@ -309,10 +385,10 @@ check(D_, "time-place kappa 0.38 on 58 pilot", "wave 2 pilot 2", "p65_wave3_regi
 check(D_, "SHA-256 1c3e0fee", "wave 3 freeze hash", "wave3/FREEZE.txt", None if freeze.split("\n")[3].startswith("1c3e0fee") else "FREEZE line 4 differs", "prefix compared with FREEZE.txt line 4")
 check(D_, "(6,628 sentences, two treebanks", "Indonesian census size", "wave3/main/census_map.tsv", len(census), "rows counted")
 check(D_, "about 164 directional items (113", "expected yield", "p65_wave3_registration_FROZEN_2026-11-16.md Section 2.3", (164, 113) if "Expected effective items 164" in w3 and "113 at the" in w3 else None, "READ: yield pilot not rerun", read=True)
-check(D_, "has power 1.00 at either count", "exact binomial power at 0.74, n = 164 and 113", "recomputed", min(pow164, pow113), "exact two-sided binomial test of 0.5; power at p = 0.74 (the smaller of the two counts)", tol=0.005)
+check(D_, "has power 1.00 at 164 or 113 items", "exact binomial power at 0.74, n = 164 and 113", "recomputed", min(pow164, pow113), "exact two-sided binomial test of 0.5; power at p = 0.74 (the smaller of the two counts)", tol=0.005)
 check(D_, "keeps power 0.80 down to a true share of about 0.62 at 164 items", "smallest share with exact power ≥ 0.80 at n = 164", "recomputed; the frozen registration's normal approximation said 0.60 (exact power there is %.2f)" % binom_power(164, 0.60), share80_164, "exact binomial power scanned in steps of 0.001", tol=0.006, printed_value=0.62)
-check(D_, "eight languages suffice", "mean-direction power, SD 0.5", "Appendix D.6 table ('8 languages × 50 items (0.99)')", 8 if has(appD, "8 languages × 50 items (0.99)") else None, "READ: simulation not rerun", read=True)
-check(D_, "twelve give power 0.90", "mean-direction power, SD 1.0", "Appendix D.6 table ('12 languages × 100 items (0.90)')", 12 if has(appD, "12 languages × 100 items (0.90)") else None, "READ: simulation not rerun", read=True)
+check(D_, "eight languages of 50 directional items each suffice", "mean-direction power, SD 0.5", "Appendix D.6 table ('8 languages × 50 items (0.99)')", 8 if has(appD, "8 languages × 50 items (0.99)") else None, "READ: simulation not rerun", read=True)
+check(D_, "twelve of 100 give power 0.90", "mean-direction power, SD 1.0", "Appendix D.6 table ('12 languages × 100 items (0.90)')", 12 if has(appD, "12 languages × 100 items (0.90)") else None, "READ: simulation not rerun", read=True)
 check(D_, "gap of 1.04", "logit of 0.738", "arm-a3 share", gap, "ln(0.738/0.262)", tol=0.006) if "gap of 1.04" in regions[D_] else None
 
 # ------------------------------------------------------------------ Wave 3, Indonesian census (2026-11-17; Section 2.6)
@@ -348,8 +424,8 @@ if os.path.exists(w3_run) and "[ID-RESULT" not in ms:
     if os.path.exists(os.path.join(W3, "S1_LABEL.txt")) and "exploratory" in open(os.path.join(W3, "S1_LABEL.txt")).read():
         w_label = "exploratory"
     W3_CHECKS = [
-        (A_, "two Indonesian treebanks (6,628 sentences)", "census size", lambda: w_sent, "non-gold rows over P01 and M01 to M16 code files", {"printed_value": 6628}),
-        (A_, "the share was 0.70 (0.58 to 0.80; 70 directional sentences)", "share; interval; directional count", lambda: (w_share, w_lo, w_hi, w_n), "TP / (TP + PT); logit(k/n) ± 1.96·sqrt(1/k + 1/(n−k)), own arithmetic; TP + PT, final labels re-derived", {}),
+        (A_, "70 such sentences among 6,628", "census size", lambda: w_sent, "non-gold rows over P01 and M01 to M16 code files", {"printed_value": 6628}),
+        (A_, "gave 0.70 (0.58 to 0.80; 70 such sentences", "share; interval; directional count", lambda: (w_share, w_lo, w_hi, w_n), "TP / (TP + PT); logit(k/n) ± 1.96·sqrt(1/k + 1/(n−k)), own arithmetic; TP + PT, final labels re-derived", {}),
         (D_, "0.70 of its directional sentences", "share", lambda: w_share, "as above", {}),
         (D_, "pair-label agreement was 0.60", "D-kappa over both-present sentences", lambda: w_dk, "Cohen's kappa recomputed on the two coders' labels where neither is NA (n %d)" % len(both1), {}),
         (D_, "the census returned 70, under the 100", "directional count; rule Y bar", lambda: (w_n, 100), "TP + PT; registration Section 3", {"tol": 0}),
@@ -363,7 +439,7 @@ if os.path.exists(w3_run) and "[ID-RESULT" not in ms:
 # ================================================================== write
 hdr = ["region", "printed", "meaning", "source", "recomputed", "method", "status"]
 lines = ["<!-- trace:generated:begin -->",
-         "## Abstract and Discussion, recomputed by `scripts/p65_v1_number-trace.py` (%s)" % ("PERTURBED CONTROL RUN" if PERTURB else "2026-11-17"),
+         "## Abstract and Discussion, recomputed by `scripts/p65_v1_number-trace.py` (%s)" % ("PERTURBED CONTROL RUN" if PERTURB else "2026-11-19, after the full-text recode"),
          "",
          "Status: OK = printed value matches the recomputation; READ = taken from the results line (bootstrap or simulation "
          "not rerun); LOCATED = text-only claim found; MISMATCH / NOT IN TEXT fail the run.",

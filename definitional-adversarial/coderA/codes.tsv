@@ -1,0 +1,250 @@
+bid	code	confidence	note
+E0001	NEITHER	3	period of life; hostel is a building
+E0002	NEITHER	3	duration; here
+E0003	NEITHER	3	holiday tied by custom, not definition
+E0004	NEITHER	3	duration-like span
+E0005	NEITHER	3	duration
+E0006	NEITHER	3	duration; here
+E0007	NEITHER	3	frequency; cages
+E0008	NEITHER	3	duration
+E0009	NEITHER	3	room; year-month date
+E0010	TBP	2	clock time and date read in that region's zone
+E0011	NEITHER	3	duration share
+E0012	NEITHER	3	at the moment is now
+E0013	NEITHER	3	duration
+E0014	NEITHER	3	out of office not a time-keeping place
+E0015	NEITHER	3	decade
+E0016	NEITHER	3	relative past
+E0017	NEITHER	3	frequency
+E0018	NEITHER	3	duration
+E0019	TBP	2	part of night read in US time zones
+E0020	NEITHER	3	duration; office
+E0021	TBP	3	clock time in Jayapura zone
+E0022	NEITHER	2	services is an event venue
+E0023	NEITHER	3	duration
+E0024	NEITHER	3	historical period
+E0025	NEITHER	3	year
+E0026	NEITHER	3	relative day
+E0027	NEITHER	3	duration
+E0028	NEITHER	3	duration
+E0029	NEITHER	3	duration
+E0030	NEITHER	3	weather days; home
+E0031	NEITHER	3	plants not a place
+E0032	NEITHER	3	since-duration
+E0033	TBP	3	clock time in the named zone
+E0034	NEITHER	3	decade
+E0035	NEITHER	3	now
+E0036	NEITHER	3	lunchtime custom; commute
+E0037	NEITHER	3	now
+E0038	NEITHER	3	duration
+E0039	NEITHER	3	today
+E0040	NEITHER	3	currently
+E0041	TBP	3	sunrise and sunset read off at Paro
+E0042	NEITHER	3	today; office
+E0043	NEITHER	3	usually
+E0044	NEITHER	3	age-relative time
+E0045	NEITHER	3	currently
+E0046	NEITHER	3	here and now
+E0047	NEITHER	3	today; here
+E0048	NEITHER	3	year
+E0049	NEITHER	3	now; shop
+E0050	NEITHER	3	now
+E0051	NEITHER	3	now
+E0052	NEITHER	2	month barely varies by zone
+E0053	NEITHER	3	weekend tendency
+E0054	NEITHER	3	relative night; home
+E0055	NEITHER	3	most of year
+E0056	NEITHER	3	year
+E0057	NEITHER	2	period relative to event
+E0058	NEITHER	3	now
+E0059	NEITHER	3	now; address
+E0060	NEITHER	3	years; studio
+E0061	TBP	3	date and clock time in Houston
+E0062	TBP	3	weekday part of day in Houston
+E0063	NEITHER	2	here sets no reading
+E0064	NEITHER	3	date with year; hospital building
+E0065	NEITHER	3	lifetime
+E0066	NEITHER	3	duration
+E0067	NEITHER	3	duration
+E0068	NEITHER	3	relative morning; bed
+E0069	NEITHER	3	now
+E0070	NEITHER	3	formerly
+E0071	NEITHER	3	duration
+E0072	PBT	3	market named by the weekday
+E0073	TBP	2	date read across date line in Americas
+E0074	NEITHER	3	month span, generic area
+E0075	NEITHER	3	these days
+E0076	NEITHER	3	duration
+E0077	NEITHER	3	relative duration
+E0078	TBP	3	summer by southern hemisphere
+E0079	NEITHER	3	frequency
+E0080	NEITHER	3	relative past
+E0081	NEITHER	3	duration
+E0082	NEITHER	3	year
+E0083	NEITHER	3	duration
+E0084	TBP	2	weekday date read in Sao Paulo
+E0085	NEITHER	3	duration; school
+E0086	NEITHER	3	duration
+E0087	NEITHER	2	big cities unspecified; weekday-date
+E0088	TBP	3	time is reaching the stop on the bus
+E0089	NEITHER	3	now
+E0090	NEITHER	3	duration
+E0091	NEITHER	3	today
+E0092	TBP	2	clock time in Taikoo, Hong Kong
+E0093	NEITHER	3	schedule-relative
+E0094	NEITHER	2	studio is a building
+E0095	NEITHER	3	not a time-place pair
+E0096	NEITHER	3	now
+E0097	NEITHER	3	years
+E0098	TBP	2	weekday read in Manhattan
+E0099	NEITHER	3	deck sets no reading
+E0100	NEITHER	2	month barely varies by zone
+E0101	NEITHER	3	now
+E0102	NEITHER	3	duration
+E0103	NEITHER	3	now
+E0104	TBP	2	weekday date in St. Tropez
+E0105	NEITHER	3	duration
+E0106	NEITHER	3	now
+E0107	NEITHER	3	opening hours custom
+E0108	NEITHER	3	year
+E0109	NEITHER	3	relative to event
+E0110	NEITHER	3	historical period
+E0111	NEITHER	3	historical period
+E0112	NEITHER	3	duration
+E0113	TBP	2	weekday date in Paris
+E0114	NEITHER	3	duration
+E0115	NEITHER	3	yesterday
+E0116	NEITHER	2	unclear venue; date only
+E0117	NEITHER	3	duration
+E0118	NEITHER	2	direction, not a place reading
+E0119	NEITHER	3	question; hand
+E0120	TBP	2	dates read in Jakarta and Medan
+E0121	NEITHER	3	duration
+E0122	NEITHER	3	relative past
+E0123	NEITHER	3	hutch sets no reading
+E0124	NEITHER	3	decade
+E0125	NEITHER	3	duration
+E0126	TBP	2	summer by northern hemisphere New York
+E0127	NEITHER	1	there unspecified; noon could be place-read
+E0128	NEITHER	3	habitual past
+E0129	NEITHER	3	historical period
+E0130	NEITHER	3	now
+E0131	NEITHER	3	relative past
+E0132	NEITHER	3	year
+E0133	NEITHER	3	duration
+E0134	NEITHER	3	duration
+E0135	NEITHER	3	relative past
+E0136	NEITHER	3	duration
+E0137	NEITHER	3	now
+E0138	NEITHER	3	period
+E0139	NEITHER	2	there unspecified
+E0140	NEITHER	3	duration
+E0141	NEITHER	3	duration
+E0142	NEITHER	3	relative time; home
+E0143	NEITHER	3	frequency
+E0144	NEITHER	3	duration
+E0145	NEITHER	3	temporary
+E0146	NEITHER	3	to this day
+E0147	NEITHER	2	there unspecified
+E0148	NEITHER	3	year period
+E0149	NEITHER	2	there unspecified
+E0150	NEITHER	3	here sets no reading
+E0151	NEITHER	3	ceiling sets no reading
+E0152	NEITHER	3	decade
+E0153	NEITHER	3	duration
+E0154	NEITHER	1	winter fixed by its own Michigan, not foodshed
+E0155	NEITHER	3	all the time
+E0156	NEITHER	3	duration
+E0157	NEITHER	3	now
+E0158	NEITHER	3	now
+E0159	TBP	2	winter by northern hemisphere states
+E0160	NEITHER	3	now
+E0161	NEITHER	3	duration
+E0162	NEITHER	3	duration
+E0163	NEITHER	3	duration
+E0164	NEITHER	3	then
+E0165	NEITHER	3	duration
+E0166	NEITHER	3	weekend tendency
+E0167	NEITHER	3	decade
+E0168	NEITHER	3	now
+E0169	NEITHER	3	duration
+E0170	NEITHER	3	duration
+E0171	NEITHER	3	now
+E0172	NEITHER	3	relative to founding
+E0173	NEITHER	2	town unspecified
+E0174	TBP	2	date read in Houston
+E0175	NEITHER	3	relative
+E0176	NEITHER	3	then
+E0177	NEITHER	3	frequency
+E0178	NEITHER	3	historical period
+E0179	NEITHER	3	decade
+E0180	TBP	3	sunrise read off at the summit
+E0181	NEITHER	3	year
+E0182	NEITHER	3	relative future
+E0183	NEITHER	3	historical period
+E0184	NEITHER	3	duration
+E0185	NEITHER	3	tomorrow
+E0186	NEITHER	3	decade
+E0187	TBP	1	clock time in that city's zone
+E0188	NEITHER	3	duration
+E0189	NEITHER	3	historical period
+E0190	NEITHER	3	duration
+E0191	TBP	2	weekday read in Fallujah
+E0192	NEITHER	3	relative
+E0193	TBP	3	clock time in named zone
+E0194	NEITHER	3	duration
+E0195	NEITHER	3	year
+E0196	NEITHER	2	hotel sets no reading
+E0197	NEITHER	3	now
+E0198	NEITHER	3	tenure period
+E0199	NEITHER	3	relative to event
+E0200	NEITHER	3	here and now
+E0201	NEITHER	3	today
+E0202	NEITHER	3	duration
+E0203	BOTH	3	sunrise defines horizon position and vice versa
+E0204	NEITHER	2	the dates unspecified
+E0205	NEITHER	2	there unspecified; month
+E0206	NEITHER	3	rest of year
+E0207	NEITHER	2	there unspecified
+E0208	NEITHER	3	now
+E0209	NEITHER	3	now
+E0210	NEITHER	3	previously
+E0211	NEITHER	3	year
+E0212	NEITHER	3	period
+E0213	NEITHER	3	duration
+E0214	NEITHER	3	duration
+E0215	NEITHER	3	duration
+E0216	NEITHER	3	usually
+E0217	NEITHER	3	year
+E0218	NEITHER	3	duration
+E0219	NEITHER	2	day relative to event
+E0220	NEITHER	3	frequency
+E0221	NEITHER	3	duration
+E0222	TBP	2	summer by northern hemisphere Pakistan
+E0223	NEITHER	3	duration
+E0224	TBP	3	summer by northern hemisphere Arctic
+E0225	NEITHER	3	duration
+E0226	NEITHER	3	duration
+E0227	NEITHER	3	relative year
+E0228	NEITHER	3	today
+E0229	NEITHER	3	duration
+E0230	NEITHER	3	frequency
+E0231	NEITHER	3	relative past
+E0232	TBP	1	winter by hemisphere of the plains
+E0233	NEITHER	3	duration
+E0234	NEITHER	3	now
+E0235	TBP	3	date line and zone set Saturday morning
+E0236	NEITHER	2	there unspecified
+E0237	NEITHER	3	duration
+E0238	NEITHER	3	anytime
+E0239	NEITHER	3	now
+E0240	NEITHER	3	ordinal, not a reading
+E0241	NEITHER	2	office sets no reading
+E0242	NEITHER	2	square sets no reading
+E0243	NEITHER	3	now
+E0244	NEITHER	3	duration
+E0245	NEITHER	2	here sets no reading
+E0246	NEITHER	2	that day is relative
+E0247	NEITHER	3	duration
+E0248	NEITHER	3	year
+E0249	TBP	3	seasons by northern hemisphere Siberia

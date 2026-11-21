@@ -1,0 +1,34 @@
+PLANTS (scored before direction is joined)
+  coder A: 6/6; misses []
+  coder B: 6/6; misses []
+AGREEMENT (243 items): 4-code kappa 0.815; binary kappa 0.815; counts A {'NEITHER': 217, 'TBP': 26}, B {'NEITHER': 221, 'TBP': 22}
+
+CELLS by code (TP / n), per coder, direction joined after codes fixed
+  coder A TBP      TP  14 /  26
+  coder A PBT      TP   0 /   0
+  coder A BOTH     TP   0 /   0
+  coder A NEITHER  TP 181 / 217
+  coder B TBP      TP  12 /  22
+  coder B PBT      TP   0 /   0
+  coder B BOTH     TP   0 /   0
+  coder B NEITHER  TP 183 / 221
+  both agree TBP      TP  12 /  20
+  both agree PBT      TP   0 /   0
+  both agree BOTH     TP   0 /   0
+  both agree NEITHER  TP 181 / 215
+
+REGISTERED 12 definitional rows: blind codes
+  N0435  PT reg TZ   A TBP     B TBP
+  Z0839  PT reg TZ   A TBP     B TBP
+  M2805  PT reg EXPR A TBP     B TBP
+  N1352  PT reg TZ   A TBP     B TBP
+  M6147  PT reg TZ   A TBP     B NEITHER
+  M2356  PT reg TZ   A TBP     B TBP
+  M382   PT reg EXPR A NEITHER B NEITHER
+  Z0820  TP reg EXPR A TBP     B TBP
+  M239   PT reg TZ   A NEITHER B NEITHER
+  M3749  TP reg EXPR A TBP     B TBP
+  N1468  PT reg TZ   A TBP     B TBP
+  M461   TP reg ARR  A NEITHER B NEITHER
+
+REGISTERED vs BLIND (intersection) 2x2: Counter({('0', '0'): 219, ('0', '1'): 12, ('1', '1'): 8, ('1', '0'): 4})

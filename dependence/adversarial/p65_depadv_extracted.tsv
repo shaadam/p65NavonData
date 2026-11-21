@@ -1,0 +1,244 @@
+item	time_expr	place_expr	entity	flag
+M002	in the next 2 1/2 years	in this office	the speaker's absence from the office	OK
+M007	now	in the park's northern range	beaver colonies	OK
+M009	on humid days	at home	the speaker's staying and working	OK
+M012	Today	in the office here at Azurix	the speaker's last day	OK
+M013	for years	in the back room	the same writers	OK
+M018	around 8 pm in the evenings	from the city centre	the last buses	OK
+M041	the next Tuesday night	there	the crowd at the festival	OK
+M047	for 8 months	there	the speaker's residence in Edinburgh	OK
+M063	today	at like a river waterfall area	the speaker's group	MULTI
+M078	for like an hour and a half	in there	the speaker's studying	OK
+M082	last week	in here	the eye dog	OK
+M098	on the weekends	Plenty of parking	the parking	NONE
+M144	for 2 years	here	the speaker's residence in the apartments	OK
+M152	Now	here	the speaker's residence	OK
+M179	at night	in the hutch	the rabbit	MULTI
+M187	now	on the street	the Fedayeen	OK
+M194	now	Some sections of the city	the dry city sections	OK
+M205	today	here	the speaker as Chief Guest	OK
+M208	first	York	the Ninth and Sixth Legions	OK
+M214	for this week only	from our Hong Kong office	the speaker's work	OK
+M220	for two years	here	the speaker's residence	OK
+M221	Saturday night, the opening night	in the square	the sea of people	OK
+M222	in 2 years	there	the speaker's living at the apartments	OK
+M234	for roughly 2-3days	in their home	the dead person's remains	OK
+M236	for two weeks	to the ship	Paris's first stay	MULTI
+M239	the middle of summer	there	the trip	NONE
+M242	next morning	in bed	the speaker	OK
+M244	at 2:30 the next day	At a polling station in Taikoo	the last ballot	MULTI
+M259	for four nights	in Fiji	the speaker's stay	OK
+M261	three years	in the U.S. Army stationed in Japan	Fillmore's service	OK
+M268	for a few nights	here	the speaker's attempted stay	OK
+M288	for over 250 years	in the Long Room at Auckland Castle	Zurbarán's cycle of Jacob and his Sons	OK
+M296	to this day	in the city	the remains of Hohokam towns	OK
+M333	for several days	from the office	the speaker's absence	OK
+M356	evening	here	the girls night stay	OK
+M371	for 2 nights	here	the speaker's stay	OK
+M373	all night last night	home	the speaker	OK
+M382	each day	on the eastern corner of Rekohu	the sun's first rays	MULTI
+M397	the day of Wrestlemania	there	his presence	OK
+M405	for many years	in the UTC La Jolla area	the speaker's residence	OK
+M414	right now	in there	his stuff	OK
+M435	for about 2 hours	in there	the birds	OK
+M440	for 3 years	there	the speaker's stay with the Sicilian family	OK
+M448	right now	where I am	the cold weather	OK
+M461	at least one night	there	the visitor's stay	OK
+M474	a couple of times throughout the year	along the route	the restocking of pamphlets	MULTI
+M478	anytime	the Republic of Ireland (Dublin)	the visit	OK
+M482	minimum 6 years	in my country	medical school	MULTI
+M490	a couple years ago	out there	the hibachi restaurant	MULTI
+M499	two and a half years	here	the speaker's living	OK
+N0008	in August	there	the free raffle	OK
+N0017	October	in the US	National Magic Month	OK
+N0039	our last day	at Glacier National Park	the group's last day	OK
+N0043	for twenty-five years	there	the mechanic	OK
+N0062	by Sunday afternoon	in Houston	the speaker's return	OK
+N0118	the rest of the year	Paris,London, New York	the traveler-professional diner	MULTI
+N0172	in the early 1980s	in jail	Zawahiri	OK
+N0177	for another two to four weeks	in the lowest level of special care	the babies	OK
+N0179	during much of the year	Most other islands	the closure of the islands	NONE
+N0182	ca 1907	down-town	the twisted area	OK
+N0184	now	in Washington City	the National Congress	MULTI
+N0194	25 years ago	in the United Kingdom	the egg laying of 65 bird species	OK
+N0243	six years to seven years	in your cellar	the red wines	OK
+N0244	for a week	in his apartment	the speaker's waiting	OK
+N0273	11-15 years	Indoor cats	the life span of indoor cats	NONE
+N0277	between June and November	The area	humpback whales	OK
+N0296	for about a week	in Okinawa	the speaker's stay	OK
+N0298	today	here with us	Ramona Stewart	OK
+N0319	October	in the United States	National Magic Month	OK
+N0329	Until 1995	at Twante	the LTTE base	OK
+N0352	in December 2009	in the Seaview room here	the speaker's stay	OK
+N0365	on that day	in Houston	the recipient's presence	OK
+N0379	24 difficult years	in France	the mother's stay	MULTI
+N0403	in the morning	the mature basil plants	the watering	NONE
+N0417	on Feb. 27 and March 6	at the services	sign-up lists	OK
+N0435	in the middle of the night	in the United States	daytime events	MULTI
+N0438	a quiet summer	in New York	the summer	OK
+N0455	two weeks ago	in	the speaker's visit	NONE
+N0475	3-7 years	in the local environment	the life expectancy of outdoor cats	OK
+N0482	on the weekend	A popular area	the area's vibe	NONE
+N0490	a Michigan winter	in our foodshed	the freezer	MULTI
+N0526	in the morning	on the deck	occasional bears	OK
+N0544	Monday, September 20, 1999	in Sao Paulo	the speaker's visit	OK
+N0605	eight hours a day	at a desk	this body	OK
+N0613	365 days	there	his appearances	OK
+N0617	early Sunday morning	here	John's arrival	MULTI
+N0652	at noon	his office	the office's closing time	MULTI
+N0661	Since the 1960s	Oakland	Oakland's radical culture	OK
+N0671	today	out of the office	the speaker's absence	OK
+N0674	summer	here	the summer feeling	OK
+N0680	eight weeks of the year	in the property	the Palmers' stay	MULTI
+N0708	like 30 minutes	in there	the speaker's time at DSW	OK
+N0716	at 7:30	there	the speaker's presence	MULTI
+N0731	close to 3000 years ago	on these islands	early Polynesians	OK
+N0738	for 10 years	there	the wolves	OK
+N0739	Fri. Sept. 22	in same hotel	the stay	MULTI
+N0758	Mon. Sept. 25	St. Tropez	the stay	OK
+N0774	ten years	at The Ohio State University	Fillmore's time at Ohio State	MULTI
+N0796	this year	in San Antonio	Neil's meeting	MULTI
+N0806	for three days now	My neighbourhood	American troops	OK
+N0842	on a given week	at the store	their selection	OK
+N0846	in the 1590's	in England	the Jews	OK
+N0870	for the 13th	at LS HPL	the 20.000 amount	OK
+N0889	until Monday	out of the office	Melanie Gray	OK
+N0896	in summer	the Arctic Ocean	the Arctic sea ice	OK
+N0916	in the winter	there	the shop	OK
+N0952	As of March 28, 2003	in a hospital	Abdul Qadoos Khan	OK
+N0963	until she was eighteen	at Flag Land Base in Clearwater, Florida	Paris	OK
+N1012	Sunday	in snowy Manhattan	the day	OK
+N1035	Sunday three four weeks ago	there	the speaker's presence	OK
+N1038	now	on the south side	the thirteenth century stained glass windows	OK
+N1055	for the last 9 years and 10 months	S. F., Cal.	Joshua Norton	OK
+N1071	for the next 30 hours	in a cell	Daniel	OK
+N1081	by noon on the 20th	there	the surgical team	OK
+N1103	Wed. Sept. 27	Paris	the stay	OK
+N1128	today	in the office	the addressee	OK
+N1144	during the summer months	from the northeast	the winds	OK
+N1145	Tuesday	Fallujah	the general strike	OK
+N1146	annually	Tulsa	days of sunshine	OK
+N1166	in a couple of weeks	in Calgary	Paul	OK
+N1175	in the Summer of 2001	in Pakistan	the meetings	OK
+N1183	in the 1830s	Łódź	the population of Łódź	MULTI
+N1192	eight months	in the French oak	the red wines from the Signature	OK
+N1211	the opening decades of the 19th century	West Oakland	West Oakland's working-class community	OK
+N1217	in 1890	in the southwestern US	small polygamous groups	OK
+N1234	for an hour or so	in a dark place	the snake	OK
+N1241	for 20 minutes	at the table	the speaker's group	OK
+N1263	on May 11th	in Houston	the speaker's visit	OK
+N1265	since 3 February	for China	the travel restrictions	OK
+N1288	for almost 200 years	in this region	my family	OK
+N1289	these days	Where	the addressee's residence	NONE
+N1303	on a daily basis	in that room	the addressee	OK
+N1306	31 years	there	the owner, Jean	OK
+N1312	in 2000	at Sufaat's condominium	Zacarias Moussaoui	OK
+N1322	by 1900	The city	the city	NONE
+N1332	in 2008	at Mecca's Grand Mosque	pilgrims	OK
+N1336	during part of Thanksgiving	in Korea	the speaker's stay	MULTI
+N1341	hours	in here	the speaker's group	OK
+N1350	this summer	in the ceiling of the outer porch	2 hooks	OK
+N1351	20 minutes per day, 3 days per week	in smaller cages	experimental chickens	MULTI
+N1352	Friday, Sept. 17, at 9 am	Houston	the call	MULTI
+N1357	in the early 1980s	Alpine, Arizona, USA	Nida	MULTI
+N1364	JULY 4TH 2008	THERE	the speaker's visit	OK
+N1382	a full 20 hours	from Buenos Aires	the bus trip	OK
+N1383	for several years	at Tabennese	Theodorus	OK
+N1385	for 4 days	in Ho chi Minh	the speaker's stay	OK
+N1402	in late 2002	Iraq's urban areas	access to potable water	OK
+N1439	during the winter	the northern states	the cold	OK
+N1445	during the last months of his life	at the hostel	Galois's stay	OK
+N1468	3 pm (Houston time)	Houston time	this call	MULTI
+N1471	through Sunday morning	in town	the speaker's stay	OK
+N1478	In fifteen minutes	home	the family's arrival	OK
+N1489	in the winter	across the plains	the cold wind	MULTI
+N1493	tomorrow	in the office	the speaker's presence	MULTI
+N1497	next year	in Limerick, Ireland	the speaker's living	OK
+Z0028	now	at sea	migrants	OK
+Z0127	from about 1200 to about 400 BCE	along the hot Gulf Coast of Mexico	the Olmec civilization	OK
+Z0445	the dates	Aberdeen	the visit	NONE
+Z0452	now	here	the attendees	OK
+Z0470	currently	at Auckland Hospital	the returned travellers	OK
+Z0741	before the scheduled time	here	Rich	NONE
+Z0820	until the "Montparnasse Bienvenue" stop	on the bus	the passenger's stay	OK
+Z0822	all the time	here	the staff	OK
+Z0839	12:30 Central Time	Central Time	the meeting time	NONE
+Z0864	now	at relatives in Amiriya, Baghdad	the taxi driver	OK
+Z0968	currently	at sea in the region	8000 migrants	OK
+Z1170	post-Saddam	in post-Saddam Iraq	secular Arab nationalist groups	OK
+Z1342	used to	at Meadowrun	the speaker's residence	OK
+Z1439	most of our lives	on the land	human living	OK
+Z1466	Not long before	on the flight deck of his deployment carrier	the pilot	OK
+Z1602	At the moment	in Levico Terme, Trento, Italy	Shalev	OK
+Z1663	most of my life	in the Dallas/Fort Worth Metroplex	the speaker's residence	OK
+Z1815	now	in garbage bags	the stuff	OK
+P0124	biasanya	Di Bogor	hidangan itu	OK
+P0148	Saat ini	di gerbang	prasasti pembangunan MRT Singapura	OK
+P0164	hari Senin minggu kedua bulan Januari	Di kota-kota besar	upacara Hari Kedewasaan	OK
+P0172	tiga tahun pelajaran	SMAN 2 Kota Ternate	masa pendidikan sekolah	MULTI
+P0293	Di antara tahun 1968 dan 1972	di luar studio	Barrett	OK
+P0471	kini	di beberapa negara di benua Asia	hidangan asli Indonesia	OK
+M0028	saat ini	di sepanjang sungai Mahakam kota Samarinda	Pesut Mahakam	OK
+M0065	Sampai kapankah	di tangannya	lampu ajaib	OK
+M0086	Sekarang	di Berlin	papyrus ini	OK
+M0298	Setelah gagal merebut "Jantung Akuro"	di sebuah rumah sewaan	Anzu	OK
+M0367	kini	di seluruh Indonesia	keturunan Pangeran Diponegoro	OK
+M0578	Pada masa pemerintahan Dyah Balitung	ke daerah Poh Pitu	istana Kerajaan Medang	MULTI
+M0580	tiga tahun pelajaran	di SMK ini	masa pendidikan	MULTI
+M0659	Saat ini	diberbagai wilayah di Jawa Tengah	Radio Komunitas anggota JRK JATENG	OK
+M0761	sementara	di Dekai	pusat pemerintahan	MULTI
+M0883	sekitar 4 - 8 tahun	di alam liar	masa hidup	OK
+M0979	19 hari	di Jena dan Auerstädt	serangan Napoleon	MULTI
+M1000	telah lama	di Kabupaten Bangka Provinsi Bangka Belitung	ketiga lembaga tinggi	OK
+M1002	lebih dulu	di dunia Afterlife	Kanade	OK
+M1006	Sebelumnya	di wilayah Kota Denpasar	ibu kota Kabupaten Badung	OK
+M1136	saat ini	Di mana	posisi kita	NONE
+M1208	cukup lama	di Yogyakarta	Obonk Steak	OK
+M1210	saat ini	Paraguay	area itu	OK
+M1459	Pada akhir 1960an	di Gedung Hikokan di Shinbashi, Minato, Tokyo	kantor pusat ANA	OK
+M1497	Ketika ditulis dengan suku atau pengkal semisal	dibawah garis	bentuk kedua huruf	NONE
+M1541	saat makan siang	dalam perjalanan menuju atau dari kantor	Café	MULTI
+M1569	Selama masa menjabat sebagai kepala perguruan	di tempat tidur	Kihei	OK
+M1574	pada masa pendudukan Indonesia	di sana	kebanyakan bangunan	MULTI
+M1592	selama jam tutup	dalam suatu tempat (mal, museum, dsb)	MC dan tamu	OK
+M1710	enam tahun pelajaran	SD Negeri 3 Jekulo	masa pendidikan sekolah	MULTI
+M1722	Antara 1947 - 1948	di Universitas Johns Hopkins	sang profesor pengunjung	OK
+M1751	Saat ini	ditempat-tempat keramaian	lagu-lagu pupujian berbahasa Sunda	MULTI
+M1795	saat ini	'Toko' kepunyaan Yūko	Yūko dan Watanuki	OK
+M2139	sampai dengan tahun 2011	Di desa Candinata Kecamatan Kutasari Kabupaten Purbalingga Jawa tengah	Tempat Pendidikan formal dan Nonformal	OK
+M2190	antara 55 - 65 menit	Stasiun Jakarta Kota	perjalanan KRL Ekonomi	MULTI
+M2227	Sampai akhir hidupnya	di Eropa	Whistler	OK
+M2356	musim panas	di Antartika	gerhana ini	MULTI
+M2374	26 - 27 Juni	Jakarta & Medan	audisi	MULTI
+M2565	kini	di berbagai daerah	para anggota	OK
+M2631	hampir sepanjang tahun	di hutan pegunungan daerah yang sejuk	jamur tiram	OK
+M2793	Saat ini	di kota Jakarta, Bandung, Surabaya, Bali, Medan, Makassar, Semarang, Solo, maupun di Singapura	cabang Sour Sally	MULTI
+M2805	dari matahari terbit sampai matahari terbenam	di bandara Paro	penerbangan	OK
+M2851	Dulu	tidak jauh dari sini	percabangan menuju Kampung Pirusa	OK
+M2920	Pada 06.25 tanggal 7 Mei	selatan Kepulauan Rossel	armada TF17	OK
+M3305	biasanya	Thailand	tujuan akhir pengungsi Korea Utara	OK
+M3544	pada zaman dahulunya	daerah kota kayuagung	pohon-pohon besar	OK
+M3618	pada tahun 2000	di 50 negara bagian	perayaan Hari Martin Luther King Jr.	MULTI
+M3705	pada tahun 1977	jalan rel milik perusahaan kereta api swasta Oost - Java Stoomtram Maatschappij (OJS)	1 lokomotif B16	OK
+M3749	pagi hari sebelum matahari terbit	puncak Gunung Lamongan	pendakian	MULTI
+M4249	Saat ini	di daerah Surabaya, Mojokerto, dan Jombang	kelompok ludruk tradisional	OK
+M4267	Sekitar lima menit	di dalam Kantor PDI	lima utusan	OK
+M4383	pada awal abad 20	di Jerman	sentimen antitembakau	OK
+M4635	saat itu	di wilayah Mesir	orang Israel	OK
+M4737	sore hari Sabtu, 20 April 2013	di Studio 1 RCTI	Grand Final Idola Cilik 2013	OK
+M4974	Sejak dibentuk pada April 2003 hingga sekitar September 2005	dari Wamena	pemerintahan Yahukimo	OK
+M5066	di zaman modern	di Korea	ondol	MULTI
+M5094	selama berbulan - bulan bahkan hingga bertahun - tahun	di pelosok-pelosok Asia	sebagian pos komando terpencil dan personel militer	OK
+M5271	dalam 30 tahun terakhir	di Cina	kegiatan amal resmi	MULTI
+M5307	Setelah Sayyid Ahmad Khairuddin menunaikan ibadah haji	di Makatul Musyarrafah	Sayyid Ahmad Khairuddin	OK
+M5361	selama 1970-an	ke Hong Kong	penerbangan Boeing 747	OK
+M5444	sejak masa kolonial	di Amerika Serikat	pemerintah daerah	OK
+M5508	dalam waktu lima menit	T3	wisatawan	MULTI
+M5515	pada awal berdirinya	di daerah Mataram	Istana Kerajaan Medang	OK
+M5814	Saat ini	di Jl. Sibela Timur III No. 1 Mojosongo, Jebres, Surakarta	Slamet Gundono	OK
+M5880	Saat itu	di depan pasar	terminal bis Simo - Solo	MULTI
+M5990	sekarang	Di manakah	harta raja	NONE
+M6009	Saat ini	di London	tokoh itu	OK
+M6010	Pada musim semi dan musim panas	di Siberia	bangau mahkota merah	MULTI
+M6067	enam tahun pelajaran	SD Negeri 3 Ngembal Kulon	masa pendidikan sekolah	MULTI
+M6147	14 Agustus	di benua Amerika	Hari Kemenangan atas Jepang	MULTI

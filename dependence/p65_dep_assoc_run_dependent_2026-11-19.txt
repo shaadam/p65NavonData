@@ -1,0 +1,45 @@
+TABLE direction x dependent x language (column dependent, file p65_dep_final.tsv)
+  en     dependent: TP 139 PT  16 (n 155) | non-dependent: TP   7 PT  11 (n  18) | total TP 146 PT 27
+  id     dependent: TP  32 PT   3 (n  35) | non-dependent: TP  17 PT  18 (n  35) | total TP 49 PT 21
+  pooled dependent: TP 171 PT  19 (n 190) | non-dependent: TP  24 PT  29 (n  53) | total TP 195 PT 48
+
+FISHER exact, two-sided, OR = odds(TP|dependent)/odds(TP|non-dependent); conditional MLE and exact 95% interval
+  en                 p = 0.00000  (exact 99234602894275/35332779192151729314) sample OR 13.6518  cond. MLE 13.2845 [4.0643, 46.8483]
+  id                 p = 0.00017  (exact 27785/166140637) sample OR 11.2941  cond. MLE 10.8830 [2.6495, 65.7923]
+  pooled(collapsed)  p = 0.00000  (exact 1464214346206980232391248412633/47918635186136664426887243303351319538683) sample OR 10.8750  cond. MLE 10.7153 [4.9827, 23.7678]
+
+EXACT CONDITIONAL common OR across language strata: S_obs = 171; MLE 12.3174 [5.0034, 32.6506]; two-sided p (prob <= obs) = 0.000000
+MANTEL-HAENSZEL common OR 12.4034 [5.1733, 29.7384] (Robins-Breslow-Greenland)
+
+FIRTH logistic, outcome TP=1. Coefficients (log-odds), Wald SE, profile-penalised 95% interval, LR p
+  model without interaction: penalised loglik -94.485323
+    intercept          b -0.3682 SE 0.4032  OR   0.6920 [0.3070, 1.4854]  LR p 0.34871
+    dependent          b  2.4852 SE 0.4297  OR  12.0033 [5.3545, 28.7446]  LR p 0.00000
+    indonesian         b  0.2792 SE 0.4397  OR   1.3221 [0.5797, 3.2449]  LR p 0.51682
+  model with interaction: penalised loglik -94.306526
+    intercept          b -0.4274 SE 0.4822  OR   0.6522 [0.2480, 1.6140]  LR p 0.35699
+    dependent          b  2.5621 SE 0.5484  OR  12.9636 [4.6169, 38.7348]  LR p 0.00000
+    indonesian         b  0.3719 SE 0.5890  OR   1.4505 [0.4736, 4.6211]  LR p 0.51642
+    dep x indonesian   b -0.2781 SE 0.8606  OR   0.7572 [0.1500, 4.3433]  LR p 0.74396
+
+PREDICTED TP share (Firth main-effects model)
+  en non-dependent 0.4090 (Wald 95% 0.2390-0.6040)
+  en dependent     0.8925 (Wald 95% 0.8363-0.9311)
+  id non-dependent 0.4778 (Wald 95% 0.3314-0.6281)
+  id dependent     0.9165 (Wald 95% 0.8218-0.9632)
+
+NEGATIVE CONTROL: dependence labels shuffled within language, 2000 permutations, seed 6518
+  median conditional OR 0.948 (observed 12.317); share of shuffles with p < 0.05: 0.0420; share with S <= observed 171: 1.0000; share with S >= observed: 0.0000 (one-sided permutation p each way)
+  CONTROL FIRES iff median OR in [0.5, 2] and share p<0.05 <= 0.10: FIRED (association removed)
+
+SHARES (raw counts, exact Clopper-Pearson 95%): TP share among dependent / non-dependent
+  en     dependent     TP 139 of 155  share 0.897 [0.838, 0.940]
+  en     non-dependent TP   7 of  18  share 0.389 [0.173, 0.643]
+  id     dependent     TP  32 of  35  share 0.914 [0.769, 0.982]
+  id     non-dependent TP  17 of  35  share 0.486 [0.314, 0.660]
+  pooled dependent     TP 171 of 190  share 0.900 [0.848, 0.939]
+  pooled non-dependent TP  24 of  53  share 0.453 [0.316, 0.596]
+
+VERDICT (pooled, column dependent): s0 = 24/53 = 0.453 [0.316, 0.596] vs overall 0.802
+  logical dependence: SUPPORTED
+  Navon's hierarchy:  NOT SUPPORTED

@@ -1,15 +1,17 @@
 # Does time dominate space? Testing Navon's (1978) conceptual hierarchy with public data: data and code
 
-Last updated: 2026-11-17 (Eastern)
+Last updated: 2026-11-19 (Eastern)
 
 Adam Y. Shavit, Hunter College and the Graduate Center, City University of New York. Preprint version 1 (2026).
-Built on 2026-11-17 from the working repository shaadam/p65Spacetime. Code under the MIT licence (LICENSE).
+Release v1.1, built on 2026-11-19 from the private working repository shaadam/p65Spacetime (not public). Code under the MIT license (LICENSE).
 MANIFEST.txt lists a sha256 for every file.
 
 ## What this bundle holds
 
-The paper tests Navon's three dominance criteria on public data in four arms, and reports a registered census of
-Indonesian. This bundle holds what the paper cannot: the registrations written before any item was coded, the
+The paper applies two of Navon's three dominance criteria (scope of markers and change), and a processing test he
+cited (the Garner interference criterion), on public data in four arms; the third criterion, orderliness, is not
+tested. It also reports a registered census of Indonesian and three tests run after the registered analyses
+(logical dependence, definitional pairings, change verbs in corpus use). This bundle holds what the paper cannot: the registrations written before any item was coded, the
 codebooks, the item keys (treebank, document and sentence identifiers for every sampled sentence; dictionary and
 sense identifiers for every sampled verb sense), the blind model coders' codes and the adjudications, the coded
 table of published interference experiments, the per-source error-evidence list, the analysis and verification
@@ -24,14 +26,20 @@ here.
 |---|---|
 | `scripts/` | sampling, analysis, verification and fetch scripts for the four arms, the Indonesian census and the mathematical appendix |
 | `arm-a-model/`, `arm-a3-model/`, `arm-a3b-model/` | corpus arm: item keys, model codes, adjudications, cell tables, recorded results, the exploratory extension's codebook and scripts |
-| `change-verbs/` | dictionary arm: item key (sense identifiers, no definitions), the three coders' codes with their checksums, the recorded analysis run, its transpose control and the coder agreement |
-| `published-asymmetry/` | interference arm: the coded table of experiments, tallies, random-effects summary, the two rulings, the second coder's codes and the comparison |
-| `error-evidence/` | error-evidence arm: the per-source list, the recount run, the learner-corpus intrusion count |
+| `change-verbs/` | dictionary arm: item key (sense identifiers, no definitions), the three coders' codes with their checksums, the recorded analysis run, its transpose control and the coder agreement; the registered count of Wiktionary senses repeating a Webster 1913 definition and its recorded run |
+| `published-asymmetry/` | interference arm: the coded table of experiments, tallies, random-effects summary, the two rulings, the second coder's codes and the comparison, the full-text recode of the ten papers first coded from abstracts (two blind passes, the comparison and the rule application; `scripts/p65_armC_apply_fulltext_recode.py` writes it into the table), and the clustered ordinal model and sign-flip test by paper (R script and recorded run) |
+| `error-evidence/` | error-evidence arm: the per-source list, the full-text recode of the sources (decision rule, codes with page and quote; `scripts/p65_armD_apply_fulltext_recode.py` writes it into the list), the recount runs before and after the recode (the later run ends with the second count route, `scripts/p65_armD_count_route2.py`, which reads the pre-recode list from the private repository history), the learner-corpus intrusion count |
 | `wave1-math/` | mathematical appendix: attack checks, power table, independent verify runs, Wolfram run |
 | `verify/` | independent recounts of the dictionary arm written without reading the analysis code, and the second recall sweep |
 | `wave3/` | the Indonesian census: frozen registration hash and treebank checksums, the three pre-data amendments, the one revision of the language notes, the codebook, the census map and batch maps (identifiers and screen flags), the two coders' codes and the adjudications for the pilot and the sixteen main batches, the gold key (constructed sentences), the yield pilot, the spend ledger and the recorded analysis run |
 | `p65_*.md` | registrations, the prediction file, codebooks and results notes, the frozen Indonesian registration |
 | `p65_v1_number-trace.md` | the number trace |
+| `p65_registration-commits_2026-11-18.txt` | every registration commit the paper cites: short and full hash, commit date, subject and the files it touched, from the git log of the private repository |
+| `dependence/` | logical dependence: the registered coding (coder brief, constructed plants, blind map, both coders' codes, adjudication, final table, scoring and association runs, Wolfram cross-check) and, in `adversarial/`, the direction-blind re-test the paper reports (coders saw only the thing located and the two short time and place expressions; codes, adjudication, final codes, stratified and circularity runs) |
+| `definitional-adversarial/` | definitional pairings, direction-blind: coder brief, blind map, plants, both coders' codes, final table, association and circularity runs |
+| `change-verbs/unit4/` | change verbs in corpus use: key without sentences (treebank and sentence identifiers, token), both coders' codes, adjudication, the 121 dictionary directional senses compared against, scripts |
+| `docs/` | registrations and results notes of the three tests above |
+| `checks/citers/` | the recorded output of the dated OpenAlex query (17 November 2026) behind the paper's count of works citing Navon (1978); the query script reads a local OpenAlex client and is not included |
 | `run-all.sh` | the cold run below |
 
 ## What is not here, and why
@@ -50,7 +58,9 @@ here.
   reproduced.
 - Working records of the project (the methods log, ledgers, agent reports, run logs, the wave 2 registration of
   an extension that has no result in this paper, the scripts that drive the model coders and build the PDF) and
-  the PDFs of the cited papers. They live in the working repository.
+  the PDFs of the cited papers. They live in the private working repository. The sentence sheets of the later
+tests (dependence items, the unit 4 sentence key and its analysis printout, which quotes every spatial use) and the
+unit 4b WordNet gloss lists are third-party text and are left out for the same reason.
 
 ## Cold run
 
@@ -76,6 +86,11 @@ except the verify pass, whose superseded box-optimiser detector counts depend on
 The run prints each step's exit code and whether its output equals the recorded copy, and ends with one line
 saying whether every step passed.
 
+The numbers of the three later tests (dependence, definitional pairings, change verbs in corpus use) are recomputed
+in step 1 from the deposited codes, maps and final tables; their odds-ratio intervals are read from the recorded
+runs. Their own analysis scripts are deposited with their recorded runs but are not re-run cold: they read the
+sentence files that are not redistributed, and they name the working repository's folders by absolute path.
+
 Not re-run cold, because they read the third-party sources: the sampling scripts (`p65_navon_arm_a_sample.py`,
 `p65_navon_arm_a3_sample.py`, `arm-a3b-model/p65_navon_arm_a3b_sample.py`, `p65_change_verbs_extract.py` and
 its filter and item builders, `p65_wave3_id_build.py`, `p65_wave3_yield_pilot.py`), the entity screen
@@ -93,4 +108,4 @@ coders (Claude models, named in each registration) working from the codebook and
 disagreements went to a model adjudicator (`*adjudication.tsv`). The registrations record the models, the briefs
 and the sha256 of every file frozen before coding.
 
-Last updated: 2026-11-17 (Eastern)
+Last updated: 2026-11-19 (Eastern)

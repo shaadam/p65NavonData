@@ -1,0 +1,63 @@
+== adjudicated: 243 items; code counts {'P': 134, 'NEITHER': 47, 'BOTH': 53, 'T': 9}
+  P        TP 121/134 = 0.903 [0.840, 0.947]
+      en: 96/103
+      id: 25/31
+  T        TP   5/  9 = 0.556 [0.212, 0.863]
+      en: 4/8
+      id: 1/1
+  BOTH     TP  37/ 53 = 0.698 [0.557, 0.817]
+      en: 33/42
+      id: 4/11
+  NEITHER  TP  32/ 47 = 0.681 [0.529, 0.809]
+      en: 13/20
+      id: 19/27
+  Fisher P vs T: OR 7.45 p 0.0121
+  Fisher P vs T+NEITHER: OR 4.78 p 0.000178
+  NEITHER criterion cell (NEITHER): 32/47 [0.529, 0.809]
+  VERDICT PARTLY
+  TP items whose time is local (T or BOTH): 42/195 = 0.215
+  PT items whose place needs a time (P or BOTH): 29/48 = 0.604
+  agreement with original S label on the question it asked: 217/243 = 0.893
+  shuffle control: P vs T+NEITHER p<.05 in 0.083 of 2000 shuffles (should be near .05)
+== coderA: 243 items; code counts {'P': 127, 'NEITHER': 44, 'BOTH': 61, 'T': 11}
+  P        TP 115/127 = 0.906 [0.841, 0.950]
+      en: 88/94
+      id: 27/33
+  T        TP   4/ 11 = 0.364 [0.109, 0.692]
+      en: 3/9
+      id: 1/2
+  BOTH     TP  46/ 61 = 0.754 [0.627, 0.855]
+      en: 42/51
+      id: 4/10
+  NEITHER  TP  30/ 44 = 0.682 [0.524, 0.814]
+      en: 13/19
+      id: 17/25
+  Fisher P vs T: OR 16.77 p 7.33e-05
+  Fisher P vs T+NEITHER: OR 5.92 p 1.23e-05
+  NEITHER criterion cell (NEITHER): 30/44 [0.524, 0.814]
+  VERDICT PARTLY
+  TP items whose time is local (T or BOTH): 50/195 = 0.256
+  PT items whose place needs a time (P or BOTH): 27/48 = 0.562
+  agreement with original S label on the question it asked: 216/243 = 0.889
+  shuffle control: P vs T+NEITHER p<.05 in 0.079 of 2000 shuffles (should be near .05)
+== coderB: 243 items; code counts {'P': 132, 'NEITHER': 47, 'BOTH': 55, 'T': 9}
+  P        TP 119/132 = 0.902 [0.837, 0.947]
+      en: 95/101
+      id: 24/31
+  T        TP   5/  9 = 0.556 [0.212, 0.863]
+      en: 4/8
+      id: 1/1
+  BOTH     TP  38/ 55 = 0.691 [0.552, 0.809]
+      en: 34/45
+      id: 4/10
+  NEITHER  TP  33/ 47 = 0.702 [0.551, 0.827]
+      en: 13/19
+      id: 20/28
+  Fisher P vs T: OR 7.32 p 0.0128
+  Fisher P vs T+NEITHER: OR 4.34 p 0.000402
+  NEITHER criterion cell (NEITHER): 33/47 [0.551, 0.827]
+  VERDICT PARTLY
+  TP items whose time is local (T or BOTH): 43/195 = 0.221
+  PT items whose place needs a time (P or BOTH): 30/48 = 0.625
+  agreement with original S label on the question it asked: 213/243 = 0.877
+  shuffle control: P vs T+NEITHER p<.05 in 0.078 of 2000 shuffles (should be near .05)

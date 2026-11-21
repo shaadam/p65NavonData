@@ -1,0 +1,15 @@
+English pairings: registered design (armA + A3) 155, with A3b 173
+CONTROL P (all registered-design directional English, A3 weights): s = 0.738 (must be 0.738) -> PASS
+CONTROL P2 (all English incl. A3b, A3b weights): s = 0.823 (A3b results file prints 0.823) -> PASS
+NEITHER  A3 weights, registered design  n  20 raw 13/20 = 0.650  weighted 0.658  boot95 0.419 to 0.880  cells {('C-T', 'PT'): 2, ('C-N', 'TP'): 1, ('C-T', 'TP'): 2, ('F-T', 'PT'): 4, ('F-T', 'TP'): 10, ('R-T', 'PT'): 1}
+NEITHER  A3b weights, all English       n  20 raw 13/20 = 0.650  weighted 0.658  boot95 0.419 to 0.880  cells {('C-T', 'PT'): 2, ('C-N', 'TP'): 1, ('C-T', 'TP'): 2, ('F-T', 'PT'): 4, ('F-T', 'TP'): 10, ('R-T', 'PT'): 1}
+P        A3 weights, registered design  n  88 raw 81/88 = 0.920  weighted 0.735  boot95 nan to nan  cells {('C-T', 'TP'): 22, ('C-N', 'TP'): 7, ('F-T', 'TP'): 43, ('C-T', 'PT'): 1, ('C-N', 'PT'): 1, ('F-N', 'PT'): 1, ('R-T', 'PT'): 3, ('R-T', 'TP'): 9, ('F-T', 'PT'): 1}
+P        A3b weights, all English       n 103 raw 96/103 = 0.932  weighted 0.938  boot95 nan to nan  cells {('C-T', 'TP'): 22, ('C-N', 'TP'): 7, ('F-T', 'TP'): 43, ('C-T', 'PT'): 1, ('C-N', 'PT'): 1, ('F-N', 'PT'): 1, ('R-T', 'PT'): 3, ('R-T', 'TP'): 9, ('F-T', 'PT'): 1, ('F-N', 'TP'): 12, ('R-N', 'TP'): 3}
+BOTH     A3 weights, registered design  n  40 raw 32/40 = 0.800  weighted 0.824  boot95 nan to nan  cells {('C-T', 'PT'): 3, ('C-T', 'TP'): 6, ('F-T', 'TP'): 17, ('R-T', 'TP'): 9, ('F-T', 'PT'): 5}
+BOTH     A3b weights, all English       n  42 raw 33/42 = 0.786  weighted 0.720  boot95 nan to nan  cells {('C-T', 'PT'): 3, ('C-T', 'TP'): 6, ('F-T', 'TP'): 17, ('R-T', 'TP'): 9, ('F-T', 'PT'): 5, ('R-N', 'PT'): 1, ('F-N', 'TP'): 1}
+T        A3 weights, registered design  n   7 raw 4/7 = 0.571  weighted 0.529  boot95 nan to nan  cells {('C-T', 'TP'): 1, ('F-T', 'PT'): 2, ('F-T', 'TP'): 2, ('R-T', 'PT'): 1, ('R-T', 'TP'): 1}
+T        A3b weights, all English       n   8 raw 4/8 = 0.500  weighted 0.272  boot95 nan to nan  cells {('C-T', 'TP'): 1, ('F-T', 'PT'): 2, ('F-T', 'TP'): 2, ('R-T', 'PT'): 1, ('R-T', 'TP'): 1, ('R-N', 'PT'): 1}
+CONTROL N1 (uniform weights on the registered-design neither cell): 0.650; differs from weighted: True
+CONTROL N2 (TP/PT swapped): 0.342; equals 1 - s: True
+Indonesian neither (census, equal weights): 19/27 = 0.704, exact 95% 0.498 to 0.862, two-sided p = 0.052
+English neither, raw (all samples): 13/20 = 0.650, exact 95% 0.408 to 0.846, two-sided p = 0.263

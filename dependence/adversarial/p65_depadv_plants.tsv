@@ -1,0 +1,7 @@
+pid	entity	time_expr	place_expr	expected
+PL1	the stray dog	all afternoon	under the bridge	P
+PL2	waktu setempat	pukul sembilan malam	di Jayapura	T
+PL3	the last bus	at 11:40	at this stop	BOTH
+PL4	the old fort	since the eighteenth century	on the ridge above the town	NEITHER
+PL5	danau itu	sampai sekarang	di sebelah utara kota	NEITHER
+PL6	anak-anak	selama dua minggu	di rumah nenek	P

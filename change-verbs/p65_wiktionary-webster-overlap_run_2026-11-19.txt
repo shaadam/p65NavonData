@@ -1,0 +1,8 @@
+Wiktionary verb senses: 91176; Webster 1913 headwords with a definition: 11294
+ALL senses: exact 3814 (0.0418); near (incl. exact) 4696 (0.0515)
+CONTROL (shuffled headword): exact 0 (0.0000)
+CODED Wiktionary items: 830 (sense id not found in file: 0); exact 33 (0.0398); near 37 (0.0446)
+ALL ITEMS: directional naming time 112 of 121 (0.926); unbiased C/R 23 of 27; Wiktionary directional left 82
+EXACT-MATCHED WK REMOVED: directional naming time 111 of 120 (0.925); unbiased C/R 23 of 27; Wiktionary directional left 81
+NEAR-MATCHED WK REMOVED: directional naming time 110 of 119 (0.924); unbiased C/R 23 of 27; Wiktionary directional left 80
+ALL WK REMOVED (bound): directional naming time 33 of 39 (0.846); unbiased C/R 14 of 16; Wiktionary directional left 0

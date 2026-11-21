@@ -1,0 +1,39 @@
+OMP: Warning #179: Function Can't set size of /tmp file failed:
+papers (all 64): 39 
+clmm rows: 61  papers: 38 
+
+TIME>SPACE  SYMMETRIC SPACE>TIME 
+        14         22         25 
+Cumulative Link Mixed Model fitted with the adaptive Gauss-Hermite 
+quadrature approximation with 7 quadrature points 
+
+formula: y ~ 1 + (1 | paper)
+data:    o
+
+ link  threshold nobs logLik AIC    niter   max.grad cond.H 
+ logit symmetric 61   -62.23 130.47 73(286) 2.03e-06 6.9e+00
+
+Random effects:
+ Groups Name        Variance Std.Dev.
+ paper  (Intercept) 2.63     1.622   
+Number of groups:  paper 38 
+
+No Coefficients
+
+Threshold coefficients:
+          Estimate Std. Error z value
+central.1  -1.6913     0.5508  -3.071
+central.2   0.6226     0.4378   1.422
+
+threshold midpoint: est = -0.5343, SE = 0.4051, z = -1.32, Wald p = 0.1872
+latent centre = 0.534 logits toward space-over-time (minus the midpoint); paper SD = 1.622
+convergence code (0 = ok): 0  | message: relative convergence (4) 
+LR test of centre = 0: G2 = 1.849 on 1 df, p = 0.1739 (null model converged: 0)
+implied at a typical paper: P(time over space) = 0.156, P(symmetric) = 0.495, P(space over time) = 0.349
+control (shuffled across papers): midpoint = -0.449, paper SD = 0.307 (clustering removed)
+control (mirrored codes): midpoint = 0.534 (must be minus the original -0.534)
+
+sign-flip test: 39 directional experiments in 26 papers, observed S>T minus T>S = 11
+Monte Carlo two-sided paper-clustered sign-flip p = 0.2616 (52329 of 200000 flips as extreme; MC SE 0.0010)
+unclustered reference (binomial) p = 0.1081
+controls fired as expected

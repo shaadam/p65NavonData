@@ -12,9 +12,14 @@ over space (Navon-consistent); **DISSOC** independence, against strict dependenc
 
 ## Counts (33 sources)
 
-S>T 9 (2 of them also DISSOC) · DISSOC 7 · MIXED 9 · **T>S 0** (Feagans 1980 leans that way) · NONE 8 ·
-unknown 2. Full text read for 5 (Mätzig 2009, Kranjec et al. 2012, Lam 2018, Alzamil 2025, Gijssels et al.
-2013 partly); most entries are ABS, so read each direction code as provisional.
+S>T 10 (1 of them also DISSOC) · DISSOC 6 · MIXED 7 · **T>S 0** (Feagans 1980 and Lafford & Ryan 1995 lean that way) · NONE 10 ·
+unknown 1. Full text read for 28 (the 23 recoded 2026-11-20, and Mätzig 2009, Kranjec et al. 2012, Lam 2018,
+Alzamil 2025, Feagans 1980 on 2026-11-21), Gijssels et al. 2013 partly; the other 4 codes (Morton & Patterson 1980,
+Kotten 1977, Coker 1978, Onnis et al. 2010) rest on abstracts, secondary sources or a title, and only those are provisional.
+
+Full-text recode 2026-11-20 (`error-evidence/p65_armD_fulltext-recode_2026-11-20.md`, one row per source with page
+and quote in `error-evidence/p65_armD_fulltext-recode_2026-11-20.tsv`): the line above replaces "S>T 9 (2 of them
+also DISSOC) · DISSOC 7 · MIXED 9 · T>S 0 · NONE 8 · unknown 2". The statuses in the table below predate the recode.
 
 Recount 2026-11-17 (`p65_armD_recount_2026-11-17.md`): the line above replaces the 2026-11-13 line "Counts (42
 sources): S>T 12 (2 of them also DISSOC) · DISSOC 7 · MIXED 9 · T>S 0 · NONE 15 · unknown 2", whose entries sum
@@ -45,7 +50,7 @@ source with its code and basis: `error-evidence/p65_armD_per-source_2026-11-17.t
 | Neuroimaging, not errors | Kranjec et al. 2012, *J Cogn Neurosci 24*, 1-16 (FULL: time voxels overlap causality 65%, space 15%); Gijssels et al. 2013 (partial: shared parietal cluster, space interferes with time more) | split | DISSOC vs S>T |
 | Developmental disorders | Rousselle et al. 2013; Landau & Hoffman 2005 (SEC); Landau & Ferrara 2013 (SEC); Lukács et al. 2007 | time spared in Williams syndrome; no temporal-language data | DISSOC |
 | Slips of the tongue/pen | Alderete et al. 2022, *J Cognition 6*, 26 (SEC; closed-class excluded); Harley & MacAndrew 2001 (SEC; more imageable words win); Garrett 1975 (PDF grepped, no time/space preposition slips) | **no published count of time vs space slips** | gap |
-| Child L1 | H. Clark 1973 (SEC, theory S>T); E. Clark 1971 (SEC); Feagans 1980, *J Child Lang 7*, 529-537 (ABS: spatial before/after learned in the temporal order); Coker 1978; Weist et al. 1997 (Polish better at time, Finnish at space); Tillman et al. 2017; Bowerman 1978 ("behind" for "after"-type substitutions: NOT verified) | no universal space-first order | MIXED, one lean T>S |
+| Child L1 | H. Clark 1973 (SEC, theory S>T); E. Clark 1971 (SEC); Feagans 1980, *J Child Lang 7*, 529-537 (FULL, read 2026-11-21: spatial before/after learned in the temporal order); Coker 1978; Weist et al. 1997 (Polish better at time, Finnish at space); Tillman et al. 2017; Bowerman 1978 ("behind" for "after"-type substitutions: NOT verified) | no universal space-first order | MIXED, one lean T>S |
 | L2 learners | Lam 2018 (FULL: L2 Spanish, spatial = temporal accuracy, temporal as chunks); Lafford & Ryan 1995 (SEC); Zhang & Murao 2024 (ABS); Alzamil 2025 (FULL: time preps more accurate, confounded word sets); Onnis, Jackson & Spivey 2010 (ABS: temporal in/on prime spatial shapes) | time uses not harder | MIXED / DISSOC |
 | L2, our count | p65 E1 (FCE + W&I, 1.22 M tokens) | 10 cross-domain errors; time->space 8, space->time 2; p = 0.20 (0.03-0.56), INCONCLUSIVE; 4 of the 8 are text deixis ("mentioned before" -> "above") | none established |
 | Gesture / sign | Casasanto & Jasmin 2012 (ABS: lateral time gestures while speech says front/back); Núñez & Sweetser 2006 (ABS: Aymara future behind); Sinha et al. 2011 (ABS: Amondawa time not spatial). No sign-language slip study found | spatial time beyond words, culturally variable | S>T + DISSOC |

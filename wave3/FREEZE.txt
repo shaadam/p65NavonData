@@ -30,3 +30,7 @@ de9b2a6892d392eb30897b7f804816b6f4a3a625959d8d30c3891dea578edeac  scripts/p65_wa
 e38feae47ccb55d57299fc03fc5fa1bf25ffe87f919b5898b3b5613e44a1fec6  wave3/main/batches/gold_key.tsv
 ba477ee571698a78810e1678266030e9bc502493d51fd0d05ff51684d2e5563b  wave3/main/batches/batches_sha256.tsv
 78c680efde662771f7bb5e715e40d13ae7e59f96be60ba39f5772514b881f476  wave3/p65_wave3_amendment-3_2026-11-17.md
+--- amendment 4, Thu Nov 19 2026 (wave3/p65_wave3_amendment-4_2026-11-19.md), DEVIATION, pre-data for every extension language: ChatGPT coder 1, Claude Opus coder 2, Opus adjudicator unchanged; no direction seen. ---
+986c246bbd6a3c2da1da9fe0496edb9160da307dfc53de344e82cbfbe1628e9f  wave3/p65_wave3_amendment-4_2026-11-19.md
+--- amendment 5, Thu Nov 19 2026 14:34 EST (wave3/p65_wave3_amendment-5_2026-11-19.md), DEVIATION from amendment 4, pre-scoring: the four pilots ran through the headless Codex runner (gpt-6.1-sol, high), not a hand chat; returns fixed by sha256, unopened; no direction seen. ---
+48bff005549dfd406184d22314cffb704a542757551f6b075e34b4102b8266a7  wave3/p65_wave3_amendment-5_2026-11-19.md
